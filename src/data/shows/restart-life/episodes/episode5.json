@@ -1,5 +1,96 @@
 {
   "number": 5,
   "title": "第五集：挑战与成长",
-  "lines": []
+  "lines": [
+    {
+      "id": 1,
+      "episode": 5,
+      "japanese": "飲むのやめてくれる？",
+      "romaji": "Nomunoyametekureru?",
+      "chinese": "你可以先不要吃这些药吗",
+      "context": "麻美请求祖父停药",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 2,
+      "episode": 5,
+      "japanese": "既婚者なのね｡",
+      "romaji": "Kikon'sha nanone.",
+      "chinese": "其实他已婚了",
+      "context": "麻美发现玲奈与有妇之夫交往",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 3,
+      "episode": 5,
+      "japanese": "てめぇ 結婚してんじゃねえかよ｡",
+      "romaji": "Temee kekkon shiten janeeka yo.",
+      "chinese": "你这混蛋早就结婚了嘛",
+      "context": "玲奈对宫冈的质问",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 4,
+      "episode": 5,
+      "japanese": "油断した～！",
+      "romaji": "Yudanshita~!",
+      "chinese": "我太大意了",
+      "context": "麻美意识到自己失误",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 5,
+      "episode": 5,
+      "japanese": "ニジョウサバですね｡",
+      "romaji": "Nijōsaba desu ne.",
+      "chinese": "印度太平洋的大眼双线鲭",
+      "context": "受付係告知麻美来世身份",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 6,
+      "episode": 5,
+      "japanese": "もう１回やり直しっていうのは できない…？",
+      "romaji": "Mō ikkai yarinaoshitte iu no wa dekinai...?",
+      "chinese": "我应该不能再重来一次了吧？",
+      "context": "麻美询问是否可以再次重启人生",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 7,
+      "episode": 5,
+      "japanese": "最高｡",
+      "romaji": "Saikō.",
+      "chinese": "赞爆",
+      "context": "麻美对新工作的感叹",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 8,
+      "episode": 5,
+      "japanese": "おはようございます｡",
+      "romaji": "Ohayō gozaimasu.",
+      "chinese": "早安",
+      "context": "麻美与同事的问候",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 9,
+      "episode": 5,
+      "japanese": "最高｡",
+      "romaji": "Saikō.",
+      "chinese": "赞爆",
+      "context": "麻美对新工作的感叹",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 10,
+      "episode": 5,
+      "japanese": "おはようございます｡",
+      "romaji": "Ohayō gozaimasu.",
+      "chinese": "早安",
+      "context": "麻美与同事的问候",
+      "difficulty": "beginner"
+    }
+  ]
 }

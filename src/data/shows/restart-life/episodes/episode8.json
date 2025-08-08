@@ -1,5 +1,186 @@
 {
   "number": 8,
   "title": "第八集：关键抉择",
-  "lines": []
+  "lines": [
+    {
+      "id": 1,
+      "episode": 8,
+      "japanese": "あーちん 何周目？",
+      "romaji": "Āchin nanshūme?",
+      "chinese": "这是你的第几轮？",
+      "context": "真里铃询问麻美人生轮回次数",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 2,
+      "episode": 8,
+      "japanese": "人生…？ １周目じゃないよね？",
+      "romaji": "Jinsei…? Ichishūme janai yo ne?",
+      "chinese": "人生？这不是你的第一轮吧？",
+      "context": "麻美确认真里铃也是重启者",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 3,
+      "episode": 8,
+      "japanese": "私 ５周目",
+      "romaji": "Watashi go-shūme",
+      "chinese": "我是第五轮",
+      "context": "真里铃透露自己已轮回五次",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 4,
+      "episode": 8,
+      "japanese": "あの時ってまだ｢盛れてる｣って言葉ないんだよね",
+      "romaji": "Ano toki tte mada \"mori teru\" tte kotoba nain da yo ne",
+      "chinese": "那时候还没有\"很正\"这个说法",
+      "context": "真里铃提及过去套话麻美的经历",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 5,
+      "episode": 8,
+      "japanese": "グアテマラ南東部のシロアリですね",
+      "romaji": "Guatemara nantōbu no shiroari desu ne",
+      "chinese": "瓜地马拉东南的白蚁",
+      "context": "真里铃描述第一次轮回的来世",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 6,
+      "episode": 8,
+      "japanese": "元々は私と あーちんと なっちと みーぽんの４人グループだったからね",
+      "romaji": "Motomoto wa watashi to āchin to Nacchi to Mīpon no yonin gurūpu datta kara ne",
+      "chinese": "原本是我和你、夏唧和美宝四个人是死党",
+      "context": "真里铃回忆第一轮四人友谊",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 7,
+      "episode": 8,
+      "japanese": "死んじゃったのね 飛行機事故",
+      "romaji": "Shinjatta no ne hikōki jiko",
+      "chinese": "夏唧和美宝后来过世了，是空难",
+      "context": "真里铃告知夏希和美穂的悲剧",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 8,
+      "episode": 8,
+      "japanese": "スペースデブリが激突しちゃってさ",
+      "romaji": "Supēsu deburi ga gekitotsu shichatte sa",
+      "chinese": "在高空撞到了太空垃圾",
+      "context": "解释空难原因",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 9,
+      "episode": 8,
+      "japanese": "パイロットになるため小学校から毎日必死に勉強して体も鍛えてさ",
+      "romaji": "Pairotto ni naru tame shōgakkō kara mainichi hisshi ni benkyō shite karada mo kitaete sa",
+      "chinese": "为了当飞行员从小学开始每天死命念书还锻炼身体",
+      "context": "真里铃描述为拯救朋友所做的努力",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 10,
+      "episode": 8,
+      "japanese": "33歳の時にあーちんが死んじゃったんだよね",
+      "romaji": "Sanjuusansai no toki ni āchin ga shinjattan da yo ne",
+      "chinese": "结果这次换你在三十三岁时过世了",
+      "context": "真里铃提及麻美在第三轮的死亡",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 11,
+      "episode": 8,
+      "japanese": "あーちんが亡くなったって聞いて私絶対自分のせいだって落ち込んでさ",
+      "romaji": "Āchin ga nakunatta tte kiite watashi zettai jibun no sei datte ochikonde sa",
+      "chinese": "当我得知你过世时，就心想那一定是我的错而感到很沮丧",
+      "context": "真里铃自责导致麻美死亡",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 12,
+      "episode": 8,
+      "japanese": "パイロットって乗りたい便選べるわけじゃないからさ",
+      "romaji": "Pairotto tte noritai bin erabe ru wake janai kara sa",
+      "chinese": "飞行员不能自己选班机",
+      "context": "解释未能拯救夏希美穂的原因",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 13,
+      "episode": 8,
+      "japanese": "30代が死にやすい時期らしくて",
+      "romaji": "Santai ga shinijiyasu toki ki rashikute",
+      "chinese": "我好像比较容易在三十多岁时过世",
+      "context": "真里铃提及自己的死亡高发期",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 14,
+      "episode": 8,
+      "japanese": "来世ではなく 今世をより良いものにするため",
+      "romaji": "Raisei de wa naku konse yo o yori yoi mono ni suru tame",
+      "chinese": "不是为了下辈子，而是要让这辈子过得更好",
+      "context": "麻美决定第五轮人生的目标转变",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 15,
+      "episode": 8,
+      "japanese": "ツツジの蜜って毒性があって中毒を起こす危険性があるから吸わないほうがいいよ",
+      "romaji": "Tsutsuji no mitsu tte dokusei ga atte chūdoku o okosu kiken-sei ga aru kara suwanai hō ga ii yo",
+      "chinese": "杜鹃花蜜有毒性，吸了可能会引起中毒，你们最好别再吸了",
+      "context": "麻美以纯粹善心提醒小朋友",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 16,
+      "episode": 8,
+      "japanese": "次は人間ですね",
+      "romaji": "Tsugi wa ningen desu ne",
+      "chinese": "您这次会投胎为人类",
+      "context": "接待员告知麻美可投胎人类",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 17,
+      "episode": 8,
+      "japanese": "やり直せますかね",
+      "romaji": "Yarinaose masu ka ne",
+      "chinese": "我还可以再重来吗",
+      "context": "麻美决定放弃投胎，选择重启",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 18,
+      "episode": 8,
+      "japanese": "最後の回だけはお伝えすることになってまして",
+      "romaji": "Saigo no kai dake wa o tsutae suru koto ni natte masite",
+      "chinese": "我们只有在最后一次会主动告知",
+      "context": "接待员说明这是最后一次重启机会",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 19,
+      "episode": 8,
+      "japanese": "宮岡さんは既婚者",
+      "romaji": "Miyaoka-san wa kikon'sha",
+      "chinese": "宫冈先生已婚了",
+      "context": "麻美教玲奈幸福咒语",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 20,
+      "episode": 8,
+      "japanese": "８周目です",
+      "romaji": "Hasshūme desu",
+      "chinese": "我是第八轮",
+      "context": "河口小姐透露自己的轮回次数",
+      "difficulty": "beginner"
+    }
+  ]
 }

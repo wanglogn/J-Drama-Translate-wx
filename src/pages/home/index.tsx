@@ -15,15 +15,18 @@ export default function Home() {
           <View className="grid md:grid-cols-2 gap-6 mb-12">
             <Navigator url="/pages/index/index">
               <View className="bg-white rounded-xl shadow-md p-6 transform transition-all hover:-translate-y-1 hover:shadow-lg">
-                <View className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mb-4">
-                  <Image
-                    src={bookIcon}
-                    className="fa-solid fa-book text-blue-500 text-xl h-[1.45rem] w-[1.45rem]"
-                  ></Image>
+                <View className="flex flex-row items-center">
+                  <View className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mb-4">
+                    <Image
+                      src={bookIcon}
+                      className="fa-solid fa-book text-blue-500 text-xl h-[1.45rem] w-[1.45rem]"
+                    ></Image>
+                  </View>
+                  <View className="text-xl md:text-sm font-semibold text-gray-900 mb-2 ml-4">
+                    台词翻译
+                  </View>
                 </View>
-                <View className="text-xl md:text-sm font-semibold text-gray-900 mb-2">
-                  台词翻译
-                </View>
+
                 <Text className="text-gray-600">
                   精选多部热门日剧台词，覆盖不同难度级别，贴近实际口语使用
                 </Text>
@@ -31,14 +34,16 @@ export default function Home() {
             </Navigator>
             <Navigator url="/pages/jpVerb/index">
               <View className="bg-white rounded-xl shadow-md p-6 transform transition-all hover:-translate-y-1 hover:shadow-lg">
-                <View className="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center mb-4">
-                  <Image
-                    src={commentsIcon}
-                    className="fa-solid fa-comments text-green-500 text-xl h-[1.6rem] w-[1.6rem]"
-                  ></Image>
-                </View>
-                <View className="text-xl md:text-sm font-semibold text-gray-900 mb-2">
-                  动词变身魔法机
+                <View className="flex flex-row items-center">
+                  <View className="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center mb-4">
+                    <Image
+                      src={commentsIcon}
+                      className="fa-solid fa-comments text-green-500 text-xl h-[1.6rem] w-[1.6rem]"
+                    ></Image>
+                  </View>
+                  <View className="text-xl md:text-sm font-semibold text-gray-900 mb-2 ml-4">
+                    动词变身魔法机
+                  </View>
                 </View>
                 <Text className="text-gray-600">
                   不会变形？输入动词，秒出所有活用形，学习复习更轻松。

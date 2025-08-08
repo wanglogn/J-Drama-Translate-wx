@@ -1,5 +1,411 @@
 {
   "number": 6,
   "title": "第六集：意外发现",
-  "lines": []
+  "lines": [
+    {
+      "id": 1,
+      "episode": 6,
+      "japanese": "サバ？ やり直します｡",
+      "romaji": "Saba? Yarimashimasu.",
+      "chinese": "结果是鲭鱼吗 我要再重来一次",
+      "context": "麻美决定重新开始第三轮人生",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 2,
+      "episode": 6,
+      "japanese": "彼女に手 出さないでもらえます？",
+      "romaji": "Kanojo ni te dasanaide moraemasu?",
+      "chinese": "能麻烦你别对她出手吗",
+      "context": "麻美请求宫冈不要接近玲奈",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 3,
+      "episode": 6,
+      "japanese": "プロデューサーデビューの チャンスが！",
+      "romaji": "Purodyūsaādebyū no chansu ga!",
+      "chinese": "迎来了当上制作人的机会",
+      "context": "麻美获得制作人出道机会",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 4,
+      "episode": 6,
+      "japanese": "番手 決まりました？",
+      "romaji": "Banshu kimarimashita?",
+      "chinese": "你排好顺序了吗",
+      "context": "AP询问演员顺序是否确定",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 5,
+      "episode": 6,
+      "japanese": "難航してますね｡",
+      "romaji": "Nankō shitemasu ne.",
+      "chinese": "看来是碰到瓶颈了",
+      "context": "麻美表示排序遇到困难",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 6,
+      "japanese": "芸歴順じゃダメなんだ？",
+      "romaji": "Geireki jun ja dame nan da?",
+      "chinese": "这不能照资历去排啊？",
+      "context": "美佐询问是否按资历排序",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 7,
+      "japanese": "特別出演って付けて特別感を出す｡",
+      "romaji": "Tokubetsu shutsuen tte tsukete tokubetsu kan o dasu.",
+      "chinese": "加上特别演出字样来营造特别感",
+      "context": "麻美说明解决排序问题的方法",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 8,
+      "japanese": "結婚してんの？",
+      "romaji": "Kekkon shiten no?",
+      "chinese": "你结婚了吗",
+      "context": "麻美得知美佐已婚",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 9,
+      "japanese": "６年前ってあれだ じゃあ…ちょうど こっちで ごんちゃんと会った時？",
+      "romaji": "Roku nen mae tte are da, jaa... chōdo kocchi de gonchan to atta toki?",
+      "chinese": "六年前不就是我在这里遇到你的时候吗",
+      "context": "麻美意识到相遇时美佐刚结婚",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 10,
+      "japanese": "これ 新曲｡ よかったら聴いて｡",
+      "romaji": "Kore shinkyoku. Yokattara kiite.",
+      "chinese": "这是我的新歌，不嫌弃就听一下吧",
+      "context": "小福向麻美推荐新曲",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 11,
+      "japanese": "俳優業も始めたんだって｡",
+      "romaji": "Haigyōgyō mo hajimetan datte.",
+      "chinese": "他最近还开始往演戏发展",
+      "context": "麻美提到小福开始演戏",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 12,
+      "japanese": "ちょい役でもいいから何かあったら連絡してって｡",
+      "romaji": "Choiyaku demo ii kara nanika attara renraku shite tte.",
+      "chinese": "就算只是小角色也可以 要是有需要就跟他联络",
+      "context": "小福请求麻美提供演出机会",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 13,
+      "japanese": "ダサくね？",
+      "romaji": "Dasaku ne?",
+      "chinese": "不觉得很俗吗",
+      "context": "美穂评价小福的新歌",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 14,
+      "japanese": "私が企画した私の人生を モチーフにしたドラマ｡",
+      "romaji": "Watashi ga kikaku shita watashi no jinsei o mochiifū ni shita dorama.",
+      "chinese": "这是以我的人生为题材的电视剧",
+      "context": "麻美介绍自己企划的电视剧",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 15,
+      "japanese": "この人生 ２周目なんです｡",
+      "romaji": "Kono jinsei ni-shūme nan desu.",
+      "chinese": "这个人生 我已经活两轮了",
+      "context": "剧中臼田饰演的角色提到重启人生",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 16,
+      "japanese": "前野さんの飛行機が欠航になっちゃったらしい｡",
+      "romaji": "Maeno-san no hikōki ga kessen ni natchattara shii.",
+      "chinese": "前野先生的航班好像取消了",
+      "context": "麻美处理演员航班取消问题",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 17,
+      "japanese": "救世主となって現れた｡",
+      "romaji": "Kyūseishu to natte arawareta.",
+      "chinese": "化身为救世主现身了",
+      "context": "麻美请小福作为替身演员",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 18,
+      "japanese": "ムラサキウニですね｡",
+      "romaji": "Murasakiuni desu ne.",
+      "chinese": "北海道的紫海胆",
+      "context": "麻美得知下一世身份",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 19,
+      "japanese": "もう１回 やり直せますか？",
+      "romaji": "Mō ikkai yarinaosemasu ka?",
+      "chinese": "我还可以再重来一次吗",
+      "context": "麻美请求再次重启人生",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 20,
+      "japanese": "不倫しないって｡",
+      "romaji": "Furin shinai tte.",
+      "chinese": "不要搞外遇",
+      "context": "麻美劝说洋子老师不要不伦",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 21,
+      "japanese": "早苗ちゃんって もう４歳だよね？",
+      "romaji": "Sanae-chan tte mō yonsai da yo ne?",
+      "chinese": "早苗已经四岁了吧？",
+      "context": "麻美教导早苗学会分享",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 22,
+      "japanese": "このおもちゃを他の子に貸してあげることが成長の第一歩だと思ってさ｡",
+      "romaji": "Kono omocha o hoka no ko ni kashite ageru koto ga seichō no daiippo da to omotte sa.",
+      "chinese": "把玩具借给其他小朋友是成长的第一步",
+      "context": "麻美教导早苗学会分享",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 23,
+      "japanese": "私はね 先生のこと大好きだから 幸せになってほしいんだよね｡",
+      "romaji": "Watashi wa ne sensei no koto daisuki dakara shiawase ni natte hoshii nda yo ne.",
+      "chinese": "我最喜欢老师了 所以希望老师能过得幸福",
+      "context": "麻美劝说洋子老师不要不伦",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 24,
+      "japanese": "不倫ってさ 結婚と違って ずっと続けるわけじゃないし最後は絶対に誰かが不幸になって終わるでしょ？",
+      "romaji": "Furin tte sa kekkon to chigatte zutto tsuzukeru wake ja nai shi saigo wa zettai ni dareka ga fukō ni natte owaru desho?",
+      "chinese": "外遇不像结婚 无法永远持续 最后一定会有人不幸",
+      "context": "麻美解释不伦的后果",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 25,
+      "japanese": "今持ってる紙って玲奈ちゃんのパパのベル番だよね？",
+      "romaji": "Ima motteru kami tte Rena-chan no papa no beruban da yo ne?",
+      "chinese": "你手上那张纸条是玲奈爸爸的BB机号码吧？",
+      "context": "麻美发现洋子老师与玲奈爸爸的联系",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 26,
+      "japanese": "約束してくれる？",
+      "romaji": "Yakusoku shite kureru?",
+      "chinese": "你能答应我吗",
+      "context": "麻美请求洋子老师不要联系玲奈爸爸",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 27,
+      "japanese": "破って捨てちゃおっか｡",
+      "romaji": "Yabutte sutechaokka.",
+      "chinese": "把它撕碎丢掉吧",
+      "context": "洋子老师撕碎玲奈爸爸的联系方式",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 28,
+      "japanese": "私 誰にも不幸になってほしくないから先生 連絡しないでね｡",
+      "romaji": "Watashi dare ni mo fukō ni natte hoshikunai kara sensei renraku shinaide ne.",
+      "chinese": "我不希望任何人不幸 所以老师不要联系他",
+      "context": "麻美劝说洋子老师不要联系玲奈爸爸",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 29,
+      "japanese": "麻美ちゃん バイバイ｡",
+      "romaji": "Asami-chan baibai.",
+      "chinese": "麻美 拜拜",
+      "context": "夏希与麻美告别",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 30,
+      "japanese": "図書館行ってくる｡",
+      "romaji": "Toshokan itte kuru.",
+      "chinese": "我去一下图书馆",
+      "context": "麻美与夏希、美穂渐行渐远",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 31,
+      "japanese": "シール交換？",
+      "romaji": "Shīru kōkan?",
+      "chinese": "交换贴纸吗",
+      "context": "麻美加入夏希和美穂的贴纸交换",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 32,
+      "japanese": "私も混ぜて｡",
+      "romaji": "Watashi mo mazete.",
+      "chinese": "让我也加入吧",
+      "context": "麻美请求加入贴纸交换",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 33,
+      "japanese": "たくさんあるから１枚あげるよ｡",
+      "romaji": "Takusan aru kara ichimai ageru yo.",
+      "chinese": "我有很多 送你一张吧",
+      "context": "美穂送给麻美稀有贴纸",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 34,
+      "japanese": "私はこれがいい｡",
+      "romaji": "Watashi wa kore ga ii.",
+      "chinese": "我想要这个",
+      "context": "夏希选择麻美的普通贴纸",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 35,
+      "japanese": "算数のテストどうだった？",
+      "romaji": "Sansū no tesuto dō datta?",
+      "chinese": "数学小考考得怎么样",
+      "context": "夏希询问麻美的考试情况",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 36,
+      "japanese": "何でそんなに頭いいの？",
+      "romaji": "Nande sonna ni atama ii no?",
+      "chinese": "为什么你这么聪明",
+      "context": "夏希惊讶于麻美的成绩",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 37,
+      "japanese": "元々の頭がいいんだろうね｡",
+      "romaji": "Motomoto no atama ga ii ndarou ne.",
+      "chinese": "应该是天生聪明吧",
+      "context": "美穂猜测麻美聪明的原因",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 38,
+      "japanese": "またあしたね｡",
+      "romaji": "Mata ashita ne.",
+      "chinese": "明天见",
+      "context": "夏希与麻美告别",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 39,
+      "japanese": "私 麺系食べたい｡",
+      "romaji": "Watashi menkei tabetai.",
+      "chinese": "我想吃面食类",
+      "context": "夏希讨论晚餐想吃什么",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 40,
+      "japanese": "５時のチャイムが何だかいつもより染みた｡",
+      "romaji": "Goji no chaimu ga nandaka itsumo yori shimita.",
+      "chinese": "五点的钟声比平时更令人伤感",
+      "context": "麻美感受与朋友的疏远",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 41,
+      "japanese": "私はね この世をブラッシュアップする２周目の女｡",
+      "romaji": "Watashi wa ne kono yo o burasshu appu suru ni-shūme no onna.",
+      "chinese": "我是重启这个世界的第二轮女人",
+      "context": "剧中臼田饰演的角色台词",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 42,
+      "japanese": "この人生 ４周目がスタートした｡",
+      "romaji": "Kono jinsei yon-shūme ga sutāto shita.",
+      "chinese": "我的第四轮人生开始了",
+      "context": "麻美开始第四轮人生",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 43,
+      "japanese": "もっと莫大な徳を積む必要がある｡",
+      "romaji": "Motto bakudaina toku o tsumu hitsuyō ga aru.",
+      "chinese": "我需要积更庞大的阴德",
+      "context": "麻美反思如何投胎为人",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 44,
+      "japanese": "公園のツツジは公共のものだから勝手に蜜を吸ったりすると窃盗もしくは器物損壊罪になっちゃうんだよ｡",
+      "romaji": "Kōen no tsutsuji wa kōkyō no mono dakara katte ni mitsu o suttari suru to settō moshikuwa kibutsu sonkai zai ni natchaunda yo.",
+      "chinese": "公园的杜鹃花是公共财产 擅自吸花蜜可能构成盗窃或毁损罪",
+      "context": "麻美教导小朋友法律知识",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 45,
+      "japanese": "これはさ もう敷布団２つ買ったほうがいいよね｡",
+      "romaji": "Kore wa sa mō shikibuton futatsu katta hō ga ii yo ne.",
+      "chinese": "我应该买两组床垫了",
+      "context": "麻美调侃夏希和美穂太常来访",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 46,
+      "japanese": "来過ぎじゃね？",
+      "romaji": "Kiko sugi ja ne?",
+      "chinese": "你们来得太频繁了吧",
+      "context": "麻美调侃夏希和美穂太常来访",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 47,
+      "japanese": "２週間しか空いてないよ｡",
+      "romaji": "Nishūkan shika aite nai yo.",
+      "chinese": "才隔了两周而已",
+      "context": "麻美纠正夏希对时间的认知",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 48,
+      "japanese": "福ちゃんとしーちゃん離婚しちゃったんだよ｡",
+      "romaji": "Fuku-chan to Shi-chan rikon shichattan da yo.",
+      "chinese": "小福和小静离婚了",
+      "context": "麻美告诉夏希和美穂小福离婚消息",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 49,
+      "japanese": "音楽だけだと食べてくのってなかなか厳しいみたいでさ｡",
+      "romaji": "Ongaku dake da to tabete ku no tte nakanaka kibishii mitai de sa.",
+      "chinese": "只靠音乐糊口似乎很困难",
+      "context": "麻美解释小福离婚的原因",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 50,
+      "japanese": "福山雅治とか星野源パターン狙ってんのかな？",
+      "romaji": "Fukuyama Masaharu toka Hoshino Gen patān neratten no ka na?",
+      "chinese": "他想走福山雅治或星野源的路线吗",
+      "context": "夏希猜测小福转型演戏的原因",
+      "difficulty": "advanced"
+    }
+  ]
 }

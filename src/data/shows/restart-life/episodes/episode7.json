@@ -1,5 +1,321 @@
 {
   "number": 7,
   "title": "第七集：真相浮现",
-  "lines": []
+  "lines": [
+    {
+      "id": 1,
+      "episode": 7,
+      "japanese": "ムラサキウニですね｡",
+      "romaji": "Murasakiuni desu ne.",
+      "chinese": "北海道的紫海胆",
+      "context": "麻美得知下一世身份",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 2,
+      "episode": 7,
+      "japanese": "もう１回やり直せますか？",
+      "romaji": "Mō ikkai yarinaosemasu ka?",
+      "chinese": "我还可以再重来一次吗",
+      "context": "麻美请求再次重启人生",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 3,
+      "episode": 7,
+      "japanese": "こうして 人生４周目がスタート",
+      "romaji": "Kōshite jinsei yon-shūme ga sutāto",
+      "chinese": "于是她展开了第四轮的人生",
+      "context": "麻美开始第四轮人生",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 4,
+      "episode": 7,
+      "japanese": "気を使われている",
+      "romaji": "Ki o tsukawarete iru",
+      "chinese": "她们在跟我客气",
+      "context": "麻美感觉夏希和美穂与自己疏远",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 5,
+      "episode": 7,
+      "japanese": "彼女は個人事業主",
+      "romaji": "Kanojo wa kojin jigyōnushi",
+      "chinese": "她是自雇者",
+      "context": "夏希和美穂讨论电视剧《她自雇》",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 6,
+      "episode": 7,
+      "japanese": "私が プロデューサーやってるドラマ",
+      "romaji": "Watashi ga purodyūsaā yatteru dorama",
+      "chinese": "就是我担任制作人的那一出",
+      "context": "麻美提到自己制作的电视剧",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 7,
+      "episode": 7,
+      "japanese": "臼田あさ美ちゃん キレイだったよね",
+      "romaji": "Usuda Asami-chan kirei datta yo ne",
+      "chinese": "臼田麻美真的很美耶",
+      "context": "夏希和美穂评价剧中女演员",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 8,
+      "episode": 7,
+      "japanese": "負けないで もう少し",
+      "romaji": "Makenai de mō sukoshi",
+      "chinese": "别认输 再坚持一下",
+      "context": "剧中歌曲《负けないで》歌词",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 9,
+      "episode": 7,
+      "japanese": "合計すると110歳くらい",
+      "romaji": "Gōkei suru to hyakujū-sai kurai",
+      "chinese": "加起来大概是110岁",
+      "context": "麻美计算自己累计活过的岁数",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 10,
+      "episode": 7,
+      "japanese": "私立の中学を勧められたけど両親に 負担をかけたくなかった",
+      "romaji": "Shiritsu no chūgaku o susumerareta kedo ryōshin ni futan o kaketakunakatta",
+      "chinese": "老师建议我念私立国中 但我不想给爸妈增加负担",
+      "context": "麻美选择公立中学的原因",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 11,
+      "episode": 7,
+      "japanese": "霞通りにある うどん屋さん つぶれたんだって",
+      "romaji": "Kasumidōri ni aru udon'ya-san tsuburetan datte",
+      "chinese": "听说霞通那家乌龙面店倒了耶",
+      "context": "美穂告知麻美乌龙面店倒闭",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 12,
+      "episode": 7,
+      "japanese": "学園トップの成績になり ついに宇野真里超えを果たした",
+      "romaji": "Gakuen toppu no seiseki ni nari tsui ni Uno Mari koe o hatashita",
+      "chinese": "我成为全年级的第一名 终于超越了宇野真里",
+      "context": "麻美在学业上的成就",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 13,
+      "episode": 7,
+      "japanese": "ラウンドワンが出来た",
+      "romaji": "Raundo Wan ga dekita",
+      "chinese": "ROUND 1 如期落成了",
+      "context": "麻美与真里铃在游乐场相遇",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 14,
+      "episode": 7,
+      "japanese": "１人で たたずんでたんだよ",
+      "romaji": "Hitori de tatazundetanda yo",
+      "chinese": "你一个人伫立在拍贴机前面",
+      "context": "真里铃回忆与麻美相识的契机",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 15,
+      "episode": 7,
+      "japanese": "生徒会長にも就任",
+      "romaji": "Seitokaichō ni mo shūnin",
+      "chinese": "我还当上了学生会长",
+      "context": "麻美在中学的成就",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 16,
+      "episode": 7,
+      "japanese": "県内トップの偏差値を誇る進学校に入学",
+      "romaji": "Ken'nai toppu no hensachi o hokoru shingakkō ni nyūgaku",
+      "chinese": "考上了县内成绩最好的明星学校",
+      "context": "麻美进入高中",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 17,
+      "episode": 7,
+      "japanese": "国立大学の医学部に入学",
+      "romaji": "Kokuritsu daigaku no igakubu ni nyūgaku",
+      "chinese": "进入国立大学的医学院就读",
+      "context": "麻美进入大学",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 18,
+      "episode": 7,
+      "japanese": "威力業務妨害罪かな？",
+      "romaji": "Iryoku gyōmu bōgai zai ka na?",
+      "chinese": "这会构成强行妨碍业务罪吧？",
+      "context": "麻美分析成人式上闹事者的行为",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 19,
+      "episode": 7,
+      "japanese": "微生物の覚悟はないだろうけど",
+      "romaji": "Biseibutsu no kakugo wa nai darō kedo",
+      "chinese": "他应该没做好下辈子要当微生物的心理准备",
+      "context": "麻美调侃闹事者",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 20,
+      "episode": 7,
+      "japanese": "イケナイ太陽",
+      "romaji": "Ikenai Taiyō",
+      "chinese": "无用的太阳",
+      "context": "小福演唱自己的歌曲",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 21,
+      "episode": 7,
+      "japanese": "音楽業界 変えてやろうと思っててさ",
+      "romaji": "Ongaku gyōkai kaete yarou to omottete sa",
+      "chinese": "我是真的有在想说要改变音乐界",
+      "context": "小福谈论自己的音乐梦想",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 22,
+      "episode": 7,
+      "japanese": "彼女が 本当に つらいんだったら別れることを視野に入れても いいんじゃないかな",
+      "romaji": "Kanojo ga hontōni tsurai ndattara wakareru koto o shiya ni irete mo īn janai ka na",
+      "chinese": "但你要是真的很痛苦 或许可以考虑离婚",
+      "context": "麻美建议小静考虑离婚",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 23,
+      "episode": 7,
+      "japanese": "離婚を選択するっていうのは 決して悪いことではない",
+      "romaji": "Rikon o sentaku suru tte iu no wa kesshite warui koto de wa nai",
+      "chinese": "我是觉得选择离婚 也绝对不是一件坏事",
+      "context": "麻美对离婚的看法",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 24,
+      "episode": 7,
+      "japanese": "ミッションクリア",
+      "romaji": "Misshon Kuria",
+      "chinese": "任务完成",
+      "context": "麻美成功拯救三田大金刚",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 25,
+      "episode": 7,
+      "japanese": "がんゲノムとかエピゲノムの 分野かな",
+      "romaji": "Gan genomu toka epigenomu no bun'ya ka na",
+      "chinese": "我正在研究癌症基因组和表观基因组的相关领域",
+      "context": "麻美介绍自己的研究领域",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 26,
+      "episode": 7,
+      "japanese": "96ウェルプレートっていう小さい穴が96個空いてる容器",
+      "romaji": "Kyūjūroku ueru purēto tte iu chiisai ana ga kyūjūroku ko aite iru yōki",
+      "chinese": "有一种叫做96孔盘 上面有96个小洞的容器",
+      "context": "麻美描述实验室工作",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 27,
+      "episode": 7,
+      "japanese": "顕微鏡のピント戻さなくても いいほどの天才ではないよね",
+      "romaji": "Kenbikyō no pinto modosanakute mo ī hodo no tensai de wa nai yo ne",
+      "chinese": "但也没有天才到可以不把显微镜的焦距调回去吧？",
+      "context": "麻美抱怨同事不调显微镜",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 28,
+      "episode": 7,
+      "japanese": "論文載るの 今日だったんだ",
+      "romaji": "Ronbun noru no kyō datta nda",
+      "chinese": "今天是你的论文发表日",
+      "context": "多江学姐祝贺麻美论文发表",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 29,
+      "episode": 7,
+      "japanese": "遥が彼氏 連れてくるんだけどね",
+      "romaji": "Haruka ga kareshi tsuretekuru nda kedo ne",
+      "chinese": "小遥好像会带男朋友回家",
+      "context": "久美子告知麻美小遥将带男友回家",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 30,
+      "episode": 7,
+      "japanese": "これって あれかな？娘さんを僕に下さい的な やつかな？",
+      "romaji": "Kore tte are ka na? Musume-san o boku ni kudasai-teki na yatsu ka na?",
+      "chinese": "这该不会是那种 请求把女儿嫁给我的场合吧？",
+      "context": "麻美猜测小遥男友来访目的",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 31,
+      "episode": 7,
+      "japanese": "一軍の服にしとけば？",
+      "romaji": "Ichigun no fuku ni shitoke ba?",
+      "chinese": "不然你就穿个一军的衣服啊",
+      "context": "麻美建议父亲穿正式服装",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 32,
+      "episode": 7,
+      "japanese": "この微生物も実は前世は 人間だったりするのかな",
+      "romaji": "Kono biseibutsu mo jitsu wa zense wa ningen dattari suru no ka na",
+      "chinese": "会不会这个微生物 上辈子其实也是人类",
+      "context": "麻美对微生物前世的猜想",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 33,
+      "episode": 7,
+      "japanese": "一番長生き",
+      "romaji": "Ichiban chōseiki",
+      "chinese": "我今年三十五岁 基本上是自我史上最长寿的纪录",
+      "context": "麻美感慨自己活得长久",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 34,
+      "episode": 7,
+      "japanese": "医学界に多少の貢献は できていると思う",
+      "romaji": "Igaku kai ni tashō no kōken wa deki te iru to omou",
+      "chinese": "我应该有多少为医学界带来一些贡献",
+      "context": "麻美评价自己的研究贡献",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 35,
+      "episode": 7,
+      "japanese": "何周目？ 人生",
+      "romaji": "Nan shuume? Jinsei",
+      "chinese": "这是你的第几轮人生？",
+      "context": "真里铃询问麻美人生轮回次数",
+      "difficulty": "beginner"
+    }
+  ]
 }
