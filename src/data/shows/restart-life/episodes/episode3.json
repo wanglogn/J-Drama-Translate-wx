@@ -417,15 +417,6 @@
       "difficulty": "intermediate"
     },
     {
-      "id": 47,
-      "episode": 3,
-      "japanese": "♪～",
-      "romaji": "♪~",
-      "chinese": "（哼唱/音乐声）",
-      "context": "对话场景",
-      "difficulty": "beginner"
-    },
-    {
       "id": 48,
       "episode": 3,
       "japanese": "袋いれますか？ >> 大丈夫です。",
@@ -5547,15 +5538,6 @@
       "difficulty": "intermediate"
     },
     {
-      "id": 617,
-      "episode": 3,
-      "japanese": "♪～",
-      "romaji": "♪~",
-      "chinese": "♪～",
-      "context": "对话场景",
-      "difficulty": "beginner"
-    },
-    {
       "id": 618,
       "episode": 3,
       "japanese": "久しぶりに喉がしゃがれるほど 盛り上がった",
@@ -5862,15 +5844,6 @@
       "difficulty": "intermediate"
     },
     {
-      "id": 652,
-      "episode": 3,
-      "japanese": "♪～",
-      "romaji": "♪～",
-      "chinese": "♪～",
-      "context": "对话场景",
-      "difficulty": "beginner"
-    },
-    {
       "id": 653,
       "episode": 3,
       "japanese": "そして 週が明け またいつもの日常に戻った",
@@ -5930,15 +5903,6 @@
       "japanese": "どうぞ どうぞ｡",
       "romaji": "Dōzo dōzo.",
       "chinese": "请请。",
-      "context": "对话场景",
-      "difficulty": "beginner"
-    },
-    {
-      "id": 660,
-      "episode": 3,
-      "japanese": "♪～",
-      "romaji": "♪～",
-      "chinese": "♪～",
       "context": "对话场景",
       "difficulty": "beginner"
     },
@@ -6105,15 +6069,6 @@
       "difficulty": "intermediate"
     },
     {
-      "id": 679,
-      "episode": 3,
-      "japanese": "♪～",
-      "romaji": "♪～",
-      "chinese": "♪～",
-      "context": "对话场景",
-      "difficulty": "beginner"
-    },
-    {
       "id": 680,
       "episode": 3,
       "japanese": "すいません｡ >> はい｡",
@@ -6141,15 +6096,6 @@
       "difficulty": "advanced"
     },
     {
-      "id": 683,
-      "episode": 3,
-      "japanese": "♪～",
-      "romaji": "♪～",
-      "chinese": "♪～",
-      "context": "对话场景",
-      "difficulty": "beginner"
-    },
-    {
       "id": 684,
       "episode": 3,
       "japanese": "ありがとうございます 少々お待ちください｡",
@@ -6157,15 +6103,6 @@
       "chinese": "谢谢，请稍等。",
       "context": "对话场景",
       "difficulty": "advanced"
-    },
-    {
-      "id": 685,
-      "episode": 3,
-      "japanese": "♪～",
-      "romaji": "♪～",
-      "chinese": "♪～",
-      "context": "对话场景",
-      "difficulty": "beginner"
     },
     {
       "id": 686,
@@ -7001,15 +6938,6 @@
       "japanese": "お嬢ちゃ～ん｡",
       "romaji": "Ojou cha~n.",
       "chinese": "小姑娘～。",
-      "context": "对话场景",
-      "difficulty": "beginner"
-    },
-    {
-      "id": 779,
-      "episode": 3,
-      "japanese": "♪～",
-      "romaji": "♪~",
-      "chinese": "♪～",
       "context": "对话场景",
       "difficulty": "beginner"
     },
