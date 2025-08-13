@@ -813,15 +813,6 @@
       "difficulty": "beginner"
     },
     {
-      "id": 92,
-      "episode": 3,
-      "japanese": "うん｡",
-      "romaji": "Un.",
-      "chinese": "嗯。",
-      "context": "对话场景",
-      "difficulty": "beginner"
-    },
-    {
       "id": 93,
       "episode": 3,
       "japanese": "遥 今 大学生だな｡ >> そうだよ｡",
@@ -1142,15 +1133,6 @@
       "japanese": "そうなの？",
       "romaji": "Sou nano?",
       "chinese": "是吗？",
-      "context": "对话场景",
-      "difficulty": "beginner"
-    },
-    {
-      "id": 129,
-      "episode": 3,
-      "japanese": "うん｡",
-      "romaji": "Un.",
-      "chinese": "嗯。",
       "context": "对话场景",
       "difficulty": "beginner"
     },
@@ -1657,15 +1639,6 @@
       "chinese": "说了那种话吗？",
       "context": "对话场景",
       "difficulty": "intermediate"
-    },
-    {
-      "id": 186,
-      "episode": 3,
-      "japanese": "うん｡",
-      "romaji": "Un.",
-      "chinese": "嗯。",
-      "context": "对话场景",
-      "difficulty": "beginner"
     },
     {
       "id": 187,
@@ -3495,15 +3468,6 @@
       "difficulty": "advanced"
     },
     {
-      "id": 390,
-      "episode": 3,
-      "japanese": "うん｡",
-      "romaji": "Un.",
-      "chinese": "嗯。",
-      "context": "对话场景",
-      "difficulty": "beginner"
-    },
-    {
       "id": 391,
       "episode": 3,
       "japanese": "玲奈ちゃんの彼氏さ私の職場の先輩なんだよね｡",
@@ -4548,15 +4512,6 @@
       "difficulty": "beginner"
     },
     {
-      "id": 507,
-      "episode": 3,
-      "japanese": "うん｡",
-      "romaji": "Un.",
-      "chinese": "嗯。",
-      "context": "对话场景",
-      "difficulty": "beginner"
-    },
-    {
       "id": 508,
       "episode": 3,
       "japanese": "あの… 玲奈ちゃんに 大事な話があってね｡",
@@ -4582,15 +4537,6 @@
       "chinese": "刚才玲奈不是给我看了男朋友的照片吗？",
       "context": "对话场景",
       "difficulty": "advanced"
-    },
-    {
-      "id": 511,
-      "episode": 3,
-      "japanese": "うん｡",
-      "romaji": "Un.",
-      "chinese": "嗯。",
-      "context": "对话场景",
-      "difficulty": "beginner"
     },
     {
       "id": 512,
@@ -5160,15 +5106,6 @@
       "difficulty": "intermediate"
     },
     {
-      "id": 575,
-      "episode": 3,
-      "japanese": "うん｡",
-      "romaji": "Un.",
-      "chinese": "嗯。",
-      "context": "对话场景",
-      "difficulty": "beginner"
-    },
-    {
       "id": 576,
       "episode": 3,
       "japanese": "あの店って よく行くの？",
@@ -5277,15 +5214,6 @@
       "difficulty": "advanced"
     },
     {
-      "id": 588,
-      "episode": 3,
-      "japanese": "うん｡",
-      "romaji": "Un.",
-      "chinese": "嗯。",
-      "context": "对话场景",
-      "difficulty": "beginner"
-    },
-    {
       "id": 589,
       "episode": 3,
       "japanese": "あの人さ 私の薬局の先輩なのね｡",
@@ -5372,15 +5300,6 @@
       "japanese": "マジで？",
       "romaji": "Maji de?",
       "chinese": "真的吗？",
-      "context": "对话场景",
-      "difficulty": "beginner"
-    },
-    {
-      "id": 599,
-      "episode": 3,
-      "japanese": "うん｡",
-      "romaji": "Un.",
-      "chinese": "嗯。",
       "context": "对话场景",
       "difficulty": "beginner"
     },
@@ -7030,15 +6949,6 @@
       "chinese": "鱼要好好吃哦。",
       "context": "对话场景",
       "difficulty": "intermediate"
-    },
-    {
-      "id": 790,
-      "episode": 3,
-      "japanese": "うん｡",
-      "romaji": "Un.",
-      "chinese": "嗯。",
-      "context": "对话场景",
-      "difficulty": "beginner"
     },
     {
       "id": 791,

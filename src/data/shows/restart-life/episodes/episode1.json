@@ -1119,15 +1119,6 @@
       "difficulty": ""
     },
     {
-      "id": 125,
-      "episode": 1,
-      "japanese": "うん｡",
-      "romaji": "un.",
-      "chinese": "嗯。",
-      "context": "对话场景",
-      "difficulty": ""
-    },
-    {
       "id": 126,
       "episode": 1,
       "japanese": "もしかしてさ 店員さんが何か 持って来るかなって思ったよね？",
@@ -2888,15 +2879,6 @@
       "japanese": "あーちんも食べてね｡",
       "romaji": "aachin mo tabete ne.",
       "chinese": "麻美你也吃啊。",
-      "context": "对话场景",
-      "difficulty": ""
-    },
-    {
-      "id": 322,
-      "episode": 1,
-      "japanese": "うん｡",
-      "romaji": "un.",
-      "chinese": "嗯。",
       "context": "对话场景",
       "difficulty": ""
     },
@@ -6029,15 +6011,6 @@
       "japanese": "じゃ 寝なさい｡",
       "romaji": "ja nenasai.",
       "chinese": "那去睡觉吧。",
-      "context": "对话场景",
-      "difficulty": ""
-    },
-    {
-      "id": 671,
-      "episode": 1,
-      "japanese": "うん｡",
-      "romaji": "un.",
-      "chinese": "嗯。",
       "context": "对话场景",
       "difficulty": ""
     },

@@ -93,15 +93,6 @@
       "difficulty": "intermediate"
     },
     {
-      "id": 11,
-      "episode": 4,
-      "japanese": "うん｡",
-      "romaji": "un.",
-      "chinese": "嗯。",
-      "context": "对话场景",
-      "difficulty": "beginner"
-    },
-    {
       "id": 12,
       "episode": 4,
       "japanese": "前 何だっけ？",
@@ -136,15 +127,6 @@
       "chinese": "比起大食蚁兽，鲭鱼不是更好吗？",
       "context": "对话场景",
       "difficulty": "advanced"
-    },
-    {
-      "id": 16,
-      "episode": 4,
-      "japanese": "うん｡",
-      "romaji": "un.",
-      "chinese": "嗯。",
-      "context": "对话场景",
-      "difficulty": "beginner"
     },
     {
       "id": 17,
@@ -1884,15 +1866,6 @@
       "difficulty": "intermediate"
     },
     {
-      "id": 211,
-      "episode": 4,
-      "japanese": "うん｡",
-      "romaji": "Un.",
-      "chinese": "嗯。",
-      "context": "对话场景",
-      "difficulty": "beginner"
-    },
-    {
       "id": 212,
       "episode": 4,
       "japanese": "📱(操作音)",
@@ -1983,15 +1956,6 @@
       "difficulty": "intermediate"
     },
     {
-      "id": 222,
-      "episode": 4,
-      "japanese": "うん｡",
-      "romaji": "Un.",
-      "chinese": "嗯。",
-      "context": "对话场景",
-      "difficulty": "beginner"
-    },
-    {
       "id": 223,
       "episode": 4,
       "japanese": "じゃあね｡ >> じゃあね｡",
@@ -2024,15 +1988,6 @@
       "japanese": "玉ねぎ食べる？",
       "romaji": "Tamanegi taberu?",
       "chinese": "要吃洋葱吗？",
-      "context": "对话场景",
-      "difficulty": "beginner"
-    },
-    {
-      "id": 227,
-      "episode": 4,
-      "japanese": "うん｡",
-      "romaji": "Un.",
-      "chinese": "嗯。",
       "context": "对话场景",
       "difficulty": "beginner"
     },
@@ -2213,15 +2168,6 @@
       "japanese": "あぁ そうなんだ｡",
       "romaji": "Ā, sō nan da.",
       "chinese": "啊，是这样啊。",
-      "context": "对话场景",
-      "difficulty": "beginner"
-    },
-    {
-      "id": 248,
-      "episode": 4,
-      "japanese": "うん｡",
-      "romaji": "Un.",
-      "chinese": "嗯。",
       "context": "对话场景",
       "difficulty": "beginner"
     },
@@ -2501,15 +2447,6 @@
       "japanese": "あ～｡",
       "romaji": "Aa.",
       "chinese": "啊——。",
-      "context": "对话场景",
-      "difficulty": "beginner"
-    },
-    {
-      "id": 280,
-      "episode": 4,
-      "japanese": "うん｡",
-      "romaji": "Un.",
-      "chinese": "嗯。",
       "context": "对话场景",
       "difficulty": "beginner"
     },
