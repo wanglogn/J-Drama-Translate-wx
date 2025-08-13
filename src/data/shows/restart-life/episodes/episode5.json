@@ -428,9 +428,9 @@
     {
       "id": 48,
       "episode": "5",
-      "japanese": "(美佐)〔加奈っぺ 加奈っぺ！〕",
+      "japanese": "(美佐)加奈っぺ 加奈っぺ！",
       "romaji": "(Misa) [Kanappe Kanappe!]",
-      "chinese": "（美佐）〔加奈っぺ，加奈っぺ！〕",
+      "chinese": "（美佐）加奈っぺ，加奈っぺ！",
       "context": "叫小学同学的昵称",
       "difficulty": "beginner"
     },
@@ -446,9 +446,9 @@
     {
       "id": 50,
       "episode": "5",
-      "japanese": "(美佐)〔ねぇねぇ ぺー加奈〕",
+      "japanese": "(美佐)ねぇねぇ ぺー加奈",
       "romaji": "(Misa) [Nē nē Pē-Kana]",
-      "chinese": "（美佐）〔嘿嘿，ぺー加奈〕",
+      "chinese": "（美佐）嘿嘿，ぺー加奈",
       "context": "称呼绰号变化阶段",
       "difficulty": "beginner"
     },
@@ -626,7 +626,7 @@
     {
       "id": 70,
       "episode": "5",
-      "japanese": "〔うちらも ｢おかえりなさい｣にする？〕",
+      "japanese": "うちらも ｢おかえりなさい｣にする？",
       "romaji": "Uchira mo 'Okaerinasai' ni suru?",
       "chinese": "我们也要说‘欢迎回来’吗？",
       "context": "讨论迎接习惯",
@@ -2849,8 +2849,8 @@
     {
       "id": 317,
       "episode": "5",
-      "japanese": "〔このお薬と このお薬 いったん 飲むのやめてくれる？〕",
-      "romaji": "〔Kono okusuri to kono okusuri ittai nomu no yamete kureru?〕",
+      "japanese": "このお薬と このお薬 いったん 飲むのやめてくれる？",
+      "romaji": "Kono okusuri to kono okusuri ittai nomu no yamete kureru?",
       "chinese": "能先不要同时吃这两种药吗？",
       "context": "麻美请求祖父暂时不要同时服药。",
       "difficulty": "intermediate"
@@ -3407,26 +3407,26 @@
     {
       "id": 379,
       "episode": "5",
-      "japanese": "〔麻美ちゃんさ ため口でいいからね〕",
-      "romaji": "〔Asami-chan sa, tameguchi de ii kara ne〕",
-      "chinese": "〔麻美，可以用随便口气说话〕",
+      "japanese": "麻美ちゃんさ ため口でいいからね",
+      "romaji": "Asami-chan sa, tameguchi de ii kara ne",
+      "chinese": "麻美，可以用随便口气说话",
       "context": "对朋友说随便说话，不用太拘谨。",
       "difficulty": "beginner"
     },
     {
       "id": 380,
       "episode": "5",
-      "japanese": "〔じか箸しちゃう？〕",
-      "romaji": "〔Jikabashi shichau?〕",
-      "chinese": "〔要直接用筷子夹吗？〕",
+      "japanese": "じか箸しちゃう？",
+      "romaji": "Jikabashi shichau?",
+      "chinese": "要直接用筷子夹吗？",
       "context": "讨论吃饭时是否直接用筷子夹食物。",
       "difficulty": "beginner"
     },
     {
       "id": 381,
       "episode": "5",
-      "japanese": "(麻美)〔いいな 私も食べた～い〕",
-      "romaji": "(Asami) 〔Ii na watashi mo tabetai〕",
+      "japanese": "(麻美)いいな 私も食べた～い",
+      "romaji": "(Asami) Ii na watashi mo tabetai",
       "chinese": "(麻美) 好羡慕，我也想吃～",
       "context": "表达想吃别人食物的心情。",
       "difficulty": "beginner"
@@ -3434,18 +3434,18 @@
     {
       "id": 382,
       "episode": "5",
-      "japanese": "〔じゃあ ため口で 喋ろう〕",
-      "romaji": "〔Jaa, tameguchi de shaberou〕",
-      "chinese": "〔那就用随便口气说话吧〕",
+      "japanese": "じゃあ ため口で 喋ろう",
+      "romaji": "Jaa, tameguchi de shaberou",
+      "chinese": "那就用随便口气说话吧",
       "context": "提议用轻松随意的口吻聊天。",
       "difficulty": "beginner"
     },
     {
       "id": 383,
       "episode": "5",
-      "japanese": "〔ハハハ…〕",
-      "romaji": "〔Hahaha…〕",
-      "chinese": "〔哈哈哈…〕",
+      "japanese": "ハハハ…",
+      "romaji": "Hahaha…",
+      "chinese": "哈哈哈…",
       "context": "笑声，表示轻松或开心。",
       "difficulty": "beginner"
     },
@@ -3902,7 +3902,7 @@
     {
       "id": 434,
       "episode": "5",
-      "japanese": ">> 〔結婚してんじゃねえかよ〕",
+      "japanese": ">> 結婚してんじゃねえかよ",
       "romaji": ">> [Kekkon shiten ja ne ka yo]",
       "chinese": ">> 你不是已经结婚了吗！",
       "context": "对发生的意外情况感到惊讶。",
@@ -3920,7 +3920,7 @@
     {
       "id": 436,
       "episode": "5",
-      "japanese": "〔クソが！〕",
+      "japanese": "クソが！",
       "romaji": "[Kuso ga!]",
       "chinese": "该死！",
       "context": "表示强烈不满或愤怒。",
@@ -4010,7 +4010,7 @@
     {
       "id": 446,
       "episode": "5",
-      "japanese": "〔ちょうど 令和の元号が発表された日〕",
+      "japanese": "ちょうど 令和の元号が発表された日",
       "romaji": "[Choudo Reiwa no gengou ga happyou sareta hi]",
       "chinese": "正好是令和元号公布的日子。",
       "context": "说明时间节点。",
@@ -4019,7 +4019,7 @@
     {
       "id": 447,
       "episode": "5",
-      "japanese": "(美穂)〔４年前だね〕 >> 〔４年前か〕",
+      "japanese": "(美穂)４年前だね >> ４年前か",
       "romaji": "(Miho) [4 nen mae da ne] >> [4 nen mae ka]",
       "chinese": "(美穂) 是四年前呢 >> 四年前啊",
       "context": "回忆发生时间。",
@@ -4028,7 +4028,7 @@
     {
       "id": 448,
       "episode": "5",
-      "japanese": "〔その日に 夢庵で ごはん食べてたらそこに たまたま彼がいて〕",
+      "japanese": "その日に 夢庵で ごはん食べてたらそこに たまたま彼がいて",
       "romaji": "[Sono hi ni Muan de gohan tabetetara soko ni tamatama kare ga ite]",
       "chinese": "那天在梦庵吃饭，恰好遇到了他。",
       "context": "叙述偶遇场景。",
@@ -7601,7 +7601,7 @@
     {
       "id": 845,
       "episode": "5",
-      "japanese": "〔てめぇ よくも私の大事な時間 無駄にしてくれたな クソが！〕",
+      "japanese": "てめぇ よくも私の大事な時間 無駄にしてくれたな クソが！",
       "romaji": "Temee yoku mo watashi no daiji na jikan muda ni shite kureta na, kuso ga!",
       "chinese": "你竟然浪费了我宝贵的时间，混蛋！",
       "context": "愤怒的独白",
@@ -7610,7 +7610,7 @@
     {
       "id": 846,
       "episode": "5",
-      "japanese": "〔今すぐ連絡先 消せ〕",
+      "japanese": "今すぐ連絡先 消せ",
       "romaji": "Ima sugu renrakusaki kese",
       "chinese": "马上删除联系方式",
       "context": "命令语气",
@@ -7619,7 +7619,7 @@
     {
       "id": 847,
       "episode": "5",
-      "japanese": "〔じゃねえと てめぇの職場 突撃するからな！〕",
+      "japanese": "じゃねえと てめぇの職場 突撃するからな！",
       "romaji": "Ja neeto temee no shokuba totsugeki suru kara na!",
       "chinese": "不然我会冲你工作地点去！",
       "context": "威胁语气",
@@ -7628,7 +7628,7 @@
     {
       "id": 848,
       "episode": "5",
-      "japanese": "〔分かったか!?〕",
+      "japanese": "分かったか!?",
       "romaji": "Wakatta ka!?",
       "chinese": "明白了吗！？",
       "context": "确认理解",
