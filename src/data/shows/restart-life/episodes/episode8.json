@@ -1,186 +1,6630 @@
 {
-  "number": 8,
-  "title": "第八集：关键抉择",
+  "number": 736,
+  "title": "第八集：人生重启的挑战",
   "lines": [
     {
       "id": 1,
       "episode": 8,
-      "japanese": "あーちん 何周目？",
-      "romaji": "Āchin nanshūme?",
-      "chinese": "这是你的第几轮？",
-      "context": "真里铃询问麻美人生轮回次数",
-      "difficulty": "beginner"
+      "japanese": "(真里) あーちん 何周目？",
+      "romaji": "(まり) あーちん なんしゅうめ？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
     },
     {
       "id": 2,
       "episode": 8,
-      "japanese": "人生…？ １周目じゃないよね？",
-      "romaji": "Jinsei…? Ichishūme janai yo ne?",
-      "chinese": "人生？这不是你的第一轮吧？",
-      "context": "麻美确认真里铃也是重启者",
+      "japanese": "(麻美) えっ？ 何？",
+      "romaji": "(あさみ) えっ？ なに？",
+      "chinese": "",
+      "context": "日常场景",
       "difficulty": "intermediate"
     },
     {
       "id": 3,
       "episode": 8,
-      "japanese": "私 ５周目",
-      "romaji": "Watashi go-shūme",
-      "chinese": "我是第五轮",
-      "context": "真里铃透露自己已轮回五次",
+      "japanese": "何周目？ 人生｡",
+      "romaji": "なんしゅうめ？ じんせい｡",
+      "chinese": "",
+      "context": "日常场景",
       "difficulty": "beginner"
     },
     {
       "id": 4,
       "episode": 8,
-      "japanese": "あの時ってまだ｢盛れてる｣って言葉ないんだよね",
-      "romaji": "Ano toki tte mada \"mori teru\" tte kotoba nain da yo ne",
-      "chinese": "那时候还没有\"很正\"这个说法",
-      "context": "真里铃提及过去套话麻美的经历",
-      "difficulty": "intermediate"
+      "japanese": "(麻美) 人生…？",
+      "romaji": "(あさみ) じんせい…？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
     },
     {
       "id": 5,
       "episode": 8,
-      "japanese": "グアテマラ南東部のシロアリですね",
-      "romaji": "Guatemara nantōbu no shiroari desu ne",
-      "chinese": "瓜地马拉东南的白蚁",
-      "context": "真里铃描述第一次轮回的来世",
-      "difficulty": "advanced"
+      "japanese": "１周目じゃないよね？",
+      "romaji": "１しゅうめじゃないよね？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
     },
     {
       "id": 6,
       "episode": 8,
-      "japanese": "元々は私と あーちんと なっちと みーぽんの４人グループだったからね",
-      "romaji": "Motomoto wa watashi to āchin to Nacchi to Mīpon no yonin gurūpu datta kara ne",
-      "chinese": "原本是我和你、夏唧和美宝四个人是死党",
-      "context": "真里铃回忆第一轮四人友谊",
-      "difficulty": "advanced"
+      "japanese": "(麻美) え…？",
+      "romaji": "(あさみ) え…？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
     },
     {
       "id": 7,
       "episode": 8,
-      "japanese": "死んじゃったのね 飛行機事故",
-      "romaji": "Shinjatta no ne hikōki jiko",
-      "chinese": "夏唧和美宝后来过世了，是空难",
-      "context": "真里铃告知夏希和美穂的悲剧",
+      "japanese": "大丈夫 私もだから｡",
+      "romaji": "だいじょうぶ わたしもだから｡",
+      "chinese": "",
+      "context": "日常场景",
       "difficulty": "intermediate"
     },
     {
       "id": 8,
       "episode": 8,
-      "japanese": "スペースデブリが激突しちゃってさ",
-      "romaji": "Supēsu deburi ga gekitotsu shichatte sa",
-      "chinese": "在高空撞到了太空垃圾",
-      "context": "解释空难原因",
+      "japanese": "(麻美) そうなの？",
+      "romaji": "(あさみ) そうなの？",
+      "chinese": "",
+      "context": "日常场景",
       "difficulty": "intermediate"
     },
     {
       "id": 9,
       "episode": 8,
-      "japanese": "パイロットになるため小学校から毎日必死に勉強して体も鍛えてさ",
-      "romaji": "Pairotto ni naru tame shōgakkō kara mainichi hisshi ni benkyō shite karada mo kitaete sa",
-      "chinese": "为了当飞行员从小学开始每天死命念书还锻炼身体",
-      "context": "真里铃描述为拯救朋友所做的努力",
-      "difficulty": "advanced"
+      "japanese": "あーちん 何周目？",
+      "romaji": "あーちん なんしゅうめ？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
     },
     {
       "id": 10,
       "episode": 8,
-      "japanese": "33歳の時にあーちんが死んじゃったんだよね",
-      "romaji": "Sanjuusansai no toki ni āchin ga shinjattan da yo ne",
-      "chinese": "结果这次换你在三十三岁时过世了",
-      "context": "真里铃提及麻美在第三轮的死亡",
+      "japanese": "(麻美) ４周目…｡",
+      "romaji": "(あさみ) ４しゅうめ…｡",
+      "chinese": "",
+      "context": "日常场景",
       "difficulty": "intermediate"
     },
     {
       "id": 11,
       "episode": 8,
-      "japanese": "あーちんが亡くなったって聞いて私絶対自分のせいだって落ち込んでさ",
-      "romaji": "Āchin ga nakunatta tte kiite watashi zettai jibun no sei datte ochikonde sa",
-      "chinese": "当我得知你过世时，就心想那一定是我的错而感到很沮丧",
-      "context": "真里铃自责导致麻美死亡",
-      "difficulty": "advanced"
+      "japanese": "そっか｡",
+      "romaji": "そっか｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
     },
     {
       "id": 12,
       "episode": 8,
-      "japanese": "パイロットって乗りたい便選べるわけじゃないからさ",
-      "romaji": "Pairotto tte noritai bin erabe ru wake janai kara sa",
-      "chinese": "飞行员不能自己选班机",
-      "context": "解释未能拯救夏希美穂的原因",
-      "difficulty": "intermediate"
+      "japanese": "私 ５周目｡",
+      "romaji": "わたし ５しゅうめ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
     },
     {
       "id": 13,
       "episode": 8,
-      "japanese": "30代が死にやすい時期らしくて",
-      "romaji": "Santai ga shinijiyasu toki ki rashikute",
-      "chinese": "我好像比较容易在三十多岁时过世",
-      "context": "真里铃提及自己的死亡高发期",
-      "difficulty": "intermediate"
+      "japanese": "(麻美) ハァ～｡",
+      "romaji": "(あさみ) ハァ～｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
     },
     {
       "id": 14,
       "episode": 8,
-      "japanese": "来世ではなく 今世をより良いものにするため",
-      "romaji": "Raisei de wa naku konse yo o yori yoi mono ni suru tame",
-      "chinese": "不是为了下辈子，而是要让这辈子过得更好",
-      "context": "麻美决定第五轮人生的目标转变",
+      "japanese": "よかった～！ やっと話せる時が来た｡",
+      "romaji": "よかった～！ やっとはなせるときがきた｡",
+      "chinese": "",
+      "context": "日常场景",
       "difficulty": "intermediate"
     },
     {
       "id": 15,
       "episode": 8,
-      "japanese": "ツツジの蜜って毒性があって中毒を起こす危険性があるから吸わないほうがいいよ",
-      "romaji": "Tsutsuji no mitsu tte dokusei ga atte chūdoku o okosu kiken-sei ga aru kara suwanai hō ga ii yo",
-      "chinese": "杜鹃花蜜有毒性，吸了可能会引起中毒，你们最好别再吸了",
-      "context": "麻美以纯粹善心提醒小朋友",
+      "japanese": "(麻美) まりりん いつから気付いてたの？",
+      "romaji": "(あさみ) まりりん いつからきづいてたの？",
+      "chinese": "",
+      "context": "日常场景",
       "difficulty": "advanced"
     },
     {
       "id": 16,
       "episode": 8,
-      "japanese": "次は人間ですね",
-      "romaji": "Tsugi wa ningen desu ne",
-      "chinese": "您这次会投胎为人类",
-      "context": "接待员告知麻美可投胎人类",
-      "difficulty": "beginner"
+      "japanese": "実は ず～っと怪しいなとは 思ってたの｡",
+      "romaji": "じつは ず～っとあやしいなとは おもってたの｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
     },
     {
       "id": 17,
       "episode": 8,
-      "japanese": "やり直せますかね",
-      "romaji": "Yarinaose masu ka ne",
-      "chinese": "我还可以再重来吗",
-      "context": "麻美决定放弃投胎，选择重启",
-      "difficulty": "beginner"
+      "japanese": "(麻美) え～ そうなんだ｡ >> だってさ あーちんってこんな勉強できる子じゃ なかったじゃん｡",
+      "romaji": "(あさみ) え～ そうなんだ｡ >> だってさ あーちんってこんなべんきょうできるこじゃ なかったじゃん｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
     },
     {
       "id": 18,
       "episode": 8,
-      "japanese": "最後の回だけはお伝えすることになってまして",
-      "romaji": "Saigo no kai dake wa o tsutae suru koto ni natte masite",
-      "chinese": "我们只有在最后一次会主动告知",
-      "context": "接待员说明这是最后一次重启机会",
+      "japanese": "(麻美) そうだね｡",
+      "romaji": "(あさみ) そうだね｡",
+      "chinese": "",
+      "context": "日常场景",
       "difficulty": "intermediate"
     },
     {
       "id": 19,
       "episode": 8,
-      "japanese": "宮岡さんは既婚者",
-      "romaji": "Miyaoka-san wa kikon'sha",
-      "chinese": "宫冈先生已婚了",
-      "context": "麻美教玲奈幸福咒语",
-      "difficulty": "beginner"
+      "japanese": "ちなみに私 何回か あーちんに 鎌かけたことあんだよね｡",
+      "romaji": "ちなみにわたし なんかいか あーちんに かまかけたことあんだよね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
     },
     {
       "id": 20,
       "episode": 8,
-      "japanese": "８周目です",
-      "romaji": "Hasshūme desu",
-      "chinese": "我是第八轮",
-      "context": "河口小姐透露自己的轮回次数",
+      "japanese": "(麻美) えっ！ どうやって？",
+      "romaji": "(あさみ) えっ！ どうやって？",
+      "chinese": "",
+      "context": "こっちのほうが ２人とも盛れて",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 21,
+      "episode": 8,
+      "japanese": "これ これ撮った時にさ私が｢盛れてるね｣って言ったらあーちんが｢盛れてる｣って 言ったんだけどさ｡",
+      "romaji": "これ これとったときにさわたしが｢もれてるね｣っていったらあーちんが｢もれてる｣って いったんだけどさ｡",
+      "chinese": "",
+      "context": "こっちのほうが ２人とも盛れて",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 22,
+      "episode": 8,
+      "japanese": "〔こっちのほうが ２人とも盛れてるね〕",
+      "romaji": "〔こっちのほうが ２にんとももれてるね〕",
+      "chinese": "",
+      "context": "こっちのほうが ２人とも盛れて",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 23,
+      "episode": 8,
+      "japanese": "(麻美)〔盛れてる〕",
+      "romaji": "(あさみ)〔もれてる〕",
+      "chinese": "",
+      "context": "こっちのほうが ２人とも盛れて",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 24,
+      "episode": 8,
+      "japanese": "あの時って まだ｢盛れてる｣って 言葉ないんだよね｡",
+      "romaji": "あのときって まだ｢もれてる｣って ことばないんだよね｡",
+      "chinese": "",
+      "context": "こっちのほうが ２人とも盛れて",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 25,
+      "episode": 8,
+      "japanese": "(麻美) え～ 全然気付かなかった｡",
+      "romaji": "(あさみ) え～ ぜんぜんきづかなかった｡",
+      "chinese": "",
+      "context": "こっちのほうが ２人とも盛れて",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 26,
+      "episode": 8,
+      "japanese": "でさ その帰りに私 イオンの話 したんだけどさ｡",
+      "romaji": "でさ そのかえりにわたし イオンのはなし したんだけどさ｡",
+      "chinese": "",
+      "context": "盛れてる",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 27,
+      "episode": 8,
+      "japanese": "〔今までイオンくらいしか 遊ぶとこなかったもんね〕",
+      "romaji": "〔いままでイオンくらいしか あそぶとこなかったもんね〕",
+      "chinese": "",
+      "context": "今までイオンくらいしか 遊ぶと",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 28,
+      "episode": 8,
+      "japanese": "(麻美)〔だよね～〕",
+      "romaji": "(あさみ)〔だよね～〕",
+      "chinese": "",
+      "context": "今までイオンくらいしか 遊ぶと",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 29,
+      "episode": 8,
+      "japanese": "あの時ってまだ イオンじゃなくて ジャスコなんだよね｡",
+      "romaji": "あのときってまだ イオンじゃなくて ジャスコなんだよね｡",
+      "chinese": "",
+      "context": "今までイオンくらいしか 遊ぶと",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 30,
+      "episode": 8,
+      "japanese": "(麻美) マジか…｡",
+      "romaji": "(あさみ) マジか…｡",
+      "chinese": "",
+      "context": "今までイオンくらいしか 遊ぶと",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 31,
+      "episode": 8,
+      "japanese": "でもさ そんな前から 気付いてたんだったらもっと早く言ってくれれば よかったのに～｡",
+      "romaji": "でもさ そんなぜんから きづいてたんだったらもっとはやくいってくれれば よかったのに～｡",
+      "chinese": "",
+      "context": "だよね～",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 32,
+      "episode": 8,
+      "japanese": ">> なかなか言えないって｡",
+      "romaji": ">> なかなかいえないって｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 33,
+      "episode": 8,
+      "japanese": "(麻美) 何でよ～｡",
+      "romaji": "(あさみ) なんでよ～｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 34,
+      "episode": 8,
+      "japanese": "だって 万が一違ったらさ ヤバい奴だって思われるじゃん｡",
+      "romaji": "だって まんがいちちがったらさ ヤバいやつだっておもわれるじゃん｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 35,
+      "episode": 8,
+      "japanese": "せっかく仲良くなれたのに｡",
+      "romaji": "せっかくなかよくなれたのに｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 36,
+      "episode": 8,
+      "japanese": "(麻美) え～ でもさ直接的な聞き方じゃなくてもさ 何か やり直してる人にだけ分かるような サイン出してみるとかさ｡",
+      "romaji": "(あさみ) え～ でもさちょくせつてきなききほうじゃなくてもさ なにか やりなおしてるにんにだけわかるような サインだしてみるとかさ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 37,
+      "episode": 8,
+      "japanese": ">> サイン？",
+      "romaji": ">> サイン？",
+      "chinese": "",
+      "context": "日常场景",
       "difficulty": "beginner"
+    },
+    {
+      "id": 38,
+      "episode": 8,
+      "japanese": "(麻美) 何だろう 例えば５周目だったら さりげなく こう… 何だろうこうやってみせるとか｡ >> いや 分かんない 分かんない｡",
+      "romaji": "(あさみ) なんだろう たとえば５しゅうめだったら さりげなく こう… なんだろうこうやってみせるとか｡ >> いや わかんない わかんない｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 39,
+      "episode": 8,
+      "japanese": "そんなの｢はぁ？｣ってなって 終わりだよ｡",
+      "romaji": "そんなの｢はぁ？｣ってなって おわりだよ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 40,
+      "episode": 8,
+      "japanese": "(麻美) そうかなぁ｡",
+      "romaji": "(あさみ) そうかなぁ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 41,
+      "episode": 8,
+      "japanese": "じゃあさ 私がさっき こうやって何か…｡",
+      "romaji": "じゃあさ わたしがさっき こうやってなにか…｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 42,
+      "episode": 8,
+      "japanese": "…とかやったら 気付いてた？",
+      "romaji": "…とかやったら きづいてた？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 43,
+      "episode": 8,
+      "japanese": "(麻美)｢は？｣ってなるね｡ >> なるんじゃん｡",
+      "romaji": "(あさみ)｢は？｣ってなるね｡ >> なるんじゃん｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 44,
+      "episode": 8,
+      "japanese": "(麻美) そうかぁ｡ >> ハァ～｡",
+      "romaji": "(あさみ) そうかぁ｡ >> ハァ～｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 45,
+      "episode": 8,
+      "japanese": "(麻美) じゃあさ まりりんも あの受付みたいな所に行ったってこと？ >> あの白いとこでしょ？",
+      "romaji": "(あさみ) じゃあさ まりりんも あのうけつけみたいなところにいったってこと？ >> あのしろいとこでしょ？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 46,
+      "episode": 8,
+      "japanese": "(麻美) そうそう… やっぱり同じなんだ え～｡",
+      "romaji": "(あさみ) そうそう… やっぱりおなじなんだ え～｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 47,
+      "episode": 8,
+      "japanese": "まりりんは来世 何て言われたの？ >> 私？",
+      "romaji": "まりりんはらいせ なんていわれたの？ >> わたし？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 48,
+      "episode": 8,
+      "japanese": "えっと… 一番最初はグアテマラ南東部のシロアリ｡",
+      "romaji": "えっと… いちばんさいしょはグアテマラなんとうぶのシロアリ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 49,
+      "episode": 8,
+      "japanese": "(麻美) ん？",
+      "romaji": "(あさみ) ん？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 50,
+      "episode": 8,
+      "japanese": ">> グアテマラ南東部のシロアリ｡",
+      "romaji": ">> グアテマラなんとうぶのシロアリ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 51,
+      "episode": 8,
+      "japanese": "(麻美) シロアリ？",
+      "romaji": "(あさみ) シロアリ？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 52,
+      "episode": 8,
+      "japanese": "何か オオアリクイに めっちゃ食べられてるシロアリ｡",
+      "romaji": "なにか オオアリクイに めっちゃたべられてるシロアリ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 53,
+      "episode": 8,
+      "japanese": "(麻美) へぇ～｡",
+      "romaji": "(あさみ) へぇ～｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 54,
+      "episode": 8,
+      "japanese": ">> 最悪でしょ？",
+      "romaji": ">> さいあくでしょ？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 55,
+      "episode": 8,
+      "japanese": "(麻美) 最悪だね｡",
+      "romaji": "(あさみ) さいあくだね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 56,
+      "episode": 8,
+      "japanese": "あんな舌で食べられるのとかさ 想像しただけでゾッとするよね｡",
+      "romaji": "あんなしたでたべられるのとかさ そうぞうしただけでゾッとするよね｡",
+      "chinese": "",
+      "context": "こちらになりますね",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 57,
+      "episode": 8,
+      "japanese": "(麻美) そうだね｡ >> しかもさ 何がムカつくってその時に出された シロアリの写真がさオオアリクイの写真の 使い回しなの ひどくない？",
+      "romaji": "(あさみ) そうだね｡ >> しかもさ なにがムカつくってそのときにだされた シロアリのしゃしんがさオオアリクイのしゃしんの つかいまわしなの ひどくない？",
+      "chinese": "",
+      "context": "こちらになりますね",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 58,
+      "episode": 8,
+      "japanese": "(受付係)〔こちらになりますね〕",
+      "romaji": "(うけつけかかり)〔こちらになりますね〕",
+      "chinese": "",
+      "context": "こちらになりますね",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 59,
+      "episode": 8,
+      "japanese": "(真里) シロアリメインじゃなくって オオアリクイメインで食べられてるシロアリを指して…｡",
+      "romaji": "(まり) シロアリメインじゃなくって オオアリクイメインでたべられてるシロアリをさして…｡",
+      "chinese": "",
+      "context": "こちらになりますね",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 60,
+      "episode": 8,
+      "japanese": "〔こっちですね この食べられてるほう〕",
+      "romaji": "〔こっちですね このたべられてるほう〕",
+      "chinese": "",
+      "context": "こちらになりますね",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 61,
+      "episode": 8,
+      "japanese": "(麻美) それはムカつくね｡ >> でしょ？",
+      "romaji": "(あさみ) それはムカつくね｡ >> でしょ？",
+      "chinese": "",
+      "context": "こちらになりますね",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 62,
+      "episode": 8,
+      "japanese": "胸ぐら つかみそうになったもん｡",
+      "romaji": "むねぐら つかみそうになったもん｡",
+      "chinese": "",
+      "context": "こっちですね この食べられてる",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 63,
+      "episode": 8,
+      "japanese": "(麻美) そうかぁ｡",
+      "romaji": "(あさみ) そうかぁ｡",
+      "chinese": "",
+      "context": "こっちですね この食べられてる",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 64,
+      "episode": 8,
+      "japanese": "えっ あーちんは？ 来世 何って言われた？",
+      "romaji": "えっ あーちんは？ らいせ なにっていわれた？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 65,
+      "episode": 8,
+      "japanese": "(麻美) 私？ 私も…シロアリ関係だね｡ >> えっ!? あーちんもシロアリ？",
+      "romaji": "(あさみ) わたし？ わたしも…シロアリかんけいだね｡ >> えっ!? あーちんもシロアリ？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 66,
+      "episode": 8,
+      "japanese": "(麻美) 何か シロアリ関係｡ >> えっ やった！",
+      "romaji": "(あさみ) なにか シロアリかんけい｡ >> えっ やった！",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 67,
+      "episode": 8,
+      "japanese": "あーちんもシロアリなんだ そっか じゃ 私たちそういう運命なのかな？",
+      "romaji": "あーちんもシロアリなんだ そっか じゃ わたしたちそういううんめいなのかな？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 68,
+      "episode": 8,
+      "japanese": "(麻美) まぁ そうかも｡",
+      "romaji": "(あさみ) まぁ そうかも｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 69,
+      "episode": 8,
+      "japanese": "あっ ねぇねぇ… じゃあさ まりりんもまた 人間になるために やり直してるってこと？",
+      "romaji": "あっ ねぇねぇ… じゃあさ まりりんもまた にんげんになるために やりなおしてるってこと？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 70,
+      "episode": 8,
+      "japanese": "うん まぁ それもあるんだけど 半々かな？",
+      "romaji": "うん まぁ それもあるんだけど はんはんかな？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 71,
+      "episode": 8,
+      "japanese": "(麻美) 半々？ >> うん｡",
+      "romaji": "(あさみ) はんはん？ >> うん｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 72,
+      "episode": 8,
+      "japanese": "実は もう一個 目的があってさ｡",
+      "romaji": "じつは もういっこ もくてきがあってさ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 73,
+      "episode": 8,
+      "japanese": "(麻美) 何？ 何？ 何？",
+      "romaji": "(あさみ) なに？ なに？ なに？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 74,
+      "episode": 8,
+      "japanese": "えっとね どっから話そうかな…｡",
+      "romaji": "えっとね どっからはなそうかな…｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 75,
+      "episode": 8,
+      "japanese": "あっ 待って ちなみにあーちんの記憶の中で 私って どういうイメージだった？",
+      "romaji": "あっ まって ちなみにあーちんのきおくのなかで わたしって どういうイメージだった？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 76,
+      "episode": 8,
+      "japanese": "(麻美) イメージ？ いや 私の中では もうず～っと優等生だね｡",
+      "romaji": "(あさみ) イメージ？ いや わたしのなかでは もうず～っとゆうとうせいだね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 77,
+      "episode": 8,
+      "japanese": "だから この４周目までは ほとんど喋ったこともなかった｡",
+      "romaji": "だから この４しゅうめまでは ほとんどしゃべったこともなかった｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 78,
+      "episode": 8,
+      "japanese": ">> やっぱ そっからになるんだ｡",
+      "romaji": ">> やっぱ そっからになるんだ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 79,
+      "episode": 8,
+      "japanese": "えっ 何 どういうこと？ 違うの？",
+      "romaji": "えっ なに どういうこと？ ちがうの？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 80,
+      "episode": 8,
+      "japanese": ">> 全然｡",
+      "romaji": ">> ぜんぜん｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 81,
+      "episode": 8,
+      "japanese": "(麻美) え？",
+      "romaji": "(あさみ) え？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 82,
+      "episode": 8,
+      "japanese": "私の１周目なんて 優等生どころか 中の下ぐらいだから｡",
+      "romaji": "わたしの１しゅうめなんて ゆうとうせいどころか なかのさぐらいだから｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 83,
+      "episode": 8,
+      "japanese": "(麻美) えっ？ 全然イメージ湧かないわ｡",
+      "romaji": "(あさみ) えっ？ ぜんぜんイメージわかないわ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 84,
+      "episode": 8,
+      "japanese": "えっ ちょっと待って え？ >> しかもさ 元々は私と あーちんと なっちと みーぽんの４人グループだったからね｡",
+      "romaji": "えっ ちょっとまって え？ >> しかもさ もともとはわたしと あーちんと なっちと みーぽんの４にんグループだったからね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 85,
+      "episode": 8,
+      "japanese": "(麻美) えっ そうなの？",
+      "romaji": "(あさみ) えっ そうなの？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 86,
+      "episode": 8,
+      "japanese": "(真里) うん｡",
+      "romaji": "(まり) うん｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 87,
+      "episode": 8,
+      "japanese": "混乱するよね｡",
+      "romaji": "こんらんするよね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 88,
+      "episode": 8,
+      "japanese": "(麻美) うん｡",
+      "romaji": "(あさみ) うん｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 89,
+      "episode": 8,
+      "japanese": "順を追って 話してくからさ｡",
+      "romaji": "じゅんをおって はなしてくからさ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 90,
+      "episode": 8,
+      "japanese": "(話し声)",
+      "romaji": "(はなしごえ)",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 91,
+      "episode": 8,
+      "japanese": "(チャイム)",
+      "romaji": "(チャイム)",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 92,
+      "episode": 8,
+      "japanese": "(真里) あっ あーちん｡",
+      "romaji": "(まり) あっ あーちん｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 93,
+      "episode": 8,
+      "japanese": "(麻美) まりりん｡",
+      "romaji": "(あさみ) まりりん｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 94,
+      "episode": 8,
+      "japanese": "(真里) 一緒に帰ろう｡",
+      "romaji": "(まり) いっしょにかえろう｡",
+      "chinese": "",
+      "context": "あの頃 ４人はいつも一緒だった",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 95,
+      "episode": 8,
+      "japanese": "(麻美) うん 帰ろう｡",
+      "romaji": "(あさみ) うん かえろう｡",
+      "chinese": "",
+      "context": "あの頃 ４人はいつも一緒だった",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 96,
+      "episode": 8,
+      "japanese": "(真里) ⟨あの頃 ４人はいつも一緒だった⟩",
+      "romaji": "(まり) ⟨あのごろ ４にんはいつもいっしょだった⟩",
+      "chinese": "",
+      "context": "あの頃 ４人はいつも一緒だった",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 97,
+      "episode": 8,
+      "japanese": "(夏希) 今日 ドラマクラブやる？",
+      "romaji": "(なつき) きょう ドラマクラブやる？",
+      "chinese": "",
+      "context": "あの頃 ４人はいつも一緒だった",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 98,
+      "episode": 8,
+      "japanese": "(真里) やろう やろう｡",
+      "romaji": "(まり) やろう やろう｡",
+      "chinese": "",
+      "context": "あの頃 ４人はいつも一緒だった",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 99,
+      "episode": 8,
+      "japanese": "(夏希) じゃ 帰ったら 小松商店 集合ね｡",
+      "romaji": "(なつき) じゃ かえったら こまつしょうてん しゅうごうね｡",
+      "chinese": "",
+      "context": "あの頃 ４人はいつも一緒だった",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 100,
+      "episode": 8,
+      "japanese": "(麻美) ＯＫ！",
+      "romaji": "(あさみ) ＯＫ！",
+      "chinese": "",
+      "context": "ドラマ好きだった私たちは ドラ",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 101,
+      "episode": 8,
+      "japanese": "(美穂) “ビーチボーイズ”良かったよね｡",
+      "romaji": "(みほ) “ビーチボーイズ”よかったよね｡",
+      "chinese": "",
+      "context": "ドラマ好きだった私たちは ドラ",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 102,
+      "episode": 8,
+      "japanese": "⟨ドラマ好きだった私たちは ドラマクラブというドラマについて語り合うだけの クラブを結成していた⟩",
+      "romaji": "⟨ドラマすきだったわたしたちは ドラマクラブというドラマについてかたりあうだけの クラブをけっせいしていた⟩",
+      "chinese": "",
+      "context": "ドラマ好きだった私たちは ドラ",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 103,
+      "episode": 8,
+      "japanese": "(夏希) でもさ やっぱり今期は “ナースのお仕事”じゃない？",
+      "romaji": "(なつき) でもさ やっぱりこんきは “ナースのおしごと”じゃない？",
+      "chinese": "",
+      "context": "ドラマ好きだった私たちは ドラ",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 104,
+      "episode": 8,
+      "japanese": "(麻美) まぁ そうだよね｡",
+      "romaji": "(あさみ) まぁ そうだよね｡",
+      "chinese": "",
+      "context": "ドラマ好きだった私たちは ドラ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 105,
+      "episode": 8,
+      "japanese": ">> あとは “ラブジェネ”じゃない？",
+      "romaji": ">> あとは “ラブジェネ”じゃない？",
+      "chinese": "",
+      "context": "ドラマ好きだった私たちは ドラ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 106,
+      "episode": 8,
+      "japanese": "(美穂) あ～ “ラブジェネ”ね！",
+      "romaji": "(みほ) あ～ “ラブジェネ”ね！",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 107,
+      "episode": 8,
+      "japanese": "(夏希)“ラブジェネ”忘れてた｡",
+      "romaji": "(なつき)“ラブジェネ”わすれてた｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 108,
+      "episode": 8,
+      "japanese": "(麻美)“ラブジェネ”も面白いよね｡",
+      "romaji": "(あさみ)“ラブジェネ”もおもしろいよね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 109,
+      "episode": 8,
+      "japanese": "(夏希) 面白いよね｡",
+      "romaji": "(なつき) おもしろいよね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 110,
+      "episode": 8,
+      "japanese": "(美穂) じゃあ 今期は“ナースのお仕事”と “ラブジェネ”の２本かな？",
+      "romaji": "(みほ) じゃあ こんきは“ナースのおしごと”と “ラブジェネ”の２ほんかな？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 111,
+      "episode": 8,
+      "japanese": "(麻美) 今期は… そうだね うん｡",
+      "romaji": "(あさみ) こんきは… そうだね うん｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 112,
+      "episode": 8,
+      "japanese": "(夏希) ねぇ ヤマト行かない？",
+      "romaji": "(なつき) ねぇ ヤマトいかない？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 113,
+      "episode": 8,
+      "japanese": "(美穂) いいよ｡",
+      "romaji": "(みほ) いいよ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 114,
+      "episode": 8,
+      "japanese": "(麻美) なっち 何見るの？",
+      "romaji": "(あさみ) なっち なにみるの？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 115,
+      "episode": 8,
+      "japanese": "(夏希) 私ね シール見たいんだよね～｡",
+      "romaji": "(なつき) わたしね シールみたいんだよね～｡",
+      "chinese": "",
+      "context": "当時 私たちの間では シールが",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 116,
+      "episode": 8,
+      "japanese": "(麻美) 私も見たい！",
+      "romaji": "(あさみ) わたしもみたい！",
+      "chinese": "",
+      "context": "当時 私たちの間では シールが",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 117,
+      "episode": 8,
+      "japanese": "⟨当時 私たちの間では シールが流行っていて文房具店で かわいいシールを買っては…⟩",
+      "romaji": "⟨とうじ わたしたちのかんでは シールがはやっていてぶんぼうぐてんで かわいいシールをかっては…⟩",
+      "chinese": "",
+      "context": "当時 私たちの間では シールが",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 118,
+      "episode": 8,
+      "japanese": "⟨シール帳に貼ったり 交換したりしていた⟩",
+      "romaji": "⟨シールちょうにはったり こうかんしたりしていた⟩",
+      "chinese": "",
+      "context": "当時 私たちの間では シールが",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 119,
+      "episode": 8,
+      "japanese": "(夏希) まりりん お誕生日おめでとう！",
+      "romaji": "(なつき) まりりん おたんじょうびおめでとう！",
+      "chinese": "",
+      "context": "当時 私たちの間では シールが",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 120,
+      "episode": 8,
+      "japanese": "(麻美:美穂) おめでとう！ >> え～ ありがとう！",
+      "romaji": "(あさみ:みほ) おめでとう！ >> え～ ありがとう！",
+      "chinese": "",
+      "context": "当時 私たちの間では シールが",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 121,
+      "episode": 8,
+      "japanese": "(夏希) これ ３人から｡ >> えっ ホントに？",
+      "romaji": "(なつき) これ ３にんから｡ >> えっ ホントに？",
+      "chinese": "",
+      "context": "シール帳に貼ったり 交換したり",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 122,
+      "episode": 8,
+      "japanese": "開けていい？",
+      "romaji": "ひらけていい？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 123,
+      "episode": 8,
+      "japanese": "(美穂) 開けて 開けて｡",
+      "romaji": "(みほ) ひらけて ひらけて｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 124,
+      "episode": 8,
+      "japanese": "ナカムラくんじゃん！",
+      "romaji": "ナカムラくんじゃん！",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 125,
+      "episode": 8,
+      "japanese": "超かわいい！",
+      "romaji": "ちょうかわいい！",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 126,
+      "episode": 8,
+      "japanese": "(３人) よかった～！",
+      "romaji": "(３にん) よかった～！",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 127,
+      "episode": 8,
+      "japanese": "(夏希) 喜んでくれて｡",
+      "romaji": "(なつき) よろこんでくれて｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 128,
+      "episode": 8,
+      "japanese": "(麻美) まりりんエンジェルブルー 好きだったもんね｡",
+      "romaji": "(あさみ) まりりんエンジェルブルー すきだったもんね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 129,
+      "episode": 8,
+      "japanese": "うれしい！ かわいい！",
+      "romaji": "うれしい！ かわいい！",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 130,
+      "episode": 8,
+      "japanese": "(美穂) 私ね このカッペくんが好きなの｡",
+      "romaji": "(みほ) わたしね このカッペくんがすきなの｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 131,
+      "episode": 8,
+      "japanese": "(夏希) 私 ハナちゃんのほうが好きかな｡",
+      "romaji": "(なつき) わたし ハナちゃんのほうがすきかな｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 132,
+      "episode": 8,
+      "japanese": "(美穂) あ～ やっぱね｡",
+      "romaji": "(みほ) あ～ やっぱね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 133,
+      "episode": 8,
+      "japanese": "ハナちゃんもかわいいもんね｡ >> これ かわいい｡",
+      "romaji": "ハナちゃんもかわいいもんね｡ >> これ かわいい｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 134,
+      "episode": 8,
+      "japanese": "(夏希) よかった 喜んでくれて｡",
+      "romaji": "(なつき) よかった よろこんでくれて｡",
+      "chinese": "",
+      "context": "中学に入ってからも 私たちは ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 135,
+      "episode": 8,
+      "japanese": "(美穂) ねぇねぇ 今年さ ドラマ 何が一番面白かったと思う？",
+      "romaji": "(みほ) ねぇねぇ こんねんさ ドラマ なにがいちばんおもしろかったとおもう？",
+      "chinese": "",
+      "context": "中学に入ってからも 私たちは ",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 136,
+      "episode": 8,
+      "japanese": "⟨中学に入ってからも 私たちは ずっと一緒だった⟩",
+      "romaji": "⟨ちゅうがくにいっってからも わたしたちは ずっといっしょだった⟩",
+      "chinese": "",
+      "context": "中学に入ってからも 私たちは ",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 137,
+      "episode": 8,
+      "japanese": "出た 竹野内 豊｡",
+      "romaji": "でた たけのうち ゆたか｡",
+      "chinese": "",
+      "context": "中学に入ってからも 私たちは ",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 138,
+      "episode": 8,
+      "japanese": "(麻美) 大好きじゃん｡",
+      "romaji": "(あさみ) だいすきじゃん｡",
+      "chinese": "",
+      "context": "中学に入ってからも 私たちは ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 139,
+      "episode": 8,
+      "japanese": "(４人) おぉ…｡",
+      "romaji": "(４にん) おぉ…｡",
+      "chinese": "",
+      "context": "中学に入ってからも 私たちは ",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 140,
+      "episode": 8,
+      "japanese": "(美穂) デカっ｡",
+      "romaji": "(みほ) デカっ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 141,
+      "episode": 8,
+      "japanese": "(夏希) 何か 地元じゃないみたい｡",
+      "romaji": "(なつき) なにか じもとじゃないみたい｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 142,
+      "episode": 8,
+      "japanese": "(麻美) すごいね｡ >> ここ住みたいんだけど｡",
+      "romaji": "(あさみ) すごいね｡ >> ここすみたいんだけど｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 143,
+      "episode": 8,
+      "japanese": "(夏希) 分かる｡",
+      "romaji": "(なつき) わかる｡",
+      "chinese": "",
+      "context": "今まで ジャスコくらいしか遊ぶ",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 144,
+      "episode": 8,
+      "japanese": "(美穂) えっ 住みたくはなくない？",
+      "romaji": "(みほ) えっ すみたくはなくない？",
+      "chinese": "",
+      "context": "今まで ジャスコくらいしか遊ぶ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 145,
+      "episode": 8,
+      "japanese": "⟨今まで ジャスコくらいしか遊ぶ場所がなかった 私たちにとってここは 夢のような空間だった⟩",
+      "romaji": "⟨いままで ジャスコくらいしかあそぶばしょがなかった わたしたちにとってここは ゆめのようなくうかんだった⟩",
+      "chinese": "",
+      "context": "今まで ジャスコくらいしか遊ぶ",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 146,
+      "episode": 8,
+      "japanese": "(美穂) 私これ ずっと取っとこう｡",
+      "romaji": "(みほ) わたしこれ ずっととっとこう｡",
+      "chinese": "",
+      "context": "今まで ジャスコくらいしか遊ぶ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 147,
+      "episode": 8,
+      "japanese": "(真里:夏希) 私も！",
+      "romaji": "(まり:なつき) わたしも！",
+      "chinese": "",
+      "context": "今まで ジャスコくらいしか遊ぶ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 148,
+      "episode": 8,
+      "japanese": "(麻美) 私も 取っとこう｡",
+      "romaji": "(あさみ) わたしも とっとこう｡",
+      "chinese": "",
+      "context": "今まで ジャスコくらいしか遊ぶ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 149,
+      "episode": 8,
+      "japanese": "(高校生たちの会話)",
+      "romaji": "(こうこうせいたちのかいわ)",
+      "chinese": "",
+      "context": "中学卒業後 私は川塚高校に入学",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 150,
+      "episode": 8,
+      "japanese": "おはよう｡",
+      "romaji": "おはよう｡",
+      "chinese": "",
+      "context": "中学卒業後 私は川塚高校に入学",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 151,
+      "episode": 8,
+      "japanese": "⟨中学卒業後 私は川塚高校に入学した⟩",
+      "romaji": "⟨ちゅうがくそつぎょうのち わたしはかわつかこうこうににゅうがくした⟩",
+      "chinese": "",
+      "context": "中学卒業後 私は川塚高校に入学",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 152,
+      "episode": 8,
+      "japanese": "え？ あーちん？",
+      "romaji": "え？ あーちん？",
+      "chinese": "",
+      "context": "中学卒業後 私は川塚高校に入学",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 153,
+      "episode": 8,
+      "japanese": "(麻美) お～ まりりん｡",
+      "romaji": "(あさみ) お～ まりりん｡",
+      "chinese": "",
+      "context": "中学卒業後 私は川塚高校に入学",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 154,
+      "episode": 8,
+      "japanese": ">> メールする｡",
+      "romaji": ">> メールする｡",
+      "chinese": "",
+      "context": "中学卒業後 私は川塚高校に入学",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 155,
+      "episode": 8,
+      "japanese": "(男子生徒) 誰？ 誰？ 誰？",
+      "romaji": "(だんしせいと) だれ？ だれ？ だれ？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 156,
+      "episode": 8,
+      "japanese": "(まどか) おはよう｡",
+      "romaji": "(まどか) おはよう｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 157,
+      "episode": 8,
+      "japanese": "(麻美) おはよう｡",
+      "romaji": "(あさみ) おはよう｡",
+      "chinese": "",
+      "context": "うちの学校は ギャルっぽい子が",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 158,
+      "episode": 8,
+      "japanese": "どうだった？",
+      "romaji": "どうだった？",
+      "chinese": "",
+      "context": "うちの学校は ギャルっぽい子が",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 159,
+      "episode": 8,
+      "japanese": "⟨うちの学校は ギャルっぽい子が 多かった影響もあって…⟩",
+      "romaji": "⟨うちのがっこうは ギャルっぽいこが おおかったえいきょうもあって…⟩",
+      "chinese": "",
+      "context": "うちの学校は ギャルっぽい子が",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 160,
+      "episode": 8,
+      "japanese": "昨日の“野ブタ｡”見た？ >> 見た！",
+      "romaji": "きのうの“のブタ｡”みた？ >> みた！",
+      "chinese": "",
+      "context": "うちの学校は ギャルっぽい子が",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 161,
+      "episode": 8,
+      "japanese": "⟨この頃は 若干 ギャル寄りだった⟩",
+      "romaji": "⟨このごろは じゃっかん ギャルよりだった⟩",
+      "chinese": "",
+      "context": "うちの学校は ギャルっぽい子が",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 162,
+      "episode": 8,
+      "japanese": "⟨高校卒業後私は 保育士の専門学校に入学⟩",
+      "romaji": "⟨こうこうそつぎょうごわたしは ほいくさむらいのせんもんがっこうににゅうがく⟩",
+      "chinese": "",
+      "context": "うちの学校は ギャルっぽい子が",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 163,
+      "episode": 8,
+      "japanese": "⟨４人とも 学校はバラバラだったけど休みになると一緒に遊んでいた⟩",
+      "romaji": "⟨４にんとも がっこうはバラバラだったけどやすみになるといっしょにあそんでいた⟩",
+      "chinese": "",
+      "context": "この頃は 若干 ギャル寄りだっ",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 164,
+      "episode": 8,
+      "japanese": "(麻美) 何か みーぽんが運転してんの不思議｡",
+      "romaji": "(あさみ) なにか みーぽんがうんてんしてんのふしぎ｡",
+      "chinese": "",
+      "context": "この頃は 若干 ギャル寄りだっ",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 165,
+      "episode": 8,
+      "japanese": ">> 分かる 超違和感あるよね｡",
+      "romaji": ">> わかる ちょういわかんあるよね｡",
+      "chinese": "",
+      "context": "高校卒業後私は 保育士の専門学",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 166,
+      "episode": 8,
+      "japanese": "(美穂) そう？",
+      "romaji": "(みほ) そう？",
+      "chinese": "",
+      "context": "４人とも 学校はバラバラだった",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 167,
+      "episode": 8,
+      "japanese": "(夏希) いや 感慨深いよ あのみーぽんがだよ？",
+      "romaji": "(なつき) いや かんがいふかいよ あのみーぽんがだよ？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 168,
+      "episode": 8,
+      "japanese": "(麻美) そうだよ あのみーぽんが 運転してんだもん｡",
+      "romaji": "(あさみ) そうだよ あのみーぽんが うんてんしてんだもん｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 169,
+      "episode": 8,
+      "japanese": "あのみーぽんが 車間距離 取ってね｡",
+      "romaji": "あのみーぽんが しゃかんきょり とってね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 170,
+      "episode": 8,
+      "japanese": "(夏希) あのみーぽんが時速40kmでさ｡",
+      "romaji": "(なつき) あのみーぽんがじそく40kmでさ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 171,
+      "episode": 8,
+      "japanese": "(麻美) あのみーぽんが法定速度をさ｡",
+      "romaji": "(あさみ) あのみーぽんがほうていそくどをさ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 172,
+      "episode": 8,
+      "japanese": "見て！ あのみーぽんが 右折しようとしてる｡",
+      "romaji": "みて！ あのみーぽんが うせつしようとしてる｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 173,
+      "episode": 8,
+      "japanese": "(美穂) どのみーぽんのこと言ってんの？",
+      "romaji": "(みほ) どのみーぽんのこといってんの？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 174,
+      "episode": 8,
+      "japanese": "(３人) あのみーぽんだよ！",
+      "romaji": "(３にん) あのみーぽんだよ！",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 175,
+      "episode": 8,
+      "japanese": "(美穂) そろってるし｡",
+      "romaji": "(みほ) そろってるし｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 176,
+      "episode": 8,
+      "japanese": "(麻美) これで うちらの行動範囲も 一気に広がるよね｡",
+      "romaji": "(あさみ) これで うちらのこうどうはんいも いっきにひろがるよね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 177,
+      "episode": 8,
+      "japanese": "(夏希) 広がる｡",
+      "romaji": "(なつき) ひろがる｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 178,
+      "episode": 8,
+      "japanese": "何かさ “ドラクエ”で 船取った時の感覚だよね｡",
+      "romaji": "なにかさ “ドラクエ”で ふねとったときのかんかくだよね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 179,
+      "episode": 8,
+      "japanese": "船っていうかルーラじゃない？",
+      "romaji": "ふねっていうかルーラじゃない？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 180,
+      "episode": 8,
+      "japanese": "(夏希) どっちかっていうと船だよね？",
+      "romaji": "(なつき) どっちかっていうとふねだよね？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 181,
+      "episode": 8,
+      "japanese": "(美穂) 私 “ドラクエ”やんないから 分かんない｡",
+      "romaji": "(みほ) わたし “ドラクエ”やんないから わかんない｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 182,
+      "episode": 8,
+      "japanese": "(麻美) 私も分かんない｡",
+      "romaji": "(あさみ) わたしもわかんない｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 183,
+      "episode": 8,
+      "japanese": "(夏希) ２人ともＦＦ派？",
+      "romaji": "(なつき) ２にんともＦＦは？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 184,
+      "episode": 8,
+      "japanese": "(麻美)“ＦＦ”も やんない｡",
+      "romaji": "(あさみ)“ＦＦ”も やんない｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 185,
+      "episode": 8,
+      "japanese": "(美穂) 私も どっち派でもない 強いて言うなら 犬派｡",
+      "romaji": "(みほ) わたしも どっちはでもない しいていうなら いぬは｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 186,
+      "episode": 8,
+      "japanese": "(夏希) 何の話？",
+      "romaji": "(なつき) なんのはなし？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 187,
+      "episode": 8,
+      "japanese": "(麻美) 私 しょうゆ派｡",
+      "romaji": "(あさみ) わたし しょうゆは｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 188,
+      "episode": 8,
+      "japanese": "(美穂) あっ 目玉焼き？ 私も しょうゆだな｡",
+      "romaji": "(みほ) あっ めだまやきき？ わたしも しょうゆだな｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 189,
+      "episode": 8,
+      "japanese": ">> 私 ソース｡",
+      "romaji": ">> わたし ソース｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 190,
+      "episode": 8,
+      "japanese": "(美穂) マジで？",
+      "romaji": "(みほ) マジで？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 191,
+      "episode": 8,
+      "japanese": ">> しょうゆかけて食べたことない｡",
+      "romaji": ">> しょうゆかけてたべたことない｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 192,
+      "episode": 8,
+      "japanese": "(美穂) そんな人いるんだ｡",
+      "romaji": "(みほ) そんなにんいるんだ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 193,
+      "episode": 8,
+      "japanese": "なっちは？",
+      "romaji": "なっちは？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 194,
+      "episode": 8,
+      "japanese": "(夏希) 私？",
+      "romaji": "(なつき) わたし？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 195,
+      "episode": 8,
+      "japanese": "(麻美) なっちは ドラクエ派でしょ？",
+      "romaji": "(あさみ) なっちは ドラクエはでしょ？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 196,
+      "episode": 8,
+      "japanese": "(夏希) しょうゆ派だよ｡",
+      "romaji": "(なつき) しょうゆはだよ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 197,
+      "episode": 8,
+      "japanese": ">> 目玉焼きに“ﾄﾞﾗｸｴ”かけんでしょ？",
+      "romaji": ">> めだまやききに“ﾄﾞﾗｸｴ”かけんでしょ？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 198,
+      "episode": 8,
+      "japanese": "(夏希) かけねえよ｡",
+      "romaji": "(なつき) かけねえよ｡",
+      "chinese": "",
+      "context": "思えば この日が10代で 一番",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 199,
+      "episode": 8,
+      "japanese": "(ｶｰｽﾃﾚｵ)♪～ “White Love”",
+      "romaji": "(ｶｰｽﾃﾚｵ)♪～ “White Love”",
+      "chinese": "",
+      "context": "思えば この日が10代で 一番",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 200,
+      "episode": 8,
+      "japanese": "⟨思えば この日が10代で 一番楽しかった気がする⟩",
+      "romaji": "⟨おもえば このにちが10だいで いちばんらくしかったきがする⟩",
+      "chinese": "",
+      "context": "思えば この日が10代で 一番",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 201,
+      "episode": 8,
+      "japanese": "(美穂) え？ 何か近くない？ 怖い怖い怖い｡",
+      "romaji": "(みほ) え？ なにかちかくない？ こわいこわいこわい｡",
+      "chinese": "",
+      "context": "思えば この日が10代で 一番",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 202,
+      "episode": 8,
+      "japanese": "⟨そして翌年⟩",
+      "romaji": "⟨そしてよくねん⟩",
+      "chinese": "",
+      "context": "思えば この日が10代で 一番",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 203,
+      "episode": 8,
+      "japanese": "(市長) おめでとうございます 輝かしい未来を切り開いて…｡",
+      "romaji": "(しちょう) おめでとうございます かがやかしいみらいをきりひらいて…｡",
+      "chinese": "",
+      "context": "思えば この日が10代で 一番",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 204,
+      "episode": 8,
+      "japanese": "(男) おい！ そうじゃねえだろ ジジイ！",
+      "romaji": "(おとこ) おい！ そうじゃねえだろ ジジイ！",
+      "chinese": "",
+      "context": "そして翌年",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 205,
+      "episode": 8,
+      "japanese": "つまんねえ話 してんじゃねえぞ｡",
+      "romaji": "つまんねえはなし してんじゃねえぞ｡",
+      "chinese": "",
+      "context": "そして翌年",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 206,
+      "episode": 8,
+      "japanese": "(男) よっ 待ってました～！",
+      "romaji": "(おとこ) よっ まってました～！",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 207,
+      "episode": 8,
+      "japanese": "ウェ～イ！ ウェ～イ！",
+      "romaji": "ウェ～イ！ ウェ～イ！",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 208,
+      "episode": 8,
+      "japanese": "(美穂) ああいう人たちって ホントにいるんだ｡",
+      "romaji": "(みほ) ああいうにんたちって ホントにいるんだ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 209,
+      "episode": 8,
+      "japanese": "(夏希) ねぇ ニュースでしか 見たことなかったよね｡",
+      "romaji": "(なつき) ねぇ ニュースでしか みたことなかったよね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 210,
+      "episode": 8,
+      "japanese": "ちなみにさ あの人って 今まで ニュースとか見てたのかな？",
+      "romaji": "ちなみにさ あのにんって いままで ニュースとかみてたのかな？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 211,
+      "episode": 8,
+      "japanese": "(美穂) そりゃ見てたでしょ だから やってんじゃない？",
+      "romaji": "(みほ) そりゃみてたでしょ だから やってんじゃない？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 212,
+      "episode": 8,
+      "japanese": "(麻美) 知らなかったら やろうとは思わないよね｡",
+      "romaji": "(あさみ) しらなかったら やろうとはおもわないよね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 213,
+      "episode": 8,
+      "japanese": "えっ じゃあ ニュース見て｢成人したら俺もやりたい｣って 思ったってこと？",
+      "romaji": "えっ じゃあ ニュースみて｢せいじんしたらおれもやりたい｣って おもったってこと？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 214,
+      "episode": 8,
+      "japanese": "(美穂) 思ったんじゃん？",
+      "romaji": "(みほ) おもったんじゃん？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 215,
+      "episode": 8,
+      "japanese": "(夏希) じゃ 憧れの成人式暴れを 今やってんだ｡",
+      "romaji": "(なつき) じゃ あこがれのせいじんしきあばれを いまやってんだ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 216,
+      "episode": 8,
+      "japanese": "へぇ～｡",
+      "romaji": "へぇ～｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 217,
+      "episode": 8,
+      "japanese": "(麻美) だってさ この人 これのために 朝 早起きして着付けしてセットして 来てるからね｡",
+      "romaji": "(あさみ) だってさ このにん これのために あさ はやおきしてきつけしてセットして きてるからね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 218,
+      "episode": 8,
+      "japanese": "(美穂) そうだよ ちゃんと目覚ましかけてんだよ｡",
+      "romaji": "(みほ) そうだよ ちゃんとめざましかけてんだよ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 219,
+      "episode": 8,
+      "japanese": "寝坊したら終わりだもんね｡",
+      "romaji": "ねぼうしたらおわりだもんね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 220,
+      "episode": 8,
+      "japanese": "ねぇ これってさ どうなったら成功なの？",
+      "romaji": "ねぇ これってさ どうなったらせいこうなの？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 221,
+      "episode": 8,
+      "japanese": "(美穂) 分かんない｡",
+      "romaji": "(みほ) わかんない｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 222,
+      "episode": 8,
+      "japanese": "(夏希) あの人は成功なの？",
+      "romaji": "(なつき) あのにんはせいこうなの？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 223,
+      "episode": 8,
+      "japanese": "(美穂) 多分だけど 失敗じゃない？",
+      "romaji": "(みほ) たぶんだけど しっぱいじゃない？",
+      "chinese": "",
+      "context": "ちなみに 彼が高校の クラスメ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 224,
+      "episode": 8,
+      "japanese": "(夏希) だよね｡",
+      "romaji": "(なつき) だよね｡",
+      "chinese": "",
+      "context": "ちなみに 彼が高校の クラスメ",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 225,
+      "episode": 8,
+      "japanese": "⟨ちなみに 彼が高校の クラスメートだということは恥ずかしいので伏せておいた⟩",
+      "romaji": "⟨ちなみに かれがこうこうの クラスメートだということははずかしいのでふせておいた⟩",
+      "chinese": "",
+      "context": "ちなみに 彼が高校の クラスメ",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 226,
+      "episode": 8,
+      "japanese": "⟨成人式の後は 西中のみんなで カラオケに集合した⟩",
+      "romaji": "⟨せいじんしきののちは にしなかのみんなで カラオケにしゅうごうした⟩",
+      "chinese": "",
+      "context": "ちなみに 彼が高校の クラスメ",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 227,
+      "episode": 8,
+      "japanese": "(一同) イェ～イ！",
+      "romaji": "(いちどう) イェ～イ！",
+      "chinese": "",
+      "context": "ちなみに 彼が高校の クラスメ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 228,
+      "episode": 8,
+      "japanese": "(加藤) おめでとう 乾杯！",
+      "romaji": "(かとう) おめでとう かんぱい！",
+      "chinese": "",
+      "context": "ちなみに 彼が高校の クラスメ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 229,
+      "episode": 8,
+      "japanese": "⟨ちなみに 中学時代に ひそかに思いを寄せていたあの加藤君は もう この世に存在していなくて⟩",
+      "romaji": "⟨ちなみに ちゅうがくじだいに ひそかにおもいをよせていたあのかとうくんは もう このよにそんざいしていなくて⟩",
+      "chinese": "",
+      "context": "成人式の後は 西中のみんなで ",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 230,
+      "episode": 8,
+      "japanese": "⟨逆に 特に意識していなかった 福ちゃんが…⟩",
+      "romaji": "⟨ぎゃくに とくにいしきしていなかった ふくちゃんが…⟩",
+      "chinese": "",
+      "context": "ちなみに 中学時代に ひそかに",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 231,
+      "episode": 8,
+      "japanese": "(福田) 宇野は今 何やってんの？ >> 今？",
+      "romaji": "(ふくだ) うのはいま なにやってんの？ >> いま？",
+      "chinese": "",
+      "context": "ちなみに 中学時代に ひそかに",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 232,
+      "episode": 8,
+      "japanese": "保育の専門行ってる｡ >> え～ 保育？ 似合うね｡",
+      "romaji": "ほいくのせんもんいってる｡ >> え～ ほいく？ にあうね｡",
+      "chinese": "",
+      "context": "ちなみに 中学時代に ひそかに",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 233,
+      "episode": 8,
+      "japanese": "ホント？ >> うんうん…｡",
+      "romaji": "ホント？ >> うんうん…｡",
+      "chinese": "",
+      "context": "逆に 特に意識していなかった ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 234,
+      "episode": 8,
+      "japanese": "⟨何だか カッコよくなっていた⟩",
+      "romaji": "⟨なんだか カッコよくなっていた⟩",
+      "chinese": "",
+      "context": "何だか カッコよくなっていた",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 235,
+      "episode": 8,
+      "japanese": "⟨しかも…⟩",
+      "romaji": "⟨しかも…⟩",
+      "chinese": "",
+      "context": "何だか カッコよくなっていた",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 236,
+      "episode": 8,
+      "japanese": "♪～ オレの青春 そんなもんじゃない",
+      "romaji": "♪～ オレのせいしゅん そんなもんじゃない",
+      "chinese": "",
+      "context": "何だか カッコよくなっていた",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 237,
+      "episode": 8,
+      "japanese": "♪～ 熱く奥で果てたいよ",
+      "romaji": "♪～ あつくおくではてたいよ",
+      "chinese": "",
+      "context": "何だか カッコよくなっていた",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 238,
+      "episode": 8,
+      "japanese": "⟨歌も うまかった⟩",
+      "romaji": "⟨うたも うまかった⟩",
+      "chinese": "",
+      "context": "しかも…",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 239,
+      "episode": 8,
+      "japanese": "♪～ オレは イケナイ太陽",
+      "romaji": "♪～ オレは イケナイたいよう",
+      "chinese": "",
+      "context": "歌も うまかった",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 240,
+      "episode": 8,
+      "japanese": "♪～ Ｎａ Ｎａ",
+      "romaji": "♪～ Ｎａ Ｎａ",
+      "chinese": "",
+      "context": "歌も うまかった",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 241,
+      "episode": 8,
+      "japanese": "赤外線どこ？ ここ ここ｡",
+      "romaji": "せきがいせんどこ？ ここ ここ｡",
+      "chinese": "",
+      "context": "歌も うまかった",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 242,
+      "episode": 8,
+      "japanese": "そこ？ あぁ 来た 来た｡",
+      "romaji": "そこ？ あぁ きた きた｡",
+      "chinese": "",
+      "context": "これが きっかけで私は福ちゃん",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 243,
+      "episode": 8,
+      "japanese": "登録しました｡ >> は～い｡",
+      "romaji": "とうろくしました｡ >> は～い｡",
+      "chinese": "",
+      "context": "これが きっかけで私は福ちゃん",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 244,
+      "episode": 8,
+      "japanese": "⟨これが きっかけで私は福ちゃんと 連絡を取るようになり…⟩",
+      "romaji": "⟨これが きっかけでわたしはふくちゃんと れんらくをとるようになり…⟩",
+      "chinese": "",
+      "context": "これが きっかけで私は福ちゃん",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 245,
+      "episode": 8,
+      "japanese": "(加藤)♪～ 粉雪 ねえ",
+      "romaji": "(かとう)♪～ こなゆき ねえ",
+      "chinese": "",
+      "context": "これが きっかけで私は福ちゃん",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 246,
+      "episode": 8,
+      "japanese": "♪～ 心まで白く",
+      "romaji": "♪～ こころまでしろく",
+      "chinese": "",
+      "context": "これが きっかけで私は福ちゃん",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 247,
+      "episode": 8,
+      "japanese": "⟨数か月後 私たちは付き合い始めた⟩",
+      "romaji": "⟨すうかげつのち わたしたちはつきあいはじめた⟩",
+      "chinese": "",
+      "context": "これが きっかけで私は福ちゃん",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 248,
+      "episode": 8,
+      "japanese": "(福田) 今度 路上ライブやろうと 思ってるんだよね｡",
+      "romaji": "(ふくだ) こんど ろじょうライブやろうと おもってるんだよね｡",
+      "chinese": "",
+      "context": "数か月後 私たちは付き合い始め",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 249,
+      "episode": 8,
+      "japanese": "えっ！ いいじゃん｡ >> ホント？",
+      "romaji": "えっ！ いいじゃん｡ >> ホント？",
+      "chinese": "",
+      "context": "数か月後 私たちは付き合い始め",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 250,
+      "episode": 8,
+      "japanese": "何歌うの？ >> まぁ そうね今なら コブクロじゃない？ >> え～ いいじゃん！",
+      "romaji": "なにうたうの？ >> まぁ そうねいまなら コブクロじゃない？ >> え～ いいじゃん！",
+      "chinese": "",
+      "context": "数か月後 私たちは付き合い始め",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 251,
+      "episode": 8,
+      "japanese": "♪～ 何も無い場所だけれど",
+      "romaji": "♪～ なにもないばしょだけれど",
+      "chinese": "",
+      "context": "音楽のほうは なかなか 売れそ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 252,
+      "episode": 8,
+      "japanese": "♪～ ここにしか咲かない花がある",
+      "romaji": "♪～ ここにしかさかないはながある",
+      "chinese": "",
+      "context": "音楽のほうは なかなか 売れそ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 253,
+      "episode": 8,
+      "japanese": "⟨音楽のほうは なかなか 売れそうになかったけどそれでも 私は彼の夢を 一生支えていくつもりだった⟩",
+      "romaji": "⟨おんがくのほうは なかなか うれそうになかったけどそれでも わたしはかのゆめを いっしょうささえていくつもりだった⟩",
+      "chinese": "",
+      "context": "音楽のほうは なかなか 売れそ",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 254,
+      "episode": 8,
+      "japanese": "♪～ 静かに降ろせる場所",
+      "romaji": "♪～ しずかにふろせるばしょ",
+      "chinese": "",
+      "context": "音楽のほうは なかなか 売れそ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 255,
+      "episode": 8,
+      "japanese": "(麻美) えっ えっ 何？ 福ちゃんと付き合ってたの？",
+      "romaji": "(あさみ) えっ えっ なに？ ふくちゃんとつきあってたの？",
+      "chinese": "",
+      "context": "音楽のほうは なかなか 売れそ",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 256,
+      "episode": 8,
+      "japanese": ">> そう｡",
+      "romaji": ">> そう｡",
+      "chinese": "",
+      "context": "音楽のほうは なかなか 売れそ",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 257,
+      "episode": 8,
+      "japanese": "(麻美) 全然 想像できないな｡",
+      "romaji": "(あさみ) ぜんぜん そうぞうできないな｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 258,
+      "episode": 8,
+      "japanese": "でも 半年ぐらいで 別れちゃったんだけどね｡",
+      "romaji": "でも はんとしぐらいで わかれちゃったんだけどね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 259,
+      "episode": 8,
+      "japanese": "(麻美) 何で別れちゃったの？ >> 福ちゃんの浮気｡",
+      "romaji": "(あさみ) なんでわかれちゃったの？ >> ふくちゃんのうわき｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 260,
+      "episode": 8,
+      "japanese": "(麻美) うぅ… 浮気？ あの福ちゃんが？",
+      "romaji": "(あさみ) うぅ… うわき？ あのふくちゃんが？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 261,
+      "episode": 8,
+      "japanese": "まぁ 魔が差したんだろうけどね｡",
+      "romaji": "まぁ まがさしたんだろうけどね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 262,
+      "episode": 8,
+      "japanese": "(麻美) ちなみに誰と？",
+      "romaji": "(あさみ) ちなみにだれと？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 263,
+      "episode": 8,
+      "japanese": ">> しーちゃん｡",
+      "romaji": ">> しーちゃん｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 264,
+      "episode": 8,
+      "japanese": "(麻美) えっ!?",
+      "romaji": "(あさみ) えっ!?",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 265,
+      "episode": 8,
+      "japanese": ">> アハハ…｡",
+      "romaji": ">> アハハ…｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 266,
+      "episode": 8,
+      "japanese": "(麻美) えっ ウソでしょ？",
+      "romaji": "(あさみ) えっ ウソでしょ？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 267,
+      "episode": 8,
+      "japanese": "いや何かね 実は しーちゃん成人式の時から 福ちゃんのこと狙ってたらしくて｡",
+      "romaji": "いやなにかね じつは しーちゃんせいじんしきのときから ふくちゃんのことねらってたらしくて｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 268,
+      "episode": 8,
+      "japanese": "っていうか これ教えてくれたの あーちんたちだからね｡",
+      "romaji": "っていうか これおしえてくれたの あーちんたちだからね｡",
+      "chinese": "",
+      "context": "最後はみんなで “笑えれば”を",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 269,
+      "episode": 8,
+      "japanese": "(夏希)〔最後はみんなで “笑えれば”を熱唱〕",
+      "romaji": "(なつき)〔さいごはみんなで “わらえれば”をねっしょう〕",
+      "chinese": "",
+      "context": "最後はみんなで “笑えれば”を",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 270,
+      "episode": 8,
+      "japanese": "(麻美)〔ＯＫ 完璧〕",
+      "romaji": "(あさみ)〔ＯＫ かんぺき〕",
+      "chinese": "",
+      "context": "最後はみんなで “笑えれば”を",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 271,
+      "episode": 8,
+      "japanese": "(夏希)〔うん〕",
+      "romaji": "(なつき)〔うん〕",
+      "chinese": "",
+      "context": "最後はみんなで “笑えれば”を",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 272,
+      "episode": 8,
+      "japanese": "〔ごめん 遅くなって〕",
+      "romaji": "〔ごめん おそくなって〕",
+      "chinese": "",
+      "context": "最後はみんなで “笑えれば”を",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 273,
+      "episode": 8,
+      "japanese": "(夏希)〔お疲れ～〕",
+      "romaji": "(なつき)〔おつかれ～〕",
+      "chinese": "",
+      "context": "ＯＫ 完璧",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 274,
+      "episode": 8,
+      "japanese": "(４人)〔乾杯〕",
+      "romaji": "(４にん)〔かんぱい〕",
+      "chinese": "",
+      "context": "うん",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 275,
+      "episode": 8,
+      "japanese": "(麻美)〔あのさ まりりん〕 >> 〔うん 何？〕",
+      "romaji": "(あさみ)〔あのさ まりりん〕 >> 〔うん なに？〕",
+      "chinese": "",
+      "context": "ごめん 遅くなって",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 276,
+      "episode": 8,
+      "japanese": "(麻美)〔ちょっと まりりんに 大事な話があってね〕",
+      "romaji": "(あさみ)〔ちょっと まりりんに だいじなはなしがあってね〕",
+      "chinese": "",
+      "context": "お疲れ～",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 277,
+      "episode": 8,
+      "japanese": "〔え？ 何？ 怖い怖い 何？〕",
+      "romaji": "〔え？ なに？ こわいこわい なに？〕",
+      "chinese": "",
+      "context": "乾杯",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 278,
+      "episode": 8,
+      "japanese": "(麻美)〔昨日ね うちら たまたま 福ちゃん家の前 通ったの〕",
+      "romaji": "(あさみ)〔きのうね うちら たまたま ふくちゃんいえのまえ かよったの〕",
+      "chinese": "",
+      "context": "あのさ まりりん",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 279,
+      "episode": 8,
+      "japanese": "〔そしたら ちょうど 福ちゃんがいたんだよね〕",
+      "romaji": "〔そしたら ちょうど ふくちゃんがいたんだよね〕",
+      "chinese": "",
+      "context": "ちょっと まりりんに 大事な話",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 280,
+      "episode": 8,
+      "japanese": "(夏希)〔そう… そんで声かけようと思ったらしーちゃんも一緒でさ〕",
+      "romaji": "(なつき)〔そう… そんでこえかけようとおもったらしーちゃんもいっしょでさ〕",
+      "chinese": "",
+      "context": "え？ 何？ 怖い怖い 何？",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 281,
+      "episode": 8,
+      "japanese": "〔え？〕",
+      "romaji": "〔え？〕",
+      "chinese": "",
+      "context": "昨日ね うちら たまたま 福ち",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 282,
+      "episode": 8,
+      "japanese": "(夏希)〔いや… そのまま 家の中に入ってったのね〕",
+      "romaji": "(なつき)〔いや… そのまま いえのなかにいっってったのね〕",
+      "chinese": "",
+      "context": "そしたら ちょうど 福ちゃんが",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 283,
+      "episode": 8,
+      "japanese": "〔マジで…？〕",
+      "romaji": "〔マジで…？〕",
+      "chinese": "",
+      "context": "そう… そんで声かけようと思っ",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 284,
+      "episode": 8,
+      "japanese": "(麻美) うちらが目撃したんだ？ >> そう｡",
+      "romaji": "(あさみ) うちらがもくげきしたんだ？ >> そう｡",
+      "chinese": "",
+      "context": "え？",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 285,
+      "episode": 8,
+      "japanese": "(麻美) え～ で どうなったの？",
+      "romaji": "(あさみ) え～ で どうなったの？",
+      "chinese": "",
+      "context": "いや… そのまま 家の中に入っ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 286,
+      "episode": 8,
+      "japanese": "取りあえず 本人呼んで 事実確認してあとは… 話し合い？",
+      "romaji": "とりあえず ほんにんよんで じじつかくにんしてあとは… はなしあい？",
+      "chinese": "",
+      "context": "マジで…？",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 287,
+      "episode": 8,
+      "japanese": ">> 〔あぁ…〕",
+      "romaji": ">> 〔あぁ…〕",
+      "chinese": "",
+      "context": "あぁ…",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 288,
+      "episode": 8,
+      "japanese": "(美穂)〔結構出てる〕",
+      "romaji": "(みほ)〔けっこうでてる〕",
+      "chinese": "",
+      "context": "あぁ…",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 289,
+      "episode": 8,
+      "japanese": "(夏希)〔出てるね 出てる出てる〕",
+      "romaji": "(なつき)〔でてるね でてるでてる〕",
+      "chinese": "",
+      "context": "あぁ…",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 290,
+      "episode": 8,
+      "japanese": "(美穂)〔あんまり上向かないほうが…〕",
+      "romaji": "(みほ)〔あんまりうわむかないほうが…〕",
+      "chinese": "",
+      "context": "あぁ…",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 291,
+      "episode": 8,
+      "japanese": "(麻美)〔下向いて 鼻つまんだほうがいいよ〕",
+      "romaji": "(あさみ)〔げこういて はなつまんだほうがいいよ〕",
+      "chinese": "",
+      "context": "結構出てる",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 292,
+      "episode": 8,
+      "japanese": "ふ～ん｡",
+      "romaji": "ふ～ん｡",
+      "chinese": "",
+      "context": "出てるね 出てる出てる",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 293,
+      "episode": 8,
+      "japanese": "しーちゃんは？",
+      "romaji": "しーちゃんは？",
+      "chinese": "",
+      "context": "あんまり上向かないほうが…",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 294,
+      "episode": 8,
+      "japanese": "しーちゃんとも 話そうかなと思ったんだけど話したところで どうにもなんないからさ｡",
+      "romaji": "しーちゃんとも はなそうかなとおもったんだけどはなしたところで どうにもなんないからさ｡",
+      "chinese": "",
+      "context": "下向いて 鼻つまんだほうがいい",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 295,
+      "episode": 8,
+      "japanese": "〔｢久しぶり｣じゃねえよ てめぇ やってくれたな あぁ!?〕",
+      "romaji": "〔｢ひさしぶり｣じゃねえよ てめぇ やってくれたな あぁ!?〕",
+      "chinese": "",
+      "context": "｢久しぶり｣じゃねえよ てめぇ",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 296,
+      "episode": 8,
+      "japanese": "〔今すぐラウンドワン来い 即行来い ダッシュで来い〕",
+      "romaji": "〔いますぐラウンドワンこい そっこうこい ダッシュでこい〕",
+      "chinese": "",
+      "context": "｢久しぶり｣じゃねえよ てめぇ",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 297,
+      "episode": 8,
+      "japanese": "〔いいから来いっつってんだよ！ ｢何で？｣じゃねえよ〕",
+      "romaji": "〔いいからこいっつってんだよ！ ｢なんで？｣じゃねえよ〕",
+      "chinese": "",
+      "context": "｢久しぶり｣じゃねえよ てめぇ",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 298,
+      "episode": 8,
+      "japanese": "〔しらばっくれてんじゃねえぞ ブス!!〕",
+      "romaji": "〔しらばっくれてんじゃねえぞ ブス!!〕",
+      "chinese": "",
+      "context": "｢久しぶり｣じゃねえよ てめぇ",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 299,
+      "episode": 8,
+      "japanese": "〔ぶっ殺してやるからな！ 来いっつってんだよ！ あぁ!?〕",
+      "romaji": "〔ぶっころしてやるからな！ こいっつってんだよ！ あぁ!?〕",
+      "chinese": "",
+      "context": "今すぐラウンドワン来い 即行来",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 300,
+      "episode": 8,
+      "japanese": "(麻美)〔もしもし しーちゃん？ しーちゃん？〕",
+      "romaji": "(あさみ)〔もしもし しーちゃん？ しーちゃん？〕",
+      "chinese": "",
+      "context": "いいから来いっつってんだよ！ ",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 301,
+      "episode": 8,
+      "japanese": "〔ねぇねぇ… 取りあえず ここには来ないで〕",
+      "romaji": "〔ねぇねぇ… とりあえず ここにはこないで〕",
+      "chinese": "",
+      "context": "しらばっくれてんじゃねえぞ ブ",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 302,
+      "episode": 8,
+      "japanese": "〔うん またかけ直す〕",
+      "romaji": "〔うん またかけなおす〕",
+      "chinese": "",
+      "context": "ぶっ殺してやるからな！ 来いっ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 303,
+      "episode": 8,
+      "japanese": "〔うん うんうん…〕 >> 〔分かってんだろうな～!?〕",
+      "romaji": "〔うん うんうん…〕 >> 〔わかってんだろうな～!?〕",
+      "chinese": "",
+      "context": "もしもし しーちゃん？ しーち",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 304,
+      "episode": 8,
+      "japanese": "(麻美) そうかぁ…｡ >> うん｡",
+      "romaji": "(あさみ) そうかぁ…｡ >> うん｡",
+      "chinese": "",
+      "context": "ねぇねぇ… 取りあえず ここに",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 305,
+      "episode": 8,
+      "japanese": "(麻美) よく我慢したね｡ >> まぁね｡",
+      "romaji": "(あさみ) よくがまんしたね｡ >> まぁね｡",
+      "chinese": "",
+      "context": "うん またかけ直す",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 306,
+      "episode": 8,
+      "japanese": "でも結局 私はその場で別れて２人はその後 付き合って結婚してその後は今と同じ流れ｡",
+      "romaji": "でもけっきょく わたしはそのばでわかれて２にんはそののち つきあってけっこんしてそののちはいまとおなじながれ｡",
+      "chinese": "",
+      "context": "うん うんうん…",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 307,
+      "episode": 8,
+      "japanese": "(麻美) へぇ～ 全く知らなかった｡",
+      "romaji": "(あさみ) へぇ～ まったくしらなかった｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 308,
+      "episode": 8,
+      "japanese": "だからさ ２周目以降の 成人式の後のカラオケって私 ほら 行ってないでしょ｡",
+      "romaji": "だからさ ２しゅうめいこうの せいじんしきののちのカラオケってわたし ほら いってないでしょ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 309,
+      "episode": 8,
+      "japanese": "(麻美) あぁ それで？",
+      "romaji": "(あさみ) あぁ それで？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 310,
+      "episode": 8,
+      "japanese": "そっか でもさ 今回は来たじゃん｡",
+      "romaji": "そっか でもさ こんかいはきたじゃん｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 311,
+      "episode": 8,
+      "japanese": "大丈夫だったの？ >> うん 全然大丈夫｡",
+      "romaji": "だいじょうぶだったの？ >> うん ぜんぜんだいじょうぶ｡",
+      "chinese": "",
+      "context": "専門学校卒業後 私は さくら保",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 312,
+      "episode": 8,
+      "japanese": "だってもう 100年以上前だしそもそも 向こうにそんな記憶ないからさ｡",
+      "romaji": "だってもう 100ねんいじょうまえだしそもそも むこうにそんなきおくないからさ｡",
+      "chinese": "",
+      "context": "専門学校卒業後 私は さくら保",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 313,
+      "episode": 8,
+      "japanese": "⟨専門学校卒業後 私は さくら保育園に就職⟩",
+      "romaji": "⟨せんもんがっこうそつぎょうご わたしは さくらほいくえんにしゅうしょく⟩",
+      "chinese": "",
+      "context": "専門学校卒業後 私は さくら保",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 314,
+      "episode": 8,
+      "japanese": "⟨保育士は やることも多く思っていた以上に 大変だったけど…⟩",
+      "romaji": "⟨ほいくさむらいは やることもおおくおもっていたいじょうに たいへんだったけど…⟩",
+      "chinese": "",
+      "context": "専門学校卒業後 私は さくら保",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 315,
+      "episode": 8,
+      "japanese": "〔公園行く人？〕 ⟨やりがいのある仕事だった⟩",
+      "romaji": "〔こうえんいくにん？〕 ⟨やりがいのあるしごとだった⟩",
+      "chinese": "",
+      "context": "専門学校卒業後 私は さくら保",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 316,
+      "episode": 8,
+      "japanese": "(真里)〔ストップしま～す〕",
+      "romaji": "(まり)〔ストップしま～す〕",
+      "chinese": "",
+      "context": "専門学校卒業後 私は さくら保",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 317,
+      "episode": 8,
+      "japanese": "(麻美)〔まりり～ん！〕",
+      "romaji": "(あさみ)〔まりり～ん！〕",
+      "chinese": "",
+      "context": "保育士は やることも多く思って",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 318,
+      "episode": 8,
+      "japanese": "へぇ～ まりりん さくら保育園に勤めてたんだ｡",
+      "romaji": "へぇ～ まりりん さくらほいくえんにつとめてたんだ｡",
+      "chinese": "",
+      "context": "公園行く人？",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 319,
+      "episode": 8,
+      "japanese": "そう でさ 社会人になってからも４人で月２ぐらいで ごはんに行ってたりしたのね｡",
+      "romaji": "そう でさ しゃかいじんになってからも４にんでがつ２ぐらいで ごはんにいってたりしたのね｡",
+      "chinese": "",
+      "context": "ストップしま～す",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 320,
+      "episode": 8,
+      "japanese": "(麻美) ふ～ん｡",
+      "romaji": "(あさみ) ふ～ん｡",
+      "chinese": "",
+      "context": "まりり～ん！",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 321,
+      "episode": 8,
+      "japanese": "(美穂)〔じゃあ まりりん ちょっと早いけどお誕生日おめでとう！〕 >> 〔わぁ ありがとう！〕",
+      "romaji": "(みほ)〔じゃあ まりりん ちょっとはやいけどおたんじょうびおめでとう！〕 >> 〔わぁ ありがとう！〕",
+      "chinese": "",
+      "context": "じゃあ まりりん ちょっと早い",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 322,
+      "episode": 8,
+      "japanese": "(美穂)〔これ ３人からで～す〕 >> 〔ありがとう 開けていい？〕",
+      "romaji": "(みほ)〔これ ３にんからで～す〕 >> 〔ありがとう ひらけていい？〕",
+      "chinese": "",
+      "context": "じゃあ まりりん ちょっと早い",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 323,
+      "episode": 8,
+      "japanese": "(夏希)〔うん 開けて 開けて〕",
+      "romaji": "(なつき)〔うん ひらけて ひらけて〕",
+      "chinese": "",
+      "context": "じゃあ まりりん ちょっと早い",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 324,
+      "episode": 8,
+      "japanese": "〔えっ 待って… めっちゃいいやつじゃん〕",
+      "romaji": "〔えっ まって… めっちゃいいやつじゃん〕",
+      "chinese": "",
+      "context": "じゃあ まりりん ちょっと早い",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 325,
+      "episode": 8,
+      "japanese": "(麻美)〔一応 最新のやつだよね〕",
+      "romaji": "(あさみ)〔いちおう さいしんのやつだよね〕",
+      "chinese": "",
+      "context": "これ ３人からで～す",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 326,
+      "episode": 8,
+      "japanese": "(美穂:夏希)〔ねぇ～〕",
+      "romaji": "(みほ:なつき)〔ねぇ～〕",
+      "chinese": "",
+      "context": "うん 開けて 開けて",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 327,
+      "episode": 8,
+      "japanese": ">> 〔結構したでしょ？〕",
+      "romaji": ">> 〔けっこうしたでしょ？〕",
+      "chinese": "",
+      "context": "えっ 待って… めっちゃいいや",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 328,
+      "episode": 8,
+      "japanese": "(麻美)〔いや そんなでもないよね〕",
+      "romaji": "(あさみ)〔いや そんなでもないよね〕",
+      "chinese": "",
+      "context": "一応 最新のやつだよね",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 329,
+      "episode": 8,
+      "japanese": "(夏希)〔３人からだしね〕 >> 〔え～ うれしい ありがとね〕",
+      "romaji": "(なつき)〔３にんからだしね〕 >> 〔え～ うれしい ありがとね〕",
+      "chinese": "",
+      "context": "ねぇ～",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 330,
+      "episode": 8,
+      "japanese": "(美穂)〔よかった～〕 >> 〔ありがとう〕",
+      "romaji": "(みほ)〔よかった～〕 >> 〔ありがとう〕",
+      "chinese": "",
+      "context": "結構したでしょ？",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 331,
+      "episode": 8,
+      "japanese": "(美穂)〔とか言いながら 値段調べないの〕",
+      "romaji": "(みほ)〔とかいいながら ねだんしらべないの〕",
+      "chinese": "",
+      "context": "いや そんなでもないよね",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 332,
+      "episode": 8,
+      "japanese": "(麻美)〔せ～の〕",
+      "romaji": "(あさみ)〔せ～の〕",
+      "chinese": "",
+      "context": "３人からだしね",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 333,
+      "episode": 8,
+      "japanese": "(店員)〔おめでとうございます〕",
+      "romaji": "(てんいん)〔おめでとうございます〕",
+      "chinese": "",
+      "context": "よかった～",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 334,
+      "episode": 8,
+      "japanese": "(３人)〔♪～ ハッピーバースデー トゥ ユー〕",
+      "romaji": "(３にん)〔♪～ ハッピーバースデー トゥ ユー〕",
+      "chinese": "",
+      "context": "とか言いながら 値段調べないの",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 335,
+      "episode": 8,
+      "japanese": "〔♪～ ハッピーバースデー トゥ ユー〕",
+      "romaji": "〔♪～ ハッピーバースデー トゥ ユー〕",
+      "chinese": "",
+      "context": "せ～の",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 336,
+      "episode": 8,
+      "japanese": "〔♪～ ハッピーバースデー ディア まりりん〕",
+      "romaji": "〔♪～ ハッピーバースデー ディア まりりん〕",
+      "chinese": "",
+      "context": "おめでとうございます",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 337,
+      "episode": 8,
+      "japanese": "〔イェ～イ！〕",
+      "romaji": "〔イェ～イ！〕",
+      "chinese": "",
+      "context": "♪～ ハッピーバースデー トゥ",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 338,
+      "episode": 8,
+      "japanese": "(麻美) え～ 私 ３人の時しか 記憶にないけどさ４人 超楽しそうだね｡",
+      "romaji": "(あさみ) え～ わたし ３にんのときしか きおくにないけどさ４にん ちょうたのしそうだね｡",
+      "chinese": "",
+      "context": "♪～ ハッピーバースデー ディ",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 339,
+      "episode": 8,
+      "japanese": "(真里) 楽しかったよ～｡",
+      "romaji": "(まり) たのしかったよ～｡",
+      "chinese": "",
+      "context": "イェ～イ！",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 340,
+      "episode": 8,
+      "japanese": "でもさ 実は 悲しいことがあってね｡",
+      "romaji": "でもさ じつは かなしいことがあってね｡",
+      "chinese": "",
+      "context": "♪～ ハッピーバースデー トゥ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 341,
+      "episode": 8,
+      "japanese": "(麻美) 悲しいこと？ >> うん｡",
+      "romaji": "(あさみ) かなしいこと？ >> うん｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 342,
+      "episode": 8,
+      "japanese": "ちょっと場所変えない？",
+      "romaji": "ちょっとばしょかえない？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 343,
+      "episode": 8,
+      "japanese": "(麻美) うん うん… いいけど｡",
+      "romaji": "(あさみ) うん うん… いいけど｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 344,
+      "episode": 8,
+      "japanese": "すいません お会計お願いします｡",
+      "romaji": "すいません おかいけいおねがいします｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 345,
+      "episode": 8,
+      "japanese": "(店員) はい かしこまりました｡",
+      "romaji": "(てんいん) はい かしこまりました｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 346,
+      "episode": 8,
+      "japanese": "(店員) ごゆっくりどうぞ｡",
+      "romaji": "(てんいん) ごゆっくりどうぞ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 347,
+      "episode": 8,
+      "japanese": "(麻美) 今日 福ちゃんいなかったね｡ >> そうだね フフフ｡",
+      "romaji": "(あさみ) きょう ふくちゃんいなかったね｡ >> そうだね フフフ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 348,
+      "episode": 8,
+      "japanese": "(麻美) ねぇねぇ 何？ その悲しいことって｡",
+      "romaji": "(あさみ) ねぇねぇ なに？ そのかなしいことって｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 349,
+      "episode": 8,
+      "japanese": "あぁ…｡",
+      "romaji": "あぁ…｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 350,
+      "episode": 8,
+      "japanese": "これ だいぶ重い話なんだけど｡",
+      "romaji": "これ だいぶおもいはなしなんだけど｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 351,
+      "episode": 8,
+      "japanese": "(麻美) そんな重いの？",
+      "romaji": "(あさみ) そんなおもいの？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 352,
+      "episode": 8,
+      "japanese": "まぁ 極力重くならないように かいつまんで話すね｡",
+      "romaji": "まぁ きょくりょくおもくならないように かいつまんではなすね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 353,
+      "episode": 8,
+      "japanese": "(麻美) 怖いな… 何？",
+      "romaji": "(あさみ) こわいな… なに？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 354,
+      "episode": 8,
+      "japanese": "実は…｡",
+      "romaji": "じつは…｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 355,
+      "episode": 8,
+      "japanese": "なっちと みーぽんが 死んじゃったのね｡",
+      "romaji": "なっちと みーぽんが しんじゃったのね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 356,
+      "episode": 8,
+      "japanese": "(麻美) 何で？",
+      "romaji": "(あさみ) なんで？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 357,
+      "episode": 8,
+      "japanese": "飛行機事故｡",
+      "romaji": "ひこうきじこ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 358,
+      "episode": 8,
+      "japanese": "(麻美) 飛行機事故？",
+      "romaji": "(あさみ) ひこうきじこ？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 359,
+      "episode": 8,
+      "japanese": "２人が乗ったのが 中規模の国際線で高高度でスペースデブリが 激突しちゃってさ｡",
+      "romaji": "２にんがじょうったのが ちゅうきぼのこくさいせんでこうこうどでスペースデブリが げきとつしちゃってさ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 360,
+      "episode": 8,
+      "japanese": "(麻美) スペースデブリって何だっけ…｡",
+      "romaji": "(あさみ) スペースデブリってなんだっけ…｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 361,
+      "episode": 8,
+      "japanese": "あっ 宇宙ごみ？ >> うん 人工衛星の残骸とか｡",
+      "romaji": "あっ うちゅうごみ？ >> うん じんこうえいせいのざんがいとか｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 362,
+      "episode": 8,
+      "japanese": "(麻美) 最近 問題になってるやつだ｡ >> そうそう…｡",
+      "romaji": "(あさみ) さいきん もんだいになってるやつだ｡ >> そうそう…｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 363,
+      "episode": 8,
+      "japanese": "(麻美) でもさ 大気圏外の人工衛星に 衝突しちゃうとかは私も聞いたことあるけど 大気圏内の飛行機に衝突するなんてことあるの？ >> 確率的には ほぼゼロだけど実際 起こっちゃったからね｡",
+      "romaji": "(あさみ) でもさ たいきけんそとのじんこうえいせいに しょうとつしちゃうとかはわたしもきいたことあるけど たいきけんないのひこうきにしょうとつするなんてことあるの？ >> かくりつてきには ほぼゼロだけどじっさい おこっちゃったからね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 364,
+      "episode": 8,
+      "japanese": "(麻美) ちょっとピンとこないな…｡ >> そうだよね｡",
+      "romaji": "(あさみ) ちょっとピンとこないな…｡ >> そうだよね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 365,
+      "episode": 8,
+      "japanese": "うちら２人とも しばらく立ち直れなかったからね｡",
+      "romaji": "うちら２にんとも しばらくたちなおれなかったからね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 366,
+      "episode": 8,
+      "japanese": "(麻美) そりゃ そうだよね｡ >> でもお互い いつまでもふさぎ込んでるわけには いかないからさ｡",
+      "romaji": "(あさみ) そりゃ そうだよね｡ >> でもおたがい いつまでもふさぎこんでるわけには いかないからさ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 367,
+      "episode": 8,
+      "japanese": "２人の分も頑張って生きようね って約束してその後も たまに ごはんに行ったりとか毎年 一緒に お墓参り行ったりしてたの｡",
+      "romaji": "２にんのふんもがんばっていきようね ってやくそくしてそののちも たまに ごはんにいったりとかまいとし いっしょに おはかまいりいったりしてたの｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 368,
+      "episode": 8,
+      "japanese": "(麻美) その時の私は 何歳まで生きてたの？",
+      "romaji": "(あさみ) そのときのわたしは なんさいまでいきてたの？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 369,
+      "episode": 8,
+      "japanese": "どうだろう？ 私が 62歳で先に死んじゃったからそれよりは生きてるよ｡",
+      "romaji": "どうだろう？ わたしが 62としでさきにしんじゃったからそれよりはいきてるよ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 370,
+      "episode": 8,
+      "japanese": "(麻美) そうなんだ｡",
+      "romaji": "(あさみ) そうなんだ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 371,
+      "episode": 8,
+      "japanese": "でさ そこから２周目の人生が スタートするんだけど｡",
+      "romaji": "でさ そこから２しゅうめのじんせいが スタートするんだけど｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 372,
+      "episode": 8,
+      "japanese": "自分的には なっちとみーぽんの ことを助けたかったのね｡",
+      "romaji": "じぶんてきには なっちとみーぽんの ことをたすけたかったのね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 373,
+      "episode": 8,
+      "japanese": "(麻美) まぁ そうね そう思うよね｡",
+      "romaji": "(あさみ) まぁ そうね そうおもうよね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 374,
+      "episode": 8,
+      "japanese": "で最初は ２人を 飛行機に乗らせなきゃいい…と思ってたんだけど よく考えたらホントにそれでいいのかなって 思い始めて｡",
+      "romaji": "でさいしょは ２にんを ひこうきにのらせなきゃいい…とおもってたんだけど よくかんがえたらホントにそれでいいのかなって おもいはじめて｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 375,
+      "episode": 8,
+      "japanese": "仮に ２人を止めて救ったとしてもその他の大勢の乗客は 死んじゃうわけじゃん｡",
+      "romaji": "かりに ２にんをとめてすくったとしてもそのほかのおおぜいのじょうきゃくは しんじゃうわけじゃん｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 376,
+      "episode": 8,
+      "japanese": "自分の友達だけ助けて あとは見殺しってさすがに心痛むじゃん｡",
+      "romaji": "じぶんのともだちだけたすけて あとはみごろしってさすがにしんつうむじゃん｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 377,
+      "episode": 8,
+      "japanese": "(麻美) あぁ～ そうか｡",
+      "romaji": "(あさみ) あぁ～ そうか｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 378,
+      "episode": 8,
+      "japanese": "あとは徳の問題もあるしね｡ >> うん｡",
+      "romaji": "あとはとくのもんだいもあるしね｡ >> うん｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 379,
+      "episode": 8,
+      "japanese": "で いろいろ考えた結果もう その飛行機に 乗るしかないって思ったの｡",
+      "romaji": "で いろいろかんがえたけっかもう そのひこうきに のるしかないっておもったの｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 380,
+      "episode": 8,
+      "japanese": "(麻美) あっ パイロット？ >> そう｡",
+      "romaji": "(あさみ) あっ パイロット？ >> そう｡",
+      "chinese": "",
+      "context": "死んでしまった 親友の命を救う",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 381,
+      "episode": 8,
+      "japanese": "(麻美) うわ そのためのパイロット？",
+      "romaji": "(あさみ) うわ そのためのパイロット？",
+      "chinese": "",
+      "context": "死んでしまった 親友の命を救う",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 382,
+      "episode": 8,
+      "japanese": "(脚本家)〔死んでしまった 親友の命を救うとか〕",
+      "romaji": "(きゃくほんか)〔しんでしまった しんゆうのいのちをすくうとか〕",
+      "chinese": "",
+      "context": "死んでしまった 親友の命を救う",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 383,
+      "episode": 8,
+      "japanese": "(監督)〔もしくは 大勢の命を救うとかね〕",
+      "romaji": "(かんとく)〔もしくは おおぜいのいのちをすくうとかね〕",
+      "chinese": "",
+      "context": "死んでしまった 親友の命を救う",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 384,
+      "episode": 8,
+      "japanese": "〔救世主になるぐらいに したいですね〕",
+      "romaji": "〔きゅうせいしゅになるぐらいに したいですね〕",
+      "chinese": "",
+      "context": "死んでしまった 親友の命を救う",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 385,
+      "episode": 8,
+      "japanese": "(麻美) ホントに救世主じゃん｡ >> いや でも さっきも言ったけど私 ポテンシャル的には 中の下で普通に生活してたら パイロットなんて絶対なれないからさ｡",
+      "romaji": "(あさみ) ホントにきゅうせいしゅじゃん｡ >> いや でも さっきもいったけどわたし ポテンシャルてきには なかのしたでふつうにせいかつしてたら パイロットなんてぜったいなれないからさ｡",
+      "chinese": "",
+      "context": "死んでしまった 親友の命を救う",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 386,
+      "episode": 8,
+      "japanese": "小学校の頃から 毎日 必死に勉強して体も鍛えてさ｡",
+      "romaji": "しょうがっこうのごろから まいにち ひっしにべんきょうしてからだもきたえてさ｡",
+      "chinese": "",
+      "context": "もしくは 大勢の命を救うとかね",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 387,
+      "episode": 8,
+      "japanese": "(麻美) そうだったんだ｡",
+      "romaji": "(あさみ) そうだったんだ｡",
+      "chinese": "",
+      "context": "救世主になるぐらいに したいで",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 388,
+      "episode": 8,
+      "japanese": "そしたら ３人と仲良くなる きっかけ逃しちゃってさ｡",
+      "romaji": "そしたら ３にんとなかよくなる きっかけのがしちゃってさ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 389,
+      "episode": 8,
+      "japanese": "休み時間も ず～っと勉強してるからみんなが話しかけづらい子 みたいになっちゃった｡",
+      "romaji": "やすみじかんも ず～っとべんきょうしてるからみんながはなしかけづらいこ みたいになっちゃった｡",
+      "chinese": "",
+      "context": "真里ちゃん ちょっと完璧過ぎて",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 390,
+      "episode": 8,
+      "japanese": "(麻美) そういうことだったんだ… そっか～｡",
+      "romaji": "(あさみ) そういうことだったんだ… そっか～｡",
+      "chinese": "",
+      "context": "真里ちゃん ちょっと完璧過ぎて",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 391,
+      "episode": 8,
+      "japanese": "(美穂)〔真里ちゃん ちょっと完璧過ぎて 近寄りがたさあったよね〕",
+      "romaji": "(みほ)〔まりちゃん ちょっとかんぺきすぎて ちかよりがたさあったよね〕",
+      "chinese": "",
+      "context": "真里ちゃん ちょっと完璧過ぎて",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 392,
+      "episode": 8,
+      "japanese": "(夏希)〔分かる いい子なんだけど 緊張しちゃうんだよね〕",
+      "romaji": "(なつき)〔わかる いいこなんだけど きんちょうしちゃうんだよね〕",
+      "chinese": "",
+      "context": "真里ちゃん ちょっと完璧過ぎて",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 393,
+      "episode": 8,
+      "japanese": "(麻美) 何… そんなの 超寂しいじゃん｡",
+      "romaji": "(あさみ) なに… そんなの ちょうさびしいじゃん｡",
+      "chinese": "",
+      "context": "真里ちゃん ちょっと完璧過ぎて",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 394,
+      "episode": 8,
+      "japanese": "寂しいけど その方法しか 思い浮かばなかったからさ｡",
+      "romaji": "さびしいけど そのほうほうしか おもいうかばなかったからさ｡",
+      "chinese": "",
+      "context": "真里ちゃん ちょっと完璧過ぎて",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 395,
+      "episode": 8,
+      "japanese": "(麻美) でもさ 実際のところ パイロットになったからってそんな超高速で迫ってくる スペースデブリを避けることなんてできるの？ >> それは大丈夫｡",
+      "romaji": "(あさみ) でもさ じっさいのところ パイロットになったからってそんなちょうこうそくでせまってくる スペースデブリをさけることなんてできるの？ >> それはだいじょうぶ｡",
+      "chinese": "",
+      "context": "分かる いい子なんだけど 緊張",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 396,
+      "episode": 8,
+      "japanese": "事前に分かってるから 航路さえ変えちゃえば平気なのよ｡",
+      "romaji": "じぜんにわかってるから こうろさえかえちゃえばへいきなのよ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 397,
+      "episode": 8,
+      "japanese": "実際 天候で航路変えることは 普通にあるし｡",
+      "romaji": "じっさい てんこうでこうろかえることは ふつうにあるし｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 398,
+      "episode": 8,
+      "japanese": "(麻美) そうなんだ｡ >> うん｡",
+      "romaji": "(あさみ) そうなんだ｡ >> うん｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 399,
+      "episode": 8,
+      "japanese": "それで まぁ 何とか パイロットになったんだけどさ｡",
+      "romaji": "それで まぁ なんとか パイロットになったんだけどさ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 400,
+      "episode": 8,
+      "japanese": "今度は 33歳の時にあーちんが死んじゃったんだよね｡",
+      "romaji": "こんどは 33としのときにあーちんがしんじゃったんだよね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 401,
+      "episode": 8,
+      "japanese": "(麻美) えっ？",
+      "romaji": "(あさみ) えっ？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 402,
+      "episode": 8,
+      "japanese": "交通事故 上元町のコンビニの前で｡",
+      "romaji": "こうつうじこ じょうげんまちのコンビニのまえで｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 403,
+      "episode": 8,
+      "japanese": "(麻美) あぁ それ私の１周目の記憶だ｡",
+      "romaji": "(あさみ) あぁ それわたしの１しゅうめのきおくだ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 404,
+      "episode": 8,
+      "japanese": "実は あーちんが死んじゃったのって私のせいなんだよね｡",
+      "romaji": "じつは あーちんがしんじゃったのってわたしのせいなんだよね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 405,
+      "episode": 8,
+      "japanese": "(真里の声) その日さ みーぽんの誕生日のお祝いでごはんしたでしょ？ 私の１周目ではその日私も一緒だったのね｡",
+      "romaji": "(まりのこえ) そのにちさ みーぽんのたんじょうびのおいわいでごはんしたでしょ？ わたしの１しゅうめではそのにちわたしもいっしょだったのね｡",
+      "chinese": "",
+      "context": "じゃあ もうさ ４人で同じ 老",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 406,
+      "episode": 8,
+      "japanese": "(美穂)〔じゃあ もうさ ４人で同じ 老人ホーム入ればよくない？〕",
+      "romaji": "(みほ)〔じゃあ もうさ ４にんでおなじ ろうじんホームいればよくない？〕",
+      "chinese": "",
+      "context": "じゃあ もうさ ４人で同じ 老",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 407,
+      "episode": 8,
+      "japanese": "(麻美)〔それ いいね〕 >> 〔楽しそう〕",
+      "romaji": "(あさみ)〔それ いいね〕 >> 〔たのしそう〕",
+      "chinese": "",
+      "context": "じゃあ もうさ ４人で同じ 老",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 408,
+      "episode": 8,
+      "japanese": "(美穂)〔うちらが入る頃って40年後 とかでしょ？ その頃には超ハイテク老人ホームとかに なってそうじゃない？〕",
+      "romaji": "(みほ)〔うちらがいるごろって40ねんご とかでしょ？ そのごろにはちょうハイテクろうじんホームとかに なってそうじゃない？〕",
+      "chinese": "",
+      "context": "じゃあ もうさ ４人で同じ 老",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 409,
+      "episode": 8,
+      "japanese": "(夏希)〔確かにすごそう〕",
+      "romaji": "(なつき)〔たしかにすごそう〕",
+      "chinese": "",
+      "context": "じゃあ もうさ ４人で同じ 老",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 410,
+      "episode": 8,
+      "japanese": "(麻美)〔車いすとか浮いてそうだよね〕",
+      "romaji": "(あさみ)〔くるまいすとかういてそうだよね〕",
+      "chinese": "",
+      "context": "それ いいね",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 411,
+      "episode": 8,
+      "japanese": "(美穂)〔フリーザ乗ってるやつでしょ〕",
+      "romaji": "(みほ)〔フリーザのってるやつでしょ〕",
+      "chinese": "",
+      "context": "うちらが入る頃って40年後 と",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 412,
+      "episode": 8,
+      "japanese": "(麻美)〔アッハ～！〕",
+      "romaji": "(あさみ)〔アッハ～！〕",
+      "chinese": "",
+      "context": "確かにすごそう",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 413,
+      "episode": 8,
+      "japanese": "〔でさ 相手の生命力 分かる機械 ここにつけるんでしょ〕",
+      "romaji": "〔でさ あいてのせいめいりょく わかるきかい ここにつけるんでしょ〕",
+      "chinese": "",
+      "context": "車いすとか浮いてそうだよね",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 414,
+      "episode": 8,
+      "japanese": "(夏希)〔スカウターね〕",
+      "romaji": "(なつき)〔スカウターね〕",
+      "chinese": "",
+      "context": "フリーザ乗ってるやつでしょ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 415,
+      "episode": 8,
+      "japanese": "(美穂)〔フリーザじゃん それ〕",
+      "romaji": "(みほ)〔フリーザじゃん それ〕",
+      "chinese": "",
+      "context": "アッハ～！",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 416,
+      "episode": 8,
+      "japanese": ">> 〔みーぽんさん〕",
+      "romaji": ">> 〔みーぽんさん〕",
+      "chinese": "",
+      "context": "でさ 相手の生命力 分かる機械",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 417,
+      "episode": 8,
+      "japanese": "(美穂)〔ハハハ！〕",
+      "romaji": "(みほ)〔ハハハ！〕",
+      "chinese": "",
+      "context": "スカウターね",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 418,
+      "episode": 8,
+      "japanese": "〔｢ザーボンさん｣みたいに 言わないで〕",
+      "romaji": "〔｢ザーボンさん｣みたいに いわないで〕",
+      "chinese": "",
+      "context": "フリーザじゃん それ",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 419,
+      "episode": 8,
+      "japanese": "(夏希)〔よし 決まりだね〕",
+      "romaji": "(なつき)〔よし きまりだね〕",
+      "chinese": "",
+      "context": "みーぽんさん",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 420,
+      "episode": 8,
+      "japanese": "(麻美)〔決まりなの？〕",
+      "romaji": "(あさみ)〔きまりなの？〕",
+      "chinese": "",
+      "context": "ハハハ！",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 421,
+      "episode": 8,
+      "japanese": "(美穂)〔行くか じゃあ〕",
+      "romaji": "(みほ)〔いくか じゃあ〕",
+      "chinese": "",
+      "context": "｢ザーボンさん｣みたいに 言わ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 422,
+      "episode": 8,
+      "japanese": "(麻美)〔私 歩いて帰るわ〕",
+      "romaji": "(あさみ)〔わたし あるいてかえるわ〕",
+      "chinese": "",
+      "context": "よし 決まりだね",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 423,
+      "episode": 8,
+      "japanese": "(美穂)〔マジで？〕",
+      "romaji": "(みほ)〔マジで？〕",
+      "chinese": "",
+      "context": "決まりなの？",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 424,
+      "episode": 8,
+      "japanese": "〔私も歩いて帰ろう〕",
+      "romaji": "〔わたしもあるいてかえろう〕",
+      "chinese": "",
+      "context": "行くか じゃあ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 425,
+      "episode": 8,
+      "japanese": "(麻美)〔おめでとう！〕 >> 〔バイバイ おめでとう！〕",
+      "romaji": "(あさみ)〔おめでとう！〕 >> 〔バイバイ おめでとう！〕",
+      "chinese": "",
+      "context": "私 歩いて帰るわ",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 426,
+      "episode": 8,
+      "japanese": "(麻美)〔じゃ 行きますか〕 >> 〔あっ 待って〕",
+      "romaji": "(あさみ)〔じゃ いきますか〕 >> 〔あっ まって〕",
+      "chinese": "",
+      "context": "マジで？",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 427,
+      "episode": 8,
+      "japanese": "〔その前にトイレ行っていい？〕",
+      "romaji": "〔そのまえにトイレいっていい？〕",
+      "chinese": "",
+      "context": "私も歩いて帰ろう",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 428,
+      "episode": 8,
+      "japanese": "(麻美)〔出た〕",
+      "romaji": "(あさみ)〔でた〕",
+      "chinese": "",
+      "context": "おめでとう！",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 429,
+      "episode": 8,
+      "japanese": "〔まりりん名物 帰り際トイレ〕 >> 〔ごめんごめん〕",
+      "romaji": "〔まりりんめいぶつ かえりぎわトイレ〕 >> 〔ごめんごめん〕",
+      "chinese": "",
+      "context": "じゃ 行きますか",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 430,
+      "episode": 8,
+      "japanese": "(真里の声) 私がトイレに行ってあーちんを ちょっとだけ待たせたのね｡",
+      "romaji": "(まりのこえ) わたしがトイレにいってあーちんを ちょっとだけまたせたのね｡",
+      "chinese": "",
+      "context": "その前にトイレ行っていい？",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 431,
+      "episode": 8,
+      "japanese": "それが結果的に タイミングを ずらせてたんだけど２周目では 私がいなかったから事故に遭っちゃったんだと思う｡",
+      "romaji": "それがけっかてきに タイミングを ずらせてたんだけど２しゅうめでは わたしがいなかったからじこにあっちゃったんだとおもう｡",
+      "chinese": "",
+      "context": "出た",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 432,
+      "episode": 8,
+      "japanese": "(麻美) なるほど｡",
+      "romaji": "(あさみ) なるほど｡",
+      "chinese": "",
+      "context": "まりりん名物 帰り際トイレ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 433,
+      "episode": 8,
+      "japanese": "だから あーちんが 亡くなったって聞いて私絶対 自分のせいだって 落ち込んでさ｡",
+      "romaji": "だから あーちんが なくなったってきいてわたしぜったい じぶんのせいだって おちこんでさ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 434,
+      "episode": 8,
+      "japanese": "(麻美) それは仕方ないじゃ～ん｡ >> いや でも実際私が行動を変えたことが 事故につながっちゃってるからさ｡",
+      "romaji": "(あさみ) それはしかたないじゃ～ん｡ >> いや でもじっさいわたしがこうどうをかえたことが じこにつながっちゃってるからさ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 435,
+      "episode": 8,
+      "japanese": "ショックで そのまま体調崩しちゃって｡",
+      "romaji": "ショックで そのままたいちょうくずしちゃって｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 436,
+      "episode": 8,
+      "japanese": "(麻美) ちょっと待ってよ… ホント何か ごめん｡",
+      "romaji": "(あさみ) ちょっとまってよ… ホントなにか ごめん｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 437,
+      "episode": 8,
+      "japanese": "あっ いやいや違うの そういうつもりじゃ ない｡",
+      "romaji": "あっ いやいやちがうの そういうつもりじゃ ない｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 438,
+      "episode": 8,
+      "japanese": "ごめんね ごめんごめん…｡",
+      "romaji": "ごめんね ごめんごめん…｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 439,
+      "episode": 8,
+      "japanese": "でも そんな状態じゃ飛行機なんて 乗せてもらえないじゃん｡",
+      "romaji": "でも そんなじょうたいじゃひこうきなんて のせてもらえないじゃん｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 440,
+      "episode": 8,
+      "japanese": "(麻美) 確かにそうだね｡ >> で 結局飛行機も予定通り飛んで｡",
+      "romaji": "(あさみ) たしかにそうだね｡ >> で けっきょくひこうきもよていどおりとんで｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 441,
+      "episode": 8,
+      "japanese": "(麻美) うわ…｡",
+      "romaji": "(あさみ) うわ…｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 442,
+      "episode": 8,
+      "japanese": "ん～～～｡",
+      "romaji": "ん～～～｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 443,
+      "episode": 8,
+      "japanese": "何それ そんなの 超つらいじゃん｡ >> うん…｡",
+      "romaji": "なにそれ そんなの こえつらいじゃん｡ >> うん…｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 444,
+      "episode": 8,
+      "japanese": "正直 その後のことは あんまし 自分でもよく覚えてないんだけど｡",
+      "romaji": "しょうじき そののちのことは あんまし じぶんでもよくおぼえてないんだけど｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 445,
+      "episode": 8,
+      "japanese": "結局 40歳迎える前に 死んじゃってさ｡",
+      "romaji": "けっきょく 40としむかえるまえに しんじゃってさ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 446,
+      "episode": 8,
+      "japanese": "で やり直すことになって３周目の人生も パイロットになってまずは あーちんを救うために あの日 コンビニに行ったの｡",
+      "romaji": "で やりなおすことになって３しゅうめのじんせいも パイロットになってまずは あーちんをすくうために あのにち コンビニにいったの｡",
+      "chinese": "",
+      "context": "ねぇ聞いて ギョウ虫さ２人の時",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 447,
+      "episode": 8,
+      "japanese": "(玲奈)〔ねぇ聞いて ギョウ虫さ２人の時に 赤ちゃん言葉になんの〕",
+      "romaji": "(れいな)〔ねぇきいて ギョウむしさ２にんのときに あかちゃんことばになんの〕",
+      "chinese": "",
+      "context": "ねぇ聞いて ギョウ虫さ２人の時",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 448,
+      "episode": 8,
+      "japanese": "(３人)〔嫌～！〕",
+      "romaji": "(３にん)〔いや～！〕",
+      "chinese": "",
+      "context": "ねぇ聞いて ギョウ虫さ２人の時",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 449,
+      "episode": 8,
+      "japanese": "(真里の声) そしたら なぜか 玲奈ちゃんもいて予定よりも長くコンビニにいて事故に遭わなかったの｡",
+      "romaji": "(まりのこえ) そしたら なぜか れいなちゃんもいてよていよりもながくコンビニにいてじこにそうわなかったの｡",
+      "chinese": "",
+      "context": "ねぇ聞いて ギョウ虫さ２人の時",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 450,
+      "episode": 8,
+      "japanese": "(麻美) えっ まりりん いたんだ？ >> うん｡",
+      "romaji": "(あさみ) えっ まりりん いたんだ？ >> うん｡",
+      "chinese": "",
+      "context": "ねぇ聞いて ギョウ虫さ２人の時",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 451,
+      "episode": 8,
+      "japanese": "でもさ あーちん その後 割とすぐ 死んじゃったよね？",
+      "romaji": "でもさ あーちん そののち わとすぐ しんじゃったよね？",
+      "chinese": "",
+      "context": "嫌～！",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 452,
+      "episode": 8,
+      "japanese": "(麻美) そうそう… 前野朋哉に気を取られてね｡",
+      "romaji": "(あさみ) そうそう… まえのともちかにきをとられてね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 453,
+      "episode": 8,
+      "japanese": ">> 前野朋哉？",
+      "romaji": ">> まえのともちか？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 454,
+      "episode": 8,
+      "japanese": "(麻美) ドラマの撮影現場に遭遇してよそ見してたら トラックに ひかれちゃったんだよね｡",
+      "romaji": "(あさみ) ドラマのさつえいげんばにそうぐうしてよそみしてたら トラックに ひかれちゃったんだよね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 455,
+      "episode": 8,
+      "japanese": ">> そうだったんだ｡",
+      "romaji": ">> そうだったんだ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 456,
+      "episode": 8,
+      "japanese": "(麻美) それで死んじゃったんだよ｡",
+      "romaji": "(あさみ) それでしんじゃったんだよ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 457,
+      "episode": 8,
+      "japanese": "ビックリしたよ｡",
+      "romaji": "ビックリしたよ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 458,
+      "episode": 8,
+      "japanese": "それでさ ３周目も また なっちとみーぽんは救えなくて｡",
+      "romaji": "それでさ ３しゅうめも また なっちとみーぽんはすくえなくて｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 459,
+      "episode": 8,
+      "japanese": "(麻美) え？ それは何で？",
+      "romaji": "(あさみ) え？ それはなんで？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 460,
+      "episode": 8,
+      "japanese": "パイロットって 乗りたい便 選べるわけじゃないからさ｡",
+      "romaji": "パイロットって のりたいびん えらべるわけじゃないからさ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 461,
+      "episode": 8,
+      "japanese": "ある程度の希望は出せるけどフライトのシフトが うまく合わないと狙った便に乗れないのね｡",
+      "romaji": "あるていどのきぼうはだせるけどフライトのシフトが うまくあわないとねらったびんにのれないのね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 462,
+      "episode": 8,
+      "japanese": "で その後 交通事故に遭っちゃって｡",
+      "romaji": "で そののち こうつうじこにあっちゃって｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 463,
+      "episode": 8,
+      "japanese": "(麻美) まりりんも？ >> うん｡",
+      "romaji": "(あさみ) まりりんも？ >> うん｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 464,
+      "episode": 8,
+      "japanese": "(麻美) 前野朋哉？",
+      "romaji": "(あさみ) まえのともちか？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 465,
+      "episode": 8,
+      "japanese": "いや そこは違うんだけど｡",
+      "romaji": "いや そこはちがうんだけど｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 466,
+      "episode": 8,
+      "japanese": "で ４周目の人生も パイロットになってその後また 交通事故で｡",
+      "romaji": "で ４しゅうめのじんせいも パイロットになってそののちまた こうつうじこで｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 467,
+      "episode": 8,
+      "japanese": "(麻美) えっ？ また交通事故で 死んじゃったの？",
+      "romaji": "(あさみ) えっ？ またこうつうじこで しんじゃったの？",
+      "chinese": "",
+      "context": "宇野様の場合がですね それが3",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 468,
+      "episode": 8,
+      "japanese": "うん 何かね 聞いたら私 30代が死にやすい時期らしくて｡",
+      "romaji": "うん なにかね きいたらわたし 30だいがしにやすいじきらしくて｡",
+      "chinese": "",
+      "context": "宇野様の場合がですね それが3",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 469,
+      "episode": 8,
+      "japanese": "〔宇野様の場合がですね それが30代ということです〕",
+      "romaji": "〔うのようのばあいがですね それが30だいということです〕",
+      "chinese": "",
+      "context": "宇野様の場合がですね それが3",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 470,
+      "episode": 8,
+      "japanese": "(麻美) そのグラフ 私も見た！ >> えっ!? あーちんも30代？",
+      "romaji": "(あさみ) そのグラフ わたしもみた！ >> えっ!? あーちんも30だい？",
+      "chinese": "",
+      "context": "宇野様の場合がですね それが3",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 471,
+      "episode": 8,
+      "japanese": "(麻美) そこだけグ～ンってなってた｡ >> なってた 私と一緒だ｡",
+      "romaji": "(あさみ) そこだけグ～ンってなってた｡ >> なってた わたしといっしょだ｡",
+      "chinese": "",
+      "context": "宇野様の場合がですね それが3",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 472,
+      "episode": 8,
+      "japanese": "やった～ そうなんだ｡",
+      "romaji": "やった～ そうなんだ｡",
+      "chinese": "",
+      "context": "え？",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 473,
+      "episode": 8,
+      "japanese": "(麻美) ねぇねぇ それでそれで？ >> うん それでまた やり直すことになって 今がその５周目｡",
+      "romaji": "(あさみ) ねぇねぇ それでそれで？ >> うん それでまた やりなおすことになって いまがその５しゅうめ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 474,
+      "episode": 8,
+      "japanese": "(麻美) わぁ…｡",
+      "romaji": "(あさみ) わぁ…｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 475,
+      "episode": 8,
+      "japanese": "じゃあ これから 飛行機乗るってこと？",
+      "romaji": "じゃあ これから ひこうきのるってこと？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 476,
+      "episode": 8,
+      "japanese": "(麻美) 大丈夫？",
+      "romaji": "(あさみ) だいじょうぶ？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 477,
+      "episode": 8,
+      "japanese": "うん 今度は大丈夫｡",
+      "romaji": "うん こんどはだいじょうぶ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 478,
+      "episode": 8,
+      "japanese": "シフトは これからなんだけど今回はね スケジューラーさんとも 仲良くなってるから絶対に乗れる｡",
+      "romaji": "シフトは これからなんだけどこんかいはね スケジューラーさんとも なかよくなってるからぜったいにのれる｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 479,
+      "episode": 8,
+      "japanese": "(麻美) そっか｡",
+      "romaji": "(あさみ) そっか｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 480,
+      "episode": 8,
+      "japanese": "ちなみに そのフライトはいつなの？",
+      "romaji": "ちなみに そのフライトはいつなの？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 481,
+      "episode": 8,
+      "japanese": "えっとね 結構まだ先で 来年なんだよね｡",
+      "romaji": "えっとね けっこうまださきで らいねんなんだよね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 482,
+      "episode": 8,
+      "japanese": "(麻美) そっか まぁ 大丈夫だと思うけど 気を付けてね｡",
+      "romaji": "(あさみ) そっか まぁ だいじょうぶだとおもうけど きをつけてね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 483,
+      "episode": 8,
+      "japanese": "うん 今度は絶対に大丈夫｡",
+      "romaji": "うん こんどはぜったいにだいじょうぶ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 484,
+      "episode": 8,
+      "japanese": "(麻美) 何かさ 私にできることある？",
+      "romaji": "(あさみ) なにかさ わたしにできることある？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 485,
+      "episode": 8,
+      "japanese": ">> う～ん 特にはないかなぁ｡",
+      "romaji": ">> う～ん とくにはないかなぁ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 486,
+      "episode": 8,
+      "japanese": "ありがとう｡",
+      "romaji": "ありがとう｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 487,
+      "episode": 8,
+      "japanese": "ふぅ～｡",
+      "romaji": "ふぅ～｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 488,
+      "episode": 8,
+      "japanese": "あっ ねぇねぇ 帰りさ プリクラ撮らない？",
+      "romaji": "あっ ねぇねぇ かえりさ プリクラとらない？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 489,
+      "episode": 8,
+      "japanese": "(麻美) 撮ろう 撮ろう じゃ そろそろ行こう｡",
+      "romaji": "(あさみ) とろう とろう じゃ そろそろいこう｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 490,
+      "episode": 8,
+      "japanese": "あっ その前にトイレ行っていい？",
+      "romaji": "あっ そのまえにトイレいっていい？",
+      "chinese": "",
+      "context": "重くならないようにかなり端折っ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 491,
+      "episode": 8,
+      "japanese": "(麻美) 出たよ… 行っといで｡ >> ごめんね～｡",
+      "romaji": "(あさみ) でたよ… いっといで｡ >> ごめんね～｡",
+      "chinese": "",
+      "context": "重くならないようにかなり端折っ",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 492,
+      "episode": 8,
+      "japanese": "(麻美) ⟨重くならないようにかなり端折って 話してくれたみたいだけど彼女はきっと これまでに 想像を絶するようなつらい体験を してきたんだと思う⟩",
+      "romaji": "(あさみ) ⟨おもくならないようにかなりはしおりって はなしてくれたみたいだけどかのじょはきっと これまでに そうぞうをぜっするようなつらいたいけんを してきたんだとおもう⟩",
+      "chinese": "",
+      "context": "重くならないようにかなり端折っ",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 493,
+      "episode": 8,
+      "japanese": "(麻美) 熊谷ビューティー学院 あっち向いて 口開けて 笑って｡",
+      "romaji": "(あさみ) くまがやビューティーがくいん あっちむいて くちびらきけて わらって｡",
+      "chinese": "",
+      "context": "重くならないようにかなり端折っ",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 494,
+      "episode": 8,
+      "japanese": "(ﾌﾟﾘﾝﾄｼｰﾙ機) こんな感じに撮れたよ｡",
+      "romaji": "(ﾌﾟﾘﾝﾄｼｰﾙき) こんなかんじにとれたよ｡",
+      "chinese": "",
+      "context": "重くならないようにかなり端折っ",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 495,
+      "episode": 8,
+      "japanese": "(麻美) すっごい笑ってるじゃん｡",
+      "romaji": "(あさみ) すっごいわらってるじゃん｡",
+      "chinese": "",
+      "context": "重くならないようにかなり端折っ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 496,
+      "episode": 8,
+      "japanese": "(真里) アハハ…！",
+      "romaji": "(まり) アハハ…！",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 497,
+      "episode": 8,
+      "japanese": "(麻美) よかったね｡ >> こんな笑ったの久しぶりかも｡",
+      "romaji": "(あさみ) よかったね｡ >> こんなわらったのひさしぶりかも｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 498,
+      "episode": 8,
+      "japanese": "(麻美) あ～ よかったね 本当によかったね｡",
+      "romaji": "(あさみ) あ～ よかったね ほんとうによかったね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 499,
+      "episode": 8,
+      "japanese": ">> よかった ありがとう｡",
+      "romaji": ">> よかった ありがとう｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 500,
+      "episode": 8,
+      "japanese": "ここ２人で歩くの 久しぶりじゃない？",
+      "romaji": "ここ２にんであるくの ひさしぶりじゃない？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 501,
+      "episode": 8,
+      "japanese": "(真里) うん 超久しぶり｡",
+      "romaji": "(まり) うん ちょうひさしぶり｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 502,
+      "episode": 8,
+      "japanese": "(麻美) ねぇ 今度さ あの２人 カラオケに誘ってみない？",
+      "romaji": "(あさみ) ねぇ こんどさ あの２にん カラオケにさそってみない？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 503,
+      "episode": 8,
+      "japanese": ">> え～ 来てくれるかな？",
+      "romaji": ">> え～ きてくれるかな？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 504,
+      "episode": 8,
+      "japanese": "(麻美) 来てくれるよ｡",
+      "romaji": "(あさみ) きてくれるよ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 505,
+      "episode": 8,
+      "japanese": ">> でもさ 緊張しない？",
+      "romaji": ">> でもさ きんちょうしない？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 506,
+      "episode": 8,
+      "japanese": "(麻美) うん 分かるよ｡",
+      "romaji": "(あさみ) うん わかるよ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 507,
+      "episode": 8,
+      "japanese": "でもさ 元々４人で遊んでたんだから波長は合うはずなんだよね｡ >> そうだね｡",
+      "romaji": "でもさ もともと４にんであそんでたんだからはちょうはあうはずなんだよね｡ >> そうだね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 508,
+      "episode": 8,
+      "japanese": "じゃあさ 無事 フライトが成功したら行こう｡",
+      "romaji": "じゃあさ ぶじ フライトがせいこうしたらいこう｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 509,
+      "episode": 8,
+      "japanese": "(麻美) えっ だって フライトって来年でしょ？",
+      "romaji": "(あさみ) えっ だって フライトってらいねんでしょ？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 510,
+      "episode": 8,
+      "japanese": "その前に行こうよ｡ >> あ そっか｡",
+      "romaji": "そのまえにいこうよ｡ >> あ そっか｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 511,
+      "episode": 8,
+      "japanese": "(麻美) それこそ 来月とか再来月またこっち帰ってきた時に 行かない？",
+      "romaji": "(あさみ) それこそ らいげつとかさらいげつまたこっちかえってきたときに いかない？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 512,
+      "episode": 8,
+      "japanese": "そうだね｡",
+      "romaji": "そうだね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 513,
+      "episode": 8,
+      "japanese": "じゃあね｡",
+      "romaji": "じゃあね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 514,
+      "episode": 8,
+      "japanese": "(麻美) そっか まりりん こっちか｡",
+      "romaji": "(あさみ) そっか まりりん こっちか｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 515,
+      "episode": 8,
+      "japanese": ">> また連絡する｡",
+      "romaji": ">> またれんらくする｡",
+      "chinese": "",
+      "context": "近々４人で 集まれることを願い",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 516,
+      "episode": 8,
+      "japanese": "(麻美) じゃあね バイバイ｡",
+      "romaji": "(あさみ) じゃあね バイバイ｡",
+      "chinese": "",
+      "context": "近々４人で 集まれることを願い",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 517,
+      "episode": 8,
+      "japanese": "(麻美) ⟨近々４人で 集まれることを願いつつまりりんと別れた⟩",
+      "romaji": "(あさみ) ⟨ちかぢか４にんで あつまれることをねがいつつまりりんとわかれた⟩",
+      "chinese": "",
+      "context": "近々４人で 集まれることを願い",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 518,
+      "episode": 8,
+      "japanese": "(麻美) ⟨翌日からまた いつもの日常に戻った⟩",
+      "romaji": "(あさみ) ⟨よくじつからまた いつものにちじょうにもどった⟩",
+      "chinese": "",
+      "context": "近々４人で 集まれることを願い",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 519,
+      "episode": 8,
+      "japanese": "実験用のキット買って 使った後って大体 一部の試薬類が やたら余るじゃないですか｡",
+      "romaji": "じっけんようのキットかって つかったあとってだいたい いちぶのしやくるいが やたらあまるじゃないですか｡",
+      "chinese": "",
+      "context": "近々４人で 集まれることを願い",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 520,
+      "episode": 8,
+      "japanese": "(多江) 分かる ものによって 減り方が全然違うからね｡",
+      "romaji": "(たえ) わかる ものによって へりほうがぜんぜんちがうからね｡",
+      "chinese": "",
+      "context": "近々４人で 集まれることを願い",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 521,
+      "episode": 8,
+      "japanese": "(麻美) しかも余った試薬って ほぼ使い道ないんだけどキット自体が高いから 何となく捨てづらくないですか？",
+      "romaji": "(あさみ) しかもあまったしやくって ほぼつかいみちないんだけどキットじたいがたかいから なんとなくすてづらくないですか？",
+      "chinese": "",
+      "context": "翌日からまた いつもの日常に戻",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 522,
+      "episode": 8,
+      "japanese": "捨てづらい｡",
+      "romaji": "すてづらい｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 523,
+      "episode": 8,
+      "japanese": "それで どんどん たまっていくんだよね｡",
+      "romaji": "それで どんどん たまっていくんだよね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 524,
+      "episode": 8,
+      "japanese": "(麻美) 納豆のカラシみたいですよね｡",
+      "romaji": "(あさみ) なっとうのカラシみたいですよね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 525,
+      "episode": 8,
+      "japanese": ">> 納豆のカラシ？",
+      "romaji": ">> なっとうのカラシ？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 526,
+      "episode": 8,
+      "japanese": "(麻美) ああいうのっていつか使うかなと思って 冷蔵庫に輪ゴムで縛ってストックしたりするんですけど 結局使わないままどんどん たまっていくじゃないですか｡",
+      "romaji": "(あさみ) ああいうのっていつかつかうかなとおもって れいぞうこにわごむでしばってストックしたりするんですけど けっきょくつかわないままどんどん たまっていくじゃないですか｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 527,
+      "episode": 8,
+      "japanese": "私 納豆のカラシは 100パー使うからたまんないよ｡",
+      "romaji": "わたし なっとうのカラシは 100パーつかうからたまんないよ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 528,
+      "episode": 8,
+      "japanese": "(麻美) そうなんですね｡ >> それでいうなら 私あれだねスーパーのさ パックのお刺し身に 付いてるワサビ｡",
+      "romaji": "(あさみ) そうなんですね｡ >> それでいうなら わたしあれだねスーパーのさ パックのおさしみに ついてるワサビ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 529,
+      "episode": 8,
+      "japanese": "(麻美) 小っちゃいやつ｡",
+      "romaji": "(あさみ) ちっちゃいやつ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 530,
+      "episode": 8,
+      "japanese": "私 あのワサビつけないで 食べるからさ取りあえず 輪ゴムで縛って いつか使う日のためにストックしてあんだけど 全然使わないね｡",
+      "romaji": "わたし あのワサビつけないで たべるからさとりあえず わごむでしばって いつかつかうにちのためにストックしてあんだけど ぜんぜんつかわないね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 531,
+      "episode": 8,
+      "japanese": "(麻美) あっ お刺し身に ワサビつけないんですね｡",
+      "romaji": "(あさみ) あっ おさしみに ワサビつけないんですね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 532,
+      "episode": 8,
+      "japanese": ">> うん つけないね｡",
+      "romaji": ">> うん つけないね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 533,
+      "episode": 8,
+      "japanese": "(麻美) じゃあ お寿司もですか？",
+      "romaji": "(あさみ) じゃあ おすしもですか？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 534,
+      "episode": 8,
+      "japanese": ">> うん 基本サビ抜きだね｡",
+      "romaji": ">> うん きほんサビぬきだね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 535,
+      "episode": 8,
+      "japanese": "(麻美) そうなんですね｡",
+      "romaji": "(あさみ) そうなんですね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 536,
+      "episode": 8,
+      "japanese": "やっぱり 魚本来の味を楽しみたいからさ｡",
+      "romaji": "やっぱり うおもとこのあじをたのしみたいからさ｡",
+      "chinese": "",
+      "context": "刺し身やお寿司にすら ワサビを",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 537,
+      "episode": 8,
+      "japanese": "⟨刺し身やお寿司にすら ワサビをつけたくない人がストックのワサビを使うことなど 一生ないので今すぐ捨てるべきと思ったけどめんどくさいので 言わないでおいた⟩",
+      "romaji": "⟨さしみやおすしにすら ワサビをつけたくないにんがストックのワサビをつかうことなど いっしょうないのでいますぐすてるべきとおもったけどめんどくさいので いわないでおいた⟩",
+      "chinese": "",
+      "context": "刺し身やお寿司にすら ワサビを",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 538,
+      "episode": 8,
+      "japanese": "⟨そして まりりんと会ってから １か月ほど経ったある夜のこと⟩",
+      "romaji": "⟨そして まりりんとあってから １かがつほどへったあるよるのこと⟩",
+      "chinese": "",
+      "context": "刺し身やお寿司にすら ワサビを",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 539,
+      "episode": 8,
+      "japanese": "(麻美) ⟨何だか胸騒ぎがした⟩",
+      "romaji": "(あさみ) ⟨なんだかむなさわぎがした⟩",
+      "chinese": "",
+      "context": "刺し身やお寿司にすら ワサビを",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 540,
+      "episode": 8,
+      "japanese": "⟨だけど その便のフライトは…⟩",
+      "romaji": "⟨だけど そのびんのフライトは…⟩",
+      "chinese": "",
+      "context": "刺し身やお寿司にすら ワサビを",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 541,
+      "episode": 8,
+      "japanese": "〔結構まだ先で 来年なんだよね〕",
+      "romaji": "〔けっこうまださきで らいねんなんだよね〕",
+      "chinese": "",
+      "context": "そして まりりんと会ってから ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 542,
+      "episode": 8,
+      "japanese": "📱(音声ｶﾞｲﾀﾞﾝｽ) おかけになった電話は電源…｡",
+      "romaji": "📱(おんせいｶﾞｲﾀﾞﾝｽ) おかけになったでんわはでんげん…｡",
+      "chinese": "",
+      "context": "だけど その便のフライトは…",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 543,
+      "episode": 8,
+      "japanese": "📱(音声ｶﾞｲﾀﾞﾝｽ) おかけになった電話は 電源が入っていない…｡",
+      "romaji": "📱(おんせいｶﾞｲﾀﾞﾝｽ) おかけになったでんわは でんげんがいっっていない…｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 544,
+      "episode": 8,
+      "japanese": "📱(音声ｶﾞｲﾀﾞﾝｽ) おかけになった電話は 電源が入っていないか…｡",
+      "romaji": "📱(おんせいｶﾞｲﾀﾞﾝｽ) おかけになったでんわは でんげんがいっっていないか…｡",
+      "chinese": "",
+      "context": "そして この胸騒ぎは的中してし",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 545,
+      "episode": 8,
+      "japanese": "(麻美) ⟨そして この胸騒ぎは的中してしまった⟩",
+      "romaji": "(あさみ) ⟨そして このむなさわぎはてきちゅうしてしまった⟩",
+      "chinese": "",
+      "context": "そして この胸騒ぎは的中してし",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 546,
+      "episode": 8,
+      "japanese": "(福田) 何か突然過ぎて 実感 湧かないね｡",
+      "romaji": "(ふくだ) なにかとつぜんすぎて じっかん わかないね｡",
+      "chinese": "",
+      "context": "そして この胸騒ぎは的中してし",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 547,
+      "episode": 8,
+      "japanese": "(麻美) 湧かない｡",
+      "romaji": "(あさみ) わかない｡",
+      "chinese": "",
+      "context": "そして この胸騒ぎは的中してし",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 548,
+      "episode": 8,
+      "japanese": "(美佐) 私も｡",
+      "romaji": "(みさ) わたしも｡",
+      "chinese": "",
+      "context": "そして この胸騒ぎは的中してし",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 549,
+      "episode": 8,
+      "japanese": "(福田) だよね｡",
+      "romaji": "(ふくだ) だよね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 550,
+      "episode": 8,
+      "japanese": "(美佐) ちょっとさ お茶して帰んない？",
+      "romaji": "(みさ) ちょっとさ おちゃしてかえんない？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 551,
+      "episode": 8,
+      "japanese": "(麻美) そうだね…｡",
+      "romaji": "(あさみ) そうだね…｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 552,
+      "episode": 8,
+      "japanese": "何か このまま １人になるのはつらいし｡",
+      "romaji": "なにか このまま １にんになるのはつらいし｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 553,
+      "episode": 8,
+      "japanese": "じゃあ 俺が働いてる店に来る？ カラオケなんだけど｡",
+      "romaji": "じゃあ おれがはたらいてるみせにくる？ カラオケなんだけど｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 554,
+      "episode": 8,
+      "japanese": "大丈夫なの？ >> うん そこなら個室だし気を使わないで済むでしょ｡ >> そうだね｡",
+      "romaji": "だいじょうぶなの？ >> うん そこならこしつだしきをつかわないですむでしょ｡ >> そうだね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 555,
+      "episode": 8,
+      "japanese": "なっちと みーぽんってさ小学校の頃から ずっと一緒だったよね｡",
+      "romaji": "なっちと みーぽんってさしょうがっこうのごろから ずっといっしょだったよね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 556,
+      "episode": 8,
+      "japanese": "(麻美) 一緒だった｡",
+      "romaji": "(あさみ) いっしょだった｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 557,
+      "episode": 8,
+      "japanese": "最近も この店に よく２人で来てたんだよね｡",
+      "romaji": "さいきんも このみせに よく２にんできてたんだよね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 558,
+      "episode": 8,
+      "japanese": "そうなんだ｡ >> うん｡",
+      "romaji": "そうなんだ｡ >> うん｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 559,
+      "episode": 8,
+      "japanese": "麻美ちゃん 真里ちゃんと 昔から仲良かったよね｡",
+      "romaji": "あさみちゃん まりちゃんと むかしからなかよかったよね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 560,
+      "episode": 8,
+      "japanese": "(麻美) うん そうだね｡",
+      "romaji": "(あさみ) うん そうだね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 561,
+      "episode": 8,
+      "japanese": ">> 生徒会の会長と 副会長だったもんね｡",
+      "romaji": ">> せいとかいのかいちょうと ふくかいちょうだったもんね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 562,
+      "episode": 8,
+      "japanese": "１か月前もね 一緒にお茶して その後 ここ来たんだよ｡",
+      "romaji": "１かげつまえもね いっしょにおちゃして そののち ここきたんだよ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 563,
+      "episode": 8,
+      "japanese": "(福田) そうだったんだ｡",
+      "romaji": "(ふくだ) そうだったんだ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 564,
+      "episode": 8,
+      "japanese": "(麻美) そうそう…｡",
+      "romaji": "(あさみ) そうそう…｡",
+      "chinese": "",
+      "context": "ちなみに そのフライトはいつな",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 565,
+      "episode": 8,
+      "japanese": "(福田) 丸山は？ 最近会ってた？",
+      "romaji": "(ふくだ) まるやまは？ さいきんあってた？",
+      "chinese": "",
+      "context": "ちなみに そのフライトはいつな",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 566,
+      "episode": 8,
+      "japanese": "(麻美)〔ちなみに そのフライトはいつなの？〕",
+      "romaji": "(あさみ)〔ちなみに そのフライトはいつなの？〕",
+      "chinese": "",
+      "context": "ちなみに そのフライトはいつな",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 567,
+      "episode": 8,
+      "japanese": "〔えっとね 結構まだ先で 来年なんだよね〕",
+      "romaji": "〔えっとね けっこうまださきで らいねんなんだよね〕",
+      "chinese": "",
+      "context": "ちなみに そのフライトはいつな",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 568,
+      "episode": 8,
+      "japanese": "(麻美) ⟨今思えば あれは まりりんが 私に心配させないためのウソでいつの間にか終わっているように したかったんだと思う⟩",
+      "romaji": "(あさみ) ⟨いまおもえば あれは まりりんが わたしにしんぱいさせないためのウソでいつのまにかおわっているように したかったんだとおもう⟩",
+      "chinese": "",
+      "context": "ちなみに そのフライトはいつな",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 569,
+      "episode": 8,
+      "japanese": "(福田) 俺 小学校の時 宇野のこと好きだったんだよね｡",
+      "romaji": "(ふくだ) おれ しょうがっこうのとき うののことすきだったんだよね｡",
+      "chinese": "",
+      "context": "ちなみに そのフライトはいつな",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 570,
+      "episode": 8,
+      "japanese": "(麻美) フフフ…｡",
+      "romaji": "(あさみ) フフフ…｡",
+      "chinese": "",
+      "context": "えっとね 結構まだ先で 来年な",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 571,
+      "episode": 8,
+      "japanese": "⟨結局この日は ３人で朝まで ここで過ごした⟩",
+      "romaji": "⟨けっきょくこのにちは ３にんであさまで ここですごした⟩",
+      "chinese": "",
+      "context": "今思えば あれは まりりんが ",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 572,
+      "episode": 8,
+      "japanese": "(美穂)〔あーちん 一緒に帰ろう〕",
+      "romaji": "(みほ)〔あーちん いっしょにかえろう〕",
+      "chinese": "",
+      "context": "結局この日は ３人で朝まで こ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 573,
+      "episode": 8,
+      "japanese": "(麻美)〔うん 帰ろう〕",
+      "romaji": "(あさみ)〔うん かえろう〕",
+      "chinese": "",
+      "context": "結局この日は ３人で朝まで こ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 574,
+      "episode": 8,
+      "japanese": "〔なっち ノストラダムス 信じてたの？〕",
+      "romaji": "〔なっち ノストラダムス しんじてたの？〕",
+      "chinese": "",
+      "context": "あーちん 一緒に帰ろう",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 575,
+      "episode": 8,
+      "japanese": "(夏希)〔信じてはないけど…〕",
+      "romaji": "(なつき)〔しんじてはないけど…〕",
+      "chinese": "",
+      "context": "あーちん 一緒に帰ろう",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 576,
+      "episode": 8,
+      "japanese": "(麻美)〔“トリック”見た？〕",
+      "romaji": "(あさみ)〔“トリック”みた？〕",
+      "chinese": "",
+      "context": "うん 帰ろう",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 577,
+      "episode": 8,
+      "japanese": "(夏希)〔私 見てないから言わないで〕",
+      "romaji": "(なつき)〔わたし みてないからいわないで〕",
+      "chinese": "",
+      "context": "なっち ノストラダムス 信じて",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 578,
+      "episode": 8,
+      "japanese": "(真里)〔楽しいものが 全部そろってる感じだよね〕",
+      "romaji": "(まり)〔たのしいものが ぜんぶそろってるかんじだよね〕",
+      "chinese": "",
+      "context": "信じてはないけど…",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 579,
+      "episode": 8,
+      "japanese": "〔住みたいんだけど〕",
+      "romaji": "〔すみたいんだけど〕",
+      "chinese": "",
+      "context": "“トリック”見た？",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 580,
+      "episode": 8,
+      "japanese": "(麻美)〔あ～ 住みたいね〕",
+      "romaji": "(あさみ)〔あ～ すみたいね〕",
+      "chinese": "",
+      "context": "私 見てないから言わないで",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 581,
+      "episode": 8,
+      "japanese": "(麻美)〔やった～！〕",
+      "romaji": "(あさみ)〔やった～！〕",
+      "chinese": "",
+      "context": "住みたいんだけど",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 582,
+      "episode": 8,
+      "japanese": "〔♪～ 大きな希望〕",
+      "romaji": "〔♪～ おおきなきぼう〕",
+      "chinese": "",
+      "context": "あ～ 住みたいね",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 583,
+      "episode": 8,
+      "japanese": "(麻美)〔コォ～！〕",
+      "romaji": "(あさみ)〔コォ～！〕",
+      "chinese": "",
+      "context": "やった～！",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 584,
+      "episode": 8,
+      "japanese": "(夏希)〔食べよう 食べよう 食べよう〕",
+      "romaji": "(なつき)〔たべよう たべよう たべよう〕",
+      "chinese": "",
+      "context": "♪～ 大きな希望",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 585,
+      "episode": 8,
+      "japanese": "(２人)〔イェ～イ！〕",
+      "romaji": "(２にん)〔イェ～イ！〕",
+      "chinese": "",
+      "context": "フリーザ乗ってるやつでしょ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 586,
+      "episode": 8,
+      "japanese": "〔やった～〕",
+      "romaji": "〔やった～〕",
+      "chinese": "",
+      "context": "コォ～！",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 587,
+      "episode": 8,
+      "japanese": "(麻美)〔本当によかった〕",
+      "romaji": "(あさみ)〔ほんとうによかった〕",
+      "chinese": "",
+      "context": "食べよう 食べよう 食べよう",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 588,
+      "episode": 8,
+      "japanese": "〔ねぇ 今度さ あの２人 カラオケに誘ってみる？〕",
+      "romaji": "〔ねぇ こんどさ あの２にん カラオケにさそってみる？〕",
+      "chinese": "",
+      "context": "イェ～イ！",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 589,
+      "episode": 8,
+      "japanese": "〔無事 フライトが成功したら行こう〕",
+      "romaji": "〔ぶじ フライトがせいこうしたらいこう〕",
+      "chinese": "",
+      "context": "やった～",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 590,
+      "episode": 8,
+      "japanese": "(麻美)〔えっ だって フライトって来年でしょ？〕",
+      "romaji": "(あさみ)〔えっ だって フライトってらいねんでしょ？〕",
+      "chinese": "",
+      "context": "本当によかった",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 591,
+      "episode": 8,
+      "japanese": "〔その前に行こうよ〕 >> 〔あ そっか〕",
+      "romaji": "〔そのまえにいこうよ〕 >> 〔あ そっか〕",
+      "chinese": "",
+      "context": "ねぇ 今度さ あの２人 カラオ",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 592,
+      "episode": 8,
+      "japanese": "(麻美)〔それこそ 来月とか再来月またこっち帰ってきた時に 行かない？〕",
+      "romaji": "(あさみ)〔それこそ らいげつとかさらいげつまたこっちかえってきたときに いかない？〕",
+      "chinese": "",
+      "context": "無事 フライトが成功したら行こ",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 593,
+      "episode": 8,
+      "japanese": "〔そうだね〕",
+      "romaji": "〔そうだね〕",
+      "chinese": "",
+      "context": "えっ だって フライトって来年",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 594,
+      "episode": 8,
+      "japanese": "(麻美) ⟨あの日以降 私は今まで以上に 実験に没頭した⟩",
+      "romaji": "(あさみ) ⟨あのにちいこう わたしはいままでいじょうに じっけんにぼっとうした⟩",
+      "chinese": "",
+      "context": "それこそ 来月とか再来月またこ",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 595,
+      "episode": 8,
+      "japanese": "⟨そして あの日から３年が経った ある夜の帰り道⟩",
+      "romaji": "⟨そして あのにちから３ねんがへった あるよるのかえりみち⟩",
+      "chinese": "",
+      "context": "そうだね",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 596,
+      "episode": 8,
+      "japanese": "(美奈子) 近藤さん？",
+      "romaji": "(みなこ) こんどうさん？",
+      "chinese": "",
+      "context": "あの日以降 私は今まで以上に ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 597,
+      "episode": 8,
+      "japanese": "覚えてます？",
+      "romaji": "おぼえてます？",
+      "chinese": "",
+      "context": "あの日以降 私は今まで以上に ",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 598,
+      "episode": 8,
+      "japanese": "(麻美) 河口さん？",
+      "romaji": "(あさみ) かこうさん？",
+      "chinese": "",
+      "context": "そして あの日から３年が経った",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 599,
+      "episode": 8,
+      "japanese": ">> そうです お久しぶりです｡",
+      "romaji": ">> そうです おひさしぶりです｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 600,
+      "episode": 8,
+      "japanese": "(麻美) お久しぶりです｡",
+      "romaji": "(あさみ) おひさしぶりです｡",
+      "chinese": "",
+      "context": "彼女は市役所時代の後輩の 河口",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 601,
+      "episode": 8,
+      "japanese": "近藤さん 今 どこで働いてるんですか？",
+      "romaji": "こんどうさん いま どこではたらいてるんですか？",
+      "chinese": "",
+      "context": "彼女は市役所時代の後輩の 河口",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 602,
+      "episode": 8,
+      "japanese": "(麻美) ⟨彼女は市役所時代の後輩の 河口さん⟩",
+      "romaji": "(あさみ) ⟨かのじょはしやくしょじだいのこうはいの かこうさん⟩",
+      "chinese": "",
+      "context": "彼女は市役所時代の後輩の 河口",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 603,
+      "episode": 8,
+      "japanese": "⟨だけど それは１周目⟩",
+      "romaji": "⟨だけど それは１しゅうめ⟩",
+      "chinese": "",
+      "context": "彼女は市役所時代の後輩の 河口",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 604,
+      "episode": 8,
+      "japanese": ">> そうなんですね｡",
+      "romaji": ">> そうなんですね｡",
+      "chinese": "",
+      "context": "彼女は市役所時代の後輩の 河口",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 605,
+      "episode": 8,
+      "japanese": "(麻美) ⟨ということは つまり…⟩",
+      "romaji": "(あさみ) ⟨ということは つまり…⟩",
+      "chinese": "",
+      "context": "彼女は市役所時代の後輩の 河口",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 606,
+      "episode": 8,
+      "japanese": "あ 私も やり直してるんですよ｡",
+      "romaji": "あ わたしも やりなおしてるんですよ｡",
+      "chinese": "",
+      "context": "だけど それは１周目",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 607,
+      "episode": 8,
+      "japanese": "(麻美) そうだよね｡ >> そうっす｡",
+      "romaji": "(あさみ) そうだよね｡ >> そうっす｡",
+      "chinese": "",
+      "context": "ということは つまり…",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 608,
+      "episode": 8,
+      "japanese": "(麻美) ⟨ノリは軽いけど⟩ >> えっ 近藤さん 今 何周目ですか？",
+      "romaji": "(あさみ) ⟨ノリはかるいけど⟩ >> えっ こんどうさん いま なんしゅうめですか？",
+      "chinese": "",
+      "context": "ということは つまり…",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 609,
+      "episode": 8,
+      "japanese": "(麻美) 私 ４周目｡",
+      "romaji": "(あさみ) わたし ４しゅうめ｡",
+      "chinese": "",
+      "context": "ノリは軽いけど",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 610,
+      "episode": 8,
+      "japanese": "河口さんは？ >> ８周目です｡",
+      "romaji": "かこうさんは？ >> ８しゅうめです｡",
+      "chinese": "",
+      "context": "ノリは軽いけど",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 611,
+      "episode": 8,
+      "japanese": "(麻美) はぁ～ えっ 何で私が やり直してるって分かったの？",
+      "romaji": "(あさみ) はぁ～ えっ なんでわたしが やりなおしてるってわかったの？",
+      "chinese": "",
+      "context": "ノリは軽いけど",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 612,
+      "episode": 8,
+      "japanese": "いや 近藤さん 途中から 急にいなくなったからそうなんだろうなって思って｡",
+      "romaji": "いや こんどうさん とちゅうから きゅうにいなくなったからそうなんだろうなっておもって｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 613,
+      "episode": 8,
+      "japanese": "(麻美) そっか…｡",
+      "romaji": "(あさみ) そっか…｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 614,
+      "episode": 8,
+      "japanese": "今日は たまたま友達に会いに 東京に来てたんですけどそしたら 近藤さんいたから ビックリして｡",
+      "romaji": "こんにちは たまたまともだちにあいに とうきょうにきてたんですけどそしたら こんどうさんいたから ビックリして｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 615,
+      "episode": 8,
+      "japanese": "(麻美) そっか そっか｡",
+      "romaji": "(あさみ) そっか そっか｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 616,
+      "episode": 8,
+      "japanese": "家ね すぐそこなんだよね｡ >> あ そうなんですね｡",
+      "romaji": "いえね すぐそこなんだよね｡ >> あ そうなんですね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 617,
+      "episode": 8,
+      "japanese": "(麻美) ねぇ よかったら ちょろっと家に寄ってかない？",
+      "romaji": "(あさみ) ねぇ よかったら ちょろっといえによってかない？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 618,
+      "episode": 8,
+      "japanese": "え いいんですか？",
+      "romaji": "え いいんですか？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 619,
+      "episode": 8,
+      "japanese": "(麻美) もし 時間がね 大丈夫だったら｡ >> 全然大丈夫です｡",
+      "romaji": "(あさみ) もし じかんがね だいじょうぶだったら｡ >> ぜんぜんだいじょうぶです｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 620,
+      "episode": 8,
+      "japanese": "(麻美) ホントに？ >> 私も もっと話したいし｡",
+      "romaji": "(あさみ) ホントに？ >> わたしも もっとはなしたいし｡",
+      "chinese": "",
+      "context": "まりりん以外で やり直している",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 621,
+      "episode": 8,
+      "japanese": "(麻美) じゃあ 話そう 話そう｡ >> はい 話しましょう｡",
+      "romaji": "(あさみ) じゃあ はなそう はなそう｡ >> はい はなしましょう｡",
+      "chinese": "",
+      "context": "まりりん以外で やり直している",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 622,
+      "episode": 8,
+      "japanese": "(麻美) ⟨まりりん以外で やり直している人と会うのは初めてなので 何だか すごくうれしかった⟩",
+      "romaji": "(あさみ) ⟨まりりんいがいで やりなおしているにんとあうのははじめてなので なんだか すごくうれしかった⟩",
+      "chinese": "",
+      "context": "まりりん以外で やり直している",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 623,
+      "episode": 8,
+      "japanese": "８周ってすごいね でも｡",
+      "romaji": "８まわってすごいね でも｡",
+      "chinese": "",
+      "context": "まりりん以外で やり直している",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 624,
+      "episode": 8,
+      "japanese": "今 何の仕事してるの？",
+      "romaji": "いま なんのしごとしてるの？",
+      "chinese": "",
+      "context": "まりりん以外で やり直している",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 625,
+      "episode": 8,
+      "japanese": ">> 同じです 北熊谷市役所｡",
+      "romaji": ">> おなじです きたくまがやしやくしょ｡",
+      "chinese": "",
+      "context": "まりりん以外で やり直している",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 626,
+      "episode": 8,
+      "japanese": "他の仕事には就いたりしないの？",
+      "romaji": "ほかのしごとにはついたりしないの？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 627,
+      "episode": 8,
+      "japanese": "自分的に １周目が結構気に入ってたんで毎回 同じ感じで なぞってるんですよ｡",
+      "romaji": "じぶんてきに １しゅうめがけっこうきにいってたんでまいかい おなじかんじで なぞってるんですよ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 628,
+      "episode": 8,
+      "japanese": "(麻美) 同じ感じって どのくらい？",
+      "romaji": "(あさみ) おなじかんじって どのくらい？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 629,
+      "episode": 8,
+      "japanese": ">> ん～ いや もう ほぼほぼです｡",
+      "romaji": ">> ん～ いや もう ほぼほぼです｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 630,
+      "episode": 8,
+      "japanese": "(麻美) ほぼほぼ？",
+      "romaji": "(あさみ) ほぼほぼ？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 631,
+      "episode": 8,
+      "japanese": "はい 仕事だけじゃなくて 趣味とか交友関係とか｡",
+      "romaji": "はい しごとだけじゃなくて しゅみとかこうゆうかんけいとか｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 632,
+      "episode": 8,
+      "japanese": "それこそ 服のローテーションも ほぼ同じです｡",
+      "romaji": "それこそ ふくのローテーションも ほぼおなじです｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 633,
+      "episode": 8,
+      "japanese": "(麻美) すごいね… それって楽しいの？ >> 楽しいですよ｡",
+      "romaji": "(あさみ) すごいね… それってたのしいの？ >> たのしいですよ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 634,
+      "episode": 8,
+      "japanese": "どこまでなぞれるか ゲームみたいな感じで｡",
+      "romaji": "どこまでなぞれるか ゲームみたいなかんじで｡",
+      "chinese": "",
+      "context": "斬新な楽しみ方",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 635,
+      "episode": 8,
+      "japanese": "(麻美) へぇ～ そうなんだ｡",
+      "romaji": "(あさみ) へぇ～ そうなんだ｡",
+      "chinese": "",
+      "context": "斬新な楽しみ方",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 636,
+      "episode": 8,
+      "japanese": "⟨斬新な楽しみ方⟩",
+      "romaji": "⟨ざんしんなたのしみかた⟩",
+      "chinese": "",
+      "context": "斬新な楽しみ方",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 637,
+      "episode": 8,
+      "japanese": "ねぇ 河口さんってさ 来世 何って言われた？",
+      "romaji": "ねぇ かこうさんってさ らいせ なにっていわれた？",
+      "chinese": "",
+      "context": "斬新な楽しみ方",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 638,
+      "episode": 8,
+      "japanese": "私は ウニだったんだけどさ｡",
+      "romaji": "わたしは ウニだったんだけどさ｡",
+      "chinese": "",
+      "context": "斬新な楽しみ方",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 639,
+      "episode": 8,
+      "japanese": "私はアオサギです｡",
+      "romaji": "わたしはアオサギです｡",
+      "chinese": "",
+      "context": "斬新な楽しみ方",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 640,
+      "episode": 8,
+      "japanese": "(麻美) アオサギって何だっけ？ >> 鳥ですね｡",
+      "romaji": "(あさみ) アオサギってなんだっけ？ >> とりですね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 641,
+      "episode": 8,
+      "japanese": "ペリカンの仲間とか｡",
+      "romaji": "ペリカンのなかまとか｡",
+      "chinese": "",
+      "context": "いいのか悪いのか分からない",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 642,
+      "episode": 8,
+      "japanese": "(麻美) あぁ｡",
+      "romaji": "(あさみ) あぁ｡",
+      "chinese": "",
+      "context": "いいのか悪いのか分からない",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 643,
+      "episode": 8,
+      "japanese": "⟨いいのか悪いのか分からない⟩",
+      "romaji": "⟨いいのかわるいのかわからない⟩",
+      "chinese": "",
+      "context": "いいのか悪いのか分からない",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 644,
+      "episode": 8,
+      "japanese": "⟨ウニよりは いいか⟩",
+      "romaji": "⟨ウニよりは いいか⟩",
+      "chinese": "",
+      "context": "いいのか悪いのか分からない",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 645,
+      "episode": 8,
+      "japanese": "でも 鳥も楽しそうだし 別にいいかなって思ってます｡",
+      "romaji": "でも とりもたのしそうだし べつにいいかなっておもってます｡",
+      "chinese": "",
+      "context": "いいのか悪いのか分からない",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 646,
+      "episode": 8,
+      "japanese": "(麻美) 鳥ね｡",
+      "romaji": "(あさみ) とりね｡",
+      "chinese": "",
+      "context": "いいのか悪いのか分からない",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 647,
+      "episode": 8,
+      "japanese": "⟨確かに ウニよりはいい⟩",
+      "romaji": "⟨たしかに ウニよりはいい⟩",
+      "chinese": "",
+      "context": "ウニよりは いいか",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 648,
+      "episode": 8,
+      "japanese": "ホントは１回くらい違う人生を 選んでみてもいいかなとか思うんですけど 下手に違うことして取り返しのつかないことに なるのも怖いんで結局 同じ人生にしちゃうんですよね｡",
+      "romaji": "ホントは１かいくらいちがうじんせいを えらんでみてもいいかなとかおもうんですけど へたにちがうことしてとりかえしのつかないことに なるのもこわいんでけっきょく おなじじんせいにしちゃうんですよね｡",
+      "chinese": "",
+      "context": "確かに ウニよりはいい",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 649,
+      "episode": 8,
+      "japanese": "(麻美) なるほどね｡",
+      "romaji": "(あさみ) なるほどね｡",
+      "chinese": "",
+      "context": "確かに ウニよりはいい",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 650,
+      "episode": 8,
+      "japanese": "でも何か うれしいです｡",
+      "romaji": "でもなにか うれしいです｡",
+      "chinese": "",
+      "context": "確かに ウニよりはいい",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 651,
+      "episode": 8,
+      "japanese": "今まで こんな話 人にしたことなかったから｡",
+      "romaji": "いままで こんなはなし にんにしたことなかったから｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 652,
+      "episode": 8,
+      "japanese": "(麻美) 普通は話せないよね～｡ >> 近藤さん 誰かに話しました？",
+      "romaji": "(あさみ) ふつうははなせないよね～｡ >> こんどうさん だれかにはなしました？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 653,
+      "episode": 8,
+      "japanese": "(麻美) 私はね 幼なじみにね ５周目だった子がいたのよ｡",
+      "romaji": "(あさみ) わたしはね ようなじみにね ５しゅうめだったこがいたのよ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 654,
+      "episode": 8,
+      "japanese": "あっ そうなんですね その方 今 何されてるんですか？",
+      "romaji": "あっ そうなんですね そのほう いま なにされてるんですか？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 655,
+      "episode": 8,
+      "japanese": "(麻美) いろいろあって 今は雲の上というか｡",
+      "romaji": "(あさみ) いろいろあって いまはくものあがというか｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 656,
+      "episode": 8,
+      "japanese": ">> あっ 航空関係？",
+      "romaji": ">> あっ こうくうかんけい？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 657,
+      "episode": 8,
+      "japanese": "(麻美) まぁ そんな感じかな｡",
+      "romaji": "(あさみ) まぁ そんなかんじかな｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 658,
+      "episode": 8,
+      "japanese": "いいですね～｡",
+      "romaji": "いいですね～｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 659,
+      "episode": 8,
+      "japanese": "やっぱ 私ももっと新しいことに チャレンジするべきだったかな｡",
+      "romaji": "やっぱ わたしももっとあたらしいことに チャレンジするべきだったかな｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 660,
+      "episode": 8,
+      "japanese": "(麻美) いや 河口さんの生き方も ステキだと思うよ｡",
+      "romaji": "(あさみ) いや かこうさんのいきかたも ステキだとおもうよ｡",
+      "chinese": "",
+      "context": "何回も なぞりたくなるというの",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 661,
+      "episode": 8,
+      "japanese": "そうですかね｡",
+      "romaji": "そうですかね｡",
+      "chinese": "",
+      "context": "何回も なぞりたくなるというの",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 662,
+      "episode": 8,
+      "japanese": "(麻美) ⟨何回も なぞりたくなるというのはそれだけ幸せな１周目だった というこ…⟩",
+      "romaji": "(あさみ) ⟨なんかいも なぞりたくなるというのはそれだけしあわせな１しゅうめだった というこ…⟩",
+      "chinese": "",
+      "context": "何回も なぞりたくなるというの",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 663,
+      "episode": 8,
+      "japanese": "(ドアが閉まる音)",
+      "romaji": "(ドアがしまるおと)",
+      "chinese": "",
+      "context": "何回も なぞりたくなるというの",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 664,
+      "episode": 8,
+      "japanese": "〔友達ん家で｢トイレ 借りていい？｣って聞くのに似たものがありますよね〕",
+      "romaji": "〔ともだちんいえで｢トイレ かりていい？｣ってきくのににたものがありますよね〕",
+      "chinese": "",
+      "context": "何回も なぞりたくなるというの",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 665,
+      "episode": 8,
+      "japanese": "(麻美)〔トイレ？〕",
+      "romaji": "(あさみ)〔トイレ？〕",
+      "chinese": "",
+      "context": "何回も なぞりたくなるというの",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 666,
+      "episode": 8,
+      "japanese": ">> 〔｢ダメ｣って言う人なんか いないけどなぜか許可を 取っちゃうじゃないですか〕",
+      "romaji": ">> 〔｢ダメ｣っていうにんなんか いないけどなぜかきょかを とっちゃうじゃないですか〕",
+      "chinese": "",
+      "context": "友達ん家で｢トイレ 借りていい",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 667,
+      "episode": 8,
+      "japanese": "(麻美) ⟨許可取ってねえし⟩",
+      "romaji": "(あさみ) ⟨きょかとってねえし⟩",
+      "chinese": "",
+      "context": "友達ん家で｢トイレ 借りていい",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 668,
+      "episode": 8,
+      "japanese": "(麻美) ⟨４周目の人生も39年⟩",
+      "romaji": "(あさみ) ⟨４しゅうめのじんせいも39ねん⟩",
+      "chinese": "",
+      "context": "トイレ？",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 669,
+      "episode": 8,
+      "japanese": "⟨相変わらず 私は研究に没頭する 毎日を送っていた⟩",
+      "romaji": "⟨あいかわらず わたしはけんきゅうにぼっとうする まいにちをおくっていた⟩",
+      "chinese": "",
+      "context": "｢ダメ｣って言う人なんか いな",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 670,
+      "episode": 8,
+      "japanese": "⟨そんなある日の帰り道⟩",
+      "romaji": "⟨そんなあるにちのかえりみち⟩",
+      "chinese": "",
+      "context": "許可取ってねえし",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 671,
+      "episode": 8,
+      "japanese": "(作業員)＼危ない！／",
+      "romaji": "(さぎょういん)＼あぶない！／",
+      "chinese": "",
+      "context": "４周目の人生も39年",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 672,
+      "episode": 8,
+      "japanese": "あっ え～ ではですねこちらに お名前と生年月日を ご記入ください｡",
+      "romaji": "あっ え～ ではですねこちらに おなまえとせいねんがっぴを ごきにゅうください｡",
+      "chinese": "",
+      "context": "相変わらず 私は研究に没頭する",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 673,
+      "episode": 8,
+      "japanese": "はい ありがとうございます｡",
+      "romaji": "はい ありがとうございます｡",
+      "chinese": "",
+      "context": "そんなある日の帰り道",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 674,
+      "episode": 8,
+      "japanese": "少々お待ちください｡",
+      "romaji": "しょうしょうおまちください｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 675,
+      "episode": 8,
+      "japanese": "はい え～ 近藤麻美様ですね｡",
+      "romaji": "はい え～ こんどうあさみさまですね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 676,
+      "episode": 8,
+      "japanese": "39年間 お疲れさまでした｡",
+      "romaji": "39ねんかん おつかれさまでした｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 677,
+      "episode": 8,
+      "japanese": "それでは 新しい生命に ご案内いたしますね｡",
+      "romaji": "それでは あたらしいせいめいに ごあんないいたしますね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 678,
+      "episode": 8,
+      "japanese": "こちらですね 左側 真っすぐ進んでいただきますと扉がございますので そちらから 来世にお入りください｡",
+      "romaji": "こちらですね ひだりがわ まことっすぐすすんでいただきますととびらがございますので そちらから らいせにおいりください｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 679,
+      "episode": 8,
+      "japanese": "(麻美) はい｡",
+      "romaji": "(あさみ) はい｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 680,
+      "episode": 8,
+      "japanese": "ちなみに 次は何ですか？",
+      "romaji": "ちなみに つぎはなんですか？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 681,
+      "episode": 8,
+      "japanese": "え～ 次はですね… え～｡",
+      "romaji": "え～ つぎはですね… え～｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 682,
+      "episode": 8,
+      "japanese": "人間ですね｡",
+      "romaji": "にんげんですね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 683,
+      "episode": 8,
+      "japanese": "人間？ >> はい｡",
+      "romaji": "にんげん？ >> はい｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 684,
+      "episode": 8,
+      "japanese": "(麻美) あぁ… あぁ… 次 人間ですか｡",
+      "romaji": "(あさみ) あぁ… あぁ… つぎ にんげんですか｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 685,
+      "episode": 8,
+      "japanese": "そうですね 一応こちらになりますね｡",
+      "romaji": "そうですね いちおうこちらになりますね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 686,
+      "episode": 8,
+      "japanese": "(麻美) ありがとうございます｡",
+      "romaji": "(あさみ) ありがとうございます｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 687,
+      "episode": 8,
+      "japanese": "すいません どれですか？",
+      "romaji": "すいません どれですか？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 688,
+      "episode": 8,
+      "japanese": "あっ これ あの フリー素材なので どれとかはないですね｡",
+      "romaji": "あっ これ あの フリーそざいなので どれとかはないですね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 689,
+      "episode": 8,
+      "japanese": "(麻美) そうなんですね｡ >> あくまでもイメージなので｡",
+      "romaji": "(あさみ) そうなんですね｡ >> あくまでもイメージなので｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 690,
+      "episode": 8,
+      "japanese": "(麻美) あぁ…｡",
+      "romaji": "(あさみ) あぁ…｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 691,
+      "episode": 8,
+      "japanese": "分かりました｡ >> はい｡",
+      "romaji": "わかりました｡ >> はい｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 692,
+      "episode": 8,
+      "japanese": "いってらっしゃいませ｡",
+      "romaji": "いってらっしゃいませ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 693,
+      "episode": 8,
+      "japanese": "(麻美) すみません｡ >> はい｡",
+      "romaji": "(あさみ) すみません｡ >> はい｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 694,
+      "episode": 8,
+      "japanese": "(麻美) あの やり直せますかね？",
+      "romaji": "(あさみ) あの やりなおせますかね？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 695,
+      "episode": 8,
+      "japanese": ">> えっと… あっ できますよ｡",
+      "romaji": ">> えっと… あっ できますよ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 696,
+      "episode": 8,
+      "japanese": "(麻美) そうですか｡",
+      "romaji": "(あさみ) そうですか｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 697,
+      "episode": 8,
+      "japanese": "じゃ やっぱり やり直します｡ >> かしこまりました｡",
+      "romaji": "じゃ やっぱり やりなおします｡ >> かしこまりました｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 698,
+      "episode": 8,
+      "japanese": "それではですね こちら右側に 真っすぐ進んでいただきますと扉がございますので そちらから 今世にお入りください｡",
+      "romaji": "それではですね こちらみぎがわに まことっすぐすすんでいただきますととびらがございますので そちらから こんせいにおいりください｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 699,
+      "episode": 8,
+      "japanese": "で ですね 近藤様 次で最後になりますね｡",
+      "romaji": "で ですね こんどうさま つぎでさいごになりますね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 700,
+      "episode": 8,
+      "japanese": "(麻美) あ… そうですか｡ >> はい｡",
+      "romaji": "(あさみ) あ… そうですか｡ >> はい｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 701,
+      "episode": 8,
+      "japanese": "最後の回だけは お伝えすることになってまして｡",
+      "romaji": "さいごのかいだけは おつたえすることになってまして｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 702,
+      "episode": 8,
+      "japanese": "(麻美) はぁ… そうなんですね｡",
+      "romaji": "(あさみ) はぁ… そうなんですね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 703,
+      "episode": 8,
+      "japanese": "よろしいですか？",
+      "romaji": "よろしいですか？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 704,
+      "episode": 8,
+      "japanese": "(麻美) じゃ いってきます｡ >> いってらっしゃいませ｡",
+      "romaji": "(あさみ) じゃ いってきます｡ >> いってらっしゃいませ｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 705,
+      "episode": 8,
+      "japanese": "♪～ “笑えれば”",
+      "romaji": "♪～ “わらえれば”",
+      "chinese": "",
+      "context": "こうして ５周目の人生が スタ",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 706,
+      "episode": 8,
+      "japanese": "(久美子) 麻美ちゃん かわいいね～｡",
+      "romaji": "(くみこ) あさみちゃん かわいいね～｡",
+      "chinese": "",
+      "context": "こうして ５周目の人生が スタ",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 707,
+      "episode": 8,
+      "japanese": "(麻美) ⟨こうして ５周目の人生が スタートした⟩",
+      "romaji": "(あさみ) ⟨こうして ５しゅうめのじんせいが スタートした⟩",
+      "chinese": "",
+      "context": "こうして ５周目の人生が スタ",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 708,
+      "episode": 8,
+      "japanese": "⟨最後は 人間に生まれ変わるためでも徳を積むためでもない人生⟩",
+      "romaji": "⟨さいごは にんげんにうまれかわるためでもとくをつむためでもないじんせい⟩",
+      "chinese": "",
+      "context": "こうして ５周目の人生が スタ",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 709,
+      "episode": 8,
+      "japanese": "⟨来世ではなく 今世をより良いものにするため⟩",
+      "romaji": "⟨らいせではなく こんせいをよりよいものにするため⟩",
+      "chinese": "",
+      "context": "こうして ５周目の人生が スタ",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 710,
+      "episode": 8,
+      "japanese": "⟨だから…⟩",
+      "romaji": "⟨だから…⟩",
+      "chinese": "",
+      "context": "こうして ５周目の人生が スタ",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 711,
+      "episode": 8,
+      "japanese": "⟨これも徳のためではなく⟩",
+      "romaji": "⟨これもとくのためではなく⟩",
+      "chinese": "",
+      "context": "最後は 人間に生まれ変わるため",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 712,
+      "episode": 8,
+      "japanese": "ねぇ｡",
+      "romaji": "ねぇ｡",
+      "chinese": "",
+      "context": "来世ではなく 今世をより良いも",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 713,
+      "episode": 8,
+      "japanese": "ツツジの蜜って毒性があって中毒を起こす危険性があるから 吸わないほうがいいよ｡",
+      "romaji": "ツツジのみつってどくせいがあってちゅうどくをおこすきけんせいがあるから すわないほうがいいよ｡",
+      "chinese": "",
+      "context": "だから…",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 714,
+      "episode": 8,
+      "japanese": "⟨純粋な親切心⟩",
+      "romaji": "⟨じゅんすいなしんせつしん⟩",
+      "chinese": "",
+      "context": "これも徳のためではなく",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 715,
+      "episode": 8,
+      "japanese": "約束してくれる？",
+      "romaji": "やくそくしてくれる？",
+      "chinese": "",
+      "context": "純粋な親切心",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 716,
+      "episode": 8,
+      "japanese": "(洋子) うん 約束する｡",
+      "romaji": "(ようこ) うん やくそくする｡",
+      "chinese": "",
+      "context": "純粋な親切心",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 717,
+      "episode": 8,
+      "japanese": "(麻美) ⟨そして これも…⟩",
+      "romaji": "(あさみ) ⟨そして これも…⟩",
+      "chinese": "",
+      "context": "純粋な親切心",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 718,
+      "episode": 8,
+      "japanese": ">> 捨てました｡",
+      "romaji": ">> すてました｡",
+      "chinese": "",
+      "context": "そして これも…",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 719,
+      "episode": 8,
+      "japanese": "(麻美) ありがとう｡",
+      "romaji": "(あさみ) ありがとう｡",
+      "chinese": "",
+      "context": "そして これも…",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 720,
+      "episode": 8,
+      "japanese": "⟨ただ幸せになってほしいから⟩",
+      "romaji": "⟨ただしあわせになってほしいから⟩",
+      "chinese": "",
+      "context": "そして これも…",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 721,
+      "episode": 8,
+      "japanese": "玲奈ちゃん｡",
+      "romaji": "れいなちゃん｡",
+      "chinese": "",
+      "context": "ただ幸せになってほしいから",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 722,
+      "episode": 8,
+      "japanese": "(玲奈) 何？",
+      "romaji": "(れいな) なに？",
+      "chinese": "",
+      "context": "ただ幸せになってほしいから",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 723,
+      "episode": 8,
+      "japanese": "(麻美) 将来 悪い男に 引っかかったらダメだよ｡",
+      "romaji": "(あさみ) しょうらい わるいおとこに ひっかかったらダメだよ｡",
+      "chinese": "",
+      "context": "ただ幸せになってほしいから",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 724,
+      "episode": 8,
+      "japanese": ">> 悪い男？",
+      "romaji": ">> わるいおとこ？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 725,
+      "episode": 8,
+      "japanese": "簡単に連絡先を交換しないこと｡ >> どういうこと？",
+      "romaji": "かんたんにれんらくさきをこうかんしないこと｡ >> どういうこと？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 726,
+      "episode": 8,
+      "japanese": "(麻美) じゃあ 玲奈ちゃんに 幸せのおまじないを教えるね｡",
+      "romaji": "(あさみ) じゃあ れいなちゃんに しあわせのおまじないをおしえるね｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 727,
+      "episode": 8,
+      "japanese": "おまじない？",
+      "romaji": "おまじない？",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 728,
+      "episode": 8,
+      "japanese": "(麻美)｢宮岡さんは既婚者｣｡",
+      "romaji": "(あさみ)｢みやおかさんはきこんしゃ｣｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 729,
+      "episode": 8,
+      "japanese": "｢みやおかさんは き… こんしゃ？｣｡",
+      "romaji": "｢みやおかさんは き… こんしゃ？｣｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 730,
+      "episode": 8,
+      "japanese": "(麻美) そう ｢宮岡さんは既婚者｣｡",
+      "romaji": "(あさみ) そう ｢みやおかさんはきこんしゃ｣｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 731,
+      "episode": 8,
+      "japanese": "これだけ覚えといて｡ >> うん｡",
+      "romaji": "これだけおぼえといて｡ >> うん｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 732,
+      "episode": 8,
+      "japanese": "｢みやおかさんは きこんしゃ｣｡",
+      "romaji": "｢みやおかさんは きこんしゃ｣｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 733,
+      "episode": 8,
+      "japanese": "｢みやおか…｣｡",
+      "romaji": "｢みやおか…｣｡",
+      "chinese": "",
+      "context": "日常场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 734,
+      "episode": 8,
+      "japanese": "さんは きこんしゃ！",
+      "romaji": "さんは きこんしゃ！",
+      "chinese": "",
+      "context": "ちょっと やり過ぎたかな…",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 735,
+      "episode": 8,
+      "japanese": "みやおかさんは きこんしゃ！",
+      "romaji": "みやおかさんは きこんしゃ！",
+      "chinese": "",
+      "context": "ちょっと やり過ぎたかな…",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 736,
+      "episode": 8,
+      "japanese": "(麻美) ⟨ちょっと やり過ぎたかな…⟩",
+      "romaji": "(あさみ) ⟨ちょっと やりすぎたかな…⟩",
+      "chinese": "",
+      "context": "ちょっと やり過ぎたかな…",
+      "difficulty": "advanced"
     }
   ]
 }

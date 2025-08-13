@@ -376,35 +376,63 @@
       "episode": 10,
       "japanese": "えっと 中村さんが 通るルートなんだけどえ～ えっと… う～んと…｡",
       "romaji": "Etto, Nakamura-san ga tooru ruuto nan dakedo, e~ etto... u~nto...",
-      "chinese": "嗯，中村先生经过的路线是，嗯……那个……嗯……"
+      "chinese": "嗯，中村先生会经过的路线是，嗯……那个……嗯……",
+      "context": "第十集场景42",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 43,
+      "episode": 10,
+      "japanese": "うん｡",
+      "romaji": "Un.",
+      "chinese": "嗯。",
+      "context": "第十集场景43",
+      "difficulty": "intermediate"
     },
     {
       "id": 44,
       "episode": 10,
       "japanese": "この… あっ｡",
       "romaji": "Kono... a.",
-      "chinese": "这个……啊。"
+      "chinese": "这个……啊。",
+      "context": "第十集场景44",
+      "difficulty": "intermediate"
     },
     {
       "id": 45,
       "episode": 10,
       "japanese": "ちなみに 937便はこの61番搭乗口ね｡",
       "romaji": "Chinami ni 937-bin wa kono rokujuuichi-ban toujouguchi ne.",
-      "chinese": "顺便说一下，937航班是从61号登机口。"
+      "chinese": "顺便说一下，937航班是从61号登机口。",
+      "context": "第十集场景45",
+      "difficulty": "intermediate"
     },
     {
       "id": 46,
       "episode": 10,
       "japanese": "これさ もうちょっと 小っちゃいのないかな？",
       "romaji": "Kore sa mou chotto chicchai no nai ka na?",
-      "chinese": "这个，有没有再小一点的？"
+      "chinese": "这个，有没有更小一点的？",
+      "context": "第十集场景46",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 47,
+      "episode": 10,
+      "japanese": "うん｡",
+      "romaji": "Un.",
+      "chinese": "嗯？",
+      "context": "第十集场景47",
+      "difficulty": "intermediate"
     },
     {
       "id": 48,
       "episode": 10,
       "japanese": "だから私は ９時50分には クルーラウンジに入ってこの窓際の席で待機してるね｡",
       "romaji": "Dakara watashi wa kuji gojuppun ni wa kuruu raunji ni haitte, kono madogiwa no seki de taiki shiteru ne.",
-      "chinese": "所以我会在9点50分进入乘务员休息室，在窗边的座位等待。"
+      "chinese": "所以我会在9点50分进入乘务员休息室，在窗边的座位等待。",
+      "context": "第十集场景48",
+      "difficulty": "intermediate"
     },
     {
       "id": 49,
@@ -771,280 +799,360 @@
       "episode": 10,
       "japanese": "ありがとう｡",
       "romaji": "arigatou.",
-      "chinese": "谢谢。"
+      "chinese": "谢谢。",
+      "context": "第十集场景89",
+      "difficulty": "intermediate"
     },
     {
       "id": 90,
       "episode": 10,
       "japanese": "⟨こうして私たちは 念願の937便に機長と副操縦士として搭乗することになった⟩",
-      "romaji": "koushite watashitachi wa nengan no 937 bin ni kichou to fukusoujuushi to shite toujou suru koto ni natta.",
-      "chinese": "于是我们如愿以偿，作为机长和副驾驶搭乘了937航班。"
+      "romaji": "koushite watashitachi wa nengan no 937-bin ni kichou to fukusoujuushi to shite toujou suru koto ni natta.",
+      "chinese": "于是我们如愿以偿，作为机长和副驾驶搭乘了937航班。",
+      "context": "第十集场景90",
+      "difficulty": "intermediate"
     },
     {
       "id": 91,
       "episode": 10,
       "japanese": "すいません｡",
       "romaji": "suimasen.",
-      "chinese": "对不起。"
+      "chinese": "对不起。",
+      "context": "第十集场景91",
+      "difficulty": "intermediate"
     },
     {
       "id": 92,
       "episode": 10,
       "japanese": "ごめんなさい｡",
       "romaji": "gomennasai.",
-      "chinese": "非常抱歉。"
+      "chinese": "非常抱歉。",
+      "context": "第十集场景92",
+      "difficulty": "intermediate"
     },
     {
       "id": 93,
       "episode": 10,
       "japanese": "え？",
       "romaji": "e?",
-      "chinese": "诶？"
+      "chinese": "诶？",
+      "context": "第十集场景93",
+      "difficulty": "intermediate"
     },
     {
       "id": 94,
       "episode": 10,
       "japanese": "あの…｡",
       "romaji": "ano...",
-      "chinese": "那个……"
+      "chinese": "那个……",
+      "context": "第十集场景94",
+      "difficulty": "intermediate"
     },
     {
       "id": 96,
       "episode": 10,
       "japanese": "私 ５周目です｡",
-      "romaji": "watashi go shuumedesu.",
-      "chinese": "我现在是第五周。"
+      "romaji": "watashi go-shuume desu.",
+      "chinese": "我现在是第五周。",
+      "context": "第十集场景96",
+      "difficulty": "intermediate"
     },
     {
       "id": 97,
       "episode": 10,
       "japanese": "うちらは その事故を阻止するためにこの仕事に就いたんで｡ >> ええ｡",
-      "romaji": "uchira wa sono jiko o soshi suru tame ni kono shigoto ni tsuitande. >> ee.",
-      "chinese": "我们从事这份工作是为了阻止那场事故。 >> 是的。"
+      "romaji": "uchira wa sono jiko o soshi suru tame ni kono shigoto ni tsuitan de. >> ee.",
+      "chinese": "我们从事这份工作是为了阻止那场事故。 >> 是的。",
+      "context": "第十集场景97",
+      "difficulty": "intermediate"
     },
     {
       "id": 98,
       "episode": 10,
       "japanese": "だから そのつもりです｡",
       "romaji": "dakara sono tsumori desu.",
-      "chinese": "所以我就是这么打算的。"
+      "chinese": "所以我就是这么打算的。",
+      "context": "第十集场景98",
+      "difficulty": "intermediate"
     },
     {
       "id": 99,
       "episode": 10,
       "japanese": "すいません｡",
       "romaji": "suimasen.",
-      "chinese": "不好意思。"
+      "chinese": "不好意思。",
+      "context": "第十集场景99",
+      "difficulty": "intermediate"
     },
     {
       "id": 100,
       "episode": 10,
       "japanese": "そうですよね どうぞ｡",
       "romaji": "sou desu yo ne, douzo.",
-      "chinese": "是啊，请吧。"
+      "chinese": "是啊，请吧。",
+      "context": "第十集场景100",
+      "difficulty": "intermediate"
     },
     {
       "id": 101,
       "episode": 10,
       "japanese": "ビックリしたね｡",
       "romaji": "bikkuri shita ne.",
-      "chinese": "真让人吃惊啊。"
+      "chinese": "真让人吃惊啊。",
+      "context": "第十集场景101",
+      "difficulty": "intermediate"
     },
     {
       "id": 102,
       "episode": 10,
       "japanese": "いやぁ マジで焦った｡",
       "romaji": "iyaa maji de asetta.",
-      "chinese": "真的吓了一跳。"
+      "chinese": "真的吓了一跳。",
+      "context": "第十集场景102",
+      "difficulty": "intermediate"
     },
     {
       "id": 103,
       "episode": 10,
       "japanese": "別にいいんだけどさ｡ >> 何？",
-      "romaji": "betsu ni iin dakedo sa. >> nani?",
-      "chinese": "其实没关系啦。 >> 什么？"
+      "romaji": "betsu ni ii n da kedo sa. >> nani?",
+      "chinese": "其实没关系啦。 >> 什么？",
+      "context": "第十集场景103",
+      "difficulty": "intermediate"
     },
     {
       "id": 104,
       "episode": 10,
       "japanese": "あの人さ 人生やり直してんのに離婚は回避できなかったんだね｡ >> 確かに… あとさ これも全然いいんだけど言っていい？",
-      "romaji": "ano hito sa jinsei yarinaoshiten no ni rikon wa kaihi dekinakattan da ne. >> tashika ni... ato sa kore mo zenzen iin dakedo itte ii?",
-      "chinese": "那个人虽然重新开始人生，但还是避免不了离婚。 >> 确实…还有这个也没关系，可以说吗？"
+      "romaji": "ano hito sa jinsei yarinaoshiten no ni rikon wa kaihi dekinakattan da ne. >> tashika ni... ato sa kore mo zenzen ii n da kedo itte ii?",
+      "chinese": "那个人虽然重新开始人生，但还是避免不了离婚。 >> 确实…还有这个也没关系，可以说吗？",
+      "context": "第十集场景104",
+      "difficulty": "intermediate"
     },
     {
       "id": 105,
       "episode": 10,
       "japanese": "何？",
       "romaji": "nani?",
-      "chinese": "什么？"
+      "chinese": "什么？",
+      "context": "第十集场景105",
+      "difficulty": "intermediate"
     },
     {
       "id": 106,
       "episode": 10,
       "japanese": "ダサい ｢２周目｣でいいじゃんね｡ >> うん しかもさ その後｢つまり 人生２周目です｣ って言ったじゃん｡",
-      "romaji": "dasai 'ni shuumé' de ii jan ne. >> un shikamo sa sono ato 'tsumari jinsei ni shuumé desu' tte itta jan.",
-      "chinese": "说‘第二周目’不就好了嘛。 >> 嗯，而且你还说了‘也就是人生第二周目’。"
+      "romaji": "dasai 'ni-shuume' de ii jan ne. >> un shikamo sa sono ato 'tsumari jinsei ni-shuume desu' tte itta jan.",
+      "chinese": "说‘第二周目’不就好了嘛。 >> 嗯，而且你还说了‘也就是人生第二周目’。",
+      "context": "第十集场景106",
+      "difficulty": "intermediate"
     },
     {
       "id": 107,
       "episode": 10,
       "japanese": "｢タイムリーパー｣が 言いたかったんだろうね｡",
-      "romaji": "'taimu riipaa' ga iitakattan darou ne.",
-      "chinese": "你大概是想说‘时间旅行者’吧。"
+      "romaji": "'taimu riipaa' ga iitakatta n darou ne.",
+      "chinese": "你大概是想说‘时间旅行者’吧。",
+      "context": "第十集场景107",
+      "difficulty": "intermediate"
     },
     {
       "id": 108,
       "episode": 10,
       "japanese": "⟨こうして 一瞬ドキっとしたけど私たちは無事…⟩",
       "romaji": "koushite isshun doki tto shita kedo watashitachi wa buji...",
-      "chinese": "就这样虽然一瞬间心跳加速，但我们平安无事……"
+      "chinese": "就这样虽然一瞬间心跳加速，但我们平安无事……",
+      "context": "第十集场景108",
+      "difficulty": "intermediate"
     },
     {
       "id": 109,
       "episode": 10,
       "japanese": "⟨台北行き937便に 搭乗することができた⟩",
-      "romaji": "taihoku iki 937 bin ni toujou suru koto ga dekita.",
-      "chinese": "成功搭上了开往台北的937航班。"
+      "romaji": "taipei-yuki 937-bin ni toujou suru koto ga dekita.",
+      "chinese": "成功搭上了开往台北的937航班。",
+      "context": "第十集场景109",
+      "difficulty": "intermediate"
     },
     {
       "id": 110,
       "episode": 10,
       "japanese": "(管制官) Jet Sky niner tree seven, approved.",
-      "romaji": "(kanseikan) Jet Sky niner three seven, approved.",
-      "chinese": "(管制官) Jet Sky 937，批准。"
+      "romaji": "(Kanseikan) Jet Sky 937, approved.",
+      "chinese": "(管制官) Jet Sky 937，批准。",
+      "context": "管制官批准航班请求",
+      "difficulty": "beginner"
     },
     {
       "id": 111,
       "episode": 10,
       "japanese": "⟨悲願の航路変更を果たした⟩",
-      "romaji": "higan no kouro henko o hatashita.",
-      "chinese": "实现了期盼已久的航路变更。"
+      "romaji": "Higan no kōro henkō o hatashita.",
+      "chinese": "实现了期盼已久的航路变更。",
+      "context": "航班顺利完成航路变更",
+      "difficulty": "intermediate"
     },
     {
       "id": 112,
       "episode": 10,
       "japanese": "ん？",
-      "romaji": "n?",
-      "chinese": "嗯？"
+      "romaji": "N?",
+      "chinese": "嗯？",
+      "context": "角色表示疑问",
+      "difficulty": "beginner"
     },
     {
       "id": 113,
       "episode": 10,
       "japanese": "あぁ 人間だったら そりゃ うれしいけどでも まぁ 何だかんだ もう 170年 人間やってきたからさ別に もう絶対人間がいいとか そういうのはなくなったかな｡",
-      "romaji": "aa ningen dattara sorya ureshii kedo demo maa nandakanda mou 170 nen ningen yatte kita kara sa betsu ni mou zettai ningen ga ii toka sou iu no wa nakunatta kana.",
-      "chinese": "如果是人类的话当然很高兴，不过嘛，毕竟已经做人170年了，倒也不再执着于一定要做个人类了。"
+      "romaji": "Aa, ningen dattara sorya ureshii kedo, demo maa nandakanda mou 170-nen ningen yatte kita kara sa, betsu ni mou zettai ningen ga ii toka sō iu no wa nakunatta kana.",
+      "chinese": "如果是人类当然很高兴，但毕竟已经做人170年，也不再执着于一定要做个人类了。",
+      "context": "角色回顾自己作为人类的经历",
+      "difficulty": "advanced"
     },
     {
       "id": 114,
       "episode": 10,
       "japanese": "あっ でもまた 地元に生まれたいかな｡",
-      "romaji": "a demo mata jimoto ni umaretai kana.",
-      "chinese": "啊，不过我还想再出生在故乡。"
+      "romaji": "A, demo mata jimoto ni umaretai kana.",
+      "chinese": "啊，不过我还想再出生在故乡。",
+      "context": "表达对故乡的眷恋",
+      "difficulty": "intermediate"
     },
     {
       "id": 116,
       "episode": 10,
       "japanese": "あっ でも うちの地元 海ないから海ゴキは無理かもな｡",
-      "romaji": "a demo uchi no jimoto umi nai kara umi goki wa muri kamo na.",
-      "chinese": "啊，不过我们故乡没有海，做海蟑螂可能不行。"
+      "romaji": "A, demo uchi no jimoto umi nai kara umi-goki wa muri kamo na.",
+      "chinese": "啊，不过我们故乡没有海，做海蟑螂可能不行。",
+      "context": "讨论地理环境对生物选择的影响",
+      "difficulty": "intermediate"
     },
     {
       "id": 117,
       "episode": 10,
       "japanese": "あ じゃあ 陸ゴキか｡",
-      "romaji": "a jaa riku goki ka.",
-      "chinese": "那就做陆蟑螂吧。"
+      "romaji": "A, jaa riku-goki ka.",
+      "chinese": "那就做陆蟑螂吧。",
+      "context": "根据环境决定生物类型",
+      "difficulty": "beginner"
     },
     {
       "id": 118,
       "episode": 10,
       "japanese": "あっ…｡",
-      "romaji": "a...",
-      "chinese": "啊……"
+      "romaji": "A...",
+      "chinese": "啊……",
+      "context": "角色轻声反应",
+      "difficulty": "beginner"
     },
     {
       "id": 119,
       "episode": 10,
       "japanese": "⟨そして 937便は…⟩",
-      "romaji": "soshite 937 bin wa...",
-      "chinese": "然后，937航班……"
+      "romaji": "Soshite 937-bin wa...",
+      "chinese": "然后，937航班……",
+      "context": "描述航班的后续情况",
+      "difficulty": "intermediate"
     },
     {
       "id": 120,
       "episode": 10,
       "japanese": "まりりんなんか 200年くらい 張り詰めてたんじゃないの？",
-      "romaji": "maririn nanka 200 nen kurai haritsumetetan janai no?",
-      "chinese": "玛丽琳不是紧绷了大约200年吗？"
+      "romaji": "Maririn nanka 200-nen kurai haritsumetetan janai no?",
+      "chinese": "玛丽琳不是紧绷了大约200年吗？",
+      "context": "讨论角色经历的紧张时间",
+      "difficulty": "intermediate"
     },
     {
       "id": 121,
       "episode": 10,
       "japanese": "いやぁ よく頑張ったよ～｡ >> 頑張った～｡",
-      "romaji": "iyaa yoku ganbatta yo~. >> ganbatta~.",
-      "chinese": "真是辛苦了啊～。 >> 辛苦了～。"
+      "romaji": "Iyaa, yoku ganbatta yo~. >> Ganbatta~.",
+      "chinese": "真是辛苦了啊～。 >> 辛苦了～。",
+      "context": "角色互相称赞努力",
+      "difficulty": "beginner"
     },
     {
       "id": 122,
       "episode": 10,
       "japanese": "お～い！ お～い！",
-      "romaji": "o~i! o~i!",
-      "chinese": "喂！喂！"
+      "romaji": "O~i! O~i!",
+      "chinese": "喂！喂！",
+      "context": "呼唤他人注意",
+      "difficulty": "beginner"
     },
     {
       "id": 123,
       "episode": 10,
       "japanese": "あ～！",
-      "romaji": "a~!",
-      "chinese": "啊～！"
+      "romaji": "A~!",
+      "chinese": "啊～！",
+      "context": "表达惊讶或情绪",
+      "difficulty": "beginner"
     },
     {
       "id": 124,
       "episode": 10,
       "japanese": "すご～い！",
-      "romaji": "sugoi~!",
-      "chinese": "厉害！"
+      "romaji": "Sugoi~!",
+      "chinese": "厉害！",
+      "context": "角色表示赞叹",
+      "difficulty": "beginner"
     },
     {
       "id": 125,
       "episode": 10,
       "japanese": "何 何 何…｡",
-      "romaji": "nani nani nani...",
-      "chinese": "什么什么什么……"
+      "romaji": "Nani nani nani...",
+      "chinese": "什么什么什么……",
+      "context": "角色表示困惑或惊讶",
+      "difficulty": "beginner"
     },
     {
       "id": 126,
       "episode": 10,
       "japanese": "カッコよ～！",
-      "romaji": "kakkoi~!",
-      "chinese": "真帅！"
+      "romaji": "Kakkoi~!",
+      "chinese": "真帅！",
+      "context": "角色对某人或事物表示赞赏",
+      "difficulty": "beginner"
     },
     {
       "id": 127,
       "episode": 10,
       "japanese": "乗ってたの！",
-      "romaji": "notteta no!",
-      "chinese": "你搭上了！"
+      "romaji": "Notte ta no!",
+      "chinese": "你搭上了！",
+      "context": "表达惊讶某人已经搭乘",
+      "difficulty": "beginner"
     },
     {
       "id": 128,
       "episode": 10,
       "japanese": "ねぇ ビックリしたよね！",
-      "romaji": "nee bikkuri shita yo ne!",
-      "chinese": "欸，真的很惊讶吧！"
+      "romaji": "Nee, bikkuri shita yo ne!",
+      "chinese": "欸，真的很惊讶吧！",
+      "context": "角色分享惊讶心情",
+      "difficulty": "beginner"
     },
     {
       "id": 129,
       "episode": 10,
       "japanese": "そしたら なっちがさ｢あれ？ これあーちんじゃない？｣ って言って｡",
-      "romaji": "soshitara nacchi ga sa 'are? kore aachin janai?' tte itte.",
-      "chinese": "然后娜琪说‘咦？这不是阿珍吗？’"
+      "romaji": "Soshitara Nacchi ga sa 'Are? Kore Āchin janai?' tte itte.",
+      "chinese": "然后娜琪说‘咦？这不是阿珍吗？’",
+      "context": "描述对话内容",
+      "difficulty": "intermediate"
     },
     {
       "id": 130,
       "episode": 10,
       "japanese": "超興奮したよね｡",
-      "romaji": "chou koufun shita yo ne.",
-      "chinese": "超级兴奋的吧。"
+      "romaji": "Chō kōfun shita yo ne.",
+      "chinese": "超级兴奋的吧。",
+      "context": "角色表达兴奋心情",
+      "difficulty": "beginner"
     },
     {
       "id": 131,
