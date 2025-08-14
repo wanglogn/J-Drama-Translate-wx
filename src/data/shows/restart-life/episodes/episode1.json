@@ -48,15 +48,6 @@
       "difficulty": "intermediate"
     },
     {
-      "id": 6,
-      "episode": 1,
-      "japanese": "うんうん｡",
-      "romaji": "Un un.",
-      "chinese": "嗯嗯。",
-      "context": "麻美回应久美子",
-      "difficulty": "beginner"
-    },
-    {
       "id": 7,
       "episode": 1,
       "japanese": "遥 どうすんの？",
@@ -2550,15 +2541,6 @@
       "difficulty": ""
     },
     {
-      "id": 285,
-      "episode": 1,
-      "japanese": "(夏希:美穂) うん｡",
-      "romaji": "(Natsuki: Miho) un.",
-      "chinese": "嗯。",
-      "context": "对话场景",
-      "difficulty": ""
-    },
-    {
       "id": 286,
       "episode": 1,
       "japanese": "あーちんもね｡",
@@ -2672,15 +2654,6 @@
       "japanese": "食べてね｡",
       "romaji": "tabete ne.",
       "chinese": "请吃吧。",
-      "context": "对话场景",
-      "difficulty": ""
-    },
-    {
-      "id": 299,
-      "episode": 1,
-      "japanese": "(夏希:美穂) うん｡",
-      "romaji": "(Natsuki: Miho) un.",
-      "chinese": "嗯。",
       "context": "对话场景",
       "difficulty": ""
     },
@@ -2861,15 +2834,6 @@
       "japanese": "食べてよ｡",
       "romaji": "tabeteyo.",
       "chinese": "快吃啊。",
-      "context": "对话场景",
-      "difficulty": ""
-    },
-    {
-      "id": 320,
-      "episode": 1,
-      "japanese": "(夏希:麻美) うん｡",
-      "romaji": "(natsuki: asami) un.",
-      "chinese": "嗯。",
       "context": "对话场景",
       "difficulty": ""
     },
@@ -3923,15 +3887,6 @@
       "japanese": "ゲームボーイアドバンス？",
       "romaji": "ge-mu bo-i adobansu?",
       "chinese": "Game Boy Advance？",
-      "context": "对话场景",
-      "difficulty": ""
-    },
-    {
-      "id": 439,
-      "episode": 1,
-      "japanese": "うん…｡",
-      "romaji": "un...",
-      "chinese": "嗯……",
       "context": "对话场景",
       "difficulty": ""
     },

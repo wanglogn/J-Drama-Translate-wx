@@ -185,9 +185,9 @@
     {
       "id": 21,
       "episode": 3,
-      "japanese": "ウオーキング｡ >> ウオーキング？",
-      "romaji": "Uookingu. >> Uookingu?",
-      "chinese": "健走。 >> 健走？",
+      "japanese": "ウオーキング｡  ウオーキング？",
+      "romaji": "Uookingu.  Uookingu?",
+      "chinese": "健走。  健走？",
       "context": "对话场景",
       "difficulty": "intermediate"
     },
@@ -212,9 +212,9 @@
     {
       "id": 24,
       "episode": 3,
-      "japanese": "絶対 続かないよね｡ >> どうだろうねぇ｡",
-      "romaji": "Zettai tsuzukanai yo ne. >> Dou darou ne~.",
-      "chinese": "肯定坚持不了吧。>> 也说不准啊……",
+      "japanese": "絶対 続かないよね｡  どうだろうねぇ｡",
+      "romaji": "Zettai tsuzukanai yo ne.  Dou darou ne~.",
+      "chinese": "肯定坚持不了吧。 也说不准啊……",
       "context": "对话场景",
       "difficulty": "advanced"
     },
@@ -266,9 +266,9 @@
     {
       "id": 30,
       "episode": 3,
-      "japanese": "１週間かな｡ >> 私もそれくらいだと思う｡",
-      "romaji": "Isshuukan kana. >> Watashi mo sore kurai da to omou.",
-      "chinese": "大概一周吧。>> 我也觉得差不多。",
+      "japanese": "１週間かな｡  私もそれくらいだと思う｡",
+      "romaji": "Isshuukan kana.  Watashi mo sore kurai da to omou.",
+      "chinese": "大概一周吧。 我也觉得差不多。",
       "context": "对话场景",
       "difficulty": "advanced"
     },
@@ -284,9 +284,9 @@
     {
       "id": 32,
       "episode": 3,
-      "japanese": "あれ そうなんだ｡ >> うん｡",
-      "romaji": "Are, sou nanda. >> Un.",
-      "chinese": "哦，是这样啊。>> 嗯。",
+      "japanese": "あれ そうなんだ｡  うん｡",
+      "romaji": "Are, sou nanda.  Un.",
+      "chinese": "哦，是这样啊。 嗯。",
       "context": "对话场景",
       "difficulty": "intermediate"
     },
@@ -419,9 +419,9 @@
     {
       "id": 48,
       "episode": 3,
-      "japanese": "袋いれますか？ >> 大丈夫です。",
-      "romaji": "Fukuro iremasu ka? >> Daijoubu desu.",
-      "chinese": "要装袋吗？ >> 没关系（不需要）。",
+      "japanese": "袋いれますか？  大丈夫です。",
+      "romaji": "Fukuro iremasu ka?  Daijoubu desu.",
+      "chinese": "要装袋吗？  没关系（不需要）。",
       "context": "对话场景",
       "difficulty": "intermediate"
     },
@@ -608,9 +608,9 @@
     {
       "id": 69,
       "episode": 3,
-      "japanese": "告白されちゃった｡ >> ハッ…！ やったじゃん！",
-      "romaji": "Kokuhaku sarechatta. >> Ha...! Yatta jan!",
-      "chinese": "被告白了。 >> 啊……！太棒了！",
+      "japanese": "告白されちゃった｡  ハッ…！ やったじゃん！",
+      "romaji": "Kokuhaku sarechatta.  Ha...! Yatta jan!",
+      "chinese": "被告白了。  啊……！太棒了！",
       "context": "对话场景",
       "difficulty": "advanced"
     },
@@ -752,9 +752,9 @@
     {
       "id": 85,
       "episode": 3,
-      "japanese": "学生の時 なかなか 行けなかったじゃん？ >> まぁね｡",
-      "romaji": "Gakusei no toki nakanaka ikenakatta jan? >> Maa ne.",
-      "chinese": "学生的时候很难去吧？ >> 是啊。",
+      "japanese": "学生の時 なかなか 行けなかったじゃん？  まぁね｡",
+      "romaji": "Gakusei no toki nakanaka ikenakatta jan?  Maa ne.",
+      "chinese": "学生的时候很难去吧？  是啊。",
       "context": "对话场景",
       "difficulty": "intermediate"
     },
@@ -815,9 +815,9 @@
     {
       "id": 93,
       "episode": 3,
-      "japanese": "遥 今 大学生だな｡ >> そうだよ｡",
-      "romaji": "Haruka ima daigaku sei da na. >> Sou da yo.",
-      "chinese": "遥，现在是大学生了吧。 >> 是啊。",
+      "japanese": "遥 今 大学生だな｡  そうだよ｡",
+      "romaji": "Haruka ima daigaku sei da na.  Sou da yo.",
+      "chinese": "遥，现在是大学生了吧。  是啊。",
       "context": "对话场景",
       "difficulty": "intermediate"
     },
@@ -923,9 +923,9 @@
     {
       "id": 105,
       "episode": 3,
-      "japanese": "ううん 溶ける時間とか体が吸収する時間が 変わってきちゃうんだからちゃんと正しく飲まないとダメ！ >> さすが 薬剤師｡",
-      "romaji": "Uun, tokeru jikan toka karada ga kyuushuu suru jikan ga kawatte kichau n dakara chanto tadashiku nomanai to dame! >> Sasuga yakuzaishi.",
-      "chinese": "不，药物溶解时间和身体吸收时间都会变化，所以必须正确服用！ >> 不愧是药剂师。",
+      "japanese": "ううん 溶ける時間とか体が吸収する時間が 変わってきちゃうんだからちゃんと正しく飲まないとダメ！  さすが 薬剤師｡",
+      "romaji": "Uun, tokeru jikan toka karada ga kyuushuu suru jikan ga kawatte kichau n dakara chanto tadashiku nomanai to dame!  Sasuga yakuzaishi.",
+      "chinese": "不，药物溶解时间和身体吸收时间都会变化，所以必须正确服用！  不愧是药剂师。",
       "context": "对话场景",
       "difficulty": "advanced"
     },
@@ -1076,9 +1076,9 @@
     {
       "id": 122,
       "episode": 3,
-      "japanese": "おじいちゃん｡ >> ん？",
-      "romaji": "Ojiichan. >> N?",
-      "chinese": "爷爷。 >> 嗯？",
+      "japanese": "おじいちゃん｡  ん？",
+      "romaji": "Ojiichan.  N?",
+      "chinese": "爷爷。  嗯？",
       "context": "对话场景",
       "difficulty": "intermediate"
     },
@@ -1346,9 +1346,9 @@
     {
       "id": 153,
       "episode": 3,
-      "japanese": "あ やめた｡ >> そうなの？",
-      "romaji": "A yameta. >> Sou nano?",
-      "chinese": "啊，放弃了。>> 是吗？",
+      "japanese": "あ やめた｡  そうなの？",
+      "romaji": "A yameta.  Sou nano?",
+      "chinese": "啊，放弃了。 是吗？",
       "context": "对话场景",
       "difficulty": "intermediate"
     },
@@ -2264,7 +2264,7 @@
     {
       "id": 256,
       "episode": 3,
-      "japanese": "ちょっとさ 完璧過ぎて…｡ >> 久しぶり｡",
+      "japanese": "ちょっとさ 完璧過ぎて…｡  久しぶり｡",
       "romaji": "Chotto sa kanpeki sugite... Hisashiburi.",
       "chinese": "有点太完美了…好久不见。",
       "context": "对话场景",
@@ -2435,9 +2435,9 @@
     {
       "id": 275,
       "episode": 3,
-      "japanese": "何やってる人？ >> 薬剤師｡",
-      "romaji": "Nani yatteru hito? >> Yakuzai-shi.",
-      "chinese": "他是做什么的？ >> 药剂师。",
+      "japanese": "何やってる人？  薬剤師｡",
+      "romaji": "Nani yatteru hito?  Yakuzai-shi.",
+      "chinese": "他是做什么的？  药剂师。",
       "context": "对话场景",
       "difficulty": "intermediate"
     },
@@ -2453,9 +2453,9 @@
     {
       "id": 277,
       "episode": 3,
-      "japanese": "うん そうだね｡ >> あーちん 薬剤師さんなんだ｡",
-      "romaji": "Un sou da ne. >> A-chin yakuzai-shi san nan da.",
-      "chinese": "嗯，是啊。 >> 阿珍是药剂师呢。",
+      "japanese": "うん そうだね｡  あーちん 薬剤師さんなんだ｡",
+      "romaji": "Un sou da ne.  A-chin yakuzai-shi san nan da.",
+      "chinese": "嗯，是啊。  阿珍是药剂师呢。",
       "context": "对话场景",
       "difficulty": "advanced"
     },
@@ -2471,9 +2471,9 @@
     {
       "id": 279,
       "episode": 3,
-      "japanese": "どこで出会ったの？ >> えっとね～｡",
-      "romaji": "Doko de deatta no? >> Etto ne~.",
-      "chinese": "你们在哪里认识的？ >> 嗯…",
+      "japanese": "どこで出会ったの？  えっとね～｡",
+      "romaji": "Doko de deatta no?  Etto ne~.",
+      "chinese": "你们在哪里认识的？  嗯…",
       "context": "对话场景",
       "difficulty": "intermediate"
     },
@@ -2516,9 +2516,9 @@
     {
       "id": 284,
       "episode": 3,
-      "japanese": "４年前だね｡ >> ４年前か｡",
-      "romaji": "Yon-nen mae da ne. >> Yon-nen ka.",
-      "chinese": "是四年前呢。 >> 四年前吗？",
+      "japanese": "４年前だね｡  ４年前か｡",
+      "romaji": "Yon-nen mae da ne.  Yon-nen ka.",
+      "chinese": "是四年前呢。  四年前吗？",
       "context": "对话场景",
       "difficulty": "intermediate"
     },
@@ -2606,18 +2606,18 @@
     {
       "id": 294,
       "episode": 3,
-      "japanese": "うれしかったね｡ >> 私も｡",
-      "romaji": "Ureshikatta ne. >> Watashi mo.",
-      "chinese": "很开心呢。 >> 我也是。",
+      "japanese": "うれしかったね｡  私も｡",
+      "romaji": "Ureshikatta ne.  Watashi mo.",
+      "chinese": "很开心呢。  我也是。",
       "context": "对话场景",
       "difficulty": "intermediate"
     },
     {
       "id": 295,
       "episode": 3,
-      "japanese": "またね 玲奈ちゃん｡ >> またね～｡",
-      "romaji": "Matane Reina-chan. >> Matane~.",
-      "chinese": "再见了，玲奈酱。 >> 再见～。",
+      "japanese": "またね 玲奈ちゃん｡  またね～｡",
+      "romaji": "Matane Reina-chan.  Matane~.",
+      "chinese": "再见了，玲奈酱。  再见～。",
       "context": "对话场景",
       "difficulty": "intermediate"
     },
@@ -2831,9 +2831,9 @@
     {
       "id": 319,
       "episode": 3,
-      "japanese": "福ちゃんじゃん｡ >> お～ お～ お～！",
-      "romaji": "Fuku-chan jan. >> Oo oo oo!",
-      "chinese": "是福酱啊。 >> 哦～ 哦～ 哦～！",
+      "japanese": "福ちゃんじゃん｡  お～ お～ お～！",
+      "romaji": "Fuku-chan jan.  Oo oo oo!",
+      "chinese": "是福酱啊。  哦～ 哦～ 哦～！",
       "context": "对话场景",
       "difficulty": "advanced"
     },
@@ -2912,9 +2912,9 @@
     {
       "id": 328,
       "episode": 3,
-      "japanese": "モンターニャでごはん食べてきた｡ >> あぁ そうなんだ｡",
-      "romaji": "Montānya de gohan tabete kita. >> Aa sō nan da.",
-      "chinese": "我们去Montaña吃了饭。 >> 啊，是这样啊。",
+      "japanese": "モンターニャでごはん食べてきた｡  あぁ そうなんだ｡",
+      "romaji": "Montānya de gohan tabete kita.  Aa sō nan da.",
+      "chinese": "我们去Montaña吃了饭。  啊，是这样啊。",
       "context": "对话场景",
       "difficulty": "advanced"
     },
@@ -2939,9 +2939,9 @@
     {
       "id": 331,
       "episode": 3,
-      "japanese": "いいの？ 怒られない？ >> 大丈夫",
-      "romaji": "Ii no? Okorarenai? >> Daijoubu.",
-      "chinese": "可以吗？不会被骂吧？ >> 没问题。",
+      "japanese": "いいの？ 怒られない？  大丈夫",
+      "romaji": "Ii no? Okorarenai?  Daijoubu.",
+      "chinese": "可以吗？不会被骂吧？  没问题。",
       "context": "对话场景",
       "difficulty": "advanced"
     },
@@ -3056,9 +3056,9 @@
     {
       "id": 344,
       "episode": 3,
-      "japanese": "２で いいかな？ >> ２時間ね｡",
-      "romaji": "Ni de ii kana? >> Ni jikan ne.",
-      "chinese": "两个小时可以吗？ >> 两小时啊。",
+      "japanese": "２で いいかな？  ２時間ね｡",
+      "romaji": "Ni de ii kana?  Ni jikan ne.",
+      "chinese": "两个小时可以吗？  两小时啊。",
       "context": "对话场景",
       "difficulty": "intermediate"
     },
@@ -3371,9 +3371,9 @@
     {
       "id": 379,
       "episode": 3,
-      "japanese": "いいの？ 怒られない？ >> 大丈夫｡",
-      "romaji": "Ii no? Okorarenai? >> Daijōbu.",
-      "chinese": "可以吗？不会被骂吗？ >> 没问题。",
+      "japanese": "いいの？ 怒られない？  大丈夫｡",
+      "romaji": "Ii no? Okorarenai?  Daijōbu.",
+      "chinese": "可以吗？不会被骂吗？  没问题。",
       "context": "对话场景",
       "difficulty": "intermediate"
     },
@@ -3389,9 +3389,9 @@
     {
       "id": 381,
       "episode": 3,
-      "japanese": "ありがとね 福ちゃん｡ >> いいえ～ ごゆっくり｡",
-      "romaji": "Arigatone Fuku-chan. >> Iie~ goyukkuri.",
-      "chinese": "谢谢你，福酱。 >> 不用谢，请慢用。",
+      "japanese": "ありがとね 福ちゃん｡  いいえ～ ごゆっくり｡",
+      "romaji": "Arigatone Fuku-chan.  Iie~ goyukkuri.",
+      "chinese": "谢谢你，福酱。  不用谢，请慢用。",
       "context": "对话场景",
       "difficulty": "advanced"
     },
@@ -3902,9 +3902,9 @@
     {
       "id": 439,
       "episode": 3,
-      "japanese": "福ちゃん ドリンクありがとね｡ >> おぉ どうした？",
-      "romaji": "Fuku-chan dorinku arigato ne. >> Ō dō shita?",
-      "chinese": "福酱，谢谢饮料。>> 哦，怎么了？",
+      "japanese": "福ちゃん ドリンクありがとね｡  おぉ どうした？",
+      "romaji": "Fuku-chan dorinku arigato ne.  Ō dō shita?",
+      "chinese": "福酱，谢谢饮料。 哦，怎么了？",
       "context": "对话场景",
       "difficulty": "advanced"
     },
@@ -3965,9 +3965,9 @@
     {
       "id": 446,
       "episode": 3,
-      "japanese": "モンターニャで ばったり会ってさ｡ >> そうなんだ｡",
-      "romaji": "Montānya de battari atte sa. >> Sō nan da.",
-      "chinese": "在Montaña偶遇了。>> 是吗。",
+      "japanese": "モンターニャで ばったり会ってさ｡  そうなんだ｡",
+      "romaji": "Montānya de battari atte sa.  Sō nan da.",
+      "chinese": "在Montaña偶遇了。 是吗。",
       "context": "对话场景",
       "difficulty": "advanced"
     },
@@ -4037,7 +4037,7 @@
     {
       "id": 454,
       "episode": 3,
-      "japanese": "そうなの？ >> おととし 子供が生まれて｡",
+      "japanese": "そうなの？  おととし 子供が生まれて｡",
       "romaji": "Sou nano? Ototoshi kodomo ga umarete.",
       "chinese": "是吗？前年孩子出生了。",
       "context": "对话场景",
@@ -4046,7 +4046,7 @@
     {
       "id": 455,
       "episode": 3,
-      "japanese": "お～！ おめでとう！ >> ありがとう｡",
+      "japanese": "お～！ おめでとう！  ありがとう｡",
       "romaji": "O~! Omedetou! Arigatou.",
       "chinese": "哦～！恭喜！谢谢。",
       "context": "对话场景",
@@ -4100,7 +4100,7 @@
     {
       "id": 461,
       "episode": 3,
-      "japanese": "音楽は？ >> 音楽やめちゃったんだよね｡",
+      "japanese": "音楽は？  音楽やめちゃったんだよね｡",
       "romaji": "Ongaku wa? Ongaku yamechatta n da yo ne.",
       "chinese": "音乐呢？已经不做音乐了。",
       "context": "对话场景",
@@ -4163,7 +4163,7 @@
     {
       "id": 468,
       "episode": 3,
-      "japanese": "よし ありがとね｡ >> おぉ｡",
+      "japanese": "よし ありがとね｡  おぉ｡",
       "romaji": "Yoshi arigato ne. Oo.",
       "chinese": "好的，谢谢你。哦。",
       "context": "对话场景",
@@ -5045,18 +5045,18 @@
     {
       "id": 568,
       "episode": 3,
-      "japanese": "飲み物は？ >> 頼んだ｡",
-      "romaji": "Nomimono wa? >> Tonda.",
-      "chinese": "饮料呢？ >> 已经点了。",
+      "japanese": "飲み物は？  頼んだ｡",
+      "romaji": "Nomimono wa?  Tonda.",
+      "chinese": "饮料呢？  已经点了。",
       "context": "对话场景",
       "difficulty": "intermediate"
     },
     {
       "id": 569,
       "episode": 3,
-      "japanese": "もらうよ｡ >> ありがとう｡",
-      "romaji": "Morau yo. >> Arigatou.",
-      "chinese": "我要喝了。 >> 谢谢。",
+      "japanese": "もらうよ｡  ありがとう｡",
+      "romaji": "Morau yo.  Arigatou.",
+      "chinese": "我要喝了。  谢谢。",
       "context": "对话场景",
       "difficulty": "intermediate"
     },
@@ -5081,9 +5081,9 @@
     {
       "id": 572,
       "episode": 3,
-      "japanese": "ここ座って｡ >> ありがとう｡",
-      "romaji": "Koko suwatte. >> Arigatou.",
-      "chinese": "这里坐吧。 >> 谢谢。",
+      "japanese": "ここ座って｡  ありがとう｡",
+      "romaji": "Koko suwatte.  Arigatou.",
+      "chinese": "这里坐吧。  谢谢。",
       "context": "对话场景",
       "difficulty": "intermediate"
     },
@@ -5198,9 +5198,9 @@
     {
       "id": 586,
       "episode": 3,
-      "japanese": "大事な話があってね｡ >> うん どうしたの？",
-      "romaji": "Daiji na hanashi ga atte ne. >> Un, doushita no?",
-      "chinese": "有重要的事情要说呢。 >> 嗯，怎么了？",
+      "japanese": "大事な話があってね｡  うん どうしたの？",
+      "romaji": "Daiji na hanashi ga atte ne.  Un, doushita no?",
+      "chinese": "有重要的事情要说呢。  嗯，怎么了？",
       "context": "对话场景",
       "difficulty": "advanced"
     },
@@ -5412,15 +5412,6 @@
       "difficulty": "beginner"
     },
     {
-      "id": 612,
-      "episode": 3,
-      "japanese": "ううん…｡",
-      "romaji": "Uun…",
-      "chinese": "不……",
-      "context": "对话场景",
-      "difficulty": "beginner"
-    },
-    {
       "id": 613,
       "episode": 3,
       "japanese": "ハァ… マジ最悪だわ｡",
@@ -5495,9 +5486,9 @@
     {
       "id": 622,
       "episode": 3,
-      "japanese": "また行こう｡ >> うん 行こう行こう｡",
-      "romaji": "Mata ikou. >> Un ikou ikou.",
-      "chinese": "再去吧。 >> 嗯，去去去。",
+      "japanese": "また行こう｡  うん 行こう行こう｡",
+      "romaji": "Mata ikou.  Un ikou ikou.",
+      "chinese": "再去吧。  嗯，去去去。",
       "context": "对话场景",
       "difficulty": "advanced"
     },
@@ -5540,9 +5531,9 @@
     {
       "id": 627,
       "episode": 3,
-      "japanese": "別れられなかったら どうしようって｡ >> そうなの？",
-      "romaji": "Wakararenakattara doushiyou tte. >> Sou nano?",
-      "chinese": "如果分不开该怎么办。 >> 是吗？",
+      "japanese": "別れられなかったら どうしようって｡  そうなの？",
+      "romaji": "Wakararenakattara doushiyou tte.  Sou nano?",
+      "chinese": "如果分不开该怎么办。  是吗？",
       "context": "对话场景",
       "difficulty": "advanced"
     },
@@ -5648,9 +5639,9 @@
     {
       "id": 639,
       "episode": 3,
-      "japanese": "しかも 来世はギョウ虫だね！ >> あ～ 間違いない！",
-      "romaji": "Shikamo raise wa gyoumushi da ne! >> Aa~ machigainai!",
-      "chinese": "而且来世是蛔虫！ >> 啊～没错！",
+      "japanese": "しかも 来世はギョウ虫だね！  あ～ 間違いない！",
+      "romaji": "Shikamo raise wa gyoumushi da ne!  Aa~ machigainai!",
+      "chinese": "而且来世是蛔虫！  啊～没错！",
       "context": "对话场景",
       "difficulty": "advanced"
     },
@@ -5711,9 +5702,9 @@
     {
       "id": 646,
       "episode": 3,
-      "japanese": "分かる｡ >> 何なんだろう マジ｡",
-      "romaji": "Wakaru. >> Nan nan darou maji.",
-      "chinese": "懂的。 >> 这到底是怎么回事，真的。",
+      "japanese": "分かる｡  何なんだろう マジ｡",
+      "romaji": "Wakaru.  Nan nan darou maji.",
+      "chinese": "懂的。  这到底是怎么回事，真的。",
       "context": "对话场景",
       "difficulty": "intermediate"
     },
@@ -5801,9 +5792,9 @@
     {
       "id": 657,
       "episode": 3,
-      "japanese": "おはようございます｡ >> おはよう｡",
-      "romaji": "Ohayō gozaimasu. >> Ohayō.",
-      "chinese": "早上好。>> 早上好。",
+      "japanese": "おはようございます｡  おはよう｡",
+      "romaji": "Ohayō gozaimasu.  Ohayō.",
+      "chinese": "早上好。 早上好。",
       "context": "对话场景",
       "difficulty": "intermediate"
     },
@@ -5990,9 +5981,9 @@
     {
       "id": 680,
       "episode": 3,
-      "japanese": "すいません｡ >> はい｡",
-      "romaji": "Suimasen. >> Hai.",
-      "chinese": "对不起。>> 是的。",
+      "japanese": "すいません｡  はい｡",
+      "romaji": "Suimasen.  Hai.",
+      "chinese": "对不起。 是的。",
       "context": "对话场景",
       "difficulty": "intermediate"
     },
@@ -6080,9 +6071,9 @@
     {
       "id": 692,
       "episode": 3,
-      "japanese": "亡くなりやすい時期？ >> はい まずですね皆様それぞれ基本寿命というものがありまして｡",
-      "romaji": "Nakunari yasui jiki? >> Hai. Mazu desu ne minasama sorezore kihon jumyō to iu mono ga arimashite.",
-      "chinese": "容易去世的时期？>> 是的，首先每个人都有基本寿命。",
+      "japanese": "亡くなりやすい時期？  はい まずですね皆様それぞれ基本寿命というものがありまして｡",
+      "romaji": "Nakunari yasui jiki?  Hai. Mazu desu ne minasama sorezore kihon jumyō to iu mono ga arimashite.",
+      "chinese": "容易去世的时期？ 是的，首先每个人都有基本寿命。",
       "context": "对话场景",
       "difficulty": "advanced"
     },
@@ -6116,9 +6107,9 @@
     {
       "id": 696,
       "episode": 3,
-      "japanese": "振り分けられてる…？ >> 合計は皆様 同じなんですけども振り分け方がランダムに なっていまして このように満遍なく振り分けられる方も いらっしゃればある時期に集中して高い確率に なってる方もいらっしゃるんです｡",
-      "romaji": "Furiwakerareteru...? >> Gōkei wa minasama onaji nan desu kedomo furiwake-kata ga randomu ni natte imashite kono yō ni manben naku furiwakerareru kata mo irasshareba aru jiki ni shūchū shite takai kakuritsu ni natteru kata mo irassharun desu.",
-      "chinese": "分布吗…？>> 总数是相同的，但分布方式是随机的，有些人分布均匀，有些人某段时间集中概率较高。",
+      "japanese": "振り分けられてる…？  合計は皆様 同じなんですけども振り分け方がランダムに なっていまして このように満遍なく振り分けられる方も いらっしゃればある時期に集中して高い確率に なってる方もいらっしゃるんです｡",
+      "romaji": "Furiwakerareteru...?  Gōkei wa minasama onaji nan desu kedomo furiwake-kata ga randomu ni natte imashite kono yō ni manben naku furiwakerareru kata mo irasshareba aru jiki ni shūchū shite takai kakuritsu ni natteru kata mo irassharun desu.",
+      "chinese": "分布吗…？ 总数是相同的，但分布方式是随机的，有些人分布均匀，有些人某段时间集中概率较高。",
       "context": "对话场景",
       "difficulty": "advanced"
     },
@@ -6242,9 +6233,9 @@
     {
       "id": 710,
       "episode": 3,
-      "japanese": "さすがに次は人間ですよね？ >> ちょっと確認しますね｡",
-      "romaji": "Sasuga ni tsugi wa ningen desu yo ne? >> Chotto kakunin shimasu ne.",
-      "chinese": "下次肯定是人类吧？ >> 稍微确认一下。",
+      "japanese": "さすがに次は人間ですよね？  ちょっと確認しますね｡",
+      "romaji": "Sasuga ni tsugi wa ningen desu yo ne?  Chotto kakunin shimasu ne.",
+      "chinese": "下次肯定是人类吧？  稍微确认一下。",
       "context": "对话场景",
       "difficulty": "advanced"
     },
@@ -6296,18 +6287,18 @@
     {
       "id": 716,
       "episode": 3,
-      "japanese": "サバ？ >> はい｡",
-      "romaji": "Saba? >> Hai.",
-      "chinese": "鲭鱼？ >> 是的。",
+      "japanese": "サバ？  はい｡",
+      "romaji": "Saba?  Hai.",
+      "chinese": "鲭鱼？  是的。",
       "context": "对话场景",
       "difficulty": "intermediate"
     },
     {
       "id": 717,
       "episode": 3,
-      "japanese": "人間じゃないんですね？ >> はい｡",
-      "romaji": "Ningen janai n desu ne? >> Hai.",
-      "chinese": "不是人类呢？ >> 是的。",
+      "japanese": "人間じゃないんですね？  はい｡",
+      "romaji": "Ningen janai n desu ne?  Hai.",
+      "chinese": "不是人类呢？  是的。",
       "context": "对话场景",
       "difficulty": "intermediate"
     },
@@ -6341,9 +6332,9 @@
     {
       "id": 721,
       "episode": 3,
-      "japanese": "サバですか？ >> サバですね｡",
-      "romaji": "Saba desu ka? >> Saba desu ne.",
-      "chinese": "是鲭鱼吗？ >> 是鲭鱼。",
+      "japanese": "サバですか？  サバですね｡",
+      "romaji": "Saba desu ka?  Saba desu ne.",
+      "chinese": "是鲭鱼吗？  是鲭鱼。",
       "context": "对话场景",
       "difficulty": "intermediate"
     },
@@ -6368,9 +6359,9 @@
     {
       "id": 724,
       "episode": 3,
-      "japanese": "希望している生命？ >> はい｡",
-      "romaji": "Kibou shite iru seimei? >> Hai.",
-      "chinese": "希望的生命？ >> 是的。",
+      "japanese": "希望している生命？  はい｡",
+      "romaji": "Kibou shite iru seimei?  Hai.",
+      "chinese": "希望的生命？  是的。",
       "context": "对话场景",
       "difficulty": "intermediate"
     },
@@ -6413,9 +6404,9 @@
     {
       "id": 729,
       "episode": 3,
-      "japanese": "ゴキブリもですか？ >> もちろんです｡",
-      "romaji": "Gokiburi mo desu ka? >> Mochiron desu.",
-      "chinese": "蟑螂也可以吗？ >> 当然可以。",
+      "japanese": "ゴキブリもですか？  もちろんです｡",
+      "romaji": "Gokiburi mo desu ka?  Mochiron desu.",
+      "chinese": "蟑螂也可以吗？  当然可以。",
       "context": "对话场景",
       "difficulty": "advanced"
     },
@@ -6521,9 +6512,9 @@
     {
       "id": 741,
       "episode": 3,
-      "japanese": "食べるのは好きなんですけどね｡ >> そうですよね｡",
-      "romaji": "Taberu no wa suki nan desu kedo ne. >> Sou desu yo ne.",
-      "chinese": "虽然喜欢吃啦。 >> 是啊是啊。",
+      "japanese": "食べるのは好きなんですけどね｡  そうですよね｡",
+      "romaji": "Taberu no wa suki nan desu kedo ne.  Sou desu yo ne.",
+      "chinese": "虽然喜欢吃啦。  是啊是啊。",
       "context": "对话场景",
       "difficulty": "advanced"
     },
@@ -6575,9 +6566,9 @@
     {
       "id": 747,
       "episode": 3,
-      "japanese": "できるんですか？ >> はい｡",
-      "romaji": "Dekiru n desu ka? >> Hai.",
-      "chinese": "真的可以吗？ >> 可以。",
+      "japanese": "できるんですか？  はい｡",
+      "romaji": "Dekiru n desu ka?  Hai.",
+      "chinese": "真的可以吗？  可以。",
       "context": "对话场景",
       "difficulty": "intermediate"
     },
@@ -6719,9 +6710,9 @@
     {
       "id": 763,
       "episode": 3,
-      "japanese": "いってきます｡ >> いってらっしゃいませ｡",
-      "romaji": "Ittekimasu. >> Itterasshaimase.",
-      "chinese": "我出发了。>> 请慢走。",
+      "japanese": "いってきます｡  いってらっしゃいませ｡",
+      "romaji": "Ittekimasu.  Itterasshaimase.",
+      "chinese": "我出发了。 请慢走。",
       "context": "对话场景",
       "difficulty": "advanced"
     },
@@ -6764,9 +6755,9 @@
     {
       "id": 768,
       "episode": 3,
-      "japanese": "かわいいね｡ >> 麻美～｡",
-      "romaji": "Kawaii ne. >> Asami~.",
-      "chinese": "好可爱呢。>> 麻美～。",
+      "japanese": "かわいいね｡  麻美～｡",
+      "romaji": "Kawaii ne.  Asami~.",
+      "chinese": "好可爱呢。 麻美～。",
       "context": "对话场景",
       "difficulty": "intermediate"
     },
@@ -6872,9 +6863,9 @@
     {
       "id": 781,
       "episode": 3,
-      "japanese": "♪～ >> ああ 小魚たちの群れ >> きらきらと",
-      "romaji": "♪~ >> Ā kogyo-tachi no mure >> kirakira to",
-      "chinese": "♪～ >> 啊 小鱼群 >> 闪闪发光",
+      "japanese": "♪～  ああ 小魚たちの群れ  きらきらと",
+      "romaji": "♪~  Ā kogyo-tachi no mure  kirakira to",
+      "chinese": "♪～  啊 小鱼群  闪闪发光",
       "context": "对话场景",
       "difficulty": "advanced"
     },
@@ -6929,15 +6920,6 @@
       "japanese": "食欲ないの？",
       "romaji": "Shokuyoku nai no?",
       "chinese": "没胃口吗？",
-      "context": "对话场景",
-      "difficulty": "beginner"
-    },
-    {
-      "id": 788,
-      "episode": 3,
-      "japanese": "ううん｡",
-      "romaji": "Uun.",
-      "chinese": "没有。",
       "context": "对话场景",
       "difficulty": "beginner"
     },

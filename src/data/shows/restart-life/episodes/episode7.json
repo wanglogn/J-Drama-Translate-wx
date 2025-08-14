@@ -1,12 +1,12 @@
 {
-  "number": 837,
+  "number": 7,
   "title": "第七集：人生重启的挑战",
   "lines": [
     {
       "id": 1,
       "episode": 7,
-      "japanese": "⟨人間に生まれ変わるため 人生３周目を生き直していた近藤麻美⟩",
-      "romaji": "⟨ningen ni umarekawaru tame jinsei san shuume o ikinaoshiteita Kondou Asami⟩",
+      "japanese": "人間に生まれ変わるため 人生３周目を生き直していた近藤麻美",
+      "romaji": "ningen ni umarekawaru tame jinsei san shuume o ikinaoshiteita Kondou Asami",
       "chinese": "为了投胎为人，重启人生第三轮的近藤麻美",
       "context": "人間に生まれ変わるため 人生３",
       "difficulty": "advanced"
@@ -14,8 +14,8 @@
     {
       "id": 2,
       "episode": 7,
-      "japanese": "⟨テレビ局で ドラマの制作をしながら徳を積んでいましたが…⟩",
-      "romaji": "⟨terebikyoku de dorama no seisaku o shinagara toku o tsundeimashita ga…⟩",
+      "japanese": "テレビ局で ドラマの制作をしながら徳を積んでいましたが…",
+      "romaji": "terebikyoku de dorama no seisaku o shinagara toku o tsundeimashita ga…",
       "chinese": "在电视台制作电视剧的同时积累德行…",
       "context": "人間に生まれ変わるため 人生３",
       "difficulty": "advanced"
@@ -23,8 +23,8 @@
     {
       "id": 3,
       "episode": 7,
-      "japanese": "⟨そこで告げられた来世は…⟩",
-      "romaji": "⟨soko de tsugerareta raise wa…⟩",
+      "japanese": "そこで告げられた来世は…",
+      "romaji": "soko de tsugerareta raise wa…",
       "chinese": "在那里被告知的来世是…",
       "context": "人間に生まれ変わるため 人生３",
       "difficulty": "intermediate"
@@ -59,8 +59,8 @@
     {
       "id": 7,
       "episode": 7,
-      "japanese": "⟨こうして 人生４周目がスタート⟩",
-      "romaji": "⟨koushite jinsei yon shuume ga sutāto⟩",
+      "japanese": "こうして 人生４周目がスタート",
+      "romaji": "koushite jinsei yon shuume ga sutāto",
       "chinese": "于是，人生第四轮开始了",
       "context": "こうして 人生４周目がスタート",
       "difficulty": "intermediate"
@@ -68,8 +68,8 @@
     {
       "id": 8,
       "episode": 7,
-      "japanese": "⟨莫大な徳を積むべく勉強に励んだら…⟩",
-      "romaji": "⟨bakudai na toku o tsumu beku benkyou ni hagemndara…⟩",
+      "japanese": "莫大な徳を積むべく勉強に励んだら…",
+      "romaji": "bakudai na toku o tsumu beku benkyou ni hagemndara…",
       "chinese": "为了积累巨大的德行而努力学习…",
       "context": "こうして 人生４周目がスタート",
       "difficulty": "intermediate"
@@ -77,8 +77,8 @@
     {
       "id": 9,
       "episode": 7,
-      "japanese": "(麻美) ⟨気を使われている⟩",
-      "romaji": "(Asami) ⟨ki o tsukawarete iru⟩",
+      "japanese": "(麻美) 気を使われている",
+      "romaji": "(Asami) ki o tsukawarete iru",
       "chinese": "（麻美）大家都很客气",
       "context": "こうして 人生４周目がスタート",
       "difficulty": "intermediate"
@@ -86,8 +86,8 @@
     {
       "id": 10,
       "episode": 7,
-      "japanese": "⟨なっちと みーぽんとの 関係に変化が⟩",
-      "romaji": "⟨Nacchi to Miipon to no kankei ni henka ga⟩",
+      "japanese": "なっちと みーぽんとの 関係に変化が",
+      "romaji": "Nacchi to Miipon to no kankei ni henka ga",
       "chinese": "与夏希和美穗的关系发生了变化",
       "context": "こうして 人生４周目がスタート",
       "difficulty": "advanced"
@@ -95,8 +95,8 @@
     {
       "id": 11,
       "episode": 7,
-      "japanese": "⟨人生４周目 何だかいろいろありそうです⟩",
-      "romaji": "⟨jinsei yon shuume nandaka iroiro arisou desu⟩",
+      "japanese": "人生４周目 何だかいろいろありそうです",
+      "romaji": "jinsei yon shuume nandaka iroiro arisou desu",
       "chinese": "第四轮人生似乎还有许多状况",
       "context": "莫大な徳を積むべく勉強に励んだ",
       "difficulty": "advanced"
@@ -165,15 +165,6 @@
       "difficulty": "intermediate"
     },
     {
-      "id": 19,
-      "episode": 7,
-      "japanese": "(夏希) うん｡",
-      "romaji": "(Natsuki) Un.",
-      "chinese": "嗯",
-      "context": "日常对话",
-      "difficulty": "beginner"
-    },
-    {
       "id": 20,
       "episode": 7,
       "japanese": "(美穂) あーちん 見てないの？",
@@ -224,15 +215,6 @@
       "japanese": "(美穂) 絶対 見たほうがいいよ｡",
       "romaji": "(Miho) Zettai mita hou ga ii yo.",
       "chinese": "（美穗）绝对应该看看哦",
-      "context": "日常对话",
-      "difficulty": "intermediate"
-    },
-    {
-      "id": 26,
-      "episode": 7,
-      "japanese": "(夏希) うん うん｡",
-      "romaji": "(Natsuki) Un un.",
-      "chinese": "嗯嗯",
       "context": "日常对话",
       "difficulty": "intermediate"
     },
@@ -397,15 +379,6 @@
       "chinese": "嗯，是啊",
       "context": "日常对话",
       "difficulty": "intermediate"
-    },
-    {
-      "id": 45,
-      "episode": 7,
-      "japanese": "(美穂) うん｡",
-      "romaji": "(Miho) Un.",
-      "chinese": "嗯",
-      "context": "日常对话",
-      "difficulty": "beginner"
     },
     {
       "id": 46,
@@ -806,27 +779,27 @@
     {
       "id": 90,
       "episode": 7,
-      "japanese": "(麻美) ⟨４度目の中学時代⟩",
-      "romaji": "(Asami) ⟨Yondome no chuugaku jidai⟩",
-      "chinese": "（麻美）⟨第四次的中学时代⟩",
+      "japanese": "(麻美) ４度目の中学時代",
+      "romaji": "(Asami) Yondome no chuugaku jidai",
+      "chinese": "（麻美）第四次的中学时代",
       "context": "４度目の中学時代",
       "difficulty": "intermediate"
     },
     {
       "id": 91,
       "episode": 7,
-      "japanese": "⟨合計すると110歳くらい⟩",
-      "romaji": "⟨Goukei suru to hyaku juu-sai kurai⟩",
-      "chinese": "⟨加起来大约110岁⟩",
+      "japanese": "合計すると110歳くらい",
+      "romaji": "Goukei suru to hyaku juu-sai kurai",
+      "chinese": "加起来大约110岁",
       "context": "４度目の中学時代",
       "difficulty": "intermediate"
     },
     {
       "id": 92,
       "episode": 7,
-      "japanese": "(麻美) ⟨そんなに生きてもこの時期は父親に ちゃんとイライラする⟩",
-      "romaji": "(Asami) ⟨Sonnani ikite mo kono jiki wa chichioya ni chanto iraira suru⟩",
-      "chinese": "⟨活了那么久，这个时期还是会对父亲生气⟩",
+      "japanese": "(麻美) そんなに生きてもこの時期は父親に ちゃんとイライラする",
+      "romaji": "(Asami) Sonnani ikite mo kono jiki wa chichioya ni chanto iraira suru",
+      "chinese": "活了那么久，这个时期还是会对父亲生气",
       "context": "４度目の中学時代",
       "difficulty": "advanced"
     },
@@ -842,9 +815,9 @@
     {
       "id": 94,
       "episode": 7,
-      "japanese": "(麻美) ⟨“伊東家”で見た裏ワザを 即取り入れる感じとか…⟩",
-      "romaji": "(Asami) ⟨'Itou-ke' de mita urawaza wo soku toriireru kanji toka…⟩",
-      "chinese": "⟨像立刻采纳在‘伊东家’看到的窍门的感觉…⟩",
+      "japanese": "(麻美) “伊東家”で見た裏ワザを 即取り入れる感じとか…",
+      "romaji": "(Asami) 'Itou-ke' de mita urawaza wo soku toriireru kanji toka…",
+      "chinese": "像立刻采纳在‘伊东家’看到的窍门的感觉…",
       "context": "合計すると110歳くらい",
       "difficulty": "advanced"
     },
@@ -878,9 +851,9 @@
     {
       "id": 98,
       "episode": 7,
-      "japanese": "(麻美) ⟨毎回 早めにおかずがなくなって 後半ご飯だけで食べる感じとか何もかもがウザく感じるけど…⟩",
-      "romaji": "(Asami) ⟨Maikai hayame ni okazu ga nakunatte kouhan gohan dake de taberu kanji toka nanimokamo ga uzaku kanjiru kedo…⟩",
-      "chinese": "⟨每次配菜很快就吃完，后半只能吃米饭，什么都觉得烦…⟩",
+      "japanese": "(麻美) 毎回 早めにおかずがなくなって 後半ご飯だけで食べる感じとか何もかもがウザく感じるけど…",
+      "romaji": "(Asami) Maikai hayame ni okazu ga nakunatte kouhan gohan dake de taberu kanji toka nanimokamo ga uzaku kanjiru kedo…",
+      "chinese": "每次配菜很快就吃完，后半只能吃米饭，什么都觉得烦…",
       "context": "毎回 早めにおかずがなくなって",
       "difficulty": "advanced"
     },
@@ -896,9 +869,9 @@
     {
       "id": 100,
       "episode": 7,
-      "japanese": "(麻美) ⟨110歳の理性で 完璧に押さえ込んでいる⟩",
-      "romaji": "(Asami) ⟨Hyaku juu-sai no risei de kanpeki ni osaekonde iru⟩",
-      "chinese": "⟨用110岁的理智完美地压制住自己⟩",
+      "japanese": "(麻美) 110歳の理性で 完璧に押さえ込んでいる",
+      "romaji": "(Asami) Hyaku juu-sai no risei de kanpeki ni osaekonde iru",
+      "chinese": "用110岁的理智完美地压制住自己",
       "context": "毎回 早めにおかずがなくなって",
       "difficulty": "advanced"
     },
@@ -923,9 +896,9 @@
     {
       "id": 103,
       "episode": 7,
-      "japanese": "(麻美) ⟨今回 先生からは 私立の中学を勧められたけど両親に 負担をかけたくなかったので今までと同じ 公立に通うことにした⟩",
-      "romaji": "(Asami) ⟨Konkai sensei kara wa shiritsu no chuugaku wo susumerareta kedo ryoushin ni futan wo kaketakunakatta node ima made to onaji kouritsu ni kayou koto ni shita⟩",
-      "chinese": "（麻美）⟨这次老师推荐我去私立中学，但为了不给父母增加负担，所以决定继续上公立学校⟩",
+      "japanese": "(麻美) 今回 先生からは 私立の中学を勧められたけど両親に 負担をかけたくなかったので今までと同じ 公立に通うことにした",
+      "romaji": "(Asami) Konkai sensei kara wa shiritsu no chuugaku wo susumerareta kedo ryoushin ni futan wo kaketakunakatta node ima made to onaji kouritsu ni kayou koto ni shita",
+      "chinese": "（麻美）这次老师推荐我去私立中学，但为了不给父母增加负担，所以决定继续上公立学校",
       "context": "今回 先生からは 私立の中学を",
       "difficulty": "advanced"
     },
@@ -1049,36 +1022,36 @@
     {
       "id": 117,
       "episode": 7,
-      "japanese": "(麻美) ⟨２人とは 小学校の時に 仲良くなり損ねたせいでそれ以降も 距離を縮められずにいた⟩",
-      "romaji": "(Asami) ⟨Futari to wa shougakkou no toki ni nakayoku nari sokoneta sei de sore ikou mo kyori wo chijimerarezu ni ita⟩",
-      "chinese": "（麻美）⟨因为小学时没能和她们亲近，以后也没能拉近距离⟩",
+      "japanese": "(麻美) ２人とは 小学校の時に 仲良くなり損ねたせいでそれ以降も 距離を縮められずにいた",
+      "romaji": "(Asami) Futari to wa shougakkou no toki ni nakayoku nari sokoneta sei de sore ikou mo kyori wo chijimerarezu ni ita",
+      "chinese": "（麻美）因为小学时没能和她们亲近，以后也没能拉近距离",
       "context": "２人とは 小学校の時に 仲良く",
       "difficulty": "advanced"
     },
     {
       "id": 118,
       "episode": 7,
-      "japanese": "⟨そんな寂しさを振り払うように 私は勉強に打ち込んだ⟩",
-      "romaji": "⟨Sonna sabishisa wo furiharau you ni watashi wa benkyou ni uchikonda⟩",
-      "chinese": "⟨为了摆脱那份寂寞，我专心学习⟩",
+      "japanese": "そんな寂しさを振り払うように 私は勉強に打ち込んだ",
+      "romaji": "Sonna sabishisa wo furiharau you ni watashi wa benkyou ni uchikonda",
+      "chinese": "为了摆脱那份寂寞，我专心学习",
       "context": "２人とは 小学校の時に 仲良く",
       "difficulty": "advanced"
     },
     {
       "id": 119,
       "episode": 7,
-      "japanese": "⟨その結果学年トップの成績になり ついに宇野真里超えを果たした⟩",
-      "romaji": "⟨Sono kekka gakunen toppu no seiseki ni nari tsuini Uno Mari koe wo hatashita⟩",
-      "chinese": "⟨结果成为全年级成绩第一，终于超过了宇野真里⟩",
+      "japanese": "その結果学年トップの成績になり ついに宇野真里超えを果たした",
+      "romaji": "Sono kekka gakunen toppu no seiseki ni nari tsuini Uno Mari koe wo hatashita",
+      "chinese": "结果成为全年级成绩第一，终于超过了宇野真里",
       "context": "２人とは 小学校の時に 仲良く",
       "difficulty": "advanced"
     },
     {
       "id": 120,
       "episode": 7,
-      "japanese": "⟨ただ…⟩",
-      "romaji": "⟨Tada…⟩",
-      "chinese": "⟨只是…⟩",
+      "japanese": "ただ…",
+      "romaji": "Tada…",
+      "chinese": "只是…",
       "context": "２人とは 小学校の時に 仲良く",
       "difficulty": "beginner"
     },
@@ -1103,9 +1076,9 @@
     {
       "id": 123,
       "episode": 7,
-      "japanese": "(麻美) ⟨学校生活は あまり楽しくなかった⟩",
-      "romaji": "(Asami) ⟨Gakkou seikatsu wa amari tanoshikunakatta⟩",
-      "chinese": "（麻美）⟨学校生活并不是很愉快⟩",
+      "japanese": "(麻美) 学校生活は あまり楽しくなかった",
+      "romaji": "(Asami) Gakkou seikatsu wa amari tanoshikunakatta",
+      "chinese": "（麻美）学校生活并不是很愉快",
       "context": "ただ…",
       "difficulty": "advanced"
     },
@@ -1139,9 +1112,9 @@
     {
       "id": 127,
       "episode": 7,
-      "japanese": "(麻美) ⟨そんな中 予定通り ラウンドワンが出来た⟩",
-      "romaji": "(Asami) ⟨Sonna naka yotei doori Raundo Wan ga dekita⟩",
-      "chinese": "（麻美）⟨就在这种情况下，按计划Round1开业了⟩",
+      "japanese": "(麻美) そんな中 予定通り ラウンドワンが出来た",
+      "romaji": "(Asami) Sonna naka yotei doori Raundo Wan ga dekita",
+      "chinese": "（麻美）就在这种情况下，按计划Round1开业了",
       "context": "そんな中 予定通り ラウンドワ",
       "difficulty": "advanced"
     },
@@ -1211,9 +1184,9 @@
     {
       "id": 135,
       "episode": 7,
-      "japanese": "(麻美) ⟨あそこに 入れなかったということは…⟩",
-      "romaji": "(Asami) ⟨Asoko ni irenakatta to iu koto wa…⟩",
-      "chinese": "（麻美）⟨也就是说没能进去那里…⟩",
+      "japanese": "(麻美) あそこに 入れなかったということは…",
+      "romaji": "(Asami) Asoko ni irenakatta to iu koto wa…",
+      "chinese": "（麻美）也就是说没能进去那里…",
       "context": "あそこに 入れなかったというこ",
       "difficulty": "advanced"
     },
@@ -1238,9 +1211,9 @@
     {
       "id": 138,
       "episode": 7,
-      "japanese": "(麻美) ⟨あの未来も 訪れないということ⟩",
-      "romaji": "(Asami) ⟨Ano mirai mo otozurenai to iu koto⟩",
-      "chinese": "（麻美）⟨也意味着那个未来不会到来⟩",
+      "japanese": "(麻美) あの未来も 訪れないということ",
+      "romaji": "(Asami) Ano mirai mo otozurenai to iu koto",
+      "chinese": "（麻美）也意味着那个未来不会到来",
       "context": "あそこに 入れなかったというこ",
       "difficulty": "advanced"
     },
@@ -1358,15 +1331,6 @@
       "japanese": "撮ろ？",
       "romaji": "Toro?",
       "chinese": "拍吗？",
-      "context": "日常对话",
-      "difficulty": "beginner"
-    },
-    {
-      "id": 152,
-      "episode": 7,
-      "japanese": "(真里) うん｡",
-      "romaji": "(Mari) Un.",
-      "chinese": "（真里）嗯。",
       "context": "日常对话",
       "difficulty": "beginner"
     },
@@ -1614,15 +1578,6 @@
       "difficulty": "intermediate"
     },
     {
-      "id": 180,
-      "episode": 7,
-      "japanese": "(麻美) うん｡",
-      "romaji": "(Asami) Un.",
-      "chinese": "（麻美）嗯。",
-      "context": "日常对话",
-      "difficulty": "beginner"
-    },
-    {
       "id": 181,
       "episode": 7,
       "japanese": "そっか｡",
@@ -1679,9 +1634,9 @@
     {
       "id": 187,
       "episode": 7,
-      "japanese": "(麻美) ⟨真里ちゃんは 思っていたよりも ずっと気さくで話しやすい子だった⟩",
-      "romaji": "(Asami) ⟨Mari-chan wa omotte ita yori mo zutto kisaku de hanashiyasui ko datta⟩",
-      "chinese": "（麻美）⟨真里比我想象中更随和，也更好相处⟩",
+      "japanese": "(麻美) 真里ちゃんは 思っていたよりも ずっと気さくで話しやすい子だった",
+      "romaji": "(Asami) Mari-chan wa omotte ita yori mo zutto kisaku de hanashiyasui ko datta",
+      "chinese": "（麻美）真里比我想象中更随和，也更好相处",
       "context": "真里ちゃんは 思っていたよりも",
       "difficulty": "advanced"
     },
@@ -1724,18 +1679,18 @@
     {
       "id": 192,
       "episode": 7,
-      "japanese": "⟨あの日以来 私は まりりんと仲良くなった⟩",
-      "romaji": "⟨Ano hi irai watashi wa Maririn to nakayoku natta⟩",
-      "chinese": "⟨从那天起，我和真里变得很要好⟩",
+      "japanese": "あの日以来 私は まりりんと仲良くなった",
+      "romaji": "Ano hi irai watashi wa Maririn to nakayoku natta",
+      "chinese": "从那天起，我和真里变得很要好",
       "context": "あの日以来 私は まりりんと仲",
       "difficulty": "advanced"
     },
     {
       "id": 193,
       "episode": 7,
-      "japanese": "⟨ちなみに 成績はずっとトップで…⟩",
-      "romaji": "⟨Chinamini seiseki wa zutto toppu de…⟩",
-      "chinese": "⟨顺便说一下，成绩一直是第一…⟩",
+      "japanese": "ちなみに 成績はずっとトップで…",
+      "romaji": "Chinamini seiseki wa zutto toppu de…",
+      "chinese": "顺便说一下，成绩一直是第一…",
       "context": "あの日以来 私は まりりんと仲",
       "difficulty": "intermediate"
     },
@@ -1751,27 +1706,27 @@
     {
       "id": 195,
       "episode": 7,
-      "japanese": "⟨さらに 生徒会長にも就任⟩",
-      "romaji": "⟨Sara ni seitokaichou ni mo shuunin⟩",
-      "chinese": "⟨之后还担任了学生会会长⟩",
+      "japanese": "さらに 生徒会長にも就任",
+      "romaji": "Sara ni seitokaichou ni mo shuunin",
+      "chinese": "之后还担任了学生会会长",
       "context": "あの日以来 私は まりりんと仲",
       "difficulty": "intermediate"
     },
     {
       "id": 196,
       "episode": 7,
-      "japanese": "⟨まりりんが副会長となり２人で絵に描いたような優等生 として中学生活を終えた⟩",
-      "romaji": "⟨Maririn ga fuku-kaichou to nari futari de e ni kaita you na yuutousei to shite chuugaku seikatsu wo oeta⟩",
-      "chinese": "⟨真里成为副会长，两人作为理想的优等生结束了初中生活⟩",
+      "japanese": "まりりんが副会長となり２人で絵に描いたような優等生 として中学生活を終えた",
+      "romaji": "Maririn ga fuku-kaichou to nari futari de e ni kaita you na yuutousei to shite chuugaku seikatsu wo oeta",
+      "chinese": "真里成为副会长，两人作为理想的优等生结束了初中生活",
       "context": "ちなみに 成績はずっとトップで",
       "difficulty": "advanced"
     },
     {
       "id": 197,
       "episode": 7,
-      "japanese": "⟨高校は 県内トップの偏差値を誇る進学校に入学し…⟩",
-      "romaji": "⟨Koukou wa kennai toppu no hensachi wo hokoru shingakkou ni nyuugaku shi…⟩",
-      "chinese": "⟨高中进入县内顶尖的升学名校…⟩",
+      "japanese": "高校は 県内トップの偏差値を誇る進学校に入学し…",
+      "romaji": "Koukou wa kennai toppu no hensachi wo hokoru shingakkou ni nyuugaku shi…",
+      "chinese": "高中进入县内顶尖的升学名校…",
       "context": "さらに 生徒会長にも就任",
       "difficulty": "advanced"
     },
@@ -1787,63 +1742,63 @@
     {
       "id": 199,
       "episode": 7,
-      "japanese": "(麻美) ⟨ここでも 学年トップの成績になった⟩",
-      "romaji": "(Asami) ⟨Koko demo gakunen toppu no seiseki ni natta⟩",
-      "chinese": "（麻美）⟨在这里也成为年级第一⟩",
+      "japanese": "(麻美) ここでも 学年トップの成績になった",
+      "romaji": "(Asami) Koko demo gakunen toppu no seiseki ni natta",
+      "chinese": "（麻美）在这里也成为年级第一",
       "context": "まりりんが副会長となり２人で絵",
       "difficulty": "advanced"
     },
     {
       "id": 200,
       "episode": 7,
-      "japanese": "(麻美) ⟨この４年後にノーベル賞か⟩",
-      "romaji": "(Asami) ⟨Kono yon-nen go ni Nōberu-shō ka⟩",
-      "chinese": "（麻美）⟨四年后拿诺贝尔奖吗⟩",
+      "japanese": "(麻美) この４年後にノーベル賞か",
+      "romaji": "(Asami) Kono yon-nen go ni Nōberu-shō ka",
+      "chinese": "（麻美）四年后拿诺贝尔奖吗",
       "context": "高校は 県内トップの偏差値を誇",
       "difficulty": "intermediate"
     },
     {
       "id": 201,
       "episode": 7,
-      "japanese": "⟨これは 徳の量もすごいだろうな⟩",
-      "romaji": "⟨Kore wa toku no ryou mo sugoi darou na⟩",
-      "chinese": "⟨这德行的数量也一定很惊人吧⟩",
+      "japanese": "これは 徳の量もすごいだろうな",
+      "romaji": "Kore wa toku no ryou mo sugoi darou na",
+      "chinese": "这德行的数量也一定很惊人吧",
       "context": "ここでも 学年トップの成績にな",
       "difficulty": "intermediate"
     },
     {
       "id": 202,
       "episode": 7,
-      "japanese": "(麻美) ⟨高校卒業後国立大学の医学部に入学⟩",
-      "romaji": "(Asami) ⟨Koukou sotsugyou go kokuritsu daigaku no igakubu ni nyuugaku⟩",
-      "chinese": "（麻美）⟨高中毕业后进入国立大学医学院⟩",
+      "japanese": "(麻美) 高校卒業後国立大学の医学部に入学",
+      "romaji": "(Asami) Koukou sotsugyou go kokuritsu daigaku no igakubu ni nyuugaku",
+      "chinese": "（麻美）高中毕业后进入国立大学医学院",
       "context": "ここでも 学年トップの成績にな",
       "difficulty": "advanced"
     },
     {
       "id": 203,
       "episode": 7,
-      "japanese": "(麻美) ⟨２回目の東京１人暮らし⟩",
-      "romaji": "(Asami) ⟨Ni-kai me no Toukyou hitori-gurashi⟩",
-      "chinese": "（麻美）⟨第二次在东京独自生活⟩",
+      "japanese": "(麻美) ２回目の東京１人暮らし",
+      "romaji": "(Asami) Ni-kai me no Toukyou hitori-gurashi",
+      "chinese": "（麻美）第二次在东京独自生活",
       "context": "これは 徳の量もすごいだろうな",
       "difficulty": "intermediate"
     },
     {
       "id": 204,
       "episode": 7,
-      "japanese": "(麻美) ⟨前回よりも狭いけど ここはここで気に入っている⟩",
-      "romaji": "(Asami) ⟨Zenkai yori mo semai kedo koko wa koko de kiniitte iru⟩",
-      "chinese": "（麻美）⟨比上次狭小，但这里我也很喜欢⟩",
+      "japanese": "(麻美) 前回よりも狭いけど ここはここで気に入っている",
+      "romaji": "(Asami) Zenkai yori mo semai kedo koko wa koko de kiniitte iru",
+      "chinese": "（麻美）比上次狭小，但这里我也很喜欢",
       "context": "高校卒業後国立大学の医学部に入",
       "difficulty": "advanced"
     },
     {
       "id": 205,
       "episode": 7,
-      "japanese": "(麻美) ⟨そして４度目の成人式⟩",
-      "romaji": "(Asami) ⟨Soshite yon-dome no seijinshiki⟩",
-      "chinese": "（麻美）⟨然后是第四次成人礼⟩",
+      "japanese": "(麻美) そして４度目の成人式",
+      "romaji": "(Asami) Soshite yon-dome no seijinshiki",
+      "chinese": "（麻美）然后是第四次成人礼",
       "context": "２回目の東京１人暮らし",
       "difficulty": "intermediate"
     },
@@ -1958,9 +1913,9 @@
     {
       "id": 218,
       "episode": 7,
-      "japanese": "⟨まりりんと５年ぶりの再会⟩",
-      "romaji": "⟨Maririn to go-nen buri no saikai⟩",
-      "chinese": "⟨与真里时隔五年的重逢⟩",
+      "japanese": "まりりんと５年ぶりの再会",
+      "romaji": "Maririn to go-nen buri no saikai",
+      "chinese": "与真里时隔五年的重逢",
       "context": "あーちん 昨日の“ﾄﾘﾋﾞｱ”",
       "difficulty": "intermediate"
     },
@@ -2120,9 +2075,9 @@
     {
       "id": 236,
       "episode": 7,
-      "japanese": "⟨来世が 微生物の覚悟はないだろうけど⟩",
-      "romaji": "⟨Raisei ga biseibutsu no kakugo wa nai darou kedo⟩",
-      "chinese": "⟨来世可没微生物那样的觉悟吧⟩",
+      "japanese": "来世が 微生物の覚悟はないだろうけど",
+      "romaji": "Raisei ga biseibutsu no kakugo wa nai darou kedo",
+      "chinese": "来世可没微生物那样的觉悟吧",
       "context": "来世が 微生物の覚悟はないだろ",
       "difficulty": "advanced"
     },
@@ -2168,15 +2123,6 @@
       "japanese": "イェ～イ 後で送るね｡",
       "romaji": "Ye~i, ato de okuru ne.",
       "chinese": "耶～，待会儿发给你哦。",
-      "context": "日常对话",
-      "difficulty": "intermediate"
-    },
-    {
-      "id": 242,
-      "episode": 7,
-      "japanese": "(麻美) うんうん｡",
-      "romaji": "(Asami) Un un.",
-      "chinese": "（麻美）嗯嗯。",
       "context": "日常对话",
       "difficulty": "intermediate"
     },
@@ -2264,8 +2210,8 @@
     {
       "id": 252,
       "episode": 7,
-      "japanese": "(麻美) ⟨今回 初めて まりりんも参加⟩",
-      "romaji": "(Asami) ⟨Konkai hajimete Maririn mo sanka⟩",
+      "japanese": "(麻美) 今回 初めて まりりんも参加",
+      "romaji": "(Asami) Konkai hajimete Maririn mo sanka",
       "chinese": "（麻美）这次是第一次，真里琳也参加了",
       "context": "今回 初めて まりりんも参加",
       "difficulty": "advanced"
@@ -2273,9 +2219,9 @@
     {
       "id": 253,
       "episode": 7,
-      "japanese": "⟨そして恒例のイケテナイ太陽⟩",
-      "romaji": "⟨Soshite koure no Iketenai Taiyou⟩",
-      "chinese": "⟨然后是惯例的“不该有的太阳”⟩",
+      "japanese": "そして恒例のイケテナイ太陽",
+      "romaji": "Soshite koure no Iketenai Taiyou",
+      "chinese": "然后是惯例的“不该有的太阳”",
       "context": "今回 初めて まりりんも参加",
       "difficulty": "intermediate"
     },
@@ -2345,8 +2291,8 @@
     {
       "id": 261,
       "episode": 7,
-      "japanese": "(麻美) ⟨ウレナイ太陽⟩",
-      "romaji": "(Asami) ⟨Urenai Taiyou⟩",
+      "japanese": "(麻美) ウレナイ太陽",
+      "romaji": "(Asami) Urenai Taiyou",
       "chinese": "（麻美）《不畅销的太阳》",
       "context": "ウレナイ太陽",
       "difficulty": "intermediate"
@@ -2399,8 +2345,8 @@
     {
       "id": 267,
       "episode": 7,
-      "japanese": "(麻美) ⟨セツナイ太陽⟩",
-      "romaji": "(Asami) ⟨Setsunai Taiyou⟩",
+      "japanese": "(麻美) セツナイ太陽",
+      "romaji": "(Asami) Setsunai Taiyou",
       "chinese": "（麻美）《伤感的太阳》",
       "context": "ダサい…",
       "difficulty": "intermediate"
@@ -2516,9 +2462,9 @@
     {
       "id": 280,
       "episode": 7,
-      "japanese": "⟨さすが まりりん 冷静⟩",
-      "romaji": "⟨Sasuga Maririn reisei⟩",
-      "chinese": "⟨不愧是冷静的真里琳⟩",
+      "japanese": "さすが まりりん 冷静",
+      "romaji": "Sasuga Maririn reisei",
+      "chinese": "不愧是冷静的真里琳",
       "context": "さすが まりりん 冷静",
       "difficulty": "intermediate"
     },
@@ -2606,9 +2552,9 @@
     {
       "id": 290,
       "episode": 7,
-      "japanese": "⟨まずい これで福ちゃんの気が 変わるようなことがあったらあの子が 生まれなくなるかもしれない⟩",
-      "romaji": "⟨Mazui, kore de Fuku-chan no ki ga kawaru you na koto ga attara ano ko ga umarenakunaru kamo shirenai⟩",
-      "chinese": "⟨糟糕，如果这件事让福酱的心情改变，那个孩子可能就不会出生了⟩",
+      "japanese": "まずい これで福ちゃんの気が 変わるようなことがあったらあの子が 生まれなくなるかもしれない",
+      "romaji": "Mazui, kore de Fuku-chan no ki ga kawaru you na koto ga attara ano ko ga umarenakunaru kamo shirenai",
+      "chinese": "糟糕，如果这件事让福酱的心情改变，那个孩子可能就不会出生了",
       "context": "まずい これで福ちゃんの気が ",
       "difficulty": "advanced"
     },
@@ -2714,7 +2660,7 @@
     {
       "id": 302,
       "episode": 7,
-      "japanese": "⟨危っぶね⟩",
+      "japanese": "危っぶね",
       "romaji": "Abunbu ne",
       "chinese": "好险啊",
       "context": "危っぶね",
@@ -2741,7 +2687,7 @@
     {
       "id": 305,
       "episode": 7,
-      "japanese": "(麻美) ⟨何とか福ちゃんの未来は 変えずに…⟩",
+      "japanese": "(麻美) 何とか福ちゃんの未来は 変えずに…",
       "romaji": "(Asami) Nantoka Fuku-chan no mirai wa kaezuni…",
       "chinese": "（麻美）总之要不改变福酱的未来…",
       "context": "危っぶね",
@@ -2755,15 +2701,6 @@
       "chinese": "（福田）那我来接受吧。",
       "context": "何とか福ちゃんの未来は 変えず",
       "difficulty": "intermediate"
-    },
-    {
-      "id": 307,
-      "episode": 7,
-      "japanese": "(静香) うん｡",
-      "romaji": "(Shizuka) Un.",
-      "chinese": "（静香）嗯。",
-      "context": "何とか福ちゃんの未来は 変えず",
-      "difficulty": "beginner"
     },
     {
       "id": 308,
@@ -2804,7 +2741,7 @@
     {
       "id": 312,
       "episode": 7,
-      "japanese": "(麻美) ⟨一瞬 イラっとしたけど これはこれで必要な工程⟩",
+      "japanese": "(麻美) 一瞬 イラっとしたけど これはこれで必要な工程",
       "romaji": "(Asami) Isshun iratto shita kedo, kore wa kore de hitsuyou na koutei.",
       "chinese": "（麻美）虽然一瞬间有点生气，但这是必要的流程。",
       "context": "一瞬 イラっとしたけど これは",
@@ -2831,7 +2768,7 @@
     {
       "id": 315,
       "episode": 7,
-      "japanese": "(麻美) ⟨久しぶりのこの並び⟩",
+      "japanese": "(麻美) 久しぶりのこの並び",
       "romaji": "(Asami) Hisashiburi no kono narabi",
       "chinese": "（麻美）好久不见的这排队形",
       "context": "一瞬 イラっとしたけど これは",
@@ -2845,15 +2782,6 @@
       "chinese": "（夏希）麻美，从中学以来吧？",
       "context": "久しぶりのこの並び",
       "difficulty": "advanced"
-    },
-    {
-      "id": 317,
-      "episode": 7,
-      "japanese": "(美穂) うんうん｡",
-      "romaji": "(Miho) Un un.",
-      "chinese": "（美穂）嗯嗯。",
-      "context": "久しぶりのこの並び",
-      "difficulty": "intermediate"
     },
     {
       "id": 318,
@@ -2912,7 +2840,7 @@
     {
       "id": 324,
       "episode": 7,
-      "japanese": "(麻美) ⟨関係性は変わっちゃったけど⟩",
+      "japanese": "(麻美) 関係性は変わっちゃったけど",
       "romaji": "(Asami) Kankeisei wa kawacchatta kedo",
       "chinese": "（麻美）关系虽然变了，但…",
       "context": "関係性は変わっちゃったけど",
@@ -3011,8 +2939,8 @@
     {
       "id": 335,
       "episode": 7,
-      "japanese": "(麻美) そんなことないよ～｡ ⟨生きてる回数が違うだけ⟩",
-      "romaji": "(Asami) Sonna koto nai yo~. ⟨Ikiteru kaisuu ga chigau dake⟩",
+      "japanese": "(麻美) そんなことないよ～｡ 生きてる回数が違うだけ",
+      "romaji": "(Asami) Sonna koto nai yo~. Ikiteru kaisuu ga chigau dake",
       "chinese": "（麻美）才没有那回事～。只是经历次数不同而已。",
       "context": "生きてる回数が違うだけ",
       "difficulty": "advanced"
@@ -3065,7 +2993,7 @@
     {
       "id": 341,
       "episode": 7,
-      "japanese": "⟨２周目どころか ４周目だけどね⟩",
+      "japanese": "２周目どころか ４周目だけどね",
       "romaji": "2 shuu me dokoro ka, 4 shuu me da kedo ne",
       "chinese": "不仅是第二轮，其实是第四轮呢。",
       "context": "２周目どころか ４周目だけどね",
@@ -3110,8 +3038,8 @@
     {
       "id": 346,
       "episode": 7,
-      "japanese": "(麻美) ⟨せっかく話せたのに こうやって持ち上げられると何だか寂しく…⟩",
-      "romaji": "(Asami) ⟨Sekkaku hanaseta no ni kou yatte mochiagerareru to nandaka sabishiku…⟩",
+      "japanese": "(麻美) せっかく話せたのに こうやって持ち上げられると何だか寂しく…",
+      "romaji": "(Asami) Sekkaku hanaseta no ni kou yatte mochiagerareru to nandaka sabishiku…",
       "chinese": "（麻美）明明好不容易聊上天，却被抬得这么高，总觉得有点寂寞…",
       "context": "せっかく話せたのに こうやって",
       "difficulty": "advanced"
@@ -3119,7 +3047,7 @@
     {
       "id": 347,
       "episode": 7,
-      "japanese": "⟨ってか うるせぇな あいつ！⟩",
+      "japanese": "ってか うるせぇな あいつ！",
       "romaji": "Tte ka, urusee na, aitsu!",
       "chinese": "真是的，那家伙好吵！",
       "context": "せっかく話せたのに こうやって",
@@ -3146,8 +3074,8 @@
     {
       "id": 350,
       "episode": 7,
-      "japanese": "(麻美) ⟨刺さってる…⟩",
-      "romaji": "(Asami) ⟨Sasatteru…⟩",
+      "japanese": "(麻美) 刺さってる…",
+      "romaji": "(Asami) Sasatteru…",
       "chinese": "（麻美）刺中了…",
       "context": "ってか うるせぇな あいつ！",
       "difficulty": "intermediate"
@@ -3164,8 +3092,8 @@
     {
       "id": 352,
       "episode": 7,
-      "japanese": "(麻美) ⟨大学卒業後 医師免許を取得した私は(ｲﾔﾎﾝ)♪～ ２年間の臨床研究を受けた後 大学院に進学し(ｲﾔﾎﾝ)♪～ 研究医を目指した⟩",
-      "romaji": "(Asami) ⟨Daigaku sotsugyōgo ishi menkyo o shutoku shita watashi wa (Iya hon) ♪~ 2 nenkan no rinshō kenkyū o uketa ato daigakuin ni shingaku shi (Iya hon) ♪~ kenkyūi o mezashita⟩",
+      "japanese": "(麻美) 大学卒業後 医師免許を取得した私は(ｲﾔﾎﾝ)♪～ ２年間の臨床研究を受けた後 大学院に進学し(ｲﾔﾎﾝ)♪～ 研究医を目指した",
+      "romaji": "(Asami) Daigaku sotsugyōgo ishi menkyo o shutoku shita watashi wa (Iya hon) ♪~ 2 nenkan no rinshō kenkyū o uketa ato daigakuin ni shingaku shi (Iya hon) ♪~ kenkyūi o mezashita",
       "chinese": "（麻美）大学毕业后取得了医生执照，我（耳机）♪～经过两年的临床研究后进入研究生院（耳机）♪～立志成为研究医生",
       "context": "刺さってる…",
       "difficulty": "advanced"
@@ -3173,8 +3101,8 @@
     {
       "id": 353,
       "episode": 7,
-      "japanese": "⟨研究医の魅力は世の中でまだ知られていない 現象を解明できる可能性があること⟩",
-      "romaji": "⟨Kenkyūi no miryoku wa yo no naka de mada shirarete inai genshō o kaimei dekiru kanōsei ga aru koto⟩",
+      "japanese": "研究医の魅力は世の中でまだ知られていない 現象を解明できる可能性があること",
+      "romaji": "Kenkyūi no miryoku wa yo no naka de mada shirarete inai genshō o kaimei dekiru kanōsei ga aru koto",
       "chinese": "研究医生的魅力在于有可能揭示世上尚未被人了解的现象",
       "context": "大学卒業後 医師免許を取得した",
       "difficulty": "advanced"
@@ -3182,8 +3110,8 @@
     {
       "id": 354,
       "episode": 7,
-      "japanese": "⟨そんなことができれば 将来の医学に貢献できるし多くの命だって 救えるかもしれない⟩",
-      "romaji": "⟨Sonna koto ga dekireba shōrai no igaku ni kōken dekiru shi ōku no inochi datte sukueru kamoshirenai⟩",
+      "japanese": "そんなことができれば 将来の医学に貢献できるし多くの命だって 救えるかもしれない",
+      "romaji": "Sonna koto ga dekireba shōrai no igaku ni kōken dekiru shi ōku no inochi datte sukueru kamoshirenai",
       "chinese": "如果能做到这些，就能为未来的医学做出贡献，也可能挽救许多生命",
       "context": "大学卒業後 医師免許を取得した",
       "difficulty": "advanced"
@@ -3191,8 +3119,8 @@
     {
       "id": 355,
       "episode": 7,
-      "japanese": "⟨つまり…⟩",
-      "romaji": "⟨Tsumari…⟩",
+      "japanese": "つまり…",
+      "romaji": "Tsumari…",
       "chinese": "也就是说…",
       "context": "大学卒業後 医師免許を取得した",
       "difficulty": "beginner"
@@ -3218,8 +3146,8 @@
     {
       "id": 358,
       "episode": 7,
-      "japanese": "⟨人間も夢じゃ ない⟩",
-      "romaji": "⟨Ningen mo yume ja nai⟩",
+      "japanese": "人間も夢じゃ ない",
+      "romaji": "Ningen mo yume ja nai",
       "chinese": "成为人类也不是梦",
       "context": "つまり…",
       "difficulty": "intermediate"
@@ -3227,8 +3155,8 @@
     {
       "id": 359,
       "episode": 7,
-      "japanese": "⟨もちろん定期ミッションも 忘れてはいない⟩",
-      "romaji": "⟨Mochiron teiki misshon mo wasurete wa inai⟩",
+      "japanese": "もちろん定期ミッションも 忘れてはいない",
+      "romaji": "Mochiron teiki misshon mo wasurete wa inai",
       "chinese": "当然定期任务也没有忘记",
       "context": "おめでとうございます 人間です",
       "difficulty": "advanced"
@@ -3236,8 +3164,8 @@
     {
       "id": 360,
       "episode": 7,
-      "japanese": "⟨玲奈パパの件に続く定期ミッションその２ ミタコングの救出⟩",
-      "romaji": "⟨Reina papa no ken ni tsuzuku teiki misshon sono 2 Mitakongu no kyūshutsu⟩",
+      "japanese": "玲奈パパの件に続く定期ミッションその２ ミタコングの救出",
+      "romaji": "Reina papa no ken ni tsuzuku teiki misshon sono 2 Mitakongu no kyūshutsu",
       "chinese": "接着玲奈爸爸的事情，定期任务2：拯救米塔康",
       "context": "ありがとうございます",
       "difficulty": "advanced"
@@ -3245,8 +3173,8 @@
     {
       "id": 361,
       "episode": 7,
-      "japanese": "⟨それにしても 徳のためとはいえまた２人で電車に乗って苦労話を 聞かなきゃいけないのは正直だる…⟩",
-      "romaji": "⟨Sore ni shite mo toku no tame to wa ie mata futari de densha ni notte kurōbanashi o kikanakya ikenai no wa shōjiki daru…⟩",
+      "japanese": "それにしても 徳のためとはいえまた２人で電車に乗って苦労話を 聞かなきゃいけないのは正直だる…",
+      "romaji": "Sore ni shite mo toku no tame to wa ie mata futari de densha ni notte kurōbanashi o kikanakya ikenai no wa shōjiki daru…",
       "chinese": "即便是为了德行，又必须两人一起坐电车听辛苦的经历，说实话挺累的…",
       "context": "人間も夢じゃ ない",
       "difficulty": "advanced"
@@ -3290,8 +3218,8 @@
     {
       "id": 366,
       "episode": 7,
-      "japanese": "⟨これもあったのは忘れてた⟩",
-      "romaji": "⟨Kore mo atta no wa wasuretetā⟩",
+      "japanese": "これもあったのは忘れてた",
+      "romaji": "Kore mo atta no wa wasuretetā",
       "chinese": "我也忘了还有这个。",
       "context": "これもあったのは忘れてた",
       "difficulty": "intermediate"
@@ -3407,8 +3335,8 @@
     {
       "id": 379,
       "episode": 7,
-      "japanese": "(麻美) ⟨こればっかりは 何も言ってあげられない⟩",
-      "romaji": "(Asami) ⟨Kore bakkari wa nanimo itte agerarenai⟩",
+      "japanese": "(麻美) こればっかりは 何も言ってあげられない",
+      "romaji": "(Asami) Kore bakkari wa nanimo itte agerarenai",
       "chinese": "（麻美）这件事我真说不了什么。",
       "context": "こればっかりは 何も言ってあげ",
       "difficulty": "advanced"
@@ -3434,8 +3362,8 @@
     {
       "id": 382,
       "episode": 7,
-      "japanese": "(麻美) ⟨もう少し聞いてあげたいけど今からミタコング 助けなきゃ いけないから そろそろ…⟩",
-      "romaji": "(Asami) ⟨Mō sukoshi kiite agetai kedo ima kara Mitakongu tasukenakya ikenai kara sorosoro…⟩",
+      "japanese": "(麻美) もう少し聞いてあげたいけど今からミタコング 助けなきゃ いけないから そろそろ…",
+      "romaji": "(Asami) Mō sukoshi kiite agetai kedo ima kara Mitakongu tasukenakya ikenai kara sorosoro…",
       "chinese": "（麻美）我本想多听她说点，但现在得去救米塔康了，差不多该出发…",
       "context": "こればっかりは 何も言ってあげ",
       "difficulty": "advanced"
@@ -3443,8 +3371,8 @@
     {
       "id": 383,
       "episode": 7,
-      "japanese": "⟨ん？ そうだ⟩",
-      "romaji": "⟨N? Sō da⟩",
+      "japanese": "ん？ そうだ",
+      "romaji": "N? Sō da",
       "chinese": "嗯？对了。",
       "context": "もう少し聞いてあげたいけど今か",
       "difficulty": "beginner"
@@ -3488,8 +3416,8 @@
     {
       "id": 388,
       "episode": 7,
-      "japanese": "(麻美) ⟨ここはあえて引っ張る⟩",
-      "romaji": "(Asami) ⟨Koko wa aete hipparu⟩",
+      "japanese": "(麻美) ここはあえて引っ張る",
+      "romaji": "(Asami) Koko wa aete hipparu",
       "chinese": "（麻美）这里就故意拖一下",
       "context": "ここはあえて引っ張る",
       "difficulty": "intermediate"
@@ -3560,8 +3488,8 @@
     {
       "id": 396,
       "episode": 7,
-      "japanese": "⟨来た！⟩",
-      "romaji": "⟨Kita!⟩",
+      "japanese": "来た！",
+      "romaji": "Kita!",
       "chinese": "来了！",
       "context": "来た！",
       "difficulty": "beginner"
@@ -3659,27 +3587,27 @@
     {
       "id": 407,
       "episode": 7,
-      "japanese": "(麻美) ⟨現在 ９時５分⟩",
-      "romaji": "(Asami) ⟨Genzai 9-ji 5-fun⟩",
-      "chinese": "（麻美）⟨现在 9点05分⟩",
+      "japanese": "(麻美) 現在 ９時５分",
+      "romaji": "(Asami) Genzai 9-ji 5-fun",
+      "chinese": "（麻美）现在 9点05分",
       "context": "現在 ９時５分",
       "difficulty": "intermediate"
     },
     {
       "id": 408,
       "episode": 7,
-      "japanese": "⟨例の電車が ９時17分⟩",
-      "romaji": "⟨Rei no densha ga 9-ji 17-fun⟩",
-      "chinese": "⟨那班电车是9点17分⟩",
+      "japanese": "例の電車が ９時17分",
+      "romaji": "Rei no densha ga 9-ji 17-fun",
+      "chinese": "那班电车是9点17分",
       "context": "現在 ９時５分",
       "difficulty": "intermediate"
     },
     {
       "id": 409,
       "episode": 7,
-      "japanese": "⟨しーちゃん ごめん ちょっと協力して⟩",
-      "romaji": "⟨Shī-chan, gomen, chotto kyōryoku shite⟩",
-      "chinese": "⟨小静，对不起，请帮我一下⟩",
+      "japanese": "しーちゃん ごめん ちょっと協力して",
+      "romaji": "Shī-chan, gomen, chotto kyōryoku shite",
+      "chinese": "小静，对不起，请帮我一下",
       "context": "現在 ９時５分",
       "difficulty": "advanced"
     },
@@ -3920,9 +3848,9 @@
     {
       "id": 436,
       "episode": 7,
-      "japanese": "(麻美) ⟨これは断りづらいはず⟩",
-      "romaji": "(Asami) ⟨Kore wa kotowarizurai hazu⟩",
-      "chinese": "（麻美）⟨这应该很难拒绝⟩",
+      "japanese": "(麻美) これは断りづらいはず",
+      "romaji": "(Asami) Kore wa kotowarizurai hazu",
+      "chinese": "（麻美）这应该很难拒绝",
       "context": "これは断りづらいはず",
       "difficulty": "intermediate"
     },
@@ -3947,27 +3875,27 @@
     {
       "id": 439,
       "episode": 7,
-      "japanese": "(麻美) ⟨よし⟩",
-      "romaji": "(Asami) ⟨Yoshi⟩",
-      "chinese": "（麻美）⟨好⟩",
+      "japanese": "(麻美) よし",
+      "romaji": "(Asami) Yoshi",
+      "chinese": "（麻美）好",
       "context": "これは断りづらいはず",
       "difficulty": "beginner"
     },
     {
       "id": 440,
       "episode": 7,
-      "japanese": "⟨ガストに来ちゃえば こっちのもの⟩",
-      "romaji": "⟨Gasuto ni kichāba kocchi no mono⟩",
-      "chinese": "⟨来Gusto就掌握主动权了⟩",
+      "japanese": "ガストに来ちゃえば こっちのもの",
+      "romaji": "Gasuto ni kichāba kocchi no mono",
+      "chinese": "来Gusto就掌握主动权了",
       "context": "よし",
       "difficulty": "intermediate"
     },
     {
       "id": 441,
       "episode": 7,
-      "japanese": "⟨あとは10分ほど ここでしゃべればﾐｯｼｮﾝｸﾘｱ⟩",
-      "romaji": "⟨Ato wa jūppun hodo koko de shabereba misshon kuria⟩",
-      "chinese": "⟨接下来在这里聊上10分钟左右就完成任务⟩",
+      "japanese": "あとは10分ほど ここでしゃべればﾐｯｼｮﾝｸﾘｱ",
+      "romaji": "Ato wa jūppun hodo koko de shabereba misshon kuria",
+      "chinese": "接下来在这里聊上10分钟左右就完成任务",
       "context": "よし",
       "difficulty": "advanced"
     },
@@ -4001,9 +3929,9 @@
     {
       "id": 445,
       "episode": 7,
-      "japanese": "(麻美) ⟨ん？⟩",
-      "romaji": "(Asami) ⟨N?⟩",
-      "chinese": "（麻美）⟨嗯？⟩",
+      "japanese": "(麻美) ん？",
+      "romaji": "(Asami) N?",
+      "chinese": "（麻美）嗯？",
       "context": "ん？",
       "difficulty": "beginner"
     },
@@ -4046,9 +3974,9 @@
     {
       "id": 450,
       "episode": 7,
-      "japanese": "(麻美) ⟨何だか風向きが…⟩",
-      "romaji": "(Asami) ⟨Nandaka kazamuki ga…⟩",
-      "chinese": "（麻美）⟨好像风向有点变化…⟩",
+      "japanese": "(麻美) 何だか風向きが…",
+      "romaji": "(Asami) Nandaka kazamuki ga…",
+      "chinese": "（麻美）好像风向有点变化…",
       "context": "何だか風向きが…",
       "difficulty": "intermediate"
     },
@@ -4064,8 +3992,8 @@
     {
       "id": 452,
       "episode": 7,
-      "japanese": "(麻美) ⟨ヤバい このまましーちゃんが 踏みとどまってしまうとあの子が生まれなくなる⟩",
-      "romaji": "(Asami) ⟨Yabai kono mama Shī-chan ga fumi todomatte shimau to ano ko ga umarenakunaru⟩",
+      "japanese": "(麻美) ヤバい このまましーちゃんが 踏みとどまってしまうとあの子が生まれなくなる",
+      "romaji": "(Asami) Yabai kono mama Shī-chan ga fumi todomatte shimau to ano ko ga umarenakunaru",
       "chinese": "（麻美）糟了，如果这样下去，希酱退缩的话，那孩子就不会出生了。",
       "context": "何だか風向きが…",
       "difficulty": "advanced"
@@ -4073,8 +4001,8 @@
     {
       "id": 453,
       "episode": 7,
-      "japanese": "⟨もちろん しーちゃんにだって⟩",
-      "romaji": "⟨Mochiron Shī-chan ni datte⟩",
+      "japanese": "もちろん しーちゃんにだって",
+      "romaji": "Mochiron Shī-chan ni datte",
       "chinese": "当然，即便是希酱也有...",
       "context": "何だか風向きが…",
       "difficulty": "intermediate"
@@ -4091,8 +4019,8 @@
     {
       "id": 455,
       "episode": 7,
-      "japanese": "(麻美) ⟨たどり着く幸せがある⟩",
-      "romaji": "(Asami) ⟨Tadoritsuku shiawase ga aru⟩",
+      "japanese": "(麻美) たどり着く幸せがある",
+      "romaji": "(Asami) Tadoritsuku shiawase ga aru",
       "chinese": "（麻美）会有最终到达的幸福。",
       "context": "ヤバい このまましーちゃんが ",
       "difficulty": "intermediate"
@@ -4271,9 +4199,9 @@
     {
       "id": 475,
       "episode": 7,
-      "japanese": "(麻美) ⟨あっ ９時18分 よし ミッションクリア⟩",
-      "romaji": "(Asami) ⟨A 9-ji 18-fun yoshi misshon kuria⟩",
-      "chinese": "（麻美）⟨啊，9点18分，任务完成⟩",
+      "japanese": "(麻美) あっ ９時18分 よし ミッションクリア",
+      "romaji": "(Asami) A 9-ji 18-fun yoshi misshon kuria",
+      "chinese": "（麻美）啊，9点18分，任务完成",
       "context": "あっ ９時18分 よし ミッシ",
       "difficulty": "advanced"
     },
@@ -4496,18 +4424,18 @@
     {
       "id": 500,
       "episode": 7,
-      "japanese": "(麻美) ⟨こうして 半ば強引ではあったけどミタコングを無事救出し ２人の未来も変えずに済んだ⟩",
-      "romaji": "(Asami) ⟨Kōshite nakaba gōin de wa atta kedo Mitakongu o buji kyūshutsu shi futari no mirai mo kaezu ni sunda⟩",
-      "chinese": "（麻美）⟨虽然有些半强行，但成功救出了三田康，也没有改变两人的未来⟩",
+      "japanese": "(麻美) こうして 半ば強引ではあったけどミタコングを無事救出し ２人の未来も変えずに済んだ",
+      "romaji": "(Asami) Kōshite nakaba gōin de wa atta kedo Mitakongu o buji kyūshutsu shi futari no mirai mo kaezu ni sunda",
+      "chinese": "（麻美）虽然有些半强行，但成功救出了三田康，也没有改变两人的未来",
       "context": "こうして 半ば強引ではあったけ",
       "difficulty": "advanced"
     },
     {
       "id": 501,
       "episode": 7,
-      "japanese": "⟨そして もちろん…⟩",
-      "romaji": "⟨Soshite mochiron…⟩",
-      "chinese": "⟨当然…⟩",
+      "japanese": "そして もちろん…",
+      "romaji": "Soshite mochiron…",
+      "chinese": "当然…",
       "context": "こうして 半ば強引ではあったけ",
       "difficulty": "intermediate"
     },
@@ -4559,18 +4487,18 @@
     {
       "id": 507,
       "episode": 7,
-      "japanese": "(麻美) ⟨サイドミッションもクリア⟩",
-      "romaji": "(Asami) ⟨Saidomisshon mo kuria⟩",
-      "chinese": "（麻美）⟨支线任务也完成了⟩",
+      "japanese": "(麻美) サイドミッションもクリア",
+      "romaji": "(Asami) Saidomisshon mo kuria",
+      "chinese": "（麻美）支线任务也完成了",
       "context": "サイドミッションもクリア",
       "difficulty": "intermediate"
     },
     {
       "id": 508,
       "episode": 7,
-      "japanese": "(麻美) ⟨定期ミッションその３⟩",
-      "romaji": "(Asami) ⟨Teiki misshon sono san⟩",
-      "chinese": "（麻美）⟨定期任务第3个⟩",
+      "japanese": "(麻美) 定期ミッションその３",
+      "romaji": "(Asami) Teiki misshon sono san",
+      "chinese": "（麻美）定期任务第3个",
       "context": "サイドミッションもクリア",
       "difficulty": "intermediate"
     },
@@ -4946,9 +4874,9 @@
     {
       "id": 550,
       "episode": 7,
-      "japanese": "⟨今回は 医学部を卒業しているので簡単に信用してもらえた⟩",
-      "romaji": "⟨Konkai wa igakubu o sotsugyō shite iru node kantan ni shinyō shite moraeta⟩",
-      "chinese": "⟨这次因为已经毕业于医学院，所以很容易得到了信任⟩",
+      "japanese": "今回は 医学部を卒業しているので簡単に信用してもらえた",
+      "romaji": "Konkai wa igakubu o sotsugyō shite iru node kantan ni shinyō shite moraeta",
+      "chinese": "这次因为已经毕业于医学院，所以很容易得到了信任",
       "context": "今回は 医学部を卒業しているの",
       "difficulty": "advanced"
     },
@@ -5018,27 +4946,27 @@
     {
       "id": 558,
       "episode": 7,
-      "japanese": "(麻美) ⟨こうして今回も無事…⟩",
-      "romaji": "(Asami) ⟨Koushite konkai mo buji…⟩",
-      "chinese": "（麻美）⟨这样这次也顺利…⟩",
+      "japanese": "(麻美) こうして今回も無事…",
+      "romaji": "(Asami) Koushite konkai mo buji…",
+      "chinese": "（麻美）这样这次也顺利…",
       "context": "こうして今回も無事…",
       "difficulty": "intermediate"
     },
     {
       "id": 559,
       "episode": 7,
-      "japanese": "(麻美) ⟨ミッションクリア⟩",
-      "romaji": "(Asami) ⟨Misshon kuria⟩",
-      "chinese": "（麻美）⟨任务完成⟩",
+      "japanese": "(麻美) ミッションクリア",
+      "romaji": "(Asami) Misshon kuria",
+      "chinese": "（麻美）任务完成",
       "context": "こうして今回も無事…",
       "difficulty": "intermediate"
     },
     {
       "id": 560,
       "episode": 7,
-      "japanese": "⟨定期ミッションその４⟩",
-      "romaji": "⟨Teiki misshon sono 4⟩",
-      "chinese": "⟨定期任务第四项⟩",
+      "japanese": "定期ミッションその４",
+      "romaji": "Teiki misshon sono 4",
+      "chinese": "定期任务第四项",
       "context": "こうして今回も無事…",
       "difficulty": "intermediate"
     },
@@ -5063,36 +4991,36 @@
     {
       "id": 563,
       "episode": 7,
-      "japanese": "⟨今回は 玲奈ちゃんの来る時間が 分かっていたので午前中から張り込まずに済んだ⟩",
-      "romaji": "⟨Konkai wa Reina-chan no kuru jikan ga wakatte ita node gozenchuu kara harikomuzu ni sunda⟩",
-      "chinese": "⟨这次因为知道玲奈的来访时间，所以不用从早上就守候⟩",
+      "japanese": "今回は 玲奈ちゃんの来る時間が 分かっていたので午前中から張り込まずに済んだ",
+      "romaji": "Konkai wa Reina-chan no kuru jikan ga wakatte ita node gozenchuu kara harikomuzu ni sunda",
+      "chinese": "这次因为知道玲奈的来访时间，所以不用从早上就守候",
       "context": "定期ミッションその４",
       "difficulty": "advanced"
     },
     {
       "id": 564,
       "episode": 7,
-      "japanese": "⟨それなのに連絡先の交換を許してしまった⟩",
-      "romaji": "⟨Sore nanoni renrakusaki no kōkan o yurushite shimatta⟩",
-      "chinese": "⟨但是还是允许交换了联系方式⟩",
+      "japanese": "それなのに連絡先の交換を許してしまった",
+      "romaji": "Sore nanoni renrakusaki no kōkan o yurushite shimatta",
+      "chinese": "但是还是允许交换了联系方式",
       "context": "今回は 玲奈ちゃんの来る時間が",
       "difficulty": "advanced"
     },
     {
       "id": 565,
       "episode": 7,
-      "japanese": "⟨となると 早起きして これもやんなきゃいけない⟩",
-      "romaji": "⟨To naru to hayaoki shite kore mo yannakya ikenai⟩",
-      "chinese": "⟨这样一来，我也得早起做这件事⟩",
+      "japanese": "となると 早起きして これもやんなきゃいけない",
+      "romaji": "To naru to hayaoki shite kore mo yannakya ikenai",
+      "chinese": "这样一来，我也得早起做这件事",
       "context": "今回は 玲奈ちゃんの来る時間が",
       "difficulty": "advanced"
     },
     {
       "id": 566,
       "episode": 7,
-      "japanese": "⟨あ～ マジでだるい 全部 あいつのせい⟩",
-      "romaji": "⟨Ā~ maji de darui zenbu aitsu no sei⟩",
-      "chinese": "⟨啊～真麻烦，全都是那家伙的错⟩",
+      "japanese": "あ～ マジでだるい 全部 あいつのせい",
+      "romaji": "Ā~ maji de darui zenbu aitsu no sei",
+      "chinese": "啊～真麻烦，全都是那家伙的错",
       "context": "今回は 玲奈ちゃんの来る時間が",
       "difficulty": "advanced"
     },
@@ -5225,9 +5153,9 @@
     {
       "id": 581,
       "episode": 7,
-      "japanese": "⟨だいぶ 八つ当たり気味だったけど⟩",
-      "romaji": "⟨Daibu yatsu atari gimi datta kedo⟩",
-      "chinese": "⟨虽然有点迁怒别人⟩",
+      "japanese": "だいぶ 八つ当たり気味だったけど",
+      "romaji": "Daibu yatsu atari gimi datta kedo",
+      "chinese": "虽然有点迁怒别人",
       "context": "ミッションクリア",
       "difficulty": "intermediate"
     },
@@ -5243,27 +5171,27 @@
     {
       "id": 583,
       "episode": 7,
-      "japanese": "(麻美) ⟨大学院卒業後 30歳で私は 晴れて研究員になった⟩",
-      "romaji": "(Asami) ⟨Daigakuin sotsugyou go 30-sai de watashi wa harete kenkyuuin ni natta⟩",
-      "chinese": "（麻美）⟨研究生毕业后，我在30岁正式成为了研究员⟩",
+      "japanese": "(麻美) 大学院卒業後 30歳で私は 晴れて研究員になった",
+      "romaji": "(Asami) Daigakuin sotsugyou go 30-sai de watashi wa harete kenkyuuin ni natta",
+      "chinese": "（麻美）研究生毕业后，我在30岁正式成为了研究员",
       "context": "ミッションクリア",
       "difficulty": "advanced"
     },
     {
       "id": 584,
       "episode": 7,
-      "japanese": "(ｲﾔﾎﾝ)♪～ ⟨朝 ８時30分 出勤⟩",
-      "romaji": "(Iyahon) ♪～ ⟨Asa 8-ji 30-fun shukkin⟩",
-      "chinese": "（耳机）♪～ ⟨早上8点30分上班⟩",
+      "japanese": "(ｲﾔﾎﾝ)♪～ 朝 ８時30分 出勤",
+      "romaji": "(Iyahon) ♪～ Asa 8-ji 30-fun shukkin",
+      "chinese": "（耳机）♪～ 早上8点30分上班",
       "context": "だいぶ 八つ当たり気味だったけ",
       "difficulty": "advanced"
     },
     {
       "id": 585,
       "episode": 7,
-      "japanese": "(ｲﾔﾎﾝ)♪～ ⟨といっても 特に時間が 決まっているわけではなく(ｲﾔﾎﾝ)♪～ 出勤時間は 人によって まちまち⟩",
-      "romaji": "(Iyahon) ♪～ ⟨To itte mo tokuni jikan ga kimatte iru wake de wa naku (Iyahon) ♪～ shukkin jikan wa hito ni yotte machimachi⟩",
-      "chinese": "（耳机）♪～ ⟨不过也没固定时间，上班时间因人而异⟩",
+      "japanese": "(ｲﾔﾎﾝ)♪～ といっても 特に時間が 決まっているわけではなく(ｲﾔﾎﾝ)♪～ 出勤時間は 人によって まちまち",
+      "romaji": "(Iyahon) ♪～ To itte mo tokuni jikan ga kimatte iru wake de wa naku (Iyahon) ♪～ shukkin jikan wa hito ni yotte machimachi",
+      "chinese": "（耳机）♪～ 不过也没固定时间，上班时间因人而异",
       "context": "大学院卒業後 30歳で私は 晴",
       "difficulty": "advanced"
     },
@@ -5279,54 +5207,54 @@
     {
       "id": 587,
       "episode": 7,
-      "japanese": "⟨ラボでの服装は 基本的に自由⟩",
-      "romaji": "⟨Rabo de no fukusou wa kihonteki ni jiyuu⟩",
-      "chinese": "⟨实验室的着装基本自由⟩",
+      "japanese": "ラボでの服装は 基本的に自由",
+      "romaji": "Rabo de no fukusou wa kihonteki ni jiyuu",
+      "chinese": "实验室的着装基本自由",
       "context": "朝 ８時30分 出勤",
       "difficulty": "intermediate"
     },
     {
       "id": 588,
       "episode": 7,
-      "japanese": "⟨どうでもいいけど クロックス率が高い⟩",
-      "romaji": "⟨Doudemo ii kedo Kurokkusu-ritsu ga takai⟩",
-      "chinese": "⟨不管怎样，穿Crocs的人很多⟩",
+      "japanese": "どうでもいいけど クロックス率が高い",
+      "romaji": "Doudemo ii kedo Kurokkusu-ritsu ga takai",
+      "chinese": "不管怎样，穿Crocs的人很多",
       "context": "といっても 特に時間が 決まっ",
       "difficulty": "advanced"
     },
     {
       "id": 589,
       "episode": 7,
-      "japanese": "(麻美) ⟨ここではみんな一日中 それぞれの実験をしている⟩",
-      "romaji": "(Asami) ⟨Koko de wa minna ichinichijuu sorezore no jikken o shite iru⟩",
-      "chinese": "（麻美）⟨在这里大家一整天都在进行各自的实验⟩",
+      "japanese": "(麻美) ここではみんな一日中 それぞれの実験をしている",
+      "romaji": "(Asami) Koko de wa minna ichinichijuu sorezore no jikken o shite iru",
+      "chinese": "（麻美）在这里大家一整天都在进行各自的实验",
       "context": "ラボでの服装は 基本的に自由",
       "difficulty": "advanced"
     },
     {
       "id": 590,
       "episode": 7,
-      "japanese": "(麻美) ⟨といっても 実験はうまく いかないケースがほとんどで毎日 試行錯誤を繰り返しながら少しずつ形にしていくしかない⟩",
-      "romaji": "(Asami) ⟨To itte mo jikken wa umaku ikanai kēsu ga hotondo de mainichi shikou sakugo o kurikaeshi nagara sukoshi zutsu katachi ni shite iku shika nai⟩",
-      "chinese": "（麻美）⟨不过实验大多不顺利，每天只能反复试验，慢慢成形⟩",
+      "japanese": "(麻美) といっても 実験はうまく いかないケースがほとんどで毎日 試行錯誤を繰り返しながら少しずつ形にしていくしかない",
+      "romaji": "(Asami) To itte mo jikken wa umaku ikanai kēsu ga hotondo de mainichi shikou sakugo o kurikaeshi nagara sukoshi zutsu katachi ni shite iku shika nai",
+      "chinese": "（麻美）不过实验大多不顺利，每天只能反复试验，慢慢成形",
       "context": "ラボでの服装は 基本的に自由",
       "difficulty": "advanced"
     },
     {
       "id": 591,
       "episode": 7,
-      "japanese": "⟨この気の遠くなるような作業が 肌に合わず精神的に 参ってしまう人もいるらしい⟩",
-      "romaji": "⟨Kono ki no tooku naru you na sagyou ga hada ni awazu seishinteki ni maitte shimau hito mo iru rashii⟩",
-      "chinese": "⟨据说有些人无法适应这种枯燥工作，会精神崩溃⟩",
+      "japanese": "この気の遠くなるような作業が 肌に合わず精神的に 参ってしまう人もいるらしい",
+      "romaji": "Kono ki no tooku naru you na sagyou ga hada ni awazu seishinteki ni maitte shimau hito mo iru rashii",
+      "chinese": "据说有些人无法适应这种枯燥工作，会精神崩溃",
       "context": "どうでもいいけど クロックス率",
       "difficulty": "advanced"
     },
     {
       "id": 592,
       "episode": 7,
-      "japanese": "⟨ただ 私はこれまで…⟩",
-      "romaji": "⟨Tada watashi wa kore made…⟩",
-      "chinese": "⟨不过到目前为止我…⟩",
+      "japanese": "ただ 私はこれまで…",
+      "romaji": "Tada watashi wa kore made…",
+      "chinese": "不过到目前为止我…",
       "context": "ここではみんな一日中 それぞれ",
       "difficulty": "intermediate"
     },
@@ -5342,45 +5270,45 @@
     {
       "id": 594,
       "episode": 7,
-      "japanese": "(麻美) ⟨厳しいクレームやささいなミスも許されない プレッシャー⟩",
-      "romaji": "(Asami) ⟨Kibishii kureemu ya sasaina misu mo yurusarenai puresshā⟩",
-      "chinese": "（麻美）⟨严苛的投诉和小错误也不能被原谅的压力⟩",
+      "japanese": "(麻美) 厳しいクレームやささいなミスも許されない プレッシャー",
+      "romaji": "(Asami) Kibishii kureemu ya sasaina misu mo yurusarenai puresshā",
+      "chinese": "（麻美）严苛的投诉和小错误也不能被原谅的压力",
       "context": "この気の遠くなるような作業が ",
       "difficulty": "advanced"
     },
     {
       "id": 595,
       "episode": 7,
-      "japanese": "⟨高難易度のパズル⟩",
-      "romaji": "⟨Kou nannido no pazuru⟩",
-      "chinese": "⟨高难度的拼图⟩",
+      "japanese": "高難易度のパズル",
+      "romaji": "Kou nannido no pazuru",
+      "chinese": "高难度的拼图",
       "context": "ただ 私はこれまで…",
       "difficulty": "intermediate"
     },
     {
       "id": 596,
       "episode": 7,
-      "japanese": "⟨さらには 死まで経験しているので割と平気⟩",
-      "romaji": "⟨Sara ni wa shi made keiken shite iru node warito heiki⟩",
-      "chinese": "⟨甚至经历过死亡，所以相对没问题⟩",
+      "japanese": "さらには 死まで経験しているので割と平気",
+      "romaji": "Sara ni wa shi made keiken shite iru node warito heiki",
+      "chinese": "甚至经历过死亡，所以相对没问题",
       "context": "何とかならないの？",
       "difficulty": "advanced"
     },
     {
       "id": 597,
       "episode": 7,
-      "japanese": "⟨ちなみにラボには 共用の顕微鏡があって私もよく使うのだけど この時前の人が自分の見やすい設定に したままにしていることがあって その場合いちいち ピントや光量を 直さなければいけないのでそれは毎回イラっとする⟩",
-      "romaji": "⟨Chinami ni rabo ni wa kyōyō no kenbikyou ga atte watashi mo yoku tsukau no dakedo kono toki mae no hito ga jibun no miyasui settei ni shita mama ni shite iru koto ga atte, sono baai ichi ichi pinto ya kōryou o naosanakereba ikenai node sore wa maikai ira tto suru⟩",
-      "chinese": "⟨顺便说一下，实验室有共用显微镜，我也常用，但前一个人常把显微镜调成自己习惯的设置，这种情况下每次都得调焦和光量，很烦⟩",
+      "japanese": "ちなみにラボには 共用の顕微鏡があって私もよく使うのだけど この時前の人が自分の見やすい設定に したままにしていることがあって その場合いちいち ピントや光量を 直さなければいけないのでそれは毎回イラっとする",
+      "romaji": "Chinami ni rabo ni wa kyōyō no kenbikyou ga atte watashi mo yoku tsukau no dakedo kono toki mae no hito ga jibun no miyasui settei ni shita mama ni shite iru koto ga atte, sono baai ichi ichi pinto ya kōryou o naosanakereba ikenai node sore wa maikai ira tto suru",
+      "chinese": "顺便说一下，实验室有共用显微镜，我也常用，但前一个人常把显微镜调成自己习惯的设置，这种情况下每次都得调焦和光量，很烦",
       "context": "厳しいクレームやささいなミスも",
       "difficulty": "advanced"
     },
     {
       "id": 598,
       "episode": 7,
-      "japanese": "⟨13時 昼食は学食で先輩の 多江さんと食べることが多い⟩",
-      "romaji": "⟨13-ji chuushoku wa gakushoku de senpai no Tae-san to taberu koto ga ooi⟩",
-      "chinese": "⟨13点午餐常在学食和前辈多江一起吃⟩",
+      "japanese": "13時 昼食は学食で先輩の 多江さんと食べることが多い",
+      "romaji": "13-ji chuushoku wa gakushoku de senpai no Tae-san to taberu koto ga ooi",
+      "chinese": "13点午餐常在学食和前辈多江一起吃",
       "context": "高難易度のパズル",
       "difficulty": "advanced"
     },
@@ -5576,72 +5504,72 @@
     {
       "id": 620,
       "episode": 7,
-      "japanese": "⟨誰も顕微鏡を使わないけど⟩",
-      "romaji": "⟨Dare mo kenbikyou o tsukawanai kedo⟩",
-      "chinese": "⟨虽然没人用显微镜⟩",
+      "japanese": "誰も顕微鏡を使わないけど",
+      "romaji": "Dare mo kenbikyou o tsukawanai kedo",
+      "chinese": "虽然没人用显微镜",
       "context": "誰も顕微鏡を使わないけど",
       "difficulty": "intermediate"
     },
     {
       "id": 621,
       "episode": 7,
-      "japanese": "⟨昼食が済むと また実験の続き⟩",
-      "romaji": "⟨Chuushoku ga sumu to mata jikken no tsuzuki⟩",
-      "chinese": "⟨午餐结束后，继续实验⟩",
+      "japanese": "昼食が済むと また実験の続き",
+      "romaji": "Chuushoku ga sumu to mata jikken no tsuzuki",
+      "chinese": "午餐结束后，继续实验",
       "context": "誰も顕微鏡を使わないけど",
       "difficulty": "intermediate"
     },
     {
       "id": 622,
       "episode": 7,
-      "japanese": "⟨ちなみに一日の就業時間は 特に決まっていなくて18時に帰る人もいれば24時過ぎまで やっている人もいる⟩",
-      "romaji": "⟨Chinami ni ichinichi no shuugyou jikan wa toku ni kimatte inakute 18-ji ni kaeru hito mo ireba 24-ji sugi made yatte iru hito mo iru⟩",
-      "chinese": "⟨顺便说一下，一天的工作时间没有特别规定，有人18点就回家，也有人做到24点多⟩",
+      "japanese": "ちなみに一日の就業時間は 特に決まっていなくて18時に帰る人もいれば24時過ぎまで やっている人もいる",
+      "romaji": "Chinami ni ichinichi no shuugyou jikan wa toku ni kimatte inakute 18-ji ni kaeru hito mo ireba 24-ji sugi made yatte iru hito mo iru",
+      "chinese": "顺便说一下，一天的工作时间没有特别规定，有人18点就回家，也有人做到24点多",
       "context": "誰も顕微鏡を使わないけど",
       "difficulty": "advanced"
     },
     {
       "id": 623,
       "episode": 7,
-      "japanese": "(麻美) ⟨そんな感じで私はひたすら 研究に没頭する毎日で…⟩",
-      "romaji": "(Asami) ⟨Sonna kanji de watashi wa hitasura kenkyuu ni bottou suru mainichi de…⟩",
-      "chinese": "（麻美）⟨就是这样，我每天都沉浸在研究中…⟩",
+      "japanese": "(麻美) そんな感じで私はひたすら 研究に没頭する毎日で…",
+      "romaji": "(Asami) Sonna kanji de watashi wa hitasura kenkyuu ni bottou suru mainichi de…",
+      "chinese": "（麻美）就是这样，我每天都沉浸在研究中…",
       "context": "誰も顕微鏡を使わないけど",
       "difficulty": "advanced"
     },
     {
       "id": 624,
       "episode": 7,
-      "japanese": "⟨あっという間に ３年の月日がたった⟩",
-      "romaji": "⟨Atto iu ma ni san-nen no tsukihi ga tatta⟩",
-      "chinese": "⟨转眼间，三年过去了⟩",
+      "japanese": "あっという間に ３年の月日がたった",
+      "romaji": "Atto iu ma ni san-nen no tsukihi ga tatta",
+      "chinese": "转眼间，三年过去了",
       "context": "昼食が済むと また実験の続き",
       "difficulty": "intermediate"
     },
     {
       "id": 625,
       "episode": 7,
-      "japanese": "⟨今のところまだ これといった 成果は上げられていない⟩",
-      "romaji": "⟨Ima no tokoro mada kore to itta seika wa agerarete inai⟩",
-      "chinese": "⟨到目前为止，还没有取得特别的成果⟩",
+      "japanese": "今のところまだ これといった 成果は上げられていない",
+      "romaji": "Ima no tokoro mada kore to itta seika wa agerarete inai",
+      "chinese": "到目前为止，还没有取得特别的成果",
       "context": "ちなみに一日の就業時間は 特に",
       "difficulty": "advanced"
     },
     {
       "id": 626,
       "episode": 7,
-      "japanese": "⟨だから当然ピントはちゃんと戻している⟩",
-      "romaji": "⟨Dakara touzen pinto wa chanto modoshite iru⟩",
-      "chinese": "⟨所以当然我会把焦点调回去⟩",
+      "japanese": "だから当然ピントはちゃんと戻している",
+      "romaji": "Dakara touzen pinto wa chanto modoshite iru",
+      "chinese": "所以当然我会把焦点调回去",
       "context": "そんな感じで私はひたすら 研究",
       "difficulty": "advanced"
     },
     {
       "id": 627,
       "episode": 7,
-      "japanese": "(麻美) ⟨そんなある日 実家に帰ると…⟩",
-      "romaji": "(Asami) ⟨Sonna aru hi jikka ni kaeru to…⟩",
-      "chinese": "（麻美）⟨某天回到老家时…⟩",
+      "japanese": "(麻美) そんなある日 実家に帰ると…",
+      "romaji": "(Asami) Sonna aru hi jikka ni kaeru to…",
+      "chinese": "（麻美）某天回到老家时…",
       "context": "あっという間に ３年の月日がた",
       "difficulty": "advanced"
     },
@@ -6161,9 +6089,9 @@
     {
       "id": 685,
       "episode": 7,
-      "japanese": "(麻美) ⟨こうして後日 遥の彼氏は…⟩",
-      "romaji": "(Asami) ⟨Koushite gojitsu Haruka no kareshi wa…⟩",
-      "chinese": "（麻美）⟨就这样，在之后的日子里，遥的男朋友…⟩",
+      "japanese": "(麻美) こうして後日 遥の彼氏は…",
+      "romaji": "(Asami) Koushite gojitsu Haruka no kareshi wa…",
+      "chinese": "（麻美）就这样，在之后的日子里，遥的男朋友…",
       "context": "こうして後日 遥の彼氏は…",
       "difficulty": "advanced"
     },
@@ -6224,9 +6152,9 @@
     {
       "id": 692,
       "episode": 7,
-      "japanese": "(麻美) ⟨一軍の服の父に迎えられ…⟩",
-      "romaji": "(Asami) ⟨Ichigun no fuku no chichi ni mukaerare…⟩",
-      "chinese": "（麻美）⟨被穿一军服的爸爸迎接…⟩",
+      "japanese": "(麻美) 一軍の服の父に迎えられ…",
+      "romaji": "(Asami) Ichigun no fuku no chichi ni mukaerare…",
+      "chinese": "（麻美）被穿一军服的爸爸迎接…",
       "context": "一軍の服の父に迎えられ…",
       "difficulty": "intermediate"
     },
@@ -6242,9 +6170,9 @@
     {
       "id": 694,
       "episode": 7,
-      "japanese": "(麻美) ⟨遥の棚を組み立てて…⟩",
-      "romaji": "(Asami) ⟨Haruka no tana o kumitatete…⟩",
-      "chinese": "（麻美）⟨组装遥的书架…⟩",
+      "japanese": "(麻美) 遥の棚を組み立てて…",
+      "romaji": "(Asami) Haruka no tana o kumitatete…",
+      "chinese": "（麻美）组装遥的书架…",
       "context": "一軍の服の父に迎えられ…",
       "difficulty": "intermediate"
     },
@@ -6269,9 +6197,9 @@
     {
       "id": 697,
       "episode": 7,
-      "japanese": "(麻美) ⟨一軍の服の父に見送られ 帰っていった⟩",
-      "romaji": "(Asami) ⟨Ichigun no fuku no chichi ni miokurare kaette itta⟩",
-      "chinese": "（麻美）⟨被穿一军服的爸爸送走后回去了⟩",
+      "japanese": "(麻美) 一軍の服の父に見送られ 帰っていった",
+      "romaji": "(Asami) Ichigun no fuku no chichi ni miokurare kaette itta",
+      "chinese": "（麻美）被穿一军服的爸爸送走后回去了",
       "context": "遥の棚を組み立てて…",
       "difficulty": "advanced"
     },
@@ -6287,81 +6215,81 @@
     {
       "id": 699,
       "episode": 7,
-      "japanese": "(麻美) ⟨ちなみに サングラスとボタンの件は大丈夫だったらしい⟩",
-      "romaji": "(Asami) ⟨Chinamini, sangurasu to botan no ken wa daijoubu datta rashii⟩",
-      "chinese": "（麻美）⟨顺便说一下，太阳镜和扣子的事情好像没问题⟩",
+      "japanese": "(麻美) ちなみに サングラスとボタンの件は大丈夫だったらしい",
+      "romaji": "(Asami) Chinamini, sangurasu to botan no ken wa daijoubu datta rashii",
+      "chinese": "（麻美）顺便说一下，太阳镜和扣子的事情好像没问题",
       "context": "一軍の服の父に見送られ 帰って",
       "difficulty": "advanced"
     },
     {
       "id": 700,
       "episode": 7,
-      "japanese": "⟨そしてまた実験の日々⟩",
-      "romaji": "⟨Soshite mata jikken no hibi⟩",
-      "chinese": "⟨然后又是实验的日子⟩",
+      "japanese": "そしてまた実験の日々",
+      "romaji": "Soshite mata jikken no hibi",
+      "chinese": "然后又是实验的日子",
       "context": "一軍の服の父に見送られ 帰って",
       "difficulty": "intermediate"
     },
     {
       "id": 701,
       "episode": 7,
-      "japanese": "⟨ところで こうやって病気の原因となる 微生物を見ているとたまに思うことがある⟩",
-      "romaji": "⟨Tokorode kou yatte byouki no gen'in to naru biseibutsu o mite iru to tamani omou koto ga aru⟩",
-      "chinese": "⟨顺便说一下，每当看这些导致疾病的微生物时，有时会有些想法⟩",
+      "japanese": "ところで こうやって病気の原因となる 微生物を見ているとたまに思うことがある",
+      "romaji": "Tokorode kou yatte byouki no gen'in to naru biseibutsu o mite iru to tamani omou koto ga aru",
+      "chinese": "顺便说一下，每当看这些导致疾病的微生物时，有时会有些想法",
       "context": "ちなみに サングラスとボタンの",
       "difficulty": "advanced"
     },
     {
       "id": 702,
       "episode": 7,
-      "japanese": "⟨この微生物も実は前世は 人間だったりするのかなと⟩",
-      "romaji": "⟨Kono biseibutsu mo jitsu wa zense wa ningen dattari suru no kana to⟩",
-      "chinese": "⟨我在想，这些微生物前世也许曾经是人类呢⟩",
+      "japanese": "この微生物も実は前世は 人間だったりするのかなと",
+      "romaji": "Kono biseibutsu mo jitsu wa zense wa ningen dattari suru no kana to",
+      "chinese": "我在想，这些微生物前世也许曾经是人类呢",
       "context": "ちなみに サングラスとボタンの",
       "difficulty": "advanced"
     },
     {
       "id": 703,
       "episode": 7,
-      "japanese": "⟨そして 必ず彼を思い出す⟩",
-      "romaji": "⟨Soshite kanarazu kare o omoidasu⟩",
-      "chinese": "⟨然后，我总会想起他⟩",
+      "japanese": "そして 必ず彼を思い出す",
+      "romaji": "Soshite kanarazu kare o omoidasu",
+      "chinese": "然后，我总会想起他",
       "context": "そしてまた実験の日々",
       "difficulty": "intermediate"
     },
     {
       "id": 704,
       "episode": 7,
-      "japanese": "⟨そんな感じで 実験に没頭する毎日は続き…⟩",
-      "romaji": "⟨Sonna kanji de jikken ni bottou suru mainichi wa tsudzuki…⟩",
-      "chinese": "⟨就这样，沉浸在实验中的日子继续着…⟩",
+      "japanese": "そんな感じで 実験に没頭する毎日は続き…",
+      "romaji": "Sonna kanji de jikken ni bottou suru mainichi wa tsudzuki…",
+      "chinese": "就这样，沉浸在实验中的日子继续着…",
       "context": "ところで こうやって病気の原因",
       "difficulty": "advanced"
     },
     {
       "id": 705,
       "episode": 7,
-      "japanese": "⟨私も今年で35歳⟩",
-      "romaji": "⟨Watashi mo kotoshi de 35-sai⟩",
-      "chinese": "⟨我今年也35岁了⟩",
+      "japanese": "私も今年で35歳",
+      "romaji": "Watashi mo kotoshi de 35-sai",
+      "chinese": "我今年也35岁了",
       "context": "この微生物も実は前世は 人間だ",
       "difficulty": "intermediate"
     },
     {
       "id": 706,
       "episode": 7,
-      "japanese": "⟨一応 自分史上 一番長生き⟩",
-      "romaji": "⟨Ichiou jibun shijou ichiban nagaiki⟩",
-      "chinese": "⟨算是自己史上活得最长⟩",
+      "japanese": "一応 自分史上 一番長生き",
+      "romaji": "Ichiou jibun shijou ichiban nagaiki",
+      "chinese": "算是自己史上活得最长",
       "context": "そして 必ず彼を思い出す",
       "difficulty": "intermediate"
     },
     {
       "id": 707,
       "episode": 7,
-      "japanese": "⟨ちなみに研究医としては 今のところ医学界に革命を起こすような 発見はできていないけどこの５年で小さい成果は いくつか上げることができ…⟩",
-      "romaji": "⟨Chinamini kenkyui to shite wa ima no tokoro igakkai ni kakumei o okosu you na hakken wa dekite inai kedo kono go-nen de chiisai seika wa ikutsu ka ageru koto ga deki…⟩",
-      "chinese": "⟨顺便说一下，作为研究医，至今还没能在医学界引起革命性的发现，但这五年里还是取得了一些小成果…⟩",
+      "japanese": "ちなみに研究医としては 今のところ医学界に革命を起こすような 発見はできていないけどこの５年で小さい成果は いくつか上げることができ…",
+      "romaji": "Chinamini kenkyui to shite wa ima no tokoro igakkai ni kakumei o okosu you na hakken wa dekite inai kedo kono go-nen de chiisai seika wa ikutsu ka ageru koto ga deki…",
+      "chinese": "顺便说一下，作为研究医，至今还没能在医学界引起革命性的发现，但这五年里还是取得了一些小成果…",
       "context": "そんな感じで 実験に没頭する毎",
       "difficulty": "advanced"
     },
@@ -6386,9 +6314,9 @@
     {
       "id": 710,
       "episode": 7,
-      "japanese": "(麻美) ⟨医学界に多少の貢献は できていると思う⟩",
-      "romaji": "(Asami) ⟨Igakkai ni tashou no kouken wa dekite iru to omou⟩",
-      "chinese": "（麻美）⟨我觉得对医学界还是有所贡献的⟩",
+      "japanese": "(麻美) 医学界に多少の貢献は できていると思う",
+      "romaji": "(Asami) Igakkai ni tashou no kouken wa dekite iru to omou",
+      "chinese": "（麻美）我觉得对医学界还是有所贡献的",
       "context": "ちなみに研究医としては 今のと",
       "difficulty": "advanced"
     },
@@ -6440,45 +6368,45 @@
     {
       "id": 716,
       "episode": 7,
-      "japanese": "(麻美) ⟨もう ウニとは言わせない⟩",
-      "romaji": "(Asami) ⟨Mou uni to wa iwasenai⟩",
-      "chinese": "（麻美）⟨不让再叫我海胆了⟩",
+      "japanese": "(麻美) もう ウニとは言わせない",
+      "romaji": "(Asami) Mou uni to wa iwasenai",
+      "chinese": "（麻美）不让再叫我海胆了",
       "context": "もう ウニとは言わせない",
       "difficulty": "intermediate"
     },
     {
       "id": 717,
       "episode": 7,
-      "japanese": "(麻美) ⟨そんな中 ついに遥が結婚⟩",
-      "romaji": "(Asami) ⟨Sonna naka tsuini Haruka ga kekkon⟩",
-      "chinese": "（麻美）⟨就在这样的情况下，遥终于结婚了⟩",
+      "japanese": "(麻美) そんな中 ついに遥が結婚",
+      "romaji": "(Asami) Sonna naka tsuini Haruka ga kekkon",
+      "chinese": "（麻美）就在这样的情况下，遥终于结婚了",
       "context": "もう ウニとは言わせない",
       "difficulty": "intermediate"
     },
     {
       "id": 718,
       "episode": 7,
-      "japanese": "⟨相手は あの時の彼氏 中山賢治君⟩",
-      "romaji": "⟨Aite wa ano toki no kareshi Nakayama Kenji-kun⟩",
-      "chinese": "⟨对象是那时的男朋友，中山贤治君⟩",
+      "japanese": "相手は あの時の彼氏 中山賢治君",
+      "romaji": "Aite wa ano toki no kareshi Nakayama Kenji-kun",
+      "chinese": "对象是那时的男朋友，中山贤治君",
       "context": "もう ウニとは言わせない",
       "difficulty": "intermediate"
     },
     {
       "id": 719,
       "episode": 7,
-      "japanese": "⟨どことなく うちの父に似ている 気がしないでもない⟩",
-      "romaji": "⟨Dokotonaku uchi no chichi ni nite iru ki ga shinai demo nai⟩",
-      "chinese": "⟨总觉得有点像我家爸爸⟩",
+      "japanese": "どことなく うちの父に似ている 気がしないでもない",
+      "romaji": "Dokotonaku uchi no chichi ni nite iru ki ga shinai demo nai",
+      "chinese": "总觉得有点像我家爸爸",
       "context": "そんな中 ついに遥が結婚",
       "difficulty": "advanced"
     },
     {
       "id": 720,
       "episode": 7,
-      "japanese": "⟨４回目の人生で初めて迎える 遥の結婚⟩",
-      "romaji": "⟨Yon kaime no jinsei de hajimete mukaeru Haruka no kekkon⟩",
-      "chinese": "⟨在第四次人生中，第一次迎来的遥的结婚⟩",
+      "japanese": "４回目の人生で初めて迎える 遥の結婚",
+      "romaji": "Yon kaime no jinsei de hajimete mukaeru Haruka no kekkon",
+      "chinese": "在第四次人生中，第一次迎来的遥的结婚",
       "context": "そんな中 ついに遥が結婚",
       "difficulty": "advanced"
     },
@@ -6494,9 +6422,9 @@
     {
       "id": 722,
       "episode": 7,
-      "japanese": "(麻美) ⟨そういえば…⟩",
-      "romaji": "(Asami) ⟨Sou ieba…⟩",
-      "chinese": "（麻美）⟨说起来…⟩",
+      "japanese": "(麻美) そういえば…",
+      "romaji": "(Asami) Sou ieba…",
+      "chinese": "（麻美）说起来…",
       "context": "どことなく うちの父に似ている",
       "difficulty": "intermediate"
     },
@@ -6548,27 +6476,27 @@
     {
       "id": 728,
       "episode": 7,
-      "japanese": "(麻美) ⟨次は教えてあげられるな⟩",
-      "romaji": "(Asami) ⟨Tsugi wa oshiete agerareru na⟩",
-      "chinese": "（麻美）⟨下次就能告诉你了⟩",
+      "japanese": "(麻美) 次は教えてあげられるな",
+      "romaji": "(Asami) Tsugi wa oshiete agerareru na",
+      "chinese": "（麻美）下次就能告诉你了",
       "context": "お姉ちゃん 知ってる？",
       "difficulty": "intermediate"
     },
     {
       "id": 729,
       "episode": 7,
-      "japanese": "⟨次があっちゃいけないけど⟩",
-      "romaji": "⟨Tsugi ga accha ikenai kedo⟩",
-      "chinese": "⟨虽然不该有下一次，但…⟩",
+      "japanese": "次があっちゃいけないけど",
+      "romaji": "Tsugi ga accha ikenai kedo",
+      "chinese": "虽然不该有下一次，但…",
       "context": "いや 知らないかな",
       "difficulty": "intermediate"
     },
     {
       "id": 730,
       "episode": 7,
-      "japanese": "(麻美) ⟨それにしても あの遥が結婚とは感慨深い⟩",
-      "romaji": "(Asami) ⟨Sore ni shitemo ano Haruka ga kekkon to wa kangaibukai⟩",
-      "chinese": "（麻美）⟨即便如此，遥竟然结婚了，真让人感慨万分⟩",
+      "japanese": "(麻美) それにしても あの遥が結婚とは感慨深い",
+      "romaji": "(Asami) Sore ni shitemo ano Haruka ga kekkon to wa kangaibukai",
+      "chinese": "（麻美）即便如此，遥竟然结婚了，真让人感慨万分",
       "context": "次は教えてあげられるな",
       "difficulty": "advanced"
     },
@@ -6656,54 +6584,54 @@
     {
       "id": 740,
       "episode": 7,
-      "japanese": "(麻美) ⟨長生きはするものだ⟩",
-      "romaji": "(Asami) ⟨Nagaiki wa suru mono da⟩",
-      "chinese": "（麻美）⟨长寿也是一件常事⟩",
+      "japanese": "(麻美) 長生きはするものだ",
+      "romaji": "(Asami) Nagaiki wa suru mono da",
+      "chinese": "（麻美）长寿也是一件常事",
       "context": "いただきま～す",
       "difficulty": "intermediate"
     },
     {
       "id": 741,
       "episode": 7,
-      "japanese": "⟨いや 長生きではないか⟩",
-      "romaji": "⟨Iya nagaiki dewa nai ka⟩",
-      "chinese": "⟨不，也不能说是长寿吧⟩",
+      "japanese": "いや 長生きではないか",
+      "romaji": "Iya nagaiki dewa nai ka",
+      "chinese": "不，也不能说是长寿吧",
       "context": "ハハハ…！ ハハハ…！",
       "difficulty": "intermediate"
     },
     {
       "id": 742,
       "episode": 7,
-      "japanese": "⟨あっ でも 合計で 130年以上 生きてるから長生きは長生きか⟩",
-      "romaji": "⟨Ah demo goukei de hyaku sanjuu-nen ijou ikiteru kara nagaiki wa nagaiki ka⟩",
-      "chinese": "⟨啊，不过总共活了超过130年，长寿就是长寿吧⟩",
+      "japanese": "あっ でも 合計で 130年以上 生きてるから長生きは長生きか",
+      "romaji": "Ah demo goukei de hyaku sanjuu-nen ijou ikiteru kara nagaiki wa nagaiki ka",
+      "chinese": "啊，不过总共活了超过130年，长寿就是长寿吧",
       "context": "長生きはするものだ",
       "difficulty": "advanced"
     },
     {
       "id": 743,
       "episode": 7,
-      "japanese": "⟨まっ どっちでもいいや⟩",
-      "romaji": "⟨Ma, docchi demo ii ya⟩",
-      "chinese": "⟨嘛，无所谓啦⟩",
+      "japanese": "まっ どっちでもいいや",
+      "romaji": "Ma, docchi demo ii ya",
+      "chinese": "嘛，无所谓啦",
       "context": "長生きはするものだ",
       "difficulty": "intermediate"
     },
     {
       "id": 744,
       "episode": 7,
-      "japanese": "(麻美) ⟨とにかくナイス！ 遥！⟩",
-      "romaji": "(Asami) ⟨Tonikaku naisu! Haruka!⟩",
-      "chinese": "（麻美）⟨总之太棒了！遥！⟩",
+      "japanese": "(麻美) とにかくナイス！ 遥！",
+      "romaji": "(Asami) Tonikaku naisu! Haruka!",
+      "chinese": "（麻美）总之太棒了！遥！",
       "context": "いや 長生きではないか",
       "difficulty": "intermediate"
     },
     {
       "id": 745,
       "episode": 7,
-      "japanese": "(麻美) ⟨地元に帰ったついでに 久しぶりに まりりんとお茶⟩",
-      "romaji": "(Asami) ⟨Jimoto ni kaetta tsuide ni hisashiburi ni Maririn to ocha⟩",
-      "chinese": "（麻美）⟨趁着回老家，久违地和玛琳一起喝茶⟩",
+      "japanese": "(麻美) 地元に帰ったついでに 久しぶりに まりりんとお茶",
+      "romaji": "(Asami) Jimoto ni kaetta tsuide ni hisashiburi ni Maririn to ocha",
+      "chinese": "（麻美）趁着回老家，久违地和玛琳一起喝茶",
       "context": "まっ どっちでもいいや",
       "difficulty": "advanced"
     },
@@ -7304,7 +7232,7 @@
     {
       "id": 812,
       "episode": 7,
-      "japanese": "⟨元々は そんな距離感じゃ なかったんだけどね⟩",
+      "japanese": "元々は そんな距離感じゃ なかったんだけどね",
       "romaji": "Motomoto wa sonna kyori-kan ja nakattan dakedo ne.",
       "chinese": "原本并不是保持这种距离的关系啦。",
       "context": "元々は そんな距離感じゃ なか",
@@ -7421,7 +7349,7 @@
     {
       "id": 825,
       "episode": 7,
-      "japanese": "⟨ホントは超覚えてる⟩",
+      "japanese": "ホントは超覚えてる",
       "romaji": "Honto wa chou oboeteru.",
       "chinese": "其实我记得很清楚。",
       "context": "ホントは超覚えてる",
@@ -7448,7 +7376,7 @@
     {
       "id": 828,
       "episode": 7,
-      "japanese": "⟨それはきっと130歳の哀愁⟩",
+      "japanese": "それはきっと130歳の哀愁",
       "romaji": "Sore wa kitto hyaku sanjuu-sai no aishuu.",
       "chinese": "那大概是130岁的哀愁吧。",
       "context": "ホントは超覚えてる",
