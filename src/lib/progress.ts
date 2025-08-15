@@ -1,5 +1,4 @@
 import Taro from "@tarojs/taro";
-import { TranslationItem } from "@/data/translationData";
 
 // 进度数据结构
 interface ProgressData {
