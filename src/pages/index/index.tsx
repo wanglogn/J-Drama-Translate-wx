@@ -111,7 +111,9 @@ export default function Home() {
         </View>
 
         <View className="mb-16">
-          <View className="grid md:grid-cols-3 gap-6 mb-12">
+          <ShowSelection />
+
+          {/* <View className="grid md:grid-cols-3 gap-6 mb-12">
             <View className="bg-white rounded-xl shadow-md p-6 transform transition-all hover:-translate-y-1 hover:shadow-lg">
               <View className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mb-4">
                 <Image
@@ -156,9 +158,7 @@ export default function Home() {
                 日语原文朗读功能，帮助你学习标准发音和语调
               </Text>
             </View>
-          </View>
-
-          <ShowSelection />
+          </View> */}
         </View>
 
         <View className="text-center text-gray-500 text-sm py-6">
