@@ -20,6 +20,14 @@ export default function PracticePage() {
   const episodeParam = router.params?.episode || "";
 
   useEffect(() => {
+    if (showTitle) {
+      Taro.setNavigationBarTitle({
+        title: `${showTitle}`,
+      });
+    }
+  }, [showTitle]);
+
+  useEffect(() => {
     const episodeData: EpisodeData | null =
       Taro.getStorageSync("currentEpisode");
 
@@ -88,9 +96,6 @@ export default function PracticePage() {
     <View className="min-h-screen bg-gray-50 p-4">
       <View className="max-w-2xl mx-auto">
         <View className="mb-6 text-center">
-          <View className="text-xl font-semibold text-gray-600 mb-1">
-            {showTitle}
-          </View>
           <View className="text-2xl font-bold text-gray-800 mb-2">
             {episodeTitle}
           </View>

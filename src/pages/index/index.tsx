@@ -18,15 +18,6 @@ export default function Home() {
         </View>
 
         <View className="space-y-8">
-          {/* <View className="text-center">
-                  <View className="text-2xl font-bold text-gray-900 dark:text-white mb-2">
-                    选择日剧
-                  </View>
-                  <View className="text-gray-600 dark:text-gray-400">
-                    选择你想练习的日剧台词
-                  </View>
-                </View> */}
-
           <View className="grid md:grid-cols-2 gap-6">
             {shows.map((show) => (
               <Navigator

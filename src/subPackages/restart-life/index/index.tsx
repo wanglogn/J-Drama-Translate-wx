@@ -84,10 +84,6 @@ export default function Home() {
 
         {/* 集数选择 */}
         <View className="bg-white rounded-xl shadow-md p-6 mb-12">
-          <Text className="text-2xl font-bold text-gray-900 mb-6 text-center">
-            选择集数
-          </Text>
-
           {loading ? (
             <Text className="text-center py-10 text-gray-500">加载中...</Text>
           ) : episodes.length > 0 ? (
