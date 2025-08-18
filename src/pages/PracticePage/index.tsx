@@ -2,11 +2,7 @@ import { useState, useEffect } from "react";
 import { View, Text, Image } from "@tarojs/components";
 import Taro, { useRouter } from "@tarojs/taro";
 import TranslationCard from "@/components/TranslationCard";
-import {
-  getLinesByShowAndEpisode,
-  getEpisodesByShow,
-  TranslationItem,
-} from "@/data/translationData";
+import { TranslationItem, EpisodeData } from "@/data/translationData";
 import { getShowById } from "@/data/shows";
 import arrowLeft from "@/assets/icons/arrow_left.png";
 
@@ -24,43 +20,28 @@ export default function PracticePage() {
   const episodeParam = router.params?.episode || "";
 
   useEffect(() => {
-    if (!showParam || !episodeParam) {
+    const episodeData: EpisodeData | null =
+      Taro.getStorageSync("currentEpisode");
+
+    if (!episodeData || !showParam || !episodeParam) {
       Taro.redirectTo({ url: "/pages/index/index" });
       return;
     }
 
-    const episodeNumber = parseInt(episodeParam, 10);
-    if (isNaN(episodeNumber)) {
-      Taro.redirectTo({ url: "/pages/index/index" });
-      return;
-    }
-
-    const show = getShowById(showParam);
-    if (!show) {
-      Taro.redirectTo({ url: "/pages/index/index" });
-      return;
-    }
-
-    const lines = getLinesByShowAndEpisode(showParam, episodeNumber);
-    if (lines.length === 0) {
-      Taro.redirectTo({ url: `/pages/episodes/index?show=${showParam}` });
-      return;
-    }
-
-    const episodes = getEpisodesByShow(showParam);
-    const currentEpisode = episodes.find((ep) => ep.number === episodeNumber);
-
-    setShowTitle(show.title);
-    setEpisode(episodeNumber);
-    setEpisodeTitle(currentEpisode?.title || `第${episodeNumber}集`);
-    setTranslationItems(lines);
+    setShowTitle(getShowById(showParam)?.title || "");
+    setEpisode(episodeData.number);
+    setEpisodeTitle(episodeData.title);
+    setTranslationItems(episodeData.lines);
     setCurrentIndex(0);
 
     // 读取进度
     const savedProgress = Taro.getStorageSync(
-      `translationProgress_${showParam}_ep${episodeNumber}`
+      `translationProgress_${showParam}_ep${episodeData.number}`
     );
-    if (typeof savedProgress === "number" && savedProgress < lines.length) {
+    if (
+      typeof savedProgress === "number" &&
+      savedProgress < episodeData.lines.length
+    ) {
       setCurrentIndex(savedProgress);
     }
   }, []);
@@ -95,20 +76,8 @@ export default function PracticePage() {
 
   if (translationItems.length === 0) {
     return (
-      <View className="flex flex-col items-center justify-center min-h-screen bg-gray-50 dark:bg-gray-900 p-4">
-        <View className="flex flex-col items-center">
-          <View className="w-16 h-16 bg-gray-200 dark:bg-gray-700 rounded-full flex items-center justify-center mb-4">
-            <View className="text-2xl text-gray-500 dark:text-gray-400">
-              📖
-            </View>
-          </View>
-          <View className="text-xl font-semibold text-gray-800 dark:text-gray-200 mb-2">
-            加载练习数据中
-          </View>
-          <View className="text-gray-600 dark:text-gray-400">
-            请稍候，我们正在准备翻译练习内容...
-          </View>
-        </View>
+      <View className="flex flex-col items-center justify-center min-h-screen bg-gray-50 p-4">
+        <Text className="text-xl">加载练习数据中...</Text>
       </View>
     );
   }
@@ -116,29 +85,18 @@ export default function PracticePage() {
   const currentItem = translationItems[currentIndex];
 
   return (
-    <View className="min-h-screen bg-gray-50 dark:bg-gray-900 p-4">
+    <View className="min-h-screen bg-gray-50 p-4">
       <View className="max-w-2xl mx-auto">
         <View className="mb-6 text-center">
-          <View className="text-xl font-semibold text-gray-600 dark:text-gray-400 mb-1">
+          <View className="text-xl font-semibold text-gray-600 mb-1">
             {showTitle}
           </View>
-          <View className="text-2xl font-bold text-gray-800 dark:text-white mb-2">
+          <View className="text-2xl font-bold text-gray-800 mb-2">
             {episodeTitle}
           </View>
-          <Text className="text-gray-600 dark:text-gray-400">
+          <Text className="text-gray-600">
             第 {currentIndex + 1} 题 / 共 {translationItems.length} 题
           </Text>
-
-          <View className="w-full bg-gray-200 dark:bg-gray-700 rounded-full h-2.5 mt-4">
-            <View
-              className="bg-blue-500 h-2.5 rounded-full transition-all duration-500"
-              style={{
-                width: `${
-                  ((currentIndex + 1) / translationItems.length) * 100
-                }%`,
-              }}
-            />
-          </View>
         </View>
 
         <TranslationCard
@@ -155,7 +113,7 @@ export default function PracticePage() {
             });
           }}
         >
-          <Image src={arrowLeft} className="h-[1.2rem] w-[1.2rem] mr-1"></Image>
+          <Image src={arrowLeft} className="h-[1.2rem] w-[1.2rem] mr-1" />
           返回集数选择
         </View>
       </View>

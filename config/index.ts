@@ -23,6 +23,8 @@ export default defineConfig(async (merge) => {
     defineConstants: {},
     alias: {
       "@": require("path").resolve(__dirname, "../src"),
+      "@/data": require("path").resolve(__dirname, "../src/data"),
+      "@/components": require("path").resolve(__dirname, "../src/components"),
     },
     copy: {
       patterns: [],

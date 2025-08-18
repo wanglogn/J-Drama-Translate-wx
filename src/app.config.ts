@@ -5,6 +5,24 @@ export default defineAppConfig({
     "pages/PracticePage/index", // 练习页面
     "pages/jpVerb/index", // 动词活用工具页面
   ],
+  subpackages: [
+    {
+      root: "subPackages/restart-life",
+      pages: ["index/index"],
+    },
+    {
+      root: "subPackages/please-marry-my-boyfriend",
+      pages: ["index/index"],
+    },
+    {
+      root: "subPackages/daily-conversations",
+      pages: ["index/index"],
+    },
+    {
+      root: "subPackages/it-kanntann-kaiwa",
+      pages: ["index/index"],
+    },
+  ],
   window: {
     backgroundTextStyle: "light",
     navigationBarBackgroundColor: "#fff",
