@@ -3,6412 +3,3514 @@
   "title": "第一集：重启的开始",
   "lines": [
     {
-      "id": 1,
-      "episode": 1,
       "japanese": "麻美 来週末どうするの おばあちゃん家｡",
       "romaji": "Asami, raishūmatsu dō suru no? Obāchan no ie.",
-      "chinese": "麻美，下周末要去奶奶家吗？",
-      "context": "久美子询问麻美下周末计划",
-      "difficulty": "beginner"
+      "chinese": "麻美，下周末要去奶奶家吗？"
     },
     {
-      "id": 2,
-      "episode": 1,
       "japanese": "どうしようかな｡",
       "romaji": "Dō shiyō kana.",
-      "chinese": "要怎么办呢？",
-      "context": "麻美回应久美子的询问",
-      "difficulty": "beginner"
+      "chinese": "要怎么办呢？"
     },
     {
-      "id": 3,
-      "episode": 1,
       "japanese": "しばらく行ってないでしょ たまには 顔見せてあげな？",
       "romaji": "Shibaraku itte nai desho? Tama ni wa kao misete agena?",
-      "chinese": "你不是很久没去了吧？偶尔也去露个面嘛。",
-      "context": "久美子建议麻美去探望祖母",
-      "difficulty": "intermediate"
+      "chinese": "你不是很久没去了吧？偶尔也去露个面嘛。"
     },
     {
-      "id": 4,
-      "episode": 1,
       "japanese": "分かった｡",
       "romaji": "Wakatta.",
-      "chinese": "好吧。",
-      "context": "麻美同意久美子的建议",
-      "difficulty": "beginner"
+      "chinese": "好吧。"
     },
     {
-      "id": 5,
-      "episode": 1,
       "japanese": "一緒におじいちゃんのお墓参りに 行くから｡",
       "romaji": "Issho ni ojiichan no ohakamairi ni iku kara.",
-      "chinese": "我们还会一起去给爷爷扫墓。",
-      "context": "久美子补充说明行程",
-      "difficulty": "intermediate"
+      "chinese": "我们还会一起去给爷爷扫墓。"
     },
     {
-      "id": 7,
-      "episode": 1,
       "japanese": "遥 どうすんの？",
       "romaji": "Haruka, dō sun no?",
-      "chinese": "遥，你怎么打算的？",
-      "context": "久美子询问遥是否同行",
-      "difficulty": "beginner"
+      "chinese": "遥，你怎么打算的？"
     },
     {
-      "id": 8,
-      "episode": 1,
       "japanese": "行くよ 私 運転だから｡",
       "romaji": "Iku yo. Watashi unten dakara.",
-      "chinese": "去啊，因为我负责开车。",
-      "context": "遥表示愿意开车同行",
-      "difficulty": "intermediate"
+      "chinese": "去啊，因为我负责开车。"
     },
     {
-      "id": 9,
-      "episode": 1,
       "japanese": "あっ そっか｡",
       "romaji": "A, sokka.",
-      "chinese": "啊，是哦。",
-      "context": "麻美对遥的决定表示回应",
-      "difficulty": "beginner"
+      "chinese": "啊，是哦。"
     },
     {
-      "id": 10,
-      "episode": 1,
       "japanese": "ごちそうさま｡",
       "romaji": "Gochisōsama.",
-      "chinese": "谢谢款待。（用餐后的礼貌用语）",
-      "context": "遥用餐结束后的礼貌用语",
-      "difficulty": "beginner"
+      "chinese": "谢谢款待。（用餐后的礼貌用语）"
     },
     {
-      "id": 11,
-      "episode": 1,
       "japanese": "お父さん 行くの？",
       "romaji": "Otōsan, iku no?",
-      "chinese": "爸爸，你会去吗？",
-      "context": "对话场景",
-      "difficulty": "beginner"
+      "chinese": "爸爸，你会去吗？"
     },
     {
-      "id": 12,
-      "episode": 1,
       "japanese": "仕事が入っちゃってんだよ｡",
       "romaji": "Shigoto ga haitchatten da yo.",
-      "chinese": "临时有工作安排啊。",
-      "context": "对话场景",
-      "difficulty": "intermediate"
+      "chinese": "临时有工作安排啊。"
     },
     {
-      "id": 13,
-      "episode": 1,
       "japanese": "あぁ そうなんだね｡",
       "romaji": "Ā, sō nan da ne.",
-      "chinese": "啊，原来如此。",
-      "context": "对话场景",
-      "difficulty": "beginner"
+      "chinese": "啊，原来如此。"
     },
     {
-      "id": 14,
-      "episode": 1,
       "japanese": "麻美 もう52分だけど大丈夫？間に合うの？",
       "romaji": "Asami, mō gojūni-fun dakedo daijōbu? Mani au no?",
-      "chinese": "麻美，已经 52 分了，没问题吗？来得及吗？",
-      "context": "对话场景",
-      "difficulty": "intermediate"
+      "chinese": "麻美，已经 52 分了，没问题吗？来得及吗？"
     },
     {
-      "id": 15,
-      "episode": 1,
       "japanese": "えっ ヤバい 52分｡",
       "romaji": "E, yabai! Gojūni-fun.",
-      "chinese": "咦，糟了，已经 52 分了！",
-      "context": "对话场景",
-      "difficulty": "beginner"
+      "chinese": "咦，糟了，已经 52 分了！"
     },
     {
-      "id": 16,
-      "episode": 1,
       "japanese": "ごめん 遥 乗せてって｡",
       "romaji": "Gomen, Haruka. Nosetette.",
-      "chinese": "抱歉，遥，载我一程吧。",
-      "context": "对话场景",
-      "difficulty": "intermediate"
+      "chinese": "抱歉，遥，载我一程吧。"
     },
     {
-      "id": 17,
-      "episode": 1,
       "japanese": "いいけど 私 もう出るよ｡",
       "romaji": "Ī kedo, watashi mō deru yo.",
-      "chinese": "可以啊，不过我马上就要出门了哦。",
-      "context": "对话场景",
-      "difficulty": "intermediate"
+      "chinese": "可以啊，不过我马上就要出门了哦。"
     },
     {
-      "id": 18,
-      "episode": 1,
       "japanese": "ダッシュで食べる あと何分？",
       "romaji": "Dasshu de taberu. Ato nan-pun?",
-      "chinese": "我赶快吃完，还剩几分钟？",
-      "context": "对话场景",
-      "difficulty": "intermediate"
+      "chinese": "我赶快吃完，还剩几分钟？"
     },
     {
-      "id": 19,
-      "episode": 1,
       "japanese": "あと10分後ぐらい？",
       "romaji": "Ato jūppun-go gurai?",
-      "chinese": "大概 10 分钟后吧？",
-      "context": "对话场景",
-      "difficulty": "beginner"
+      "chinese": "大概 10 分钟后吧？"
     },
     {
-      "id": 20,
-      "episode": 1,
       "japanese": "ＯＫ！",
       "romaji": "Ōkē!",
-      "chinese": "好！",
-      "context": "对话场景",
-      "difficulty": "beginner"
+      "chinese": "好！"
     },
     {
-      "id": 21,
-      "episode": 1,
       "japanese": "寿命かな？",
       "romaji": "Jumyō kana?",
-      "chinese": "难道是寿终正寝的节奏？",
-      "context": "对话场景",
-      "difficulty": "beginner"
+      "chinese": "难道是寿终正寝的节奏？"
     },
     {
-      "id": 22,
-      "episode": 1,
       "japanese": "思えば この日が 人生最後の日だった",
       "romaji": "Omoeba, kono hi ga jinsei saigo no hi datta.",
-      "chinese": "回想起来，这一天是我人生的最后一天。",
-      "context": "对话场景",
-      "difficulty": "intermediate"
+      "chinese": "回想起来，这一天是我人生的最后一天。"
     },
     {
-      "id": 23,
-      "episode": 1,
       "japanese": "あれって さくら保育園？",
       "romaji": "Are tte Sakura Hoikuen?",
-      "chinese": "那是樱花托儿所吗？",
-      "context": "对话场景",
-      "difficulty": "beginner"
+      "chinese": "那是樱花托儿所吗？"
     },
     {
-      "id": 24,
-      "episode": 1,
       "japanese": "そうだね｡",
       "romaji": "Sō da ne.",
-      "chinese": "对啊。",
-      "context": "对话场景",
-      "difficulty": "beginner"
+      "chinese": "对啊。"
     },
     {
-      "id": 25,
-      "episode": 1,
       "japanese": "うちらの時 あのカートなかったよね？",
       "romaji": "Uchira no toki, ano kāto nakatta yo ne?",
-      "chinese": "我们那时候可没有那种推车吧？",
-      "context": "对话场景",
-      "difficulty": "intermediate"
+      "chinese": "我们那时候可没有那种推车吧？"
     },
     {
-      "id": 26,
-      "episode": 1,
       "japanese": "あぁ… なかったね｡",
       "romaji": "Ā... nakatta ne.",
-      "chinese": "嗯…是没有。",
-      "context": "对话场景",
-      "difficulty": "beginner"
+      "chinese": "嗯…是没有。"
     },
     {
-      "id": 27,
-      "episode": 1,
       "japanese": "いいなぁ 運んでもらえて｡",
       "romaji": "Ī nā, hakonde moraete.",
-      "chinese": "真好啊，有人帮忙载。",
-      "context": "对话场景",
-      "difficulty": "intermediate"
+      "chinese": "真好啊，有人帮忙载。"
     },
     {
-      "id": 28,
-      "episode": 1,
       "japanese": "今 運んでもらってるからね｡",
       "romaji": "Ima, hakonde moratteru kara ne.",
-      "chinese": "你现在不也是在被人载着吗？",
-      "context": "对话场景",
-      "difficulty": "intermediate"
+      "chinese": "你现在不也是在被人载着吗？"
     },
     {
-      "id": 29,
-      "episode": 1,
       "japanese": "あ… そっか｡",
       "romaji": "A... sokka.",
-      "chinese": "啊…对哦。",
-      "context": "对话场景",
-      "difficulty": "beginner"
+      "chinese": "啊…对哦。"
     },
     {
-      "id": 30,
-      "episode": 1,
       "japanese": "あれ？ 公園の電話ボックス なくなってる｡",
       "romaji": "Are? Kōen no denwa bokkusu nakunatteru.",
-      "chinese": "咦？公园的电话亭不见了。",
-      "context": "对话场景",
-      "difficulty": "intermediate"
+      "chinese": "咦？公园的电话亭不见了。"
     },
     {
-      "id": 31,
-      "episode": 1,
       "japanese": "ん？ あんなとこに 電話ボックスなんてあったっけ？",
       "romaji": "N? Anna toko ni denwa bokkusu nante atta kke?",
-      "chinese": "嗯？那地方以前有电话亭吗？",
-      "context": "对话场景",
-      "difficulty": "intermediate"
+      "chinese": "嗯？那地方以前有电话亭吗？"
     },
     {
-      "id": 32,
-      "episode": 1,
       "japanese": "あったよ～ 使ってんの見たことないけど｡",
       "romaji": "Atta yo~ tsukatten no mita koto nai kedo.",
-      "chinese": "有啊～不过我倒是没见过有人用。",
-      "context": "对话场景",
-      "difficulty": "intermediate"
+      "chinese": "有啊～不过我倒是没见过有人用。"
     },
     {
-      "id": 33,
-      "episode": 1,
       "japanese": "まぁ でも 今 使わないもんね｡",
       "romaji": "Mā demo, ima tsukawanai mon ne.",
-      "chinese": "不过嘛，现在也没人用了。",
-      "context": "对话场景",
-      "difficulty": "beginner"
+      "chinese": "不过嘛，现在也没人用了。"
     },
     {
-      "id": 34,
-      "episode": 1,
       "japanese": "全然関係ないけど",
       "romaji": "Zenzen kankei nai kedo.",
-      "chinese": "虽然完全不相干啦，",
-      "context": "对话场景",
-      "difficulty": "beginner"
+      "chinese": "虽然完全不相干啦，"
     },
     {
-      "id": 35,
-      "episode": 1,
       "japanese": "お姉ちゃん 結婚しないの？",
       "romaji": "Onee-chan, kekkon shinai no?",
-      "chinese": "姐姐，你不打算结婚吗？",
-      "context": "对话场景",
-      "difficulty": "beginner"
+      "chinese": "姐姐，你不打算结婚吗？"
     },
     {
-      "id": 36,
-      "episode": 1,
       "japanese": "結婚？",
       "romaji": "Kekkon?",
-      "chinese": "结婚？",
-      "context": "对话场景",
-      "difficulty": "beginner"
+      "chinese": "结婚？"
     },
     {
-      "id": 37,
-      "episode": 1,
       "japanese": "まぁ 今 特に不自由もないしね｡",
       "romaji": "Mā, ima toku ni fujiyū mo nai shi ne.",
-      "chinese": "嗯，现在也没什么不方便的啊。",
-      "context": "对话场景",
-      "difficulty": "intermediate"
+      "chinese": "嗯，现在也没什么不方便的啊。"
     },
     {
-      "id": 38,
-      "episode": 1,
       "japanese": "そうなんだよね｡ 家あるしさ お金も自由に使えるじゃん｡",
       "romaji": "Sō nan da yo ne. Ie aru shi sa, okane mo jiyū ni tsukaeru jan.",
-      "chinese": "是啊，有房子住，钱也能自由花。",
-      "context": "对话场景",
-      "difficulty": "intermediate"
+      "chinese": "是啊，有房子住，钱也能自由花。"
     },
     {
-      "id": 39,
-      "episode": 1,
       "japanese": "確かに｡",
       "romaji": "Tashika ni.",
-      "chinese": "确实。",
-      "context": "对话场景",
-      "difficulty": "beginner"
+      "chinese": "确实。"
     },
     {
-      "id": 40,
-      "episode": 1,
       "japanese": "お父さんみたいに へそくりしなくていいもんね｡",
       "romaji": "Otōsan mitai ni hesokuri shinakute ii mon ne.",
-      "chinese": "也不用像爸爸那样私藏私房钱。",
-      "context": "对话场景",
-      "difficulty": "intermediate"
+      "chinese": "也不用像爸爸那样私藏私房钱。"
     },
     {
-      "id": 41,
-      "episode": 1,
       "japanese": "え？ お父さん へそくりしてんの？",
       "romaji": "E? Otōsan hesokuri shiten no?",
-      "chinese": "诶？爸爸有藏私房钱吗？",
-      "context": "对话场景",
-      "difficulty": "beginner"
+      "chinese": "诶？爸爸有藏私房钱吗？"
     },
     {
-      "id": 42,
-      "episode": 1,
       "japanese": "何か 靴の中に コツコツ貯めてるらしいよ｡",
       "romaji": "Nanika, kutsu no naka ni kotsukotsu tameteru rashii yo.",
-      "chinese": "听说他悄悄地藏在鞋子里存钱呢。",
-      "context": "对话场景",
-      "difficulty": "intermediate"
+      "chinese": "听说他悄悄地藏在鞋子里存钱呢。"
     },
     {
-      "id": 43,
-      "episode": 1,
       "japanese": "知らなかった 今度 見てみよう｡",
       "romaji": "Shiranakatta. Kondo mite miyō.",
-      "chinese": "我还真不知道，下次去看看。",
-      "context": "对话场景",
-      "difficulty": "intermediate"
+      "chinese": "我还真不知道，下次去看看。"
     },
     {
-      "id": 44,
-      "episode": 1,
       "japanese": "結婚当初からしてるって お母さん 言ってた｡",
       "romaji": "Kekkon tōsho kara shiterutte, okāsan itteta.",
-      "chinese": "妈妈说他从刚结婚的时候就开始存了。",
-      "context": "对话场景",
-      "difficulty": "intermediate"
+      "chinese": "妈妈说他从刚结婚的时候就开始存了。"
     },
     {
-      "id": 45,
-      "episode": 1,
       "japanese": "バレてんじゃん｡",
       "romaji": "Bareten jan.",
-      "chinese": "这不是早就被发现了吗。",
-      "context": "对话场景",
-      "difficulty": "beginner"
+      "chinese": "这不是早就被发现了吗。"
     },
     {
-      "id": 46,
-      "episode": 1,
       "japanese": "ありがとう｡  は～い 帰りは？",
       "romaji": "Arigatō. Hāi, kaeri wa?",
-      "chinese": "谢谢你。那回去的时候呢？",
-      "context": "对话场景",
-      "difficulty": "beginner"
+      "chinese": "谢谢你。那回去的时候呢？"
     },
     {
-      "id": 47,
-      "episode": 1,
       "japanese": "今日ね みーぽんたちと ごはん食べるから多分 みーぽんに 乗せてってもらうと思う｡",
       "romaji": "Kyō ne, Mīpon-tachi to gohan taberu kara, tabun Mīpon ni nosetette morau to omou.",
-      "chinese": "今天要和美宝她们一起吃饭，回去的时候大概会让美宝载我。",
-      "context": "对话场景",
-      "difficulty": "intermediate"
+      "chinese": "今天要和美宝她们一起吃饭，回去的时候大概会让美宝载我。"
     },
     {
-      "id": 48,
-      "episode": 1,
       "japanese": "は～い｡",
       "romaji": "Hāi.",
-      "chinese": "好～。",
-      "context": "对话场景",
-      "difficulty": "beginner"
+      "chinese": "好～。"
     },
     {
-      "id": 49,
-      "episode": 1,
       "japanese": "じゃあね！",
       "romaji": "Jā ne!",
-      "chinese": "那再见啦！",
-      "context": "对话场景",
-      "difficulty": "beginner"
+      "chinese": "那再见啦！"
     },
     {
-      "id": 50,
-      "episode": 1,
-      "japanese": "おはようございます｡",
-      "romaji": "Ohayō gozaimasu.",
-      "chinese": "早上好。",
-      "context": "对话场景",
-      "difficulty": "beginner"
-    },
-    {
-      "id": 51,
-      "episode": 1,
-      "japanese": "おはようございます｡",
-      "romaji": "ohayou gozaimasu.",
-      "chinese": "大家早上好",
-      "context": "对话场景",
-      "difficulty": ""
-    },
-    {
-      "id": 52,
-      "episode": 1,
-      "japanese": "(職員たち) おはよう｡",
-      "romaji": "(shokuin-tachi) ohayou.",
-      "chinese": "（职员们）早啊",
-      "context": "对话场景",
-      "difficulty": ""
-    },
-    {
-      "id": 53,
-      "episode": 1,
       "japanese": "地方公務員には制服がないので 服装は自由",
       "romaji": "chihou koumuin ni wa seifuku ga nai node fukusou wa jiyuu",
-      "chinese": "地方公务员没有制服，所以服装自由",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "地方公务员没有制服，所以服装自由"
     },
     {
-      "id": 54,
-      "episode": 1,
       "japanese": "男性職員は ネクタイの人が多いけど女性職員は 割とカジュアル",
       "romaji": "dansei shokuin wa nekutai no hito ga ooi kedo josei shokuin wa watari kajuaru",
-      "chinese": "虽然男性职员多系领带，但女性职员相对穿得比较休闲",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "虽然男性职员多系领带，但女性职员相对穿得比较休闲"
     },
     {
-      "id": 55,
-      "episode": 1,
       "japanese": "窓口じゃない日は Ｔシャツやパーカでも可",
       "romaji": "madoguchi janai hi wa T-shatsu ya paaka demo ka",
-      "chinese": "非窗口工作日，穿T恤或连帽衫也可以",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "非窗口工作日，穿T恤或连帽衫也可以"
     },
     {
-      "id": 56,
-      "episode": 1,
       "japanese": "とはいえ 国保年金課で｢地獄に落ちろ｣は ダメな気がする",
       "romaji": "to wa ie kokuhou nenkin ka de 'jigoku ni ochiro' wa dame na ki ga suru",
-      "chinese": "话虽如此，在国保年金课说‘下地狱去吧’感觉不太合适",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "话虽如此，在国保年金课说‘下地狱去吧’感觉不太合适"
     },
     {
-      "id": 57,
-      "episode": 1,
       "japanese": "地方公務員は 福利厚生が充実していたり社会的信用性が高いことなど さまざまなメリットがあるが決して楽な仕事ではない",
       "romaji": "chihou koumuin wa fukuri kousei ga juujitsu shiteitari shakaiteki shinyousei ga takai koto nado samazama na meritto ga aru ga kesshite raku na shigoto de wa nai",
-      "chinese": "地方公务员有完善的福利和较高的社会信用等多种优点，但绝非轻松的工作",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "地方公务员有完善的福利和较高的社会信用等多种优点，但绝非轻松的工作"
     },
     {
-      "id": 58,
-      "episode": 1,
       "japanese": "特に大変なのが窓口業務",
       "romaji": "tokuni taihen na no ga madoguchi gyoumu",
-      "chinese": "尤其是窗口服务的工作特别辛苦",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "尤其是窗口服务的工作特别辛苦"
     },
     {
-      "id": 59,
-      "episode": 1,
       "japanese": "(市民) だから 何とかならないの？",
       "romaji": "(shimin) dakara nantoka naranai no?",
-      "chinese": "我说，难道就不能想个办法吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "我说，难道就不能想个办法吗？"
     },
     {
-      "id": 60,
-      "episode": 1,
       "japanese": "規則なのでね 支払っていただくしか｡",
       "romaji": "kisoku nanode ne shiharatte itadaku shika.",
-      "chinese": "这是规定，只能请您支付了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "这是规定，只能请您支付了。"
     },
     {
-      "id": 61,
-      "episode": 1,
       "japanese": "チッ 何だよ 税金泥棒がよ｡",
       "romaji": "chi nanda yo zeikin dorobou ga yo.",
-      "chinese": "啧，什么嘛，你这偷税贼。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "啧，什么嘛，你这偷税贼。"
     },
     {
-      "id": 62,
-      "episode": 1,
       "japanese": "もういいよ 上の人 呼んでよ｡",
       "romaji": "mou ii yo ue no hito yonde yo.",
-      "chinese": "算了，叫上面的人来吧。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "算了，叫上面的人来吧。"
     },
     {
-      "id": 63,
-      "episode": 1,
       "japanese": "少々お待ちください｡",
       "romaji": "shoushou omachi kudasai.",
-      "chinese": "请稍等。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "请稍等。"
     },
     {
-      "id": 64,
-      "episode": 1,
       "japanese": "毎日 とにかく怒られる",
       "romaji": "mainichi tonikaku okorareru",
-      "chinese": "每天总是挨骂",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "每天总是挨骂"
     },
     {
-      "id": 65,
-      "episode": 1,
       "japanese": "谷口課長 すみません あちら よろしいですか？",
       "romaji": "Taniguchi kachou, sumimasen, achira yoroshii desu ka?",
-      "chinese": "谷口课长，不好意思，可以请您过去一下吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "谷口课长，不好意思，可以请您过去一下吗？"
     },
     {
-      "id": 66,
-      "episode": 1,
       "japanese": "(谷口) あ はいはい｡",
       "romaji": "(Taniguchi) a hai hai.",
-      "chinese": "（谷口）啊，知道了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "（谷口）啊，知道了。"
     },
     {
-      "id": 67,
-      "episode": 1,
       "japanese": "部署によっては 胸ぐらをつかまれてシャツを 破られることもあるのでワイシャツの替えを 常備しているらしい",
       "romaji": "busho ni yotte wa munegura o tsukamarete shatsu o yaburareru koto mo aru node waishatsu no kae o joubi shite iru rashii",
-      "chinese": "有些部门甚至会被抓住衣领扯破衬衫，据说常备替换的白衬衫",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "有些部门甚至会被抓住衣领扯破衬衫，据说常备替换的白衬衫"
     },
     {
-      "id": 68,
-      "episode": 1,
       "japanese": "窓口といえば 昔から地味に 気になっていることがある",
       "romaji": "madoguchi to ieba mukashi kara jimi ni ki ni natte iru koto ga aru",
-      "chinese": "说到窗口，我一直默默在意一件事",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "说到窗口，我一直默默在意一件事"
     },
     {
-      "id": 69,
-      "episode": 1,
       "japanese": "それは 来た人を迎える時の言葉",
       "romaji": "sore wa kita hito o mukaeru toki no kotoba",
-      "chinese": "那就是迎接来访者时说的话",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "那就是迎接来访者时说的话"
     },
     {
-      "id": 70,
-      "episode": 1,
       "japanese": "市役所は お店ではないので｢いらっしゃいませ｣とは 言えない",
       "romaji": "shiyakusho wa omise de wa nai node 'irasshaimase' to wa ienai",
-      "chinese": "市政府不是商店，所以不能说‘欢迎光临’",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "市政府不是商店，所以不能说‘欢迎光临’"
     },
     {
-      "id": 71,
-      "episode": 1,
       "japanese": "とはいえ 他に ちょうどいい言葉もないので…",
       "romaji": "to wa ie hoka ni choudo ii kotoba mo nai node...",
-      "chinese": "不过也没有其他合适的词语……",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "不过也没有其他合适的词语……"
     },
     {
-      "id": 72,
-      "episode": 1,
       "japanese": "96番の方？  はい｡",
       "romaji": "96-ban no kata? Hai.",
-      "chinese": "96号的请？ 是的。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "96号的请？ 是的。"
     },
     {
-      "id": 73,
-      "episode": 1,
       "japanese": "毎回 ちょっと変な間が空く",
       "romaji": "maikai chotto hen na ma ga aku",
-      "chinese": "每次都会有点尴尬的间隔",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "每次都会有点尴尬的间隔"
     },
     {
-      "id": 74,
-      "episode": 1,
       "japanese": "お昼は大体 同期３人で 中華かパスタ たまに蕎麦",
       "romaji": "ohiru wa daitai douki san-nin de chuuka ka pasuta tamani soba",
-      "chinese": "午饭基本上和同期的三个人一起吃中餐或意大利面，偶尔吃荞麦面",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "午饭基本上和同期的三个人一起吃中餐或意大利面，偶尔吃荞麦面"
     },
     {
-      "id": 75,
-      "episode": 1,
       "japanese": "もうさ ｢いらっしゃいませ｣で 統一してほしいよね｡",
       "romaji": "mou sa 'irasshaimase' de touitsu shite hoshii yo ne.",
-      "chinese": "真希望大家都统一说‘欢迎光临’",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "真希望大家都统一说‘欢迎光临’"
     },
     {
-      "id": 76,
-      "episode": 1,
       "japanese": "(春菜) 別に間違ってはないもんね｡",
       "romaji": "(Haruna) betsu ni machigatte wa nai mon ne.",
-      "chinese": "（春菜）其实也没错嘛。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "（春菜）其实也没错嘛。"
     },
     {
-      "id": 77,
-      "episode": 1,
       "japanese": "(美樹) 私 ｢こんにちは｣って 言ってるよ｡",
       "romaji": "(Miki) watashi 'konnichiwa' tte itteru yo.",
-      "chinese": "（美树）我都说‘你好’呢。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "（美树）我都说‘你好’呢。"
     },
     {
-      "id": 78,
-      "episode": 1,
       "japanese": "私も前までは ｢こんにちは｣って 言ってたけどさ 一回キレられたんだよね なれなれしいっつって｡普通に挨拶でしょ｡",
       "romaji": "watashi mo mae made wa 'konnichiwa' tte itteta kedo sa, ikkai kirerareta n da yo ne, narenare shii ttsutte. futsuu ni aisatsu desho.",
-      "chinese": "我以前也说‘你好’，但有一次被骂说太亲昵了，这不就是普通的问候吗。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "我以前也说‘你好’，但有一次被骂说太亲昵了，这不就是普通的问候吗。"
     },
     {
-      "id": 79,
-      "episode": 1,
       "japanese": "でしょ？ 意味分かんなくない？",
       "romaji": "desho? imi wakannaku nai?",
-      "chinese": "是吧？是不是很莫名其妙？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "是吧？是不是很莫名其妙？"
     },
     {
-      "id": 80,
-      "episode": 1,
       "japanese": "それは ひどいね｡",
       "romaji": "sore wa hidoi ne.",
-      "chinese": "那真的很过分。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "那真的很过分。"
     },
     {
-      "id": 81,
-      "episode": 1,
       "japanese": "そういえば 保育士さんって ",
       "romaji": "sou ieba hoikushi-san tte",
-      "chinese": "说起来，保育员好像",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "说起来，保育员好像"
     },
     {
-      "id": 82,
-      "episode": 1,
       "japanese": "子供迎えに来た親に｢おかえりなさい｣って 言うんだって｡",
       "romaji": "kodomo mukae ni kita oya ni 'okaerinasai' tte iun datte.",
-      "chinese": "会对来接孩子的家长说‘欢迎回家’",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "会对来接孩子的家长说‘欢迎回家’"
     },
     {
-      "id": 83,
-      "episode": 1,
       "japanese": "仕事帰りの人が多いからだ｡",
       "romaji": "shigoto kaeri no hito ga ooi kara da.",
-      "chinese": "因为很多家长是下班后来接孩子的",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "因为很多家长是下班后来接孩子的"
     },
     {
-      "id": 84,
-      "episode": 1,
       "japanese": "(美樹) そうそう で 朝は｢いってらっしゃい｣って 送り出すんだって｡",
       "romaji": "(Miki) sou sou de asa wa 'itterasshai' tte okuridashun datte.",
-      "chinese": "（美树）没错，早上会说‘路上小心’送别家长",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "（美树）没错，早上会说‘路上小心’送别家长"
     },
     {
-      "id": 85,
-      "episode": 1,
       "japanese": "そのまんま仕事に行くからだ｡",
       "romaji": "sono manma shigoto ni iku kara da.",
-      "chinese": "因为他们接完孩子后直接去上班",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "因为他们接完孩子后直接去上班"
     },
     {
-      "id": 86,
-      "episode": 1,
       "japanese": "じゃあ うちらも ｢おかえりなさい｣にする？",
       "romaji": "jaa uchira mo 'okaerinasai' ni suru?",
-      "chinese": "那我们也改说‘欢迎回来’吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "那我们也改说‘欢迎回来’吗？"
     },
     {
-      "id": 87,
-      "episode": 1,
       "japanese": "絶対キレられる｡",
       "romaji": "zettai kirerareru.",
-      "chinese": "肯定会被骂的。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "肯定会被骂的。"
     },
     {
-      "id": 88,
-      "episode": 1,
       "japanese": "あとさ 窓口の締めの挨拶って ムズくない？",
       "romaji": "ato sa madoguchi no shime no aisatsu tte muzukunai?",
-      "chinese": "还有啊，窗口工作的结束问候是不是很难说？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "还有啊，窗口工作的结束问候是不是很难说？"
     },
     {
-      "id": 89,
-      "episode": 1,
       "japanese": "分かるよ｡だって ｢ありがとうございました｣ じゃないもんね｡",
       "romaji": "wakaru yo. datte 'arigatou gozaimashita' janai mon ne.",
-      "chinese": "懂的啦，因为不能说‘谢谢惠顾’嘛。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "懂的啦，因为不能说‘谢谢惠顾’嘛。"
     },
     {
-      "id": 90,
-      "episode": 1,
       "japanese": "そう｡ ｢お疲れさまでした｣って言うのも 変だしね｡",
       "romaji": "sou. 'otsukaresama deshita' tte iu no mo hen da shi ne.",
-      "chinese": "对，说‘辛苦了’也很奇怪。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "对，说‘辛苦了’也很奇怪。"
     },
     {
-      "id": 91,
-      "episode": 1,
       "japanese": "しっくりくるのないよね｡  うん｡",
       "romaji": "shikkuri kuru no nai yo ne. un.",
-      "chinese": "总觉得没有合适的吧。嗯。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "总觉得没有合适的吧。嗯。"
     },
     {
-      "id": 92,
-      "episode": 1,
       "japanese": "じゃあ ｢いってらっしゃい｣にする？",
       "romaji": "jaa 'itterasshai' ni suru?",
-      "chinese": "那就改说“路上小心”吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "那就改说“路上小心”吗？"
     },
     {
-      "id": 93,
-      "episode": 1,
       "japanese": "絶対キレられる｡",
       "romaji": "zettai kirerareru.",
-      "chinese": "绝对会被骂的。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "绝对会被骂的。"
     },
     {
-      "id": 94,
-      "episode": 1,
       "japanese": "こうやって私たちは 午前中に たまったストレスを吐き出し午後から また新たなストレスをためる",
       "romaji": "kou yatte watashitachi wa gozenchuu ni tamatta sutoresu o hakidashi gogo kara mata arata na sutoresu o tameru",
-      "chinese": "我们就是这样，把上午积累的压力吐出来，下午又再积累新的压力。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "我们就是这样，把上午积累的压力吐出来，下午又再积累新的压力。"
     },
     {
-      "id": 95,
-      "episode": 1,
       "japanese": "この仕事で めんどくさいことといえば何をするにも いちいち決裁を 取らなければいけないこと",
       "romaji": "kono shigoto de mendokusai koto to ieba nani o suru ni mo ichi ichi kessai o toranakereba ikenai koto",
-      "chinese": "说到这份工作的麻烦，就是做什么事情都必须逐一取得批准。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "说到这份工作的麻烦，就是做什么事情都必须逐一取得批准。"
     },
     {
-      "id": 96,
-      "episode": 1,
       "japanese": "例えば シャーペン１本買うのにも自分の課の係長と課長そして 経理係の係長と課長の 決裁を取ってから業者に発注しなくてはいけない",
       "romaji": "tatoeba shaapen ippon kau no ni mo jibun no ka no kakarichou to kachou soshite keiri gakari no kakarichou to kachou no kessai o totte kara gyousha ni hacchuu shinakute wa ikenai",
-      "chinese": "比如说，就连买一支自动铅笔，也得先取得自己科的课长和部长，以及会计科课长和部长的批准，之后才能向供应商下订单。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "比如说，就连买一支自动铅笔，也得先取得自己科的课长和部长，以及会计科课长和部长的批准，之后才能向供应商下订单。"
     },
     {
-      "id": 97,
-      "episode": 1,
       "japanese": "だから シャーペン１本買うのに １か月近くかかったりする",
       "romaji": "dakara shaapen ippon kau no ni ichi kagetsu chikaku kakattari suru",
-      "chinese": "所以买一支自动铅笔可能就要花将近一个月的时间。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "所以买一支自动铅笔可能就要花将近一个月的时间。"
     },
     {
-      "id": 98,
-      "episode": 1,
       "japanese": "(美奈子) あれ どうにかしてほしいですよね｡",
       "romaji": "(Minako) are dounika shite hoshii desu yo ne.",
-      "chinese": "（美奈子）真的希望能想办法解决呢。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "（美奈子）真的希望能想办法解决呢。"
     },
     {
-      "id": 99,
-      "episode": 1,
       "japanese": "ホント無駄だよね｡  無駄ですね｡",
       "romaji": "honto muda da yo ne. muda desu ne.",
-      "chinese": "真的很浪费啊。完全没必要。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "真的很浪费啊。完全没必要。"
     },
     {
-      "id": 100,
-      "episode": 1,
       "japanese": "何か 友達ん家で｢トイレ 借りていい？｣って聞くのに似たものがありますよね｡",
       "romaji": "nanika tomodachi no ie de 'toire karite ii?' tte kiku no ni nita mono ga arimasu yo ne.",
-      "chinese": "有点像是在朋友家问‘可以借用厕所吗？’的感觉。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "有点像是在朋友家问‘可以借用厕所吗？’的感觉。"
     },
     {
-      "id": 101,
-      "episode": 1,
       "japanese": "トイレ？",
       "romaji": "toire?",
-      "chinese": "厕所？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "厕所？"
     },
     {
-      "id": 102,
-      "episode": 1,
       "japanese": "あれも別に ｢ダメ｣って 言う人なんかいないけどなぜか許可を 取っちゃうじゃないですか｡",
       "romaji": "are mo betsu ni 'dame' tte iu hito nanka inai kedo nazeka kyoka o totchau janai desu ka.",
-      "chinese": "那个也没人会直接说‘不行’，但不知为何我们还是会先去征得许可。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "那个也没人会直接说‘不行’，但不知为何我们还是会先去征得许可。"
     },
     {
-      "id": 103,
-      "episode": 1,
       "japanese": "トイレは すぐに借りられるけどね｡",
       "romaji": "toire wa sugu ni karirareru kedo ne.",
-      "chinese": "厕所的话，很快就能借到。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "厕所的话，很快就能借到。"
     },
     {
-      "id": 104,
-      "episode": 1,
       "japanese": "そうですね｡",
       "romaji": "sou desu ne.",
-      "chinese": "是啊，没错。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "是啊，没错。"
     },
     {
-      "id": 105,
-      "episode": 1,
       "japanese": "ちなみに彼女は今 他人の湯飲み を無許可で使っている",
       "romaji": "chinami ni kanojo wa ima tanin no yunomi o mukyoka de tsukatte iru",
-      "chinese": "顺便说一下，她现在正在未经允许使用别人的茶杯。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "顺便说一下，她现在正在未经允许使用别人的茶杯。"
     },
     {
-      "id": 106,
-      "episode": 1,
       "japanese": "幼なじみのなっちと みーぽん",
       "romaji": "osanajimi no Nacchi to Miipon",
-      "chinese": "儿时玩伴夏唧和美宝",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "儿时玩伴夏唧和美宝"
     },
     {
-      "id": 107,
-      "episode": 1,
       "japanese": "２人とは 月２くらいのペースで ごはんに行く",
       "romaji": "futari to wa tsuki ni kai kurai no pēsu de gohan ni iku",
-      "chinese": "和她们两个大概一个月会一起吃两次饭。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "和她们两个大概一个月会一起吃两次饭。"
     },
     {
-      "id": 108,
-      "episode": 1,
       "japanese": "みーぽん ちょっと過ぎちゃったけどお誕生日おめでとう！",
       "romaji": "Miipon chotto sugichatta kedo otanjoubi omedetou!",
-      "chinese": "美宝，虽然晚了一点，生日快乐！",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "美宝，虽然晚了一点，生日快乐！"
     },
     {
-      "id": 109,
-      "episode": 1,
       "japanese": "はい これ うちら２人から｡",
       "romaji": "hai, kore uchira futari kara.",
-      "chinese": "这是我们两个送的礼物。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "这是我们两个送的礼物。"
     },
     {
-      "id": 110,
-      "episode": 1,
       "japanese": "やった～ ありがとう 開けていい？",
       "romaji": "yatta~ arigatou. akete ii?",
-      "chinese": "太好了，谢谢！我可以打开吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "太好了，谢谢！我可以打开吗？"
     },
     {
-      "id": 111,
-      "episode": 1,
       "japanese": "うん 開けて 開けて｡",
       "romaji": "un, akete akete.",
-      "chinese": "嗯，快打开吧。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "嗯，快打开吧。"
     },
     {
-      "id": 112,
-      "episode": 1,
       "japanese": "何だろう 何だろう｡",
       "romaji": "nandarou nandarou.",
-      "chinese": "会是什么呢？会是什么呢？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "会是什么呢？会是什么呢？"
     },
     {
-      "id": 113,
-      "episode": 1,
       "japanese": "あっ！ これ欲しかったやつ！",
       "romaji": "ah! kore hoshikatta yatsu!",
-      "chinese": "啊！就是我想要的那个！",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "啊！就是我想要的那个！"
     },
     {
-      "id": 114,
-      "episode": 1,
       "japanese": "やった～｡",
       "romaji": "yatta~.",
-      "chinese": "太棒了！",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "太棒了！"
     },
     {
-      "id": 115,
-      "episode": 1,
       "japanese": "よかった～｡",
       "romaji": "yokatta~.",
-      "chinese": "太好了！",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "太好了！"
     },
     {
-      "id": 116,
-      "episode": 1,
       "japanese": "これ結構したんじゃないの？",
       "romaji": "kore kekkou shitan janai no?",
-      "chinese": "这个应该挺贵的吧？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "这个应该挺贵的吧？"
     },
     {
-      "id": 117,
-      "episode": 1,
       "japanese": "いや そんなでもないよね｡",
       "romaji": "iya sonna demo nai yo ne.",
-      "chinese": "不，也没那么贵吧。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "不，也没那么贵吧。"
     },
     {
-      "id": 118,
-      "episode": 1,
       "japanese": "まぁ ２人からだしね｡",
       "romaji": "maa futari kara da shi ne.",
-      "chinese": "而且是两个人一起送的嘛。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "而且是两个人一起送的嘛。"
     },
     {
-      "id": 119,
-      "episode": 1,
       "japanese": "え～ ありがとう めっちゃうれしい｡",
       "romaji": "ee~ arigatou meccha ureshii.",
-      "chinese": "哎呀，谢谢你们，我超开心！",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "哎呀，谢谢你们，我超开心！"
     },
     {
-      "id": 120,
-      "episode": 1,
       "japanese": "使わせていただきます｡",
       "romaji": "tsukawasete itadakimasu.",
-      "chinese": "我会好好使用的。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "我会好好使用的。"
     },
     {
-      "id": 121,
-      "episode": 1,
       "japanese": "みーぽん｡",
       "romaji": "Miipon.",
-      "chinese": "美宝。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "美宝。"
     },
     {
-      "id": 122,
-      "episode": 1,
-      "japanese": "ん？",
-      "romaji": "n?",
-      "chinese": "嗯？",
-      "context": "对话场景",
-      "difficulty": ""
-    },
-    {
-      "id": 123,
-      "episode": 1,
       "japanese": "今 一瞬あっち見た？",
       "romaji": "ima isshun acchi mita?",
-      "chinese": "刚才你看那边了一下吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "刚才你看那边了一下吗？"
     },
     {
-      "id": 124,
-      "episode": 1,
       "japanese": "あっち？",
       "romaji": "acchi?",
-      "chinese": "那边？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "那边？"
     },
     {
-      "id": 126,
-      "episode": 1,
       "japanese": "もしかしてさ 店員さんが何か 持って来るかなって思ったよね？",
       "romaji": "moshikashite sa ten'in san ga nanika mottekuru kana tte omotta yo ne?",
-      "chinese": "难道你以为店员会拿什么东西过来吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "难道你以为店员会拿什么东西过来吗？"
     },
     {
-      "id": 127,
-      "episode": 1,
-      "japanese": "ん？ 何を？",
-      "romaji": "n? nani o?",
-      "chinese": "嗯？什么东西？",
-      "context": "对话场景",
-      "difficulty": ""
-    },
-    {
-      "id": 128,
-      "episode": 1,
       "japanese": "流れ的にさ 花火が バチバチ～ってなってるやつ持って来るって思った？",
       "romaji": "nagare teki ni sa hanabi ga bachibachi tte natteru yatsu mottekuru tte omotta?",
-      "chinese": "你是不是觉得按照这种气氛，店员会拿着发出噼啪声的烟花过来？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "你是不是觉得按照这种气氛，店员会拿着发出噼啪声的烟花过来？"
     },
     {
-      "id": 129,
-      "episode": 1,
       "japanese": "えっ そうなの？",
       "romaji": "eh? sou nano?",
-      "chinese": "诶，是这样吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "诶，是这样吗？"
     },
     {
-      "id": 130,
-      "episode": 1,
       "japanese": "ちょっとだけ思った｡",
       "romaji": "chotto dake omotta.",
-      "chinese": "我有稍微想了一下。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "我有稍微想了一下。"
     },
     {
-      "id": 131,
-      "episode": 1,
       "japanese": "普通 流れ的にそうだもんね｡",
       "romaji": "futsuu nagare teki ni sou da mon ne.",
-      "chinese": "对啊，照理说通常都是这样嘛",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "对啊，照理说通常都是这样嘛"
     },
     {
-      "id": 132,
-      "episode": 1,
       "japanese": "ごめんごめん 今回ないのよ｡",
       "romaji": "gomen gomen konkai nai no yo.",
-      "chinese": "不好意思不好意思，这次没有啦",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "不好意思不好意思，这次没有啦"
     },
     {
-      "id": 133,
-      "episode": 1,
       "japanese": "そうなんだ 全然全然｡",
       "romaji": "sou nan da zenzen zenzen.",
-      "chinese": "是这样啊，完全没关系",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "是这样啊，完全没关系"
     },
     {
-      "id": 134,
-      "episode": 1,
       "japanese": "みーぽん ああいうの嫌いじゃん｡",
       "romaji": "Miipon aaiu no kirai jan.",
-      "chinese": "美宝，你不是不喜欢那种东西吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "美宝，你不是不喜欢那种东西吗？"
     },
     {
-      "id": 135,
-      "episode": 1,
       "japanese": "毎回 みーぽん恥ずかしがるからね 今年はなしにしたの｡",
       "romaji": "maikai Miipon hazukashigaru kara ne kotoshi wa nashi ni shita no.",
-      "chinese": "因为美宝每次都会害羞，所以今年就没办了",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "因为美宝每次都会害羞，所以今年就没办了"
     },
     {
-      "id": 136,
-      "episode": 1,
       "japanese": "そうなんだ ありがとね｡",
       "romaji": "sou nan da arigatou ne.",
-      "chinese": "是这样啊，谢谢你们哦",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "是这样啊，谢谢你们哦"
     },
     {
-      "id": 137,
-      "episode": 1,
       "japanese": "えっ… もしかして やってほしかった？",
       "romaji": "e… moshikashite yatte hoshikatta?",
-      "chinese": "诶…难道你其实是希望我们办的吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "诶…难道你其实是希望我们办的吗？"
     },
     {
-      "id": 138,
-      "episode": 1,
       "japanese": "いやいや 全然 そういうことじゃ ない｡",
       "romaji": "iya iya zenzen sou iu koto ja nai.",
-      "chinese": "才不是呢，完全不是那回事",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "才不是呢，完全不是那回事"
     },
     {
-      "id": 139,
-      "episode": 1,
       "japanese": "いやさ あの 前にさ あーちんの 誕生日会 ここでやったじゃん｡",
       "romaji": "iya sa ano mae ni sa Aachin no tanjoubi kai koko de yatta jan.",
-      "chinese": "你看，我们之前不是在这里办过阿千的生日会吗",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "你看，我们之前不是在这里办过阿千的生日会吗"
     },
     {
-      "id": 140,
-      "episode": 1,
       "japanese": "やったね｡",
       "romaji": "yatta ne.",
-      "chinese": "对啊",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "对啊"
     },
     {
-      "id": 141,
-      "episode": 1,
       "japanese": "その時はさバチバチ～のやつあったじゃん｡",
       "romaji": "sono toki wa sa bachibachi~ no yatsu atta jan.",
-      "chinese": "那时候不是有仙女棒什么的吗",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "那时候不是有仙女棒什么的吗"
     },
     {
-      "id": 142,
-      "episode": 1,
       "japanese": "だってほら 私はやってほしいﾀｲﾌﾟの人間だからね｡",
       "romaji": "datte hora watashi wa yatte hoshii taipu no ningen da kara ne.",
-      "chinese": "因为我就是那种喜欢别人帮我庆祝的人",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "因为我就是那种喜欢别人帮我庆祝的人"
     },
     {
-      "id": 143,
-      "episode": 1,
       "japanese": "それは全然いいんだけど｡",
       "romaji": "sore wa zenzen ii n da kedo.",
-      "chinese": "那个完全没问题啦",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "那个完全没问题啦"
     },
     {
-      "id": 144,
-      "episode": 1,
       "japanese": "今日さ あの時と同じ店員さんだから何か 同じメンバーなのに あの子だけ バチバチ～のやつやってもらえないんだとか 思われてないかなと思って｡",
       "romaji": "kyou sa ano toki to onaji ten'in san da kara nanika onaji menbaa nano ni ano ko dake bachibachi~ no yatsu yatte moraenai n da toka omowarete nai ka na to omotte.",
-      "chinese": "但因为今天是同一个店员，我在想会不会被认为同一个团队里只有我没有被用仙女棒庆祝",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "但因为今天是同一个店员，我在想会不会被认为同一个团队里只有我没有被用仙女棒庆祝"
     },
     {
-      "id": 145,
-      "episode": 1,
       "japanese": "気にし過ぎじゃない？",
       "romaji": "ki ni shi sugi ja nai?",
-      "chinese": "你想太多了吧？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "你想太多了吧？"
     },
     {
-      "id": 146,
-      "episode": 1,
       "japanese": "多分 覚えてないと思うよ｡",
       "romaji": "tabun oboete nai to omou yo.",
-      "chinese": "我觉得他应该不记得了",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "我觉得他应该不记得了"
     },
     {
-      "id": 147,
-      "episode": 1,
       "japanese": "そうだよね うん｡",
       "romaji": "sou da yo ne un.",
-      "chinese": "也是啊，嗯",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "也是啊，嗯"
     },
     {
-      "id": 148,
-      "episode": 1,
       "japanese": "一応 店員さんに伝えとこっか？",
       "romaji": "ichiou ten'in san ni tsutae toko ka?",
-      "chinese": "要不要先跟店员说一下？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "要不要先跟店员说一下？"
     },
     {
-      "id": 149,
-      "episode": 1,
       "japanese": "えっ 何を？",
       "romaji": "e nani wo?",
-      "chinese": "说什么？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "说什么？"
     },
     {
-      "id": 150,
-      "episode": 1,
       "japanese": "何か 今回 そのバチバチ～のやつ やらないのはこの子が苦手だからであって そういうのが｡",
       "romaji": "nanika konkai sono bachibachi~ no yatsu yaranai no wa kono ko ga nigate da kara de atte sou iu no ga.",
-      "chinese": "就是说，这次不办仙女棒庆祝，是因为你不喜欢那种东西",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "就是说，这次不办仙女棒庆祝，是因为你不喜欢那种东西"
     },
     {
-      "id": 151,
-      "episode": 1,
       "japanese": "決して この子の扱いが 低いとかじゃないですよって｡",
       "romaji": "kesshite kono ko no atsukai ga hikui toka ja nai desu yo tte.",
-      "chinese": "绝对不是对你态度差什么的啦",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "绝对不是对你态度差什么的啦"
     },
     {
-      "id": 152,
-      "episode": 1,
       "japanese": "やめて… 余計 恥ずかしいから｡",
       "romaji": "yamete… yokei hazukashii kara.",
-      "chinese": "别说了…会更尴尬的啦",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "别说了…会更尴尬的啦"
     },
     {
-      "id": 153,
-      "episode": 1,
       "japanese": "ホント？ 大丈夫？",
       "romaji": "honto? daijoubu?",
-      "chinese": "真的吗？没问题吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "真的吗？没问题吗？"
     },
     {
-      "id": 154,
-      "episode": 1,
       "japanese": "変な感じになっちゃうから｡",
       "romaji": "hen na kanji ni nacchau kara.",
-      "chinese": "会弄得很尴尬的",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "会弄得很尴尬的"
     },
     {
-      "id": 155,
-      "episode": 1,
       "japanese": "そういえばさ 昨日 机 整理してたらさすっごい懐かしいの見つけた｡",
       "romaji": "sou ieba sa kinou tsukue seiri shitara sa suggoi natsukashii no mitsuketa.",
-      "chinese": "说起来，昨天整理桌子时发现了超怀念的东西",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "说起来，昨天整理桌子时发现了超怀念的东西"
     },
     {
-      "id": 156,
-      "episode": 1,
       "japanese": "何？",
       "romaji": "nani?",
-      "chinese": "什么？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "什么？"
     },
     {
-      "id": 157,
-      "episode": 1,
       "japanese": "見て これ｡",
       "romaji": "mite kore.",
-      "chinese": "看这个",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "看这个"
     },
     {
-      "id": 158,
-      "episode": 1,
       "japanese": "う～わ 超懐かしい｡",
       "romaji": "uu~wa chou natsukashii.",
-      "chinese": "哇，好怀念啊",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "哇，好怀念啊"
     },
     {
-      "id": 159,
-      "episode": 1,
       "japanese": "え～ 何これ いつ頃？",
       "romaji": "e~ nani kore itsu goro?",
-      "chinese": "诶，这是什么时候的？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "诶，这是什么时候的？"
     },
     {
-      "id": 160,
-      "episode": 1,
       "japanese": "これ ラウンドワン出来て すぐだから 中２とか？",
       "romaji": "kore raundowan dekite sugu da kara chuu ni toka?",
-      "chinese": "这是ROUND1刚开业的时候，应该是初二左右吧？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "这是ROUND1刚开业的时候，应该是初二左右吧？"
     },
     {
-      "id": 161,
-      "episode": 1,
       "japanese": "行ったね｡",
       "romaji": "itta ne.",
-      "chinese": "我记得去过",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "我记得去过"
     },
     {
-      "id": 162,
-      "episode": 1,
       "japanese": "ね｡",
       "romaji": "ne.",
-      "chinese": "对啊",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "对啊"
     },
     {
-      "id": 163,
-      "episode": 1,
       "japanese": "何だっけ？ このポーズ｡",
       "romaji": "nan dakke? kono poozu.",
-      "chinese": "这姿势叫什么来着？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "这姿势叫什么来着？"
     },
     {
-      "id": 164,
-      "episode": 1,
       "japanese": "これでしょ？",
       "romaji": "kore desho?",
-      "chinese": "就是这个吧？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "就是这个吧？"
     },
     {
-      "id": 165,
-      "episode": 1,
       "japanese": "何か 専門学校のポスターの真似｡",
       "romaji": "nanika senmon gakkou no posutaa no mane.",
-      "chinese": "好像是在模仿专科学校的海报",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "好像是在模仿专科学校的海报"
     },
     {
-      "id": 166,
-      "episode": 1,
       "japanese": "あ～ 何だっけ あれ あれ｡",
       "romaji": "aa nan dakke are are.",
-      "chinese": "啊，这叫什么来着，那个那个",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "啊，这叫什么来着，那个那个"
     },
     {
-      "id": 167,
-      "episode": 1,
       "japanese": "熊谷ビューティー学院！",
       "romaji": "Kumagaya Byuutii Gakuin!",
-      "chinese": "熊谷美容学院！",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "熊谷美容学院！"
     },
     {
-      "id": 168,
-      "episode": 1,
       "japanese": "あ～ そうだ 懐かしい｡",
       "romaji": "aa sou da natsukashii.",
-      "chinese": "啊，对了，好怀念啊",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "啊，对了，好怀念啊"
     },
     {
-      "id": 169,
-      "episode": 1,
       "japanese": "この時 やたら これやってたよね｡",
       "romaji": "kono toki yatara kore yattetayo ne.",
-      "chinese": "那个时候我们一直在做这个动作呢",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "那个时候我们一直在做这个动作呢"
     },
     {
-      "id": 170,
-      "episode": 1,
       "japanese": "(麻美:美穂) やってた｡ 何が面白かったんだろ｡",
       "romaji": "(Asami: Miho) yatteta. nani ga omoshirokatta n darou.",
-      "chinese": "（麻美、美穗）对啊，不知道有什么好笑的呢",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "（麻美、美穗）对啊，不知道有什么好笑的呢"
     },
     {
-      "id": 171,
-      "episode": 1,
       "japanese": "結局 誰もここ行ってないしね｡",
       "romaji": "kekkyoku dare mo koko ittenai shi ne.",
-      "chinese": "结果谁也没去那边呢。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "结果谁也没去那边呢。"
     },
     {
-      "id": 172,
-      "episode": 1,
       "japanese": "確かに｡",
       "romaji": "tashika ni.",
-      "chinese": "确实是啊。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "确实是啊。"
     },
     {
-      "id": 173,
-      "episode": 1,
       "japanese": "いや みさごん行ってたよ｡",
       "romaji": "iya misagon ittetayo.",
-      "chinese": "不，美佐贡去了啊。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "不，美佐贡去了啊。"
     },
     {
-      "id": 174,
-      "episode": 1,
       "japanese": "そうなんだ｡",
       "romaji": "sou nan da.",
-      "chinese": "是这样啊。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "是这样啊。"
     },
     {
-      "id": 175,
-      "episode": 1,
       "japanese": "みさごんね 確か熊谷ビューティー学院だよ｡",
       "romaji": "misagon ne, tashika Kumagaya Byuutii Gakuin da yo.",
-      "chinese": "美佐贡嘛，记得是去的熊谷美容学院。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "美佐贡嘛，记得是去的熊谷美容学院。"
     },
     {
-      "id": 176,
-      "episode": 1,
       "japanese": "知らなかった｡",
       "romaji": "shiranakatta.",
-      "chinese": "我还不知道呢。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "我还不知道呢。"
     },
     {
-      "id": 177,
-      "episode": 1,
       "japanese": "ってか ｢みさごん｣って 久しぶりに聞いたんだけど｡",
       "romaji": "tte ka 'misagon' tte hisashiburi ni kiita n da kedo.",
-      "chinese": "话说，好久没听到‘美佐贡’这个名字了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "话说，好久没听到‘美佐贡’这个名字了。"
     },
     {
-      "id": 178,
-      "episode": 1,
       "japanese": "(麻美)｢ごんみさ｣ね｡",
       "romaji": "(Asami) 'Gonmisa' ne.",
-      "chinese": "（麻美说）还有‘贡美佐’呢。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "（麻美说）还有‘贡美佐’呢。"
     },
     {
-      "id": 179,
-      "episode": 1,
       "japanese": "途中から｢ごんみさ｣になってたね｡",
       "romaji": "tochuu kara 'gonmisa' ni natte ta ne.",
-      "chinese": "中途还变成‘贡美佐’了呢。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "中途还变成‘贡美佐’了呢。"
     },
     {
-      "id": 180,
-      "episode": 1,
       "japanese": "後半 ｢ごんちゃん｣だったよ｡",
       "romaji": "kouhan 'gonchan' datta yo.",
-      "chinese": "后半还叫‘贡酱’呢。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "后半还叫‘贡酱’呢。"
     },
     {
-      "id": 181,
-      "episode": 1,
       "japanese": "一部では ｢ちゃんごん｣だったよ｡",
       "romaji": "ichibu de wa 'changon' datta yo.",
-      "chinese": "有些人还叫她‘酱贡’呢。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "有些人还叫她‘酱贡’呢。"
     },
     {
-      "id": 182,
-      "episode": 1,
       "japanese": "もう原形ないし｡",
       "romaji": "mou genkei nai shi.",
-      "chinese": "已经没了本来的名字了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "已经没了本来的名字了。"
     },
     {
-      "id": 183,
-      "episode": 1,
       "japanese": "そういえばさ真里ちゃん 覚えてる？",
       "romaji": "sou ieba sa, Mari-chan oboeteru?",
-      "chinese": "说起来，你们还记得真里吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "说起来，你们还记得真里吗？"
     },
     {
-      "id": 184,
-      "episode": 1,
       "japanese": "真里ちゃんって宇野真里ちゃん？",
       "romaji": "Mari-chan tte Uno Mari-chan?",
-      "chinese": "你是说宇野真里吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "你是说宇野真里吗？"
     },
     {
-      "id": 185,
-      "episode": 1,
       "japanese": "そう 生徒会長の｡",
       "romaji": "sou, seitokaichou no.",
-      "chinese": "对，就是那个学生会长。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "对，就是那个学生会长。"
     },
     {
-      "id": 186,
-      "episode": 1,
       "japanese": "今 何やってるか知ってる？",
       "romaji": "ima nani yatteru ka shitteru?",
-      "chinese": "你们知道她现在在做什么吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "你们知道她现在在做什么吗？"
     },
     {
-      "id": 187,
-      "episode": 1,
       "japanese": "えっ 知らない｡",
       "romaji": "e, shiranai.",
-      "chinese": "不知道。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "不知道。"
     },
     {
-      "id": 188,
-      "episode": 1,
       "japanese": "パイロット｡",
       "romaji": "pairotto.",
-      "chinese": "飞行员。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "飞行员。"
     },
     {
-      "id": 189,
-      "episode": 1,
       "japanese": "え～ すごっ！",
       "romaji": "e~ sugo!",
-      "chinese": "哇，好厉害！",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "哇，好厉害！"
     },
     {
-      "id": 190,
-      "episode": 1,
       "japanese": "すごくない？",
       "romaji": "sugokunai?",
-      "chinese": "是不是很厉害？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "是不是很厉害？"
     },
     {
-      "id": 191,
-      "episode": 1,
       "japanese": "ついに物理的にも 雲の上の存在になっちゃったね｡",
       "romaji": "tsuini butsuriteki ni mo kumo no ue no sonzai ni nacchatta ne.",
-      "chinese": "她终于在物理上也成了高高在上的存在了呢。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "她终于在物理上也成了高高在上的存在了呢。"
     },
     {
-      "id": 192,
-      "episode": 1,
       "japanese": "真里ちゃんのさ 何がすごいってさ勉強できて スポーツできて 顔かわいいのに全然 鼻につかないとこ…｡",
       "romaji": "Mari-chan no sa, nani ga sugoi tte sa benkyou dekite supootsu dekite kao kawaii noni zenzen hana ni tsukanai toko...",
-      "chinese": "说到真里，她厉害的是学习好、运动棒、长得可爱却一点也不骄傲…",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "说到真里，她厉害的是学习好、运动棒、长得可爱却一点也不骄傲…"
     },
     {
-      "id": 193,
-      "episode": 1,
       "japanese": "あ～ 分かる いい子なんだよね｡",
       "romaji": "a~ wakaru, ii ko nan da yo ne.",
-      "chinese": "啊，我懂，她真的是个好孩子。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "啊，我懂，她真的是个好孩子。"
     },
     {
-      "id": 194,
-      "episode": 1,
       "japanese": "でもさ あそこまで優秀でさ 性格までいいってさむしろ 性格悪いよね｡",
       "romaji": "demo sa, asoko made yuushuu de sa seikaku made ii tte sa mushiro seikaku warui yo ne.",
-      "chinese": "不过啊，优秀到那种程度，性格还那么好，反而让人觉得性格很差呢。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "不过啊，优秀到那种程度，性格还那么好，反而让人觉得性格很差呢。"
     },
     {
-      "id": 195,
-      "episode": 1,
       "japanese": "どういうこと？",
       "romaji": "dou iu koto?",
-      "chinese": "什么意思？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "什么意思？"
     },
     {
-      "id": 196,
-      "episode": 1,
       "japanese": "だってほら うちらに妬むことすら させてくれないんだよ｡",
       "romaji": "datte hora, uchira ni netamu koto sura sasete kurenain da yo.",
-      "chinese": "因为她连让我们嫉妒都不行啊。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "因为她连让我们嫉妒都不行啊。"
     },
     {
-      "id": 197,
-      "episode": 1,
       "japanese": "確かに｡",
       "romaji": "tashika ni.",
-      "chinese": "确实如此。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "确实如此。"
     },
     {
-      "id": 198,
-      "episode": 1,
       "japanese": "褒めるしかできないもんね｡",
       "romaji": "homeru shika dekinai mon ne.",
-      "chinese": "我们也只能称赞她了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "我们也只能称赞她了。"
     },
     {
-      "id": 199,
-      "episode": 1,
       "japanese": "そうなのよ｡",
       "romaji": "sou nano yo.",
-      "chinese": "就是这样。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "就是这样。"
     },
     {
-      "id": 200,
-      "episode": 1,
       "japanese": "いいじゃん 褒めたら｡",
       "romaji": "ii jan, hometara.",
-      "chinese": "夸她一下也没关系嘛。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "夸她一下也没关系嘛。"
     },
     {
-      "id": 201,
-      "episode": 1,
       "japanese": "あの子 絶対 人生２周目だよね｡",
       "romaji": "ano ko zettai jinsei ni shuumoku da yo ne.",
-      "chinese": "她绝对是在人生第二轮吧。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "她绝对是在人生第二轮吧。"
     },
     {
-      "id": 202,
-      "episode": 1,
       "japanese": "あったね 宇野真里タイムリープ説ね｡",
       "romaji": "atta ne, Uno Mari taimu riipu setsu ne.",
-      "chinese": "对啊，有人猜测宇野真里是穿越来的。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "对啊，有人猜测宇野真里是穿越来的。"
     },
     {
-      "id": 203,
-      "episode": 1,
       "japanese": "じゃなきゃ あそこまで優秀になれないよ｡",
       "romaji": "ja nakya asoko made yuushuu ni narenai yo.",
-      "chinese": "不然没办法那么优秀。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "不然没办法那么优秀。"
     },
     {
-      "id": 204,
-      "episode": 1,
       "japanese": "でもさ 真里ちゃん ちょっと完璧過ぎて近寄りがたさあったよね｡",
       "romaji": "demo sa, Mari-chan chotto kanpeki sugite chikayori gatasatta yo ne.",
-      "chinese": "不过真里有点太完美，让人有点难以靠近。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "不过真里有点太完美，让人有点难以靠近。"
     },
     {
-      "id": 205,
-      "episode": 1,
       "japanese": "分かる｡いい子なんだけど緊張しちゃう｡",
       "romaji": "wakaru. ii ko nan dakedo kinchou shichau.",
-      "chinese": "我懂，她人很好，但会让我紧张。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "我懂，她人很好，但会让我紧张。"
     },
     {
-      "id": 206,
-      "episode": 1,
       "japanese": "そうなんだよね｡",
       "romaji": "sou nan da yo ne.",
-      "chinese": "是啊。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "是啊。"
     },
     {
-      "id": 207,
-      "episode": 1,
       "japanese": "何かさ… 超ダメになってる同級生 とかいないのかな？",
       "romaji": "nanika sa… chou dame ni natte ru doukyuusei toka inai no kana?",
-      "chinese": "有没有哪个同学完全废掉了之类的？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "有没有哪个同学完全废掉了之类的？"
     },
     {
-      "id": 208,
-      "episode": 1,
       "japanese": "何で？",
       "romaji": "nande?",
-      "chinese": "为什么？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "为什么？"
     },
     {
-      "id": 209,
-      "episode": 1,
       "japanese": "このままだと劣等感に押しつぶされそうだから ダメな人の話聞いて元気もらいたい｡",
       "romaji": "kono mama da to rettoukan ni oshitsubusare sou da kara, dame na hito no hanashi kiite genki moraitai.",
-      "chinese": "再这样下去我快被自卑感压垮了，想听听废柴的故事来打起精神。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "再这样下去我快被自卑感压垮了，想听听废柴的故事来打起精神。"
     },
     {
-      "id": 210,
-      "episode": 1,
       "japanese": "最低だな｡",
       "romaji": "saitei da na.",
-      "chinese": "你真烂啊。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "你真烂啊。"
     },
     {
-      "id": 211,
-      "episode": 1,
       "japanese": "でも ちょっと分かる ないの？ ダメな同級生の話｡",
       "romaji": "demo chotto wakaru, nai no? dame na doukyuusei no hanashi.",
-      "chinese": "不过有点懂，没听说哪个废柴同学的消息吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "不过有点懂，没听说哪个废柴同学的消息吗？"
     },
     {
-      "id": 212,
-      "episode": 1,
       "japanese": "ないでしょ みんな頑張ってんだから｡",
       "romaji": "nai desho, minna ganbatten dakara.",
-      "chinese": "应该没有吧，大家都很努力啊。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "应该没有吧，大家都很努力啊。"
     },
     {
-      "id": 213,
-      "episode": 1,
       "japanese": "何だよ～ 頑張るなよ～｡",
       "romaji": "nan da yo~ ganbaru na yo~.",
-      "chinese": "算了啦，别努力了啦～",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "算了啦，别努力了啦～"
     },
     {
-      "id": 214,
-      "episode": 1,
       "japanese": "養分くれよ｡",
       "romaji": "youbun kure yo.",
-      "chinese": "给点养分嘛。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "给点养分嘛。"
     },
     {
-      "id": 215,
-      "episode": 1,
       "japanese": "あんたらが一番ダメだよ｡",
       "romaji": "antara ga ichiban dame da yo.",
-      "chinese": "你们才是最废的。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "你们才是最废的。"
     },
     {
-      "id": 216,
-      "episode": 1,
       "japanese": "そろそろ行く？",
       "romaji": "sorosoro iku?",
-      "chinese": "差不多该走了吧？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "差不多该走了吧？"
     },
     {
-      "id": 217,
-      "episode": 1,
       "japanese": "そうだね｡",
       "romaji": "sou da ne.",
-      "chinese": "嗯，也是。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "嗯，也是。"
     },
     {
-      "id": 218,
-      "episode": 1,
       "japanese": "帰りにプリクラ撮ってかない？",
       "romaji": "kaeri ni purikura totte kanai?",
-      "chinese": "回去的时候要不要去拍个大头贴？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "回去的时候要不要去拍个大头贴？"
     },
     {
-      "id": 219,
-      "episode": 1,
       "japanese": "あっ いいね｡ 撮ろう 撮ろう｡",
       "romaji": "a, iine. torou torou.",
-      "chinese": "啊，好啊。拍吧拍吧。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "啊，好啊。拍吧拍吧。"
     },
     {
-      "id": 220,
-      "episode": 1,
       "japanese": "ラウンドワン 開いてるかな？",
       "romaji": "raundo wan hiraiteru kana?",
-      "chinese": "ROUND1开门吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "ROUND1开门吗？"
     },
     {
-      "id": 221,
-      "episode": 1,
       "japanese": "あそこ 朝までやってるでしょ｡",
       "romaji": "asoko asa made yatteru desho.",
-      "chinese": "那儿不是开到早上吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "那儿不是开到早上吗？"
     },
     {
-      "id": 222,
-      "episode": 1,
       "japanese": "そっか じゃあ 行こう｡",
       "romaji": "sokka, jaa ikou.",
-      "chinese": "是啊，那我们走吧。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "是啊，那我们走吧。"
     },
     {
-      "id": 223,
-      "episode": 1,
       "japanese": "え～ 何 今 こんなになってんの？",
       "romaji": "ee~ nani, ima konna ni natten no?",
-      "chinese": "诶，怎么现在变成这样了？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "诶，怎么现在变成这样了？"
     },
     {
-      "id": 224,
-      "episode": 1,
       "japanese": "めっちゃ進化してんじゃん｡",
       "romaji": "meccha shinka shiten jan.",
-      "chinese": "进化得超厉害啊。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "进化得超厉害啊。"
     },
     {
-      "id": 225,
-      "episode": 1,
       "japanese": "一個一個がデカいよね｡",
       "romaji": "ikko ikko ga dekai yo ne.",
-      "chinese": "每个格子都好大啊。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "每个格子都好大啊。"
     },
     {
-      "id": 226,
-      "episode": 1,
       "japanese": "これさ これぐらいキレイに 撮れますよってこと？",
       "romaji": "kore sa, kore gurai kirei ni toremasu yo tte koto?",
-      "chinese": "意思是能拍得这么漂亮吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "意思是能拍得这么漂亮吗？"
     },
     {
-      "id": 227,
-      "episode": 1,
       "japanese": "そうだよ ｢お前らみたいな顔でも こんぐらいキレイに写るぞ｣…ってことだよ｡",
       "romaji": "sou da yo, 'omaera mitai na kao demo kon gurai kirei ni utsuru zo'... tte koto da yo.",
-      "chinese": "就是说‘就算你们这种脸，也能拍得这么漂亮’……就是这个意思。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "就是说‘就算你们这种脸，也能拍得这么漂亮’……就是这个意思。"
     },
     {
-      "id": 228,
-      "episode": 1,
       "japanese": "(夏希:美穂) マジか｡",
       "romaji": "(Natsuki: Miho) maji ka.",
-      "chinese": "真的假的？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "真的假的？"
     },
     {
-      "id": 229,
-      "episode": 1,
       "japanese": "これ やろうよ 熊谷｡",
       "romaji": "kore yarou yo Kumagaya.",
-      "chinese": "来比比这个吧，熊谷。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "来比比这个吧，熊谷。"
     },
     {
-      "id": 230,
-      "episode": 1,
       "japanese": "あっ そうだ 熊谷｡",
       "romaji": "a, sou da Kumagaya.",
-      "chinese": "啊，对了，熊谷。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "啊，对了，熊谷。"
     },
     {
-      "id": 231,
-      "episode": 1,
       "japanese": "あっちだよ あっちだよ｡",
       "romaji": "acchi da yo, acchi da yo.",
-      "chinese": "是那边，是那边。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "是那边，是那边。"
     },
     {
-      "id": 232,
-      "episode": 1,
       "japanese": "体が もう忘れてる｡",
       "romaji": "karada ga mou wasureteru.",
-      "chinese": "身体已经忘记了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "身体已经忘记了。"
     },
     {
-      "id": 233,
-      "episode": 1,
       "japanese": "いい感じ いい感じじゃん｡",
       "romaji": "ii kanji, ii kanji jan.",
-      "chinese": "感觉很好，很不错。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "感觉很好，很不错。"
     },
     {
-      "id": 234,
-      "episode": 1,
       "japanese": "持って帰ってよ｡",
       "romaji": "motte kaette yo.",
-      "chinese": "带回去哦。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "带回去哦。"
     },
     {
-      "id": 235,
-      "episode": 1,
       "japanese": "持って帰るよ｡",
       "romaji": "motte kaeru yo.",
-      "chinese": "我会带回去的。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "我会带回去的。"
     },
     {
-      "id": 236,
-      "episode": 1,
       "japanese": "この後 どうする？",
       "romaji": "kono ato dou suru?",
-      "chinese": "接下来要做什么？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "接下来要做什么？"
     },
     {
-      "id": 237,
-      "episode": 1,
       "japanese": "あっ まだ こんな時間なんだ｡",
       "romaji": "a, mada konna jikan nan da.",
-      "chinese": "啊，时间还早呢。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "啊，时间还早呢。"
     },
     {
-      "id": 238,
-      "episode": 1,
       "japanese": "え～ あした 休みだしなぁ｡",
       "romaji": "ee~ ashita yasumi da shi naa.",
-      "chinese": "而且明天放假嘛。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "而且明天放假嘛。"
     },
     {
-      "id": 239,
-      "episode": 1,
       "japanese": "カラオケとか行っちゃう？",
       "romaji": "karaoke toka icchau?",
-      "chinese": "要不要去唱卡拉OK？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "要不要去唱卡拉OK？"
     },
     {
-      "id": 240,
-      "episode": 1,
       "japanese": "あっ いいね カラオケ｡",
       "romaji": "a, iine karaoke.",
-      "chinese": "啊，好啊，卡拉OK。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "啊，好啊，卡拉OK。"
     },
     {
-      "id": 241,
-      "episode": 1,
       "japanese": "行くか｡",
       "romaji": "iku ka.",
-      "chinese": "走吧。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "走吧。"
     },
     {
-      "id": 242,
-      "episode": 1,
       "japanese": "プリクラ撮ってカラオケ｡",
       "romaji": "purikura totte karaoke.",
-      "chinese": "先拍大头贴然后去唱歌。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "先拍大头贴然后去唱歌。"
     },
     {
-      "id": 243,
-      "episode": 1,
       "japanese": "久しぶり｡",
       "romaji": "hisashiburi.",
-      "chinese": "好久不见。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "好久不见。"
     },
     {
-      "id": 244,
-      "episode": 1,
       "japanese": "(福田) いらっしゃいませ 何名様ですか？",
       "romaji": "(Fukuda) irasshaimase nan mei sama desu ka?",
-      "chinese": "欢迎光临，请问几位？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "欢迎光临，请问几位？"
     },
     {
-      "id": 245,
-      "episode": 1,
       "japanese": "３人です｡",
       "romaji": "san nin desu.",
-      "chinese": "三位。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "三位。"
     },
     {
-      "id": 246,
-      "episode": 1,
       "japanese": "福ちゃん？ 福ちゃんじゃない？",
       "romaji": "Fuku-chan? Fuku-chan janai?",
-      "chinese": "小福？是小福吧？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "小福？是小福吧？"
     },
     {
-      "id": 247,
-      "episode": 1,
       "japanese": "誰かと思った～｡",
       "romaji": "dare ka to omotta~.",
-      "chinese": "还以为是谁呢～。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "还以为是谁呢～。"
     },
     {
-      "id": 248,
-      "episode": 1,
       "japanese": "めっちゃ久しぶり｡",
       "romaji": "meccha hisashiburi.",
-      "chinese": "好久不见啊！",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "好久不见啊！"
     },
     {
-      "id": 249,
-      "episode": 1,
       "japanese": "久しぶり えっ ３人 いつ以来だっけ？",
       "romaji": "hisashiburi, e? san nin itsu irai dakke?",
-      "chinese": "好久不见，诶？我们三个上次是什么时候见的？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "好久不见，诶？我们三个上次是什么时候见的？"
     },
     {
-      "id": 250,
-      "episode": 1,
       "japanese": "いつだろう？ 成人式が最後じゃない？",
       "romaji": "itsu darou? seijinshiki ga saigo janai?",
-      "chinese": "什么时候来着？成年礼应该是最后一次吧？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "什么时候来着？成年礼应该是最后一次吧？"
     },
     {
-      "id": 251,
-      "episode": 1,
       "japanese": "だから 13年ぶりか｡",
       "romaji": "dakara juusan nen buri ka.",
-      "chinese": "所以是十三年没见了吧。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "所以是十三年没见了吧。"
     },
     {
-      "id": 252,
-      "episode": 1,
       "japanese": "お～ そんな経つかぁ｡",
       "romaji": "o~ sonna tatsu kaa.",
-      "chinese": "哇，真的有那么久了吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "哇，真的有那么久了吗？"
     },
     {
-      "id": 253,
-      "episode": 1,
       "japanese": "今日は 何の集まりなの？",
       "romaji": "kyou wa nan no atsumari nano?",
-      "chinese": "今天是怎么聚会的？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "今天是怎么聚会的？"
     },
     {
-      "id": 254,
-      "episode": 1,
       "japanese": "何の集まりっていうかいつもの集まりだよね｡",
       "romaji": "nan no atsumari tte iu ka itsumo no atsumari da yo ne.",
-      "chinese": "也不能说是特别的聚会，只是平时的聚会而已。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "也不能说是特别的聚会，只是平时的聚会而已。"
     },
     {
-      "id": 255,
-      "episode": 1,
       "japanese": "ﾓﾝﾀｰﾆｬでごはん食べてきた｡",
       "romaji": "Montaña de gohan tabete kita.",
-      "chinese": "刚刚在蒙塔尼亚吃过饭了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "刚刚在蒙塔尼亚吃过饭了。"
     },
     {
-      "id": 256,
-      "episode": 1,
       "japanese": "そうなんだ｡",
       "romaji": "sou nan da.",
-      "chinese": "是啊，原来如此。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "是啊，原来如此。"
     },
     {
-      "id": 257,
-      "episode": 1,
       "japanese": "あ～ 時間どうする？",
       "romaji": "a~ jikan dou suru?",
-      "chinese": "啊，要唱多久呢？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "啊，要唱多久呢？"
     },
     {
-      "id": 258,
-      "episode": 1,
       "japanese": "どうしよっか｡",
       "romaji": "doushiyokka.",
-      "chinese": "怎么办呢？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "怎么办呢？"
     },
     {
-      "id": 259,
-      "episode": 1,
       "japanese": "え～ 取りあえず ２？",
       "romaji": "ee~ toriaezu ni?",
-      "chinese": "嗯，那就先唱两个小时？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "嗯，那就先唱两个小时？"
     },
     {
-      "id": 260,
-      "episode": 1,
       "japanese": "２だね ２時間で｡",
       "romaji": "ni da ne, ni jikan de.",
-      "chinese": "两小时吧。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "两小时吧。"
     },
     {
-      "id": 261,
-      "episode": 1,
       "japanese": "２時間ね 今 すいてるから 広い部屋にしとくね～｡",
       "romaji": "ni jikan ne, ima suiteru kara hiroi heya ni shitoku ne~.",
-      "chinese": "两小时呢，现在人少，帮你们安排个大包间哦～。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "两小时呢，现在人少，帮你们安排个大包间哦～。"
     },
     {
-      "id": 262,
-      "episode": 1,
       "japanese": "ありがとう｡",
       "romaji": "arigatou.",
-      "chinese": "谢谢。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "谢谢。"
     },
     {
-      "id": 263,
-      "episode": 1,
       "japanese": "わっ 広っ！",
       "romaji": "wa, hiro!",
-      "chinese": "哇，好大！",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "哇，好大！"
     },
     {
-      "id": 264,
-      "episode": 1,
       "japanese": "ホントだ｡",
       "romaji": "honto da.",
-      "chinese": "真的耶。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "真的耶。"
     },
     {
-      "id": 265,
-      "episode": 1,
       "japanese": "そういえばさ 成人式の後も ここ来なかったっけ？",
       "romaji": "sou ieba sa seijinshiki no ato mo koko konakatta kke?",
-      "chinese": "说起来，成年礼后也来过这里吧？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "说起来，成年礼后也来过这里吧？"
     },
     {
-      "id": 266,
-      "episode": 1,
       "japanese": "来た 何なら 部屋もここだった｡",
       "romaji": "kita, nan nara heya mo koko datta.",
-      "chinese": "来过，而且包间也是这里。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "来过，而且包间也是这里。"
     },
     {
-      "id": 267,
-      "episode": 1,
       "japanese": "あ そうだ でさ 福ちゃんがさ何だっけ “粉雪”か何か歌ってさみんな ｢めっちゃ うま！｣って なったよね｡",
       "romaji": "a souda desa fukuchan ga sa nandakke “konayuki” ka nanika utatte sa minna 'metcha uma!' tte natta yo ne.",
-      "chinese": "对了，然后小福唱了‘粉雪’之类的歌，大家都说‘唱得超棒！’对吧。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "对了，然后小福唱了‘粉雪’之类的歌，大家都说‘唱得超棒！’对吧。"
     },
     {
-      "id": 268,
-      "episode": 1,
       "japanese": "歌ってたね｡",
       "romaji": "utatteta ne.",
-      "chinese": "对耶，他有唱。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "对耶，他有唱。"
     },
     {
-      "id": 269,
-      "episode": 1,
       "japanese": "“粉雪”だったけ？",
       "romaji": "‘konayuki’ datta ke?",
-      "chinese": "他唱的是‘粉雪’吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "他唱的是‘粉雪’吗？"
     },
     {
-      "id": 270,
-      "episode": 1,
       "japanese": "違ったっけ？",
       "romaji": "chigatta kke?",
-      "chinese": "不是吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "不是吗？"
     },
     {
-      "id": 271,
-      "episode": 1,
       "japanese": "“粉雪”系の そっち系だった思う｡",
       "romaji": "‘konayuki’ kei no socchi kei datta to omou.",
-      "chinese": "我觉得是‘粉雪’那种类型的歌。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "我觉得是‘粉雪’那种类型的歌。"
     },
     {
-      "id": 272,
-      "episode": 1,
       "japanese": "何か そっち系だった｡",
       "romaji": "nanika socchi kei datta.",
-      "chinese": "是那种类型的歌，没错。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "是那种类型的歌，没错。"
     },
     {
-      "id": 273,
-      "episode": 1,
       "japanese": "誰から歌う？",
       "romaji": "dare kara utau?",
-      "chinese": "谁先唱？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "谁先唱？"
     },
     {
-      "id": 274,
-      "episode": 1,
       "japanese": "早くね？",
       "romaji": "hayaku ne?",
-      "chinese": "是不是太快了？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "是不是太快了？"
     },
     {
-      "id": 275,
-      "episode": 1,
       "japanese": "えっ 早い？",
       "romaji": "eh hayai?",
-      "chinese": "诶？太快了吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "诶？太快了吗？"
     },
     {
-      "id": 276,
-      "episode": 1,
       "japanese": "着いてすぐ歌うって高校生じゃん｡",
       "romaji": "tsuite sugu utau tte koukousei jan.",
-      "chinese": "一到就开始唱，根本像高中生嘛。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "一到就开始唱，根本像高中生嘛。"
     },
     {
-      "id": 277,
-      "episode": 1,
       "japanese": "高校生ってそうなの？",
       "romaji": "koukousei tte sou nano?",
-      "chinese": "高中生都是这样吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "高中生都是这样吗？"
     },
     {
-      "id": 278,
-      "episode": 1,
       "japanese": "何か そういうイメージない？",
       "romaji": "nanika sou iu imeeji nai?",
-      "chinese": "感觉不就是那种印象吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "感觉不就是那种印象吗？"
     },
     {
-      "id": 279,
-      "episode": 1,
       "japanese": "お待たせしました～｡",
       "romaji": "omatase shimashita~.",
-      "chinese": "让你们久等了～。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "让你们久等了～。"
     },
     {
-      "id": 280,
-      "episode": 1,
       "japanese": "(３人) ありがとう｡",
       "romaji": "(san nin) arigatou.",
-      "chinese": "（三人）谢谢你。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "（三人）谢谢你。"
     },
     {
-      "id": 281,
-      "episode": 1,
       "japanese": "(福田) これ サービス｡",
       "romaji": "(Fukuda) kore saabisu.",
-      "chinese": "（福田）这是服务招待。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "（福田）这是服务招待。"
     },
     {
-      "id": 282,
-      "episode": 1,
       "japanese": "いいの？ 怒られない？  大丈夫｡",
       "romaji": "ii no? okorarenai? daijoubu.",
-      "chinese": "这样可以吗？不会被骂吗？没关系啦。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "这样可以吗？不会被骂吗？没关系啦。"
     },
     {
-      "id": 283,
-      "episode": 1,
       "japanese": "ありがとう｡  いいえ ごゆっくり～｡",
       "romaji": "arigatou. iie go yukkuri~.",
-      "chinese": "谢谢。 不用客气，请慢慢享用～。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "谢谢。 不用客气，请慢慢享用～。"
     },
     {
-      "id": 284,
-      "episode": 1,
       "japanese": "食べてね｡",
       "romaji": "tabete ne.",
-      "chinese": "请吃吧。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "请吃吧。"
     },
     {
-      "id": 286,
-      "episode": 1,
       "japanese": "あーちんもね｡",
       "romaji": "Aachin mo ne.",
-      "chinese": "你也要吃哦。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "你也要吃哦。"
     },
     {
-      "id": 287,
-      "episode": 1,
       "japanese": "食べる 食べる｡",
       "romaji": "taberu taberu.",
-      "chinese": "我吃，我吃。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "我吃，我吃。"
     },
     {
-      "id": 288,
-      "episode": 1,
       "japanese": "そういえばさ 福ちゃんって まだ音楽やってんだっけ？",
       "romaji": "sou ieba sa fukuchan tte mada ongaku yatten dakke?",
-      "chinese": "说起来，小福还在做音乐吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "说起来，小福还在做音乐吗？"
     },
     {
-      "id": 289,
-      "episode": 1,
       "japanese": "分かんない やってんじゃない？",
       "romaji": "wakannai yatten janai?",
-      "chinese": "不知道，应该还在做吧？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "不知道，应该还在做吧？"
     },
     {
-      "id": 290,
-      "episode": 1,
       "japanese": "いや やめたんだよ｡",
       "romaji": "iya yametan da yo.",
-      "chinese": "不，他已经放弃了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "不，他已经放弃了。"
     },
     {
-      "id": 291,
-      "episode": 1,
       "japanese": "そうなんだ｡",
       "romaji": "sou nan da.",
-      "chinese": "是这样啊。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "是这样啊。"
     },
     {
-      "id": 292,
-      "episode": 1,
       "japanese": "あれ？ ２人 どこまで知ってる？",
       "romaji": "are? futari doko made shitteru?",
-      "chinese": "咦？你们两个知道多少？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "咦？你们两个知道多少？"
     },
     {
-      "id": 293,
-      "episode": 1,
       "japanese": "私は成人式の時に 音楽やる っていうのを聞いたっきり｡",
       "romaji": "watashi wa seijinshiki no toki ni ongaku yaru tte iu no o kiita kkiri.",
-      "chinese": "我只是在成年礼时听他说过要做音乐而已。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "我只是在成年礼时听他说过要做音乐而已。"
     },
     {
-      "id": 294,
-      "episode": 1,
       "japanese": "私も｡",
       "romaji": "watashi mo.",
-      "chinese": "我也是。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "我也是。"
     },
     {
-      "id": 295,
-      "episode": 1,
       "japanese": "そっか｡",
       "romaji": "sokka.",
-      "chinese": "是啊。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "是啊。"
     },
     {
-      "id": 296,
-      "episode": 1,
       "japanese": "あの後 事務所には入れたんだけどそっから なかなか売れなくてさ｡",
       "romaji": "ano ato jimusho ni wa haitetan da kedo sokkara nakanaka urenakute sa.",
-      "chinese": "他之后虽然进了事务所，但之后一直没怎么走红。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "他之后虽然进了事务所，但之后一直没怎么走红。"
     },
     {
-      "id": 297,
-      "episode": 1,
       "japanese": "厳しい世界だもんね｡",
       "romaji": "kibishii sekai da mon ne.",
-      "chinese": "毕竟这是个残酷的世界嘛。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "毕竟这是个残酷的世界嘛。"
     },
     {
-      "id": 298,
-      "episode": 1,
       "japanese": "食べてね｡",
       "romaji": "tabete ne.",
-      "chinese": "请吃吧。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "请吃吧。"
     },
     {
-      "id": 300,
-      "episode": 1,
       "japanese": "あーちんは？",
       "romaji": "aachin wa?",
-      "chinese": "阿珍呢？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "阿珍呢？"
     },
     {
-      "id": 301,
-      "episode": 1,
       "japanese": "食べる 食べる｡",
       "romaji": "taberu taberu.",
-      "chinese": "吃，吃。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "吃，吃。"
     },
     {
-      "id": 302,
-      "episode": 1,
       "japanese": "んっ あ そう｡",
       "romaji": "n' a sou.",
-      "chinese": "嗯，哦，是啊。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "嗯，哦，是啊。"
     },
     {
-      "id": 303,
-      "episode": 1,
       "japanese": "そんで その後 事務所 辞めてフリーで頑張ってた らしいんだけど全然でさ｡",
       "romaji": "sonde sono ato jimusho yamete furii de ganbatte ta rashii n da kedo zenzen de sa.",
-      "chinese": "然后他后来辞掉事务所，自己单干，但完全没起色。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "然后他后来辞掉事务所，自己单干，但完全没起色。"
     },
     {
-      "id": 304,
-      "episode": 1,
       "japanese": "噂 聞かないってことは そういうことだよね｡",
       "romaji": "uwasa kikanai tte koto wa sou iu koto da yo ne.",
-      "chinese": "没听到传闻，就是那个意思吧。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "没听到传闻，就是那个意思吧。"
     },
     {
-      "id": 305,
-      "episode": 1,
       "japanese": "覚えてない？ 何かさ 福ちゃんはさ ここで音楽やるって言った時 みんな 何か｢絶対売れるよ｣とか 言ってなかった？",
       "romaji": "oboetenai? nanika sa fukuchan wa sa koko de ongaku yaru tte itta toki minna nanika 'zettai ureru yo' toka ittenakatta?",
-      "chinese": "你们还记得吗？小福说要在这里做音乐时，大家不是都说‘一定会红’之类的吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "你们还记得吗？小福说要在这里做音乐时，大家不是都说‘一定会红’之类的吗？"
     },
     {
-      "id": 306,
-      "episode": 1,
       "japanese": "言ったかも｡",
       "romaji": "itta kamo.",
-      "chinese": "好像说过。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "好像说过。"
     },
     {
-      "id": 307,
-      "episode": 1,
       "japanese": "なっち サインもらってなかったっけ？",
       "romaji": "Nacchi sain morattenakattke?",
-      "chinese": "那时你不是还要了签名吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "那时你不是还要了签名吗？"
     },
     {
-      "id": 308,
-      "episode": 1,
       "japanese": "もらった！",
       "romaji": "moratta!",
-      "chinese": "有啊！",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "有啊！"
     },
     {
-      "id": 309,
-      "episode": 1,
       "japanese": "ヤバっ｡",
       "romaji": "yaba.",
-      "chinese": "糟了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "糟了。"
     },
     {
-      "id": 310,
-      "episode": 1,
       "japanese": "いやぁ うちらにも多少 責任あるよね｡",
       "romaji": "iyaa uchira ni mo tashou sekinin aru yo ne.",
-      "chinese": "说起来，我们多少也有点责任吧。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "说起来，我们多少也有点责任吧。"
     },
     {
-      "id": 311,
-      "episode": 1,
       "japanese": "そうだね あの時 止めときゃよかったね｡",
       "romaji": "sou da ne ano toki yame to kya yokatta ne.",
-      "chinese": "是啊，那时候真该劝阻他。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "是啊，那时候真该劝阻他。"
     },
     {
-      "id": 312,
-      "episode": 1,
       "japanese": "今思えばね｡",
       "romaji": "ima omoeba ne.",
-      "chinese": "现在想想也是。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "现在想想也是。"
     },
     {
-      "id": 313,
-      "episode": 1,
       "japanese": "いや でもさあの“粉雪”聴いたら いけると思わない？",
       "romaji": "iya demo saa ano ‘konayuki’ kiitara ikeru to omowanai?",
-      "chinese": "但是听了那个‘粉雪’，不会觉得他能成功吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "但是听了那个‘粉雪’，不会觉得他能成功吗？"
     },
     {
-      "id": 314,
-      "episode": 1,
       "japanese": "うまかったよね｡",
       "romaji": "umakatta yo ne.",
-      "chinese": "唱得真的很棒。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "唱得真的很棒。"
     },
     {
-      "id": 315,
-      "episode": 1,
       "japanese": "そうそう…｡",
       "romaji": "sou sou…",
-      "chinese": "没错没错…",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "没错没错…"
     },
     {
-      "id": 316,
-      "episode": 1,
       "japanese": "え～ “粉雪”だったっけ？",
       "romaji": "ee~ “konayuki” dattakke?",
-      "chinese": "诶～是唱“粉雪”吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "诶～是唱“粉雪”吗？"
     },
     {
-      "id": 317,
-      "episode": 1,
       "japanese": "いや～ 何か“粉雪”系の そっち系だよ｡",
       "romaji": "iyaa~ nanika “konayuki” kei no sotchi kei da yo.",
-      "chinese": "不～好像是类似“粉雪”那种风格的歌。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "不～好像是类似“粉雪”那种风格的歌。"
     },
     {
-      "id": 318,
-      "episode": 1,
       "japanese": "もう“粉雪”でいいじゃん｡",
       "romaji": "mou “konayuki” de ii jan.",
-      "chinese": "就当成是唱“粉雪”好了嘛。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "就当成是唱“粉雪”好了嘛。"
     },
     {
-      "id": 319,
-      "episode": 1,
       "japanese": "食べてよ｡",
       "romaji": "tabeteyo.",
-      "chinese": "快吃啊。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "快吃啊。"
     },
     {
-      "id": 321,
-      "episode": 1,
       "japanese": "あーちんも食べてね｡",
       "romaji": "aachin mo tabete ne.",
-      "chinese": "麻美你也吃啊。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "麻美你也吃啊。"
     },
     {
-      "id": 323,
-      "episode": 1,
       "japanese": "もう言っちゃうけどさ｡",
       "romaji": "mou icchau kedo sa.",
-      "chinese": "我先说了啊。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "我先说了啊。"
     },
     {
-      "id": 324,
-      "episode": 1,
-      "japanese": "ん？ 何？",
-      "romaji": "n? nani?",
-      "chinese": "嗯？什么事？",
-      "context": "对话场景",
-      "difficulty": ""
-    },
-    {
-      "id": 325,
-      "episode": 1,
       "japanese": "入んないよね｡",
       "romaji": "hairanai yo ne.",
-      "chinese": "吃不下了吧？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "吃不下了吧？"
     },
     {
-      "id": 326,
-      "episode": 1,
       "japanese": "ごはん食べてきちゃったからね｡",
       "romaji": "gohan tabete kichatta kara ne.",
-      "chinese": "因为刚吃过饭了嘛。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "因为刚吃过饭了嘛。"
     },
     {
-      "id": 327,
-      "episode": 1,
       "japanese": "気持ちは 超ありがたいんだけど 全然入んない｡",
       "romaji": "kimochi wa chou arigatai n da kedo zenzen hairanai.",
-      "chinese": "虽然很感激他的好意，但真的吃不下。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "虽然很感激他的好意，但真的吃不下。"
     },
     {
-      "id": 328,
-      "episode": 1,
       "japanese": "気持ちは 超ありがたいのよ｡",
       "romaji": "kimochi wa chou arigatai no yo.",
-      "chinese": "没错，我真的很感激他的心意。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "没错，我真的很感激他的心意。"
     },
     {
-      "id": 329,
-      "episode": 1,
       "japanese": "でも入んないのも事実だよね｡",
       "romaji": "demo hairanai no mo jijitsu da yo ne.",
-      "chinese": "但吃不下也是事实。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "但吃不下也是事实。"
     },
     {
-      "id": 330,
-      "episode": 1,
       "japanese": "揺るがざる事実だね｡",
       "romaji": "yurugazaru jijitsu da ne.",
-      "chinese": "这是不可动摇的事实。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "这是不可动摇的事实。"
     },
     {
-      "id": 331,
-      "episode": 1,
       "japanese": "しかも これ サービスのポテトだから残しづらいんだよな～｡",
       "romaji": "shikamo kore sa-bisu no poteto da kara nokoshizurai n da yo na~.",
-      "chinese": "而且这是免费招待的薯条，不好意思剩下。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "而且这是免费招待的薯条，不好意思剩下。"
     },
     {
-      "id": 332,
-      "episode": 1,
       "japanese": "残しづらい｡",
       "romaji": "nokoshizurai.",
-      "chinese": "不好意思剩下啊。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "不好意思剩下啊。"
     },
     {
-      "id": 333,
-      "episode": 1,
       "japanese": "あのさ こんなん 絶対言っちゃいけないんだけど言っていい？",
       "romaji": "ano sa konnan zettai iccha ikenai n da kedo itte ii?",
-      "chinese": "那个，这种话绝对不能说，但我能说吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "那个，这种话绝对不能说，但我能说吗？"
     },
     {
-      "id": 334,
-      "episode": 1,
       "japanese": "どうぞ｡",
       "romaji": "douzo.",
-      "chinese": "请讲。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "请讲。"
     },
     {
-      "id": 335,
-      "episode": 1,
       "japanese": "サービスしてくれるんだったら ポテトじゃなくてドリンクを タダにしてほしかったよね｡",
       "romaji": "sa-bisu shite kureru n dattara poteto janakute dorinku o tada ni shite hoshikatta yo ne.",
-      "chinese": "如果要招待的话，我宁愿免费请饮料而不是薯条。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "如果要招待的话，我宁愿免费请饮料而不是薯条。"
     },
     {
-      "id": 336,
-      "episode": 1,
       "japanese": "絶対言っちゃいけないけど そうなのよ｡",
       "romaji": "zettai iccha ikenai kedo sounanoyo.",
-      "chinese": "虽然绝对不能说，但就是这样。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "虽然绝对不能说，但就是这样。"
     },
     {
-      "id": 337,
-      "episode": 1,
       "japanese": "ちなみにだけど うちらが ごはん食べてきたってことは一応 伝えたからね｡",
       "romaji": "chinami ni dakedo uchira ga gohan tabete kita tte koto wa ichiou tsutaeta kara ne.",
-      "chinese": "顺带一提，我们已经告诉他我们刚吃过饭了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "顺带一提，我们已经告诉他我们刚吃过饭了。"
     },
     {
-      "id": 338,
-      "episode": 1,
       "japanese": "みーぽん言ってたね｡",
       "romaji": "Miipon ittetane.",
-      "chinese": "美穗说过了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "美穗说过了。"
     },
     {
-      "id": 339,
-      "episode": 1,
       "japanese": "あくまでも ｢ちなみに｣だよ｡",
       "romaji": "akumademo ‘chinami ni’ da yo.",
-      "chinese": "我只是顺便说说而已。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "我只是顺便说说而已。"
     },
     {
-      "id": 340,
-      "episode": 1,
       "japanese": "(麻美)｢ちなみに｣のやつだよね｡",
       "romaji": "(Asami) ‘chinami ni’ no yatsu da yo ne.",
-      "chinese": "就是顺带一提那句话嘛。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "就是顺带一提那句话嘛。"
     },
     {
-      "id": 341,
-      "episode": 1,
       "japanese": "これってさ 誰も悪くないじゃん｡",
       "romaji": "kore tte sa dare mo warukunai jan.",
-      "chinese": "这事儿嘛，谁也没错吧？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "这事儿嘛，谁也没错吧？"
     },
     {
-      "id": 342,
-      "episode": 1,
       "japanese": "誰も悪くない｡",
       "romaji": "dare mo warukunai.",
-      "chinese": "谁也没错。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "谁也没错。"
     },
     {
-      "id": 343,
-      "episode": 1,
       "japanese": "加害者のいない事件だね｡",
       "romaji": "kagaisha no inai jiken da ne.",
-      "chinese": "这是一件没有加害者的事件。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "这是一件没有加害者的事件。"
     },
     {
-      "id": 344,
-      "episode": 1,
       "japanese": "でもさ 誰が悪いか決めろ って言われたら福ちゃんだよね？",
       "romaji": "demo sa dare ga warui ka kimero tte iwaretara Fukuchan da yo ne?",
-      "chinese": "不过，如果要说谁有错，那应该是小福吧？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "不过，如果要说谁有错，那应该是小福吧？"
     },
     {
-      "id": 345,
-      "episode": 1,
       "japanese": "福ちゃんなんだよね 僅差だけど｡",
       "romaji": "Fukuchan nan da yo ne, kinsa dakedo.",
-      "chinese": "确实是小福，不过只是微弱差距。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "确实是小福，不过只是微弱差距。"
     },
     {
-      "id": 346,
-      "episode": 1,
       "japanese": "そう 超僅差｡",
       "romaji": "sou chou kinsa.",
-      "chinese": "没错，超级微小差距。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "没错，超级微小差距。"
     },
     {
-      "id": 347,
-      "episode": 1,
       "japanese": "鼻差で福ちゃん｡",
       "romaji": "hana sa de Fukuchan.",
-      "chinese": "小福以鼻差获胜。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "小福以鼻差获胜。"
     },
     {
-      "id": 348,
-      "episode": 1,
       "japanese": "福ちゃんってさ あれじゃない？",
       "romaji": "Fukuchan tte sa, are janai?",
-      "chinese": "小福啊，不是那个吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "小福啊，不是那个吗？"
     },
     {
-      "id": 349,
-      "episode": 1,
       "japanese": "しーちゃんと 結婚したんじゃなかったっけ？",
       "romaji": "Shiichan to kekkon shitan janakattakke?",
-      "chinese": "他不是和小静结婚了吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "他不是和小静结婚了吗？"
     },
     {
-      "id": 350,
-      "episode": 1,
       "japanese": "そうだよね｡",
       "romaji": "sou da yo ne.",
-      "chinese": "是啊。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "是啊。"
     },
     {
-      "id": 351,
-      "episode": 1,
       "japanese": "何かね ４年ぐらい前に 別れちゃったみたい｡",
       "romaji": "nanika ne yon nen gurai mae ni wakarechatta mitai.",
-      "chinese": "好像是在四年前分开了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "好像是在四年前分开了。"
     },
     {
-      "id": 352,
-      "episode": 1,
       "japanese": "えっ！そうなんだ｡",
       "romaji": "e! sounan da.",
-      "chinese": "诶！是这样啊。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "诶！是这样啊。"
     },
     {
-      "id": 353,
-      "episode": 1,
       "japanese": "私 ちょっと前にしーちゃんに会ったんだよ｡",
       "romaji": "watashi chotto mae ni Shiichan ni atta n da yo.",
-      "chinese": "我前阵子见过小静。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "我前阵子见过小静。"
     },
     {
-      "id": 354,
-      "episode": 1,
       "japanese": "へぇ～ 知らなかったわ｡",
       "romaji": "hee~ shiranakatta wa.",
-      "chinese": "哎～我还不知道呢。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "哎～我还不知道呢。"
     },
     {
-      "id": 355,
-      "episode": 1,
       "japanese": "何で別れちゃったの？",
       "romaji": "nande wakarechatta no?",
-      "chinese": "为什么会分开呢？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "为什么会分开呢？"
     },
     {
-      "id": 356,
-      "episode": 1,
       "japanese": "あぁ… 何かねしーちゃんのほうが支えきれなく なっちゃったみたい｡",
       "romaji": "aa… nanika ne Shiichan no hou ga sasaekirenaku nacchatta mitai.",
-      "chinese": "好像是小静没办法再支撑下去了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "好像是小静没办法再支撑下去了。"
     },
     {
-      "id": 357,
-      "episode": 1,
       "japanese": "えっ でもさ 福ちゃんが 音楽やるって言った時さしーちゃんが 一番 背中押してなかったっけ？",
       "romaji": "e demo sa Fukuchan ga ongaku yaru tte itta toki sa Shiichan ga ichiban senaka oshitenakattakke?",
-      "chinese": "诶，可是小福说要做音乐的时候，不是小静最支持他吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "诶，可是小福说要做音乐的时候，不是小静最支持他吗？"
     },
     {
-      "id": 358,
-      "episode": 1,
       "japanese": "押してた｡",
       "romaji": "oshiteta.",
-      "chinese": "是啊，支持了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "是啊，支持了。"
     },
     {
-      "id": 359,
-      "episode": 1,
       "japanese": "押してたよね｡",
       "romaji": "oshiteta yo ne.",
-      "chinese": "对吧，他支持了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "对吧，他支持了。"
     },
     {
-      "id": 360,
-      "episode": 1,
       "japanese": "何なら あの２人はそれで いい感じになって 付き合ったんじゃなかったっけ？",
       "romaji": "nani nara ano futari wa sore de ii kanji ni natte tsukiatta n janakattakke?",
-      "chinese": "那两个因为这样才关系变好开始交往的吧？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "那两个因为这样才关系变好开始交往的吧？"
     },
     {
-      "id": 361,
-      "episode": 1,
       "japanese": "しーちゃんも30前にして いろいろ考えちゃったんじゃない｡",
       "romaji": "Shiichan mo sanjuu mae ni shite iroiro kangaechattan janai.",
-      "chinese": "小静快30岁了，可能想了很多事情吧。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "小静快30岁了，可能想了很多事情吧。"
     },
     {
-      "id": 362,
-      "episode": 1,
       "japanese": "で 今は 職場の人と付き合っててもうすぐ結婚するんだって｡",
       "romaji": "de ima wa shokuba no hito to tsukiatte te mou sugu kekkon surun datte.",
-      "chinese": "然后她现在跟同事交往，马上要结婚了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "然后她现在跟同事交往，马上要结婚了。"
     },
     {
-      "id": 363,
-      "episode": 1,
       "japanese": "ふ～ん｡",
       "romaji": "fūn.",
-      "chinese": "嗯~",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "嗯~"
     },
     {
-      "id": 364,
-      "episode": 1,
       "japanese": "福ちゃんは？",
       "romaji": "Fuku-chan wa?",
-      "chinese": "小福怎么样？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "小福怎么样？"
     },
     {
-      "id": 365,
-      "episode": 1,
       "japanese": "福ちゃんはねバイト先の子と付き合い始めてできちゃった結婚したみたい｡",
       "romaji": "Fuku-chan wa ne baito saki no ko to tsukiai hajimete dekichatta kekkon shita mitai.",
-      "chinese": "小福好像跟打工地方的女孩开始交往，然后奉子成婚了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "小福好像跟打工地方的女孩开始交往，然后奉子成婚了。"
     },
     {
-      "id": 366,
-      "episode": 1,
       "japanese": "福ちゃん パパなの？",
       "romaji": "Fuku-chan papa nano?",
-      "chinese": "小福已经当爸爸了吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "小福已经当爸爸了吗？"
     },
     {
-      "id": 367,
-      "episode": 1,
       "japanese": "で それが きっかけで音楽も きっぱりやめて 今はバイト掛け持ちしながら家族 養ってんだって｡",
       "romaji": "De sore ga kikkake de ongaku mo kippari yamete ima wa baito kakemochi shinagara kazoku yashinattendatte.",
-      "chinese": "然后以此为契机，他果断放弃了音乐，现在一边兼职多份工作一边养家。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "然后以此为契机，他果断放弃了音乐，现在一边兼职多份工作一边养家。"
     },
     {
-      "id": 368,
-      "episode": 1,
       "japanese": "何か知らない間に いろいろあったんだね｡",
       "romaji": "Nanika shiranai ma ni iroiro atta n da ne.",
-      "chinese": "原来在不知不觉中发生了这么多事情啊。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "原来在不知不觉中发生了这么多事情啊。"
     },
     {
-      "id": 369,
-      "episode": 1,
       "japanese": "でも 偉いよね｡",
       "romaji": "Demo erai yo ne.",
-      "chinese": "不过他真的很了不起。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "不过他真的很了不起。"
     },
     {
-      "id": 370,
-      "episode": 1,
       "japanese": "偉いよ やめるのも勇気いるもん｡",
       "romaji": "Erai yo, yameru no mo yūki iru mon.",
-      "chinese": "真的很了不起，放弃也需要勇气啊。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "真的很了不起，放弃也需要勇气啊。"
     },
     {
-      "id": 371,
-      "episode": 1,
       "japanese": "いやぁ そんな人のサービスポテト 絶対残せないじゃん｡",
       "romaji": "Iyā, sonna hito no sābisu poteto zettai nokosenai jan.",
-      "chinese": "那种人招待的薯条我们绝对不能剩啊。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "那种人招待的薯条我们绝对不能剩啊。"
     },
     {
-      "id": 372,
-      "episode": 1,
       "japanese": "確かに｡",
       "romaji": "Tashika ni.",
-      "chinese": "确实如此。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "确实如此。"
     },
     {
-      "id": 373,
-      "episode": 1,
       "japanese": "もう ここは なっちが責任持って 食べるべきなんじゃ…｡",
       "romaji": "Mō koko wa Nacchi ga sekinin motte taberu beki nan ja…",
-      "chinese": "这里应该由夏唧负责吃掉才行吧……",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "这里应该由夏唧负责吃掉才行吧……"
     },
     {
-      "id": 374,
-      "episode": 1,
       "japanese": "何でよ ２人もチヤホヤしてたじゃん｡",
       "romaji": "Nande yo, futari mo chiyahoya shitetajan.",
-      "chinese": "为什么啊，你们两个不是也挺捧他的吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "为什么啊，你们两个不是也挺捧他的吗？"
     },
     {
-      "id": 375,
-      "episode": 1,
       "japanese": "したけど サインまではもらってないもん｡",
       "romaji": "Shita kedo sain made wa morattenai mon.",
-      "chinese": "是啦，但我们没要到签名嘛。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "是啦，但我们没要到签名嘛。"
     },
     {
-      "id": 376,
-      "episode": 1,
       "japanese": "私も もらったけど すぐ なくしたもん｡",
       "romaji": "Watashi mo moratta kedo sugu nakushita mon.",
-      "chinese": "我也拿过签名，但很快就弄丢了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "我也拿过签名，但很快就弄丢了。"
     },
     {
-      "id": 377,
-      "episode": 1,
       "japanese": "えっ なくしたの？",
       "romaji": "E, nakushita no?",
-      "chinese": "诶，你弄丢了？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "诶，你弄丢了？"
     },
     {
-      "id": 378,
-      "episode": 1,
       "japanese": "ひっど！",
       "romaji": "Hiddo!",
-      "chinese": "太过分了！",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "太过分了！"
     },
     {
-      "id": 379,
-      "episode": 1,
       "japanese": "なおさら食べろよ！",
       "romaji": "Naosara tabero yo!",
-      "chinese": "那你更应该吃掉它啊！",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "那你更应该吃掉它啊！"
     },
     {
-      "id": 380,
-      "episode": 1,
       "japanese": "ていうかね 私 そんなチヤホヤしてないよ｡",
       "romaji": "Teiuka ne, watashi sonna chiyahoya shitenai yo.",
-      "chinese": "说真的，我并没有那么捧他。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "说真的，我并没有那么捧他。"
     },
     {
-      "id": 381,
-      "episode": 1,
       "japanese": "してたでしょ｡",
       "romaji": "Shiteta desho.",
-      "chinese": "明明捧了吧？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "明明捧了吧？"
     },
     {
-      "id": 382,
-      "episode": 1,
       "japanese": "うまいなとは思ったけどさすがに厳しいだろうなと 思ってたもん｡",
       "romaji": "Umai na to wa omotta kedo sasuga ni kibishii darō na to omotteta mon.",
-      "chinese": "我觉得他唱得不错，但还是觉得应该挺难的。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "我觉得他唱得不错，但还是觉得应该挺难的。"
     },
     {
-      "id": 383,
-      "episode": 1,
       "japanese": "ホントに？",
       "romaji": "Hontō ni?",
-      "chinese": "真的吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "真的吗？"
     },
     {
-      "id": 384,
-      "episode": 1,
       "japanese": "止めなかったっていうことで ３人同罪だよ｡",
       "romaji": "Tomena katta tte iu koto de sannin dōzai da yo.",
-      "chinese": "既然没人阻止，那我们三个都有责任。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "既然没人阻止，那我们三个都有责任。"
     },
     {
-      "id": 385,
-      "episode": 1,
-      "japanese": "え～！",
-      "romaji": "E~!",
-      "chinese": "哎呀！",
-      "context": "对话场景",
-      "difficulty": ""
-    },
-    {
-      "id": 386,
-      "episode": 1,
       "japanese": "(麻美)｢え～｣じゃない ３人で食べよう｡",
       "romaji": "(Asami) 'E~' janai san-nin de tabeyou.",
-      "chinese": "别说什么‘哎~’，我们三个人一起吃吧。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "别说什么‘哎~’，我们三个人一起吃吧。"
     },
     {
-      "id": 387,
-      "episode": 1,
       "japanese": "鼻差で福ちゃん 悪いのに？",
       "romaji": "Hana sa de Fuku-chan warui no ni?",
-      "chinese": "明明是小福以一鼻之差险胜，难道他有错吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "明明是小福以一鼻之差险胜，难道他有错吗？"
     },
     {
-      "id": 388,
-      "episode": 1,
       "japanese": "それ もう言わないの｡",
       "romaji": "Sore mō iwana i no.",
-      "chinese": "别再说那个了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "别再说那个了。"
     },
     {
-      "id": 389,
-      "episode": 1,
       "japanese": "よし じゃあ 取りあえず歌ってカロリー消費しますか｡",
       "romaji": "Yoshi, jā toriaezu utatte karorī shōhi shimasu ka.",
-      "chinese": "好，那先唱歌消耗一下热量吧。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "好，那先唱歌消耗一下热量吧。"
     },
     {
-      "id": 390,
-      "episode": 1,
       "japanese": "そうだね 歌おう 歌おう｡",
       "romaji": "Sō da ne, utaō, utaō.",
-      "chinese": "好啊，唱歌唱歌。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "好啊，唱歌唱歌。"
     },
     {
-      "id": 391,
-      "episode": 1,
       "japanese": "～ 僕たちは燃え盛る 旅の途中で出会い",
       "romaji": "～ Bokutachi wa moesakaru tabi no tochū de deai",
-      "chinese": "～我们在炽热燃烧的旅途中相遇，",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "～我们在炽热燃烧的旅途中相遇，"
     },
     {
-      "id": 392,
-      "episode": 1,
       "japanese": "こうして私たちは 前半の何曲かは最近の曲を歌い…",
       "romaji": "Kōshite watashitachi wa zenhan no nan kyoku ka wa saikin no kyoku o utai…",
-      "chinese": "就这样，我们在前半段唱了几首最近的歌曲……",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "就这样，我们在前半段唱了几首最近的歌曲……"
     },
     {
-      "id": 393,
-      "episode": 1,
       "japanese": "いとこが よく歌ってたんだよね｡",
       "romaji": "Itoko ga yoku utatteta n da yo ne.",
-      "chinese": "我表哥（堂哥）以前经常唱这首歌。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "我表哥（堂哥）以前经常唱这首歌。"
     },
     {
-      "id": 394,
-      "episode": 1,
       "japanese": "うちらが保育園ぐらいの時じゃ なかった？",
       "romaji": "Uchira ga hoikuen gurai no toki ja nakatta?",
-      "chinese": "这首歌不是我们上托儿所时流行的吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "这首歌不是我们上托儿所时流行的吗？"
     },
     {
-      "id": 395,
-      "episode": 1,
       "japanese": "通話はできないんだっけ？",
       "romaji": "Tsūwa wa dekinain dakke?",
-      "chinese": "是不是不能通话？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "是不是不能通话？"
     },
     {
-      "id": 396,
-      "episode": 1,
       "japanese": "何か 番号 送るんじゃなかった？",
       "romaji": "Nanika bangō okurun janakatta?",
-      "chinese": "好像是能传号码吧？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "好像是能传号码吧？"
     },
     {
-      "id": 397,
-      "episode": 1,
       "japanese": "番号？",
       "romaji": "Bangō?",
-      "chinese": "号码？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "号码？"
     },
     {
-      "id": 398,
-      "episode": 1,
       "japanese": "うん で 送られてきた番号に公衆電話から かけるんじゃなかった？",
       "romaji": "Un, de okurarete kita bangō ni kōshū denwa kara kakerun janakatta?",
-      "chinese": "嗯，然后不是用公用电话拨打收到的号码吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "嗯，然后不是用公用电话拨打收到的号码吗？"
     },
     {
-      "id": 399,
-      "episode": 1,
       "japanese": "何かさ 文字送れるやつなかった？",
       "romaji": "Nanika sa moji okureru yatsu nakatta?",
-      "chinese": "好像还有能传文字的吧？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "好像还有能传文字的吧？"
     },
     {
-      "id": 400,
-      "episode": 1,
       "japanese": "文字？",
       "romaji": "Moji?",
-      "chinese": "文字？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "文字？"
     },
     {
-      "id": 401,
-      "episode": 1,
       "japanese": "ほら カタカナとか送れるやつ あれってピッチだっけ？",
       "romaji": "Hora katakana toka okureru yatsu, are tte Pitchi dakke?",
-      "chinese": "就是能传片假名什么的那个，是PHS吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "就是能传片假名什么的那个，是PHS吗？"
     },
     {
-      "id": 402,
-      "episode": 1,
       "japanese": "ピッチじゃない？",
       "romaji": "Pitchi janai?",
-      "chinese": "不是叫PHS吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "不是叫PHS吗？"
     },
     {
-      "id": 403,
-      "episode": 1,
       "japanese": "あっ 文字送れるやつもあるね｡",
       "romaji": "A, moji okureru yatsu mo aru ne.",
-      "chinese": "啊，也有能传文字的吧。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "啊，也有能传文字的吧。"
     },
     {
-      "id": 404,
-      "episode": 1,
       "japanese": "だよね｡",
       "romaji": "Da yo ne.",
-      "chinese": "是啊。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "是啊。"
     },
     {
-      "id": 405,
-      "episode": 1,
       "japanese": "何か すごいよ｡",
       "romaji": "Nanika sugoi yo.",
-      "chinese": "感觉真厉害。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "感觉真厉害。"
     },
     {
-      "id": 406,
-      "episode": 1,
       "japanese": "例えば ｢ナツキ｣って送りたかったら最初に｢＊２＊２｣を押します｡",
       "romaji": "Tatoeba 'Natsuki' tte okuritakattara saisho ni '＊2＊2' o oshimasu.",
-      "chinese": "例如要发送‘ナツキ’这个词，先按‘＊2＊2’。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "例如要发送‘ナツキ’这个词，先按‘＊2＊2’。"
     },
     {
-      "id": 407,
-      "episode": 1,
       "japanese": "(麻美)｢＊２＊２｣聞いたことある｡",
       "romaji": "(Asami) '＊2＊2' kiita koto aru.",
-      "chinese": "（麻美）我听说过‘＊2＊2’。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "（麻美）我听说过‘＊2＊2’。"
     },
     {
-      "id": 408,
-      "episode": 1,
       "japanese": "で ｢５･１｣で｢ナ｣｡",
       "romaji": "de 'go ichi' de 'na'.",
-      "chinese": "然后按“5・1”就会打出“ナ”。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "然后按“5・1”就会打出“ナ”。"
     },
     {
-      "id": 409,
-      "episode": 1,
       "japanese": "５･１？",
       "romaji": "go ichi?",
-      "chinese": "5・1？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "5・1？"
     },
     {
-      "id": 410,
-      "episode": 1,
       "japanese": "アカサタナの５ で ナ行の１個目だから ５･１｡",
       "romaji": "akasa ta na no go de na gyou no ikko me dakara go ichi.",
-      "chinese": "因为在五十音图中，アカサタナ的“ナ”是第5行，且是ナ行的第一个音，所以按5・1。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "因为在五十音图中，アカサタナ的“ナ”是第5行，且是ナ行的第一个音，所以按5・1。"
     },
     {
-      "id": 411,
-      "episode": 1,
       "japanese": "めんどくさっ！",
       "romaji": "mendokusai!",
-      "chinese": "真麻烦！",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "真麻烦！"
     },
     {
-      "id": 412,
-      "episode": 1,
       "japanese": "ゾッとするね｡",
       "romaji": "zotto suru ne.",
-      "chinese": "真让人毛骨悚然啊。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "真让人毛骨悚然啊。"
     },
     {
-      "id": 413,
-      "episode": 1,
       "japanese": "そりゃ ポケベル鳴らないわ｡",
       "romaji": "sorya pokeberu naranai wa.",
-      "chinese": "难怪寻呼机会一声不响。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "难怪寻呼机会一声不响。"
     },
     {
-      "id": 414,
-      "episode": 1,
       "japanese": "確かに めんどくさいからだ｡",
       "romaji": "tashikani mendokusai kara da.",
-      "chinese": "确实是因为太麻烦了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "确实是因为太麻烦了。"
     },
     {
-      "id": 415,
-      "episode": 1,
       "japanese": "ちなみに たくさん歌ったら ちゃんとお腹がすいて結局 サービスのポテトだけじゃ 足りなくなり追加でポテトを注文して 平らげた",
       "romaji": "chinami ni takusan utattara chanto onaka ga suite kekkyoku sa-bisu no poteto dake ja tarinakunari tsuika de poteto o chuumon shite tairageta.",
-      "chinese": "顺便说一下，我们唱了很多歌之后真的饿了，结果光靠招待的薯条不够，又追加点了薯条，还全部吃光了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "顺便说一下，我们唱了很多歌之后真的饿了，结果光靠招待的薯条不够，又追加点了薯条，还全部吃光了。"
     },
     {
-      "id": 416,
-      "episode": 1,
       "japanese": "(３人)♪～ その笑顔 その涙",
       "romaji": "(san nin) ♪~ sono egao sono namida",
-      "chinese": "（三人）♪～那笑容 那泪水",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "（三人）♪～那笑容 那泪水"
     },
     {
-      "id": 417,
-      "episode": 1,
       "japanese": "…って これ 何の主題歌だっけ？",
       "romaji": "...tte kore nan no shudaika dakke?",
-      "chinese": "……这到底是哪部剧的主题曲来着？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "……这到底是哪部剧的主题曲来着？"
     },
     {
-      "id": 418,
-      "episode": 1,
       "japanese": "あれだよ あのさ… 草彅君のドラマ｡",
       "romaji": "are da yo ano sa... Kusanagi-kun no dorama.",
-      "chinese": "就是那个嘛…草彅君主演的电视剧。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "就是那个嘛…草彅君主演的电视剧。"
     },
     {
-      "id": 419,
-      "episode": 1,
       "japanese": "恋におちたら”｡",
       "romaji": "Koi ni Ochitara.",
-      "chinese": "《为爱坠落》",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "《为爱坠落》"
     },
     {
-      "id": 420,
-      "episode": 1,
       "japanese": "そうだ まんま 曲のﾀｲﾄﾙだった｡",
       "romaji": "sou da manma kyoku no taitoru datta.",
-      "chinese": "对啊，正好是歌名。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "对啊，正好是歌名。"
     },
     {
-      "id": 421,
-      "episode": 1,
       "japanese": "じゃ クイズね｡",
       "romaji": "ja kuizu ne.",
-      "chinese": "那来个小测验吧。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "那来个小测验吧。"
     },
     {
-      "id": 422,
-      "episode": 1,
       "japanese": "うん 何？",
       "romaji": "un nani?",
-      "chinese": "嗯？什么？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "嗯？什么？"
     },
     {
-      "id": 423,
-      "episode": 1,
       "japanese": "これは何の主題歌でしょう？",
       "romaji": "kore wa nan no shudaika deshou?",
-      "chinese": "这首歌是哪部剧的主题曲？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "这首歌是哪部剧的主题曲？"
     },
     {
-      "id": 424,
-      "episode": 1,
       "japanese": "(美穂:麻美) はい｡",
       "romaji": "(Miho: Asami) hai.",
-      "chinese": "来（答）",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "来（答）"
     },
     {
-      "id": 425,
-      "episode": 1,
       "japanese": "分かったけどさ…｡",
       "romaji": "wakatta kedo sa...",
-      "chinese": "我知道啦……",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "我知道啦……"
     },
     {
-      "id": 426,
-      "episode": 1,
       "japanese": "おっ 何？",
       "romaji": "o nani?",
-      "chinese": "哦？什么？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "哦？什么？"
     },
     {
-      "id": 427,
-      "episode": 1,
       "japanese": "(麻美)“家政婦のミタ”でしょ？",
       "romaji": "(Asami) 'Kaseifu no Mita' desho?",
-      "chinese": "是《家政妇三田》吧？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "是《家政妇三田》吧？"
     },
     {
-      "id": 428,
-      "episode": 1,
       "japanese": "正解！",
       "romaji": "seikai!",
-      "chinese": "答对了！",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "答对了！"
     },
     {
-      "id": 429,
-      "episode": 1,
       "japanese": "(麻美)｢正解！｣じゃなくてさ どうせ出すならせめて歌えるのをクイズにしなよ｡",
       "romaji": "(Asami) 'Seikai!' janakute sa dousede dasunara semete utaeru no o kuizu ni shinayo.",
-      "chinese": "别光说我答对了，出题的话至少选首能唱的啊。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "别光说我答对了，出题的话至少选首能唱的啊。"
     },
     {
-      "id": 430,
-      "episode": 1,
       "japanese": "よくその情報量で クイズに踏み切ったよね｡",
       "romaji": "yoku sono jouhou ryou de kuizu ni fumikitta yo ne.",
-      "chinese": "你凭那点信息量，居然敢出题，真大胆。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "你凭那点信息量，居然敢出题，真大胆。"
     },
     {
-      "id": 431,
-      "episode": 1,
       "japanese": "ねぇ 中学の時さ 三田って先生 いなかった？",
       "romaji": "nee chuugaku no toki sa mita tte sensei inakatta?",
-      "chinese": "对了，初中时好像有个叫三田的老师吧？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "对了，初中时好像有个叫三田的老师吧？"
     },
     {
-      "id": 432,
-      "episode": 1,
       "japanese": "あ～ ミタコングね｡",
       "romaji": "aa mitakongu ne.",
-      "chinese": "哦，三田金刚吧。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "哦，三田金刚吧。"
     },
     {
-      "id": 433,
-      "episode": 1,
       "japanese": "私 大嫌いだった｡",
       "romaji": "watashi daikirai datta.",
-      "chinese": "我超级讨厌他。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "我超级讨厌他。"
     },
     {
-      "id": 434,
-      "episode": 1,
       "japanese": "ミタコング めっちゃ怖かったもん｡",
       "romaji": "mitakongu meccha kowakatta mon.",
-      "chinese": "三田金刚真的很可怕。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "三田金刚真的很可怕。"
     },
     {
-      "id": 435,
-      "episode": 1,
       "japanese": "ねぇ｡",
       "romaji": "nee.",
-      "chinese": "对啊。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "对啊。"
     },
     {
-      "id": 436,
-      "episode": 1,
       "japanese": "あの人すぐデッカい声出すじゃん｡",
       "romaji": "ano hito sugu dekkai koe dasu jan.",
-      "chinese": "那个人不是总是大声喊叫吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "那个人不是总是大声喊叫吗？"
     },
     {
-      "id": 437,
-      "episode": 1,
       "japanese": "私 あいつにさアドバンス没収されたからね｡",
       "romaji": "watashi aitsu ni sa adobansu bosshuu sareta kara ne.",
-      "chinese": "我的游戏机被他没收了呢。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "我的游戏机被他没收了呢。"
     },
     {
-      "id": 438,
-      "episode": 1,
       "japanese": "ゲームボーイアドバンス？",
       "romaji": "ge-mu bo-i adobansu?",
-      "chinese": "Game Boy Advance？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "Game Boy Advance？"
     },
     {
-      "id": 440,
-      "episode": 1,
       "japanese": "それは授業中やってたからでしょ｡",
       "romaji": "sore wa jugyou chuu yattetakara desho.",
-      "chinese": "那是因为你上课时玩游戏吧？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "那是因为你上课时玩游戏吧？"
     },
     {
-      "id": 441,
-      "episode": 1,
       "japanese": "違うよ 放課後 ぺーたん家で 一緒にやろうっつって持ってただけだよ｡",
       "romaji": "chigau yo houkago pe-tan ie de issho ni yarou ttsutte motte tada keda yo.",
-      "chinese": "不是啦，我只是放学后想去阿呸家一起玩，所以才带过去的。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "不是啦，我只是放学后想去阿呸家一起玩，所以才带过去的。"
     },
     {
-      "id": 442,
-      "episode": 1,
       "japanese": "ぺーたん 超懐かしいんだけど｡",
       "romaji": "pe-tan chou natsukashii n da kedo.",
-      "chinese": "阿呸，真让人怀念啊。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "阿呸，真让人怀念啊。"
     },
     {
-      "id": 443,
-      "episode": 1,
       "japanese": "でも あーちん 授業中もやってたよね？",
       "romaji": "demo a-chin jugyou chuu mo yattetayo ne?",
-      "chinese": "不过你也上课时玩了吧？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "不过你也上课时玩了吧？"
     },
     {
-      "id": 444,
-      "episode": 1,
       "japanese": "やってた｡ やってたんじゃん｡",
       "romaji": "yatteta. yattetanjan.",
-      "chinese": "有啊，明明玩了嘛。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "有啊，明明玩了嘛。"
     },
     {
-      "id": 445,
-      "episode": 1,
       "japanese": "でも 現行犯じゃないからね｡",
       "romaji": "demo genkouhan janai kara ne.",
-      "chinese": "不过不是当场抓到的啦。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "不过不是当场抓到的啦。"
     },
     {
-      "id": 446,
-      "episode": 1,
       "japanese": "そもそも 学校に持ってきちゃダメだから｡",
       "romaji": "somosomo gakkou ni mottekicha dame da kara.",
-      "chinese": "本来就不该带去学校。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "本来就不该带去学校。"
     },
     {
-      "id": 447,
-      "episode": 1,
       "japanese": "まあね｡",
       "romaji": "maa ne.",
-      "chinese": "也是啦。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "也是啦。"
     },
     {
-      "id": 448,
-      "episode": 1,
       "japanese": "てかさ ミタコング 今だったら 絶対 問題になるよね｡",
       "romaji": "teka sa mitakong ima dattara zettai mondai ni naru yo ne.",
-      "chinese": "说真的，如果是现在的三田金刚，肯定会出事。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "说真的，如果是现在的三田金刚，肯定会出事。"
     },
     {
-      "id": 449,
-      "episode": 1,
       "japanese": "あ～｡",
       "romaji": "aa~.",
-      "chinese": "对啊。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "对啊。"
     },
     {
-      "id": 450,
-      "episode": 1,
       "japanese": "なるね～｡",
       "romaji": "naru ne~.",
-      "chinese": "肯定的～。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "肯定的～。"
     },
     {
-      "id": 451,
-      "episode": 1,
       "japanese": "でも多少は まるくなってんじゃないの？",
       "romaji": "demo tashou wa maruku natten janai no?",
-      "chinese": "不过应该多少变得圆滑点了吧？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "不过应该多少变得圆滑点了吧？"
     },
     {
-      "id": 452,
-      "episode": 1,
       "japanese": "いや 辞めたじゃん｡",
       "romaji": "iya yameta jan.",
-      "chinese": "他不是辞职了吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "他不是辞职了吗？"
     },
     {
-      "id": 453,
-      "episode": 1,
       "japanese": "えっ マジで？",
       "romaji": "eh maji de?",
-      "chinese": "诶，真的吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "诶，真的吗？"
     },
     {
-      "id": 454,
-      "episode": 1,
       "japanese": "知らない？",
       "romaji": "shiranai?",
-      "chinese": "你不知道吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "你不知道吗？"
     },
     {
-      "id": 455,
-      "episode": 1,
       "japanese": "だいぶ前だよ 問題起こしたとか｡",
       "romaji": "daibu mae da yo mondai okoshita toka.",
-      "chinese": "是很久以前惹了什么麻烦的样子。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "是很久以前惹了什么麻烦的样子。"
     },
     {
-      "id": 456,
-      "episode": 1,
       "japanese": "あ～ やっぱり そうなんだ｡",
       "romaji": "aa yappari sou nan da.",
-      "chinese": "啊，果然是这样啊。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "啊，果然是这样啊。"
     },
     {
-      "id": 457,
-      "episode": 1,
       "japanese": "なるべくしてなったって感じだね｡",
       "romaji": "narubeku shite natta tte kanji da ne.",
-      "chinese": "感觉是必然会发生的事呢。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "感觉是必然会发生的事呢。"
     },
     {
-      "id": 458,
-      "episode": 1,
       "japanese": "何だよ 辞める前にアドバンス返せよ～！",
       "romaji": "nandayo yameru mae ni adobansu kaese yo~!",
-      "chinese": "干嘛啊，辞职前把GBA还我啊！",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "干嘛啊，辞职前把GBA还我啊！"
     },
     {
-      "id": 459,
-      "episode": 1,
       "japanese": "えっ 返してもらってないんだ｡",
       "romaji": "eh, kaeshite morattenai n da.",
-      "chinese": "诶？还没还你啊？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "诶？还没还你啊？"
     },
     {
-      "id": 460,
-      "episode": 1,
       "japanese": "まだ返してもらってないよ｡",
       "romaji": "mada kaeshite morattenai yo.",
-      "chinese": "他还没还我呢。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "他还没还我呢。"
     },
     {
-      "id": 461,
-      "episode": 1,
       "japanese": "しかも買ったばっかの“逆転裁判” ささったまんまだったからね｡",
       "romaji": "shikamo katta bakka no 'gyakuten saiban' sasatta manma datta kara ne.",
-      "chinese": "而且刚买的《逆转裁判》还插在里面呢。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "而且刚买的《逆转裁判》还插在里面呢。"
     },
     {
-      "id": 462,
-      "episode": 1,
       "japanese": "ってか よく覚えてんね｡",
       "romaji": "tte ka yoku oboeten ne.",
-      "chinese": "话说你记得还真清楚啊。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "话说你记得还真清楚啊。"
     },
     {
-      "id": 463,
-      "episode": 1,
       "japanese": "覚えてるよ～｡",
       "romaji": "oboeteru yo~.",
-      "chinese": "当然记得啦～。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "当然记得啦～。"
     },
     {
-      "id": 464,
-      "episode": 1,
       "japanese": "あの絶望感は10年経った今も 鮮明に覚えてますよ｡",
       "romaji": "ano zetsubou kan wa juu nen tatta ima mo senmei ni oboete masu yo.",
-      "chinese": "那种绝望感即使过了十年，现在依然清晰记得。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "那种绝望感即使过了十年，现在依然清晰记得。"
     },
     {
-      "id": 465,
-      "episode": 1,
       "japanese": "ん？ 10年？",
       "romaji": "n? juu nen?",
-      "chinese": "嗯？十年？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "嗯？十年？"
     },
     {
-      "id": 466,
-      "episode": 1,
       "japanese": "あれ もう20年近く前だよ｡",
       "romaji": "are mou nijuu nen chikaku mae da yo.",
-      "chinese": "那都快是二十年前的事了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "那都快是二十年前的事了。"
     },
     {
-      "id": 467,
-      "episode": 1,
       "japanese": "え… そんな経つ？",
       "romaji": "e... sonna tatsu?",
-      "chinese": "诶……真的有那么久？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "诶……真的有那么久？"
     },
     {
-      "id": 468,
-      "episode": 1,
-      "japanese": "はい｡",
-      "romaji": "hai.",
-      "chinese": "是啊。",
-      "context": "对话场景",
-      "difficulty": ""
-    },
-    {
-      "id": 469,
-      "episode": 1,
       "japanese": "怖っ！",
       "romaji": "kowai!",
-      "chinese": "好可怕！",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "好可怕！"
     },
     {
-      "id": 470,
-      "episode": 1,
       "japanese": "何かさ 30過ぎてから 時間経つの早過ぎじゃない？",
       "romaji": "nanika sa 30 sugite kara jikan tatsu no hayasugi janai?",
-      "chinese": "感觉三十岁以后时间过得太快了吧？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "感觉三十岁以后时间过得太快了吧？"
     },
     {
-      "id": 471,
-      "episode": 1,
       "japanese": "早い！",
       "romaji": "hayai!",
-      "chinese": "真的很快！",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "真的很快！"
     },
     {
-      "id": 472,
-      "episode": 1,
       "japanese": "それってさ 本で読んだんだけど１年の相対的な長さが 短くなるからなんだって｡",
       "romaji": "sorette sa hon de yondan dakedo ichi nen no soutaiteki na nagasa ga mijikaku naru kara nan datte.",
-      "chinese": "我在书上读过，是因为一年相对的长度变短了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "我在书上读过，是因为一年相对的长度变短了。"
     },
     {
-      "id": 473,
-      "episode": 1,
       "japanese": "ふ～ん｡",
       "romaji": "fu~n.",
-      "chinese": "哦～是这样啊。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "哦～是这样啊。"
     },
     {
-      "id": 474,
-      "episode": 1,
       "japanese": "へぇ～｡ ごめん ｢へぇ～｣って言ったけど どういうこと？",
       "romaji": "hee~. gomen 'hee~' tte itta kedo dou iu koto?",
-      "chinese": "嘿～。抱歉我说‘嘿～’，但这是什么意思？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "嘿～。抱歉我说‘嘿～’，但这是什么意思？"
     },
     {
-      "id": 475,
-      "episode": 1,
       "japanese": "例えばさ ３歳にとっての１年って 人生の３分の１じゃん｡",
       "romaji": "tatoeba sa san sai ni totte no ichi nen tte jinsei no san bun no ichi jan.",
-      "chinese": "比如说，对三岁的小孩来说，一年是人生的三分之一。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "比如说，对三岁的小孩来说，一年是人生的三分之一。"
     },
     {
-      "id": 476,
-      "episode": 1,
       "japanese": "でも 30歳にとっての１年って人生の 30分の１でしかないじゃん｡",
       "romaji": "demo sanjuu sai ni totte no ichi nen tte jinsei no sanjuu bun no ichi de shika nai jan.",
-      "chinese": "但对三十岁的人来说，一年只不过是人生的三十分之一而已。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "但对三十岁的人来说，一年只不过是人生的三十分之一而已。"
     },
     {
-      "id": 477,
-      "episode": 1,
       "japanese": "そうやって １年の相対的な長さが どんどん短くなるにつれて早く感じるようになるんだって｡",
       "romaji": "sou yatte ichi nen no soutaiteki na nagasa ga dondon mijikaku naru ni tsurete hayaku kanjiru you ni narun datte.",
-      "chinese": "随着一年相对长度逐渐缩短，所以会感觉时间过得更快。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "随着一年相对长度逐渐缩短，所以会感觉时间过得更快。"
     },
     {
-      "id": 478,
-      "episode": 1,
       "japanese": "確かに そのくらい早いよね｡",
       "romaji": "tashika ni sono kurai hayai yo ne.",
-      "chinese": "确实，大致是那么快的感觉。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "确实，大致是那么快的感觉。"
     },
     {
-      "id": 479,
-      "episode": 1,
       "japanese": "てか 最近 １日過ぎるのも 早くない？",
       "romaji": "teka saikin ichinichi sugiru no mo hayakunai?",
-      "chinese": "而且最近一天也过得特别快，不是吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "而且最近一天也过得特别快，不是吗？"
     },
     {
-      "id": 480,
-      "episode": 1,
       "japanese": "今日 仕事してたのだって もう 昨日のことのように感じるもん｡",
       "romaji": "kyou shigoto shiteta no datte mou kinou no koto no you ni kanjiru mon.",
-      "chinese": "连今天工作的事都感觉像是昨天的事了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "连今天工作的事都感觉像是昨天的事了。"
     },
     {
-      "id": 481,
-      "episode": 1,
       "japanese": "だね…｡",
       "romaji": "da ne….",
-      "chinese": "是啊……",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "是啊……"
     },
     {
-      "id": 482,
-      "episode": 1,
       "japanese": "うん｡ まぁ 今12時過ぎてるから 実際 昨日なんだけどね｡",
       "romaji": "un. maa ima juu ni ji sugiteru kara jissai kinou nan da kedo ne.",
-      "chinese": "嗯，毕竟现在已经过了12点，实际上已经是昨天了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "嗯，毕竟现在已经过了12点，实际上已经是昨天了。"
     },
     {
-      "id": 483,
-      "episode": 1,
       "japanese": "そうなのよ 昨日なのよ｡",
       "romaji": "sou na no yo kinou na no yo.",
-      "chinese": "没错，确实是昨天。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "没错，确实是昨天。"
     },
     {
-      "id": 484,
-      "episode": 1,
       "japanese": "いや そこは もういいじゃん｡ 私も言った後 ｢あっ｣て思ったけどさ｡",
       "romaji": "iya soko wa mou ii jan. watashi mo itta ato 'ah' tte omotta kedo sa.",
-      "chinese": "唉，那部分算了吧，我自己说完也觉得‘啊’了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "唉，那部分算了吧，我自己说完也觉得‘啊’了。"
     },
     {
-      "id": 485,
-      "episode": 1,
       "japanese": "ごめん スルーできなかったわ｡ あ～ コンビニ寄っていい？",
       "romaji": "gomen suruu dekinakatta wa. aa konbini yotte ii?",
-      "chinese": "抱歉，我忍不住吐槽了。啊，可以去一下便利店吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "抱歉，我忍不住吐槽了。啊，可以去一下便利店吗？"
     },
     {
-      "id": 486,
-      "episode": 1,
       "japanese": "私も行きたい｡",
       "romaji": "watashi mo ikitai.",
-      "chinese": "我也想去。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "我也想去。"
     },
     {
-      "id": 487,
-      "episode": 1,
       "japanese": "さっきの時間の話だけどさ｡",
       "romaji": "sakki no jikan no hanashi da kedo sa.",
-      "chinese": "刚才说的时间那个话题啊。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "刚才说的时间那个话题啊。"
     },
     {
-      "id": 488,
-      "episode": 1,
       "japanese": "あれってさ うちらの生活に 新鮮味がなくなってきてる…っていうのもあるよね｡",
       "romaji": "are tte sa uchira no seikatsu ni shinsenmi ga nakunatteru... tte iu no mo aru yo ne.",
-      "chinese": "那也意味着我们的生活变得没什么新鲜感了吧。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "那也意味着我们的生活变得没什么新鲜感了吧。"
     },
     {
-      "id": 489,
-      "episode": 1,
       "japanese": "確かに｡",
       "romaji": "tashika ni.",
-      "chinese": "确实如此。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "确实如此。"
     },
     {
-      "id": 490,
-      "episode": 1,
       "japanese": "基本 同じことの 繰り返しだもんね｡",
       "romaji": "kihon onaji koto no kurikaeshi da mon ne.",
-      "chinese": "基本上就是一直在重复同样的事情嘛。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "基本上就是一直在重复同样的事情嘛。"
     },
     {
-      "id": 491,
-      "episode": 1,
       "japanese": "うちら 10年後も 変わってなさそうだし｡",
       "romaji": "uchira juu nen go mo kawatte nasasou da shi.",
-      "chinese": "感觉我们十年后也不会变。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "感觉我们十年后也不会变。"
     },
     {
-      "id": 492,
-      "episode": 1,
       "japanese": "変わんなそう 現に10年前と変わってないし｡",
       "romaji": "kawannasou gen ni juu nen mae to kawattenai shi.",
-      "chinese": "其实我们现在和十年前没什么变化。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "其实我们现在和十年前没什么变化。"
     },
     {
-      "id": 493,
-      "episode": 1,
       "japanese": "３人とも独身だしね｡",
       "romaji": "san nin tomo dokushin da shi ne.",
-      "chinese": "我们三个都还是单身呢。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "我们三个都还是单身呢。"
     },
     {
-      "id": 494,
-      "episode": 1,
       "japanese": "これ このまま行く可能性あるね｡",
       "romaji": "kore kono mama iku kanousei aru ne.",
-      "chinese": "可能会一直这样继续下去呢。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "可能会一直这样继续下去呢。"
     },
     {
-      "id": 495,
-      "episode": 1,
       "japanese": "いいじゃん このままで そんでさおばあちゃんになったら 一緒に住もうよ｡",
       "romaji": "ii jan kono mama de sonde sa obaachan ni nattara issho ni sumou yo.",
-      "chinese": "这样挺好的，然后等我们都变成老太太了再一起住吧。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "这样挺好的，然后等我们都变成老太太了再一起住吧。"
     },
     {
-      "id": 496,
-      "episode": 1,
       "japanese": "え？ ３人だけで？",
       "romaji": "e? san nin dake de?",
-      "chinese": "诶？就我们三个吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "诶？就我们三个吗？"
     },
     {
-      "id": 497,
-      "episode": 1,
       "japanese": "うん 楽しそうじゃない？",
       "romaji": "un tanoshisou janai?",
-      "chinese": "嗯，感觉很有趣吧？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "嗯，感觉很有趣吧？"
     },
     {
-      "id": 498,
-      "episode": 1,
       "japanese": "楽しそうだけどさ 誰か 寝たきりとかになったら大変だよ｡",
       "romaji": "tanoshisou dakedo sa dareka netakiri toka ni nattara taihen da yo.",
-      "chinese": "听起来挺有趣的，但如果有人卧床不起就麻烦了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "听起来挺有趣的，但如果有人卧床不起就麻烦了。"
     },
     {
-      "id": 499,
-      "episode": 1,
       "japanese": "面倒見たらいいじゃん｡",
       "romaji": "mendou mitara ii jan.",
-      "chinese": "互相照顾不就好了？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "互相照顾不就好了？"
     },
     {
-      "id": 500,
-      "episode": 1,
       "japanese": "面倒見るって３人 うちら同い年だからね？",
       "romaji": "mendou miru tte sannin uchira onainen dakara ne?",
-      "chinese": "说要照顾的话，我们三个都是同龄人，要怎么照顾啊？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "说要照顾的话，我们三个都是同龄人，要怎么照顾啊？"
     },
     {
-      "id": 501,
-      "episode": 1,
       "japanese": "あっ そっか｡",
       "romaji": "a, sokka.",
-      "chinese": "啊，对哦。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "啊，对哦。"
     },
     {
-      "id": 502,
-      "episode": 1,
       "japanese": "しかもさ １人ならまだしも ２人ダメになったらヤッバいよ｡",
       "romaji": "shikamo sa, hitori nara mada shimo futari dame ni nattara yabai yo.",
-      "chinese": "而且啊，一个还勉强行，要是两个人都不行了就完蛋了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "而且啊，一个还勉强行，要是两个人都不行了就完蛋了。"
     },
     {
-      "id": 503,
-      "episode": 1,
       "japanese": "やぁ～ ヤバい｡ それはゾッとするね｡",
       "romaji": "yaa~ yabai. sore wa zotto suru ne.",
-      "chinese": "啊～糟糕，那真让人毛骨悚然。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "啊～糟糕，那真让人毛骨悚然。"
     },
     {
-      "id": 504,
-      "episode": 1,
       "japanese": "私 絶対ヤダ～｡",
       "romaji": "watashi zettai yada~.",
-      "chinese": "我绝对不想那样。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "我绝对不想那样。"
     },
     {
-      "id": 505,
-      "episode": 1,
       "japanese": "じゃあさ ３人で同じ老人ホームに 入ればよくない？",
       "romaji": "jaa sa, sannin de onaji roujin hōmu ni haireba yokunai?",
-      "chinese": "那不如我们三个一起住进同一个养老院，怎么样？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "那不如我们三个一起住进同一个养老院，怎么样？"
     },
     {
-      "id": 506,
-      "episode": 1,
       "japanese": "それ いいね｡",
       "romaji": "sore ii ne.",
-      "chinese": "那个主意不错。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "那个主意不错。"
     },
     {
-      "id": 507,
-      "episode": 1,
       "japanese": "そしたらさ うちら入る時 40年後とかじゃん その頃にはさ もう超ハイテク老人ホームみたいに なってそうじゃない？",
       "romaji": "soshitara sa, uchira hairu toki yonjū-nen go toka jan. sono koro ni wa sa, mō chō haiteku roujin hōmu mitai ni natte sō janai?",
-      "chinese": "那样的话，我们住进去应该是四十年后吧？到时候养老院应该会变成超级高科技的样子吧？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "那样的话，我们住进去应该是四十年后吧？到时候养老院应该会变成超级高科技的样子吧？"
     },
     {
-      "id": 508,
-      "episode": 1,
       "japanese": "車いすが浮いちゃってんでしょ？",
       "romaji": "kuruma isu ga uichattenden sho?",
-      "chinese": "轮椅会浮起来之类的吧？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "轮椅会浮起来之类的吧？"
     },
     {
-      "id": 509,
-      "episode": 1,
       "japanese": "あれでしょ フリーザ乗ってるやつでしょ？",
       "romaji": "are desho, Furīza notteru yatsu desho?",
-      "chinese": "是那个吧，就是弗利萨坐的那种吧？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "是那个吧，就是弗利萨坐的那种吧？"
     },
     {
-      "id": 510,
-      "episode": 1,
       "japanese": "こういうやつ…｡",
       "romaji": "kō iu yatsu...",
-      "chinese": "就是这种……",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "就是这种……"
     },
     {
-      "id": 511,
-      "episode": 1,
       "japanese": "よし 決まりだね｡",
       "romaji": "yoshi kimari da ne.",
-      "chinese": "好，就这么决定了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "好，就这么决定了。"
     },
     {
-      "id": 512,
-      "episode": 1,
       "japanese": "うん 決まりでしょ｡",
       "romaji": "un kimari desho.",
-      "chinese": "嗯，算是决定了吧？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "嗯，算是决定了吧？"
     },
     {
-      "id": 513,
-      "episode": 1,
       "japanese": "行く？",
       "romaji": "iku?",
-      "chinese": "走了吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "走了吗？"
     },
     {
-      "id": 514,
-      "episode": 1,
       "japanese": "私 歩いて帰るわ｡",
       "romaji": "watashi aruite kaeru wa.",
-      "chinese": "我要走路回家。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "我要走路回家。"
     },
     {
-      "id": 515,
-      "episode": 1,
       "japanese": "ホント？",
       "romaji": "honto?",
-      "chinese": "真的吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "真的吗？"
     },
     {
-      "id": 516,
-      "episode": 1,
       "japanese": "今日 たくさん食べたし歩く｡",
       "romaji": "kyō takusan tabeta shi aruku.",
-      "chinese": "今天吃太多了，得走路消耗一下。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "今天吃太多了，得走路消耗一下。"
     },
     {
-      "id": 517,
-      "episode": 1,
       "japanese": "この距離じゃ消費しないでしょ｡",
       "romaji": "kono kyori ja shōhi shinai desho.",
-      "chinese": "这点距离也消耗不了多少热量吧？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "这点距离也消耗不了多少热量吧？"
     },
     {
-      "id": 518,
-      "episode": 1,
       "japanese": "ポテト１本も無理だよ｡",
       "romaji": "poteto ippon mo muri da yo.",
-      "chinese": "连一根薯条的热量都消耗不了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "连一根薯条的热量都消耗不了。"
     },
     {
-      "id": 519,
-      "episode": 1,
       "japanese": "ありがとね あーちん プレゼント｡",
       "romaji": "arigatō ne āchin, purezento.",
-      "chinese": "谢谢你，麻美，礼物哦。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "谢谢你，麻美，礼物哦。"
     },
     {
-      "id": 520,
-      "episode": 1,
       "japanese": "おめでとう！",
       "romaji": "omedetō!",
-      "chinese": "生日快乐！",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "生日快乐！"
     },
     {
-      "id": 521,
-      "episode": 1,
       "japanese": "じゃあね おめでとう！",
       "romaji": "jaa ne, omedetō!",
-      "chinese": "那再见了，生日快乐！",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "那再见了，生日快乐！"
     },
     {
-      "id": 522,
-      "episode": 1,
       "japanese": "じゃあね～｡",
       "romaji": "jaa ne~.",
-      "chinese": "拜拜～",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "拜拜～"
     },
     {
-      "id": 523,
-      "episode": 1,
       "japanese": "死んだ…？",
       "romaji": "shinda...?",
-      "chinese": "死了吗...？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "死了吗...？"
     },
     {
-      "id": 524,
-      "episode": 1,
       "japanese": "ウソでしょ…",
       "romaji": "uso desho...",
-      "chinese": "不会吧...",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "不会吧..."
     },
     {
-      "id": 525,
-      "episode": 1,
       "japanese": "こんなあっけないの？",
       "romaji": "konna akkenai no?",
-      "chinese": "就这么没劲就死了吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "就这么没劲就死了吗？"
     },
     {
-      "id": 526,
-      "episode": 1,
       "japanese": "で どうすればいいんだろ？",
       "romaji": "de, dō sureba ii ndarō?",
-      "chinese": "那该怎么办才好呢？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "那该怎么办才好呢？"
     },
     {
-      "id": 527,
-      "episode": 1,
       "japanese": "いや ずっと このままじゃないよね？",
       "romaji": "iya, zutto kono mama janai yo ne?",
-      "chinese": "不会一直这样下去吧？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "不会一直这样下去吧？"
     },
     {
-      "id": 528,
-      "episode": 1,
       "japanese": "え？ こういう地獄なのかな？",
       "romaji": "e? kō iu jigoku nano ka na?",
-      "chinese": "难道我这是掉进了这种地狱吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "难道我这是掉进了这种地狱吗？"
     },
     {
-      "id": 529,
-      "episode": 1,
       "japanese": "あの… すいません｡",
       "romaji": "ano... sumimasen.",
-      "chinese": "那个……不好意思。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "那个……不好意思。"
     },
     {
-      "id": 530,
-      "episode": 1,
       "japanese": "(受付係) はい｡",
       "romaji": "(uketsuke gakari) hai.",
-      "chinese": "（接待员）是的。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "（接待员）是的。"
     },
     {
-      "id": 531,
-      "episode": 1,
       "japanese": "何か死んじゃったみたい なんですけどどうしたらいいですか？",
       "romaji": "nanika shinjatta mitai nan desu kedo dō shitara ii desu ka?",
-      "chinese": "我好像死了，请问我该怎么办？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "我好像死了，请问我该怎么办？"
     },
     {
-      "id": 532,
-      "episode": 1,
       "japanese": "はい ではですねこちらに お名前と生年月日を ご記入ください｡",
       "romaji": "hai, dewa desu ne kochira ni onamae to seinengappi o go kinyū kudasai.",
-      "chinese": "好的，那么请您在这里填写姓名和出生日期。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "好的，那么请您在这里填写姓名和出生日期。"
     },
     {
-      "id": 533,
-      "episode": 1,
-      "japanese": "はい｡",
-      "romaji": "hai.",
-      "chinese": "好的。",
-      "context": "对话场景",
-      "difficulty": ""
-    },
-    {
-      "id": 534,
-      "episode": 1,
       "japanese": "はい ありがとうございます｡",
       "romaji": "hai, arigatō gozaimasu.",
-      "chinese": "好的，谢谢您。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "好的，谢谢您。"
     },
     {
-      "id": 535,
-      "episode": 1,
       "japanese": "少々お待ちください｡",
       "romaji": "shōshō omachi kudasai.",
-      "chinese": "请稍等。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "请稍等。"
     },
     {
-      "id": 536,
-      "episode": 1,
       "japanese": "近藤麻美様ですね？",
       "romaji": "Kondō Asami-sama desu ne?",
-      "chinese": "您是近藤麻美小姐吧？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "您是近藤麻美小姐吧？"
     },
     {
-      "id": 537,
-      "episode": 1,
-      "japanese": "はい｡",
-      "romaji": "hai.",
-      "chinese": "是的。",
-      "context": "对话场景",
-      "difficulty": ""
-    },
-    {
-      "id": 538,
-      "episode": 1,
       "japanese": "はい 33年間お疲れさまでした｡",
       "romaji": "hai, sanjūsan-nenkan otsukaresama deshita.",
-      "chinese": "辛苦您了，三十三年来。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "辛苦您了，三十三年来。"
     },
     {
-      "id": 539,
-      "episode": 1,
       "japanese": "どうも｡",
       "romaji": "dōmo.",
-      "chinese": "谢谢。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "谢谢。"
     },
     {
-      "id": 540,
-      "episode": 1,
       "japanese": "では これから 新しい生命に ご案内いたしますね｡",
       "romaji": "dewa kore kara atarashii seimei ni goannai itashimasu ne.",
-      "chinese": "那么，接下来将引导您进入新的生命。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "那么，接下来将引导您进入新的生命。"
     },
     {
-      "id": 541,
-      "episode": 1,
       "japanese": "あの もう今からってことですか？",
       "romaji": "ano, mō ima kara tte koto desu ka?",
-      "chinese": "那个，是说现在就要去吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "那个，是说现在就要去吗？"
     },
     {
-      "id": 542,
-      "episode": 1,
       "japanese": "何か こう インターバル みたいなのはないんですね？",
       "romaji": "nanika kō intābaru mitai na no wa nai n desu ne?",
-      "chinese": "没有类似中间休息的间隔吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "没有类似中间休息的间隔吗？"
     },
     {
-      "id": 543,
-      "episode": 1,
       "japanese": "インターバルはないですね｡",
       "romaji": "intābaru wa nai desu ne.",
-      "chinese": "没有中场休息。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "没有中场休息。"
     },
     {
-      "id": 544,
-      "episode": 1,
       "japanese": "そうなんですか｡",
       "romaji": "sō nan desu ka.",
-      "chinese": "是这样啊。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "是这样啊。"
     },
     {
-      "id": 545,
-      "episode": 1,
       "japanese": "よろしいですか？",
       "romaji": "yoroshii desu ka?",
-      "chinese": "可以吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "可以吗？"
     },
     {
-      "id": 546,
-      "episode": 1,
       "japanese": "はい 分かりました｡",
       "romaji": "hai, wakarimashita.",
-      "chinese": "好的，我明白了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "好的，我明白了。"
     },
     {
-      "id": 547,
-      "episode": 1,
       "japanese": "ではですね こちら左側 真っすぐ進んでいただきますと扉がございますので そちらから 来世にお入りください｡",
       "romaji": "dewa desu ne, kochira hidarigawa massugu susunde itadakimasu to tobira ga gozaimasu node, sochira kara raise ni o hairi kudasai.",
-      "chinese": "那么，请您往左侧直走，会看到一扇门，请从那里进入来世。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "那么，请您往左侧直走，会看到一扇门，请从那里进入来世。"
     },
     {
-      "id": 548,
-      "episode": 1,
       "japanese": "いってらっしゃいませ｡",
       "romaji": "itterasshaimase.",
-      "chinese": "一路顺风。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "一路顺风。"
     },
     {
-      "id": 549,
-      "episode": 1,
       "japanese": "ありがとうございます｡",
       "romaji": "arigatou gozaimasu.",
-      "chinese": "非常感谢。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "非常感谢。"
     },
     {
-      "id": 550,
-      "episode": 1,
       "japanese": "あっ｡ すいません ちなみになんですけど次 どこに生まれ変わるとかって 分かったりしますか？",
       "romaji": "a. suimasen, chinami ni nandesu kedo tsugi doko ni umarekawaru toka tte wakattari shimasu ka?",
-      "chinese": "啊，不好意思，顺便问一下，您知道下辈子会转生到哪里吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "啊，不好意思，顺便问一下，您知道下辈子会转生到哪里吗？"
     },
     {
-      "id": 551,
-      "episode": 1,
       "japanese": "次？ あっ 分かりますよ｡ 次はですね 近藤様は… あっ これだ｡",
       "romaji": "tsugi? a, wakarimasu yo. tsugi wa desu ne, Kondou-sama wa... a, kore da.",
-      "chinese": "下辈子？啊，我知道。下辈子呢，近藤先生是……啊，就是这个。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "下辈子？啊，我知道。下辈子呢，近藤先生是……啊，就是这个。"
     },
     {
-      "id": 552,
-      "episode": 1,
       "japanese": "近藤様は グアテマラ南東部の オオアリクイですね｡",
       "romaji": "Kondou-sama wa Guatemara nantoubu no ooarikui desu ne.",
-      "chinese": "近藤先生会转生成危地马拉东南部的大食蚁兽。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "近藤先生会转生成危地马拉东南部的大食蚁兽。"
     },
     {
-      "id": 553,
-      "episode": 1,
       "japanese": "すいません 何ですか？",
       "romaji": "suimasen, nan desu ka?",
-      "chinese": "不好意思，请再说一遍？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "不好意思，请再说一遍？"
     },
     {
-      "id": 554,
-      "episode": 1,
       "japanese": "グアテマラ南東部のオオアリクイですね｡",
       "romaji": "Guatemara nantoubu no ooarikui desu ne.",
-      "chinese": "是危地马拉东南部的大食蚁兽。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "是危地马拉东南部的大食蚁兽。"
     },
     {
-      "id": 555,
-      "episode": 1,
       "japanese": "こちらですね｡",
       "romaji": "kochira desu ne.",
-      "chinese": "就是这个。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "就是这个。"
     },
     {
-      "id": 556,
-      "episode": 1,
       "japanese": "オオアリクイ？",
       "romaji": "ooarikui?",
-      "chinese": "大食蚁兽？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "大食蚁兽？"
     },
     {
-      "id": 557,
-      "episode": 1,
       "japanese": "人間じゃないっていう ことですか？",
       "romaji": "ningen ja nai tte iu koto desu ka?",
-      "chinese": "也就是说不是转生为人类吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "也就是说不是转生为人类吗？"
     },
     {
-      "id": 558,
-      "episode": 1,
       "japanese": "そうですね｡",
       "romaji": "sou desu ne.",
-      "chinese": "是的，不是人类。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "是的，不是人类。"
     },
     {
-      "id": 559,
-      "episode": 1,
       "japanese": "何で私 オオアリクイなんですかね？",
       "romaji": "nande watashi ooarikui nan desu ka ne?",
-      "chinese": "为什么我会变成大食蚁兽呢？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "为什么我会变成大食蚁兽呢？"
     },
     {
-      "id": 560,
-      "episode": 1,
       "japanese": "一応 近藤様の 生前の内容に基づいてオオアリクイということだと 思いますけど｡",
       "romaji": "ichiou Kondou-sama no seizen no naiyou ni motozuite ooarikui to iu koto da to omoimasu kedo.",
-      "chinese": "大致上是基于近藤先生生前的情况，才会转生为大食蚁兽。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "大致上是基于近藤先生生前的情况，才会转生为大食蚁兽。"
     },
     {
-      "id": 561,
-      "episode": 1,
       "japanese": "私の その 行いが 良くなかったってことですか？",
       "romaji": "watashi no sono okonai ga yokunakatta tte koto desu ka?",
-      "chinese": "你的意思是我的行为不好吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "你的意思是我的行为不好吗？"
     },
     {
-      "id": 562,
-      "episode": 1,
       "japanese": "そうですね まぁ ご希望の生命で ないのだとしたらその 必要な徳が不足してる 可能性は高い…｡",
       "romaji": "sou desu ne. maa, go kibou no seimei de nai no da to shitara sono hitsuyou na toku ga fusoku shiteru kanousei wa takai...",
-      "chinese": "是的，如果不是您希望的生命，那很可能是您缺少必要的德行……",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "是的，如果不是您希望的生命，那很可能是您缺少必要的德行……"
     },
     {
-      "id": 563,
-      "episode": 1,
       "japanese": "徳が不足か… あれ～？",
       "romaji": "toku ga fusoku ka... are~?",
-      "chinese": "德行不足吗……咦？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "德行不足吗……咦？"
     },
     {
-      "id": 564,
-      "episode": 1,
       "japanese": "え～ それは何とかならないんですか？",
       "romaji": "ee~ sore wa nantoka naranai n desu ka?",
-      "chinese": "诶～那不能想办法解决吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "诶～那不能想办法解决吗？"
     },
     {
-      "id": 565,
-      "episode": 1,
       "japanese": "そうですね こればっかりは 一応 決まりなので｡",
       "romaji": "sou desu ne. kore bakkari wa ichiou kimari nano de.",
-      "chinese": "是啊，这个方面暂时是规矩。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "是啊，这个方面暂时是规矩。"
     },
     {
-      "id": 566,
-      "episode": 1,
       "japanese": "申し訳ございません｡",
       "romaji": "moushiwake gozaimasen.",
-      "chinese": "非常抱歉。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "非常抱歉。"
     },
     {
-      "id": 567,
-      "episode": 1,
       "japanese": "(市民) だから 何とかならないの？",
       "romaji": "(shimin) [dakara nantoka naranai no?]",
-      "chinese": "（市民）「所以不能想办法吗？」",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "（市民）「所以不能想办法吗？」"
     },
     {
-      "id": 568,
-      "episode": 1,
       "japanese": "(麻美)規則なのでね 支払っていただくしか",
       "romaji": "(Asami) [kisoku nano de ne shiharatte itadaku shika]",
-      "chinese": "（麻美）「因为是规定，所以只能请您支付。」",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "（麻美）「因为是规定，所以只能请您支付。」"
     },
     {
-      "id": 569,
-      "episode": 1,
       "japanese": "この人に言っても どうしようもないんだろうな",
       "romaji": "kono hito ni itte mo doushiyou mo nai n darou na",
-      "chinese": "跟这个人说了也没办法吧。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "跟这个人说了也没办法吧。"
     },
     {
-      "id": 570,
-      "episode": 1,
       "japanese": "じゃあ… 分かりました もう あそこから私は オオアリクイの人生 ということですよね？",
       "romaji": "jaa... wakarimashita. mou asoko kara watashi wa ooarikui no jinsei to iu koto desu yo ne?",
-      "chinese": "那么……明白了。我从那边开始就是大食蚁兽的人生了吧？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "那么……明白了。我从那边开始就是大食蚁兽的人生了吧？"
     },
     {
-      "id": 571,
-      "episode": 1,
       "japanese": "そうですね まぁ あとは あの～ 来世ではなくて今世をやり直すか ですよね｡",
       "romaji": "sou desu ne. maa, ato wa ano~ raise de wa nakute konsei wo yarinaosu ka desu yo ne.",
-      "chinese": "是的，剩下的就是，选择来世，或者重新开始这辈子，对吧？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "是的，剩下的就是，选择来世，或者重新开始这辈子，对吧？"
     },
     {
-      "id": 572,
-      "episode": 1,
       "japanese": "ん？ どういうことですか？",
       "romaji": "n? dou iu koto desu ka?",
-      "chinese": "嗯？什么意思？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "嗯？什么意思？"
     },
     {
-      "id": 573,
-      "episode": 1,
       "japanese": "新しい生命ではなくて もう一度 近藤麻美様として同じ人生をやり直すことでしたら 可能ですね｡",
       "romaji": "atarashii seimei de wa nakute mou ichido Kondou Asami-sama to shite onaji jinsei wo yarinaosu koto deshitara kanou desu ne.",
-      "chinese": "如果不是转生为新的生命，而是以近藤麻美的身份再一次重新过相同的人生的话，是可以的。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "如果不是转生为新的生命，而是以近藤麻美的身份再一次重新过相同的人生的话，是可以的。"
     },
     {
-      "id": 574,
-      "episode": 1,
       "japanese": "それもあり!?",
       "romaji": "sore mo ari!?",
-      "chinese": "那也行吗！？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "那也行吗！？"
     },
     {
-      "id": 575,
-      "episode": 1,
       "japanese": "ええ まぁ そこでご自身の人生を 修正していただいてご希望の生命に生まれ変わる 確率を上げることはできます｡",
       "romaji": "ee, maa, soko de gojishin no jinsei wo shuusei shite itadaite go kibou no seimei ni umarekawaru kakuritsu wo ageru koto wa dekimasu.",
-      "chinese": "是的，您可以在那里修正自己的人生，提高转生为理想生命的概率。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "是的，您可以在那里修正自己的人生，提高转生为理想生命的概率。"
     },
     {
-      "id": 576,
-      "episode": 1,
       "japanese": "ん？ 要するに その徳をたくさん積んでいく っていうことですよね？",
       "romaji": "n? you suru ni sono toku wo takusan tsunde iku tte iu koto desu yo ne?",
-      "chinese": "嗯？就是说要积累很多德行，对吧？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "嗯？就是说要积累很多德行，对吧？"
     },
     {
-      "id": 577,
-      "episode": 1,
       "japanese": "そうですね｡",
       "romaji": "sou desu ne.",
-      "chinese": "是的。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "是的。"
     },
     {
-      "id": 578,
-      "episode": 1,
       "japanese": "うん… じゃあ そっちのほうが いいですね｡",
       "romaji": "un... jaa socchi no hou ga ii desu ne.",
-      "chinese": "嗯……那样的话，我觉得那个更好。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "嗯……那样的话，我觉得那个更好。"
     },
     {
-      "id": 579,
-      "episode": 1,
       "japanese": "そうされますか｡",
       "romaji": "sou saremasu ka?",
-      "chinese": "您决定这样了吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "您决定这样了吗？"
     },
     {
-      "id": 580,
-      "episode": 1,
       "japanese": "じゃ やり直すということで｡",
       "romaji": "jaa, yarinaosu to iu koto de.",
-      "chinese": "那么就重新来过吧。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "那么就重新来过吧。"
     },
     {
-      "id": 581,
-      "episode": 1,
       "japanese": "かしこまりました ではこちら右側 真っすぐ進んでいただきますと扉がございますので そちらから 今世にお入りください｡",
       "romaji": "kashikomarimashita. dewa kochira migigawa massugu susunde itadakimasu to tobira ga gozaimasu node sochira kara konsei ni o hairi kudasai.",
-      "chinese": "明白了。请从这里右侧直走，会看到一扇门，请从那里进入今世。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "明白了。请从这里右侧直走，会看到一扇门，请从那里进入今世。"
     },
     {
-      "id": 582,
-      "episode": 1,
       "japanese": "ありがとうございます｡",
       "romaji": "arigatou gozaimasu.",
-      "chinese": "谢谢您。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "谢谢您。"
     },
     {
-      "id": 583,
-      "episode": 1,
       "japanese": "いってらっしゃいませ｡",
       "romaji": "itterasshaimase.",
-      "chinese": "一路顺风。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "一路顺风。"
     },
     {
-      "id": 584,
-      "episode": 1,
       "japanese": "麻美ちゃん ちょんちょん｡",
       "romaji": "Asami-chan chon chon.",
-      "chinese": "麻美，戳戳。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "麻美，戳戳。"
     },
     {
-      "id": 585,
-      "episode": 1,
       "japanese": "麻美ちゃん かわいいね｡",
       "romaji": "Asami-chan kawaii ne.",
-      "chinese": "麻美，你真可爱呢。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "麻美，你真可爱呢。"
     },
     {
-      "id": 586,
-      "episode": 1,
       "japanese": "こうして 私の人生２周目が スタートした",
       "romaji": "koushite watashi no jinsei ni shuume ga sutaato shita.",
-      "chinese": "就这样，我的人生第二轮开始了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "就这样，我的人生第二轮开始了。"
     },
     {
-      "id": 587,
-      "episode": 1,
       "japanese": "生まれてきてくれて ありがとね～｡",
       "romaji": "umarete kite kurete arigato ne~.",
-      "chinese": "谢谢你来到这个世界~。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "谢谢你来到这个世界~。"
     },
     {
-      "id": 588,
-      "episode": 1,
       "japanese": "(寛) ありがとね～｡",
       "romaji": "(Hiroshi) arigato ne~.",
-      "chinese": "（寛）谢谢你哦~。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "（寛）谢谢你哦~。"
     },
     {
-      "id": 589,
-      "episode": 1,
       "japanese": "気持ちいいね～｡",
       "romaji": "kimochi ii ne~.",
-      "chinese": "感觉真舒服~。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "感觉真舒服~。"
     },
     {
-      "id": 590,
-      "episode": 1,
       "japanese": "来世も 人間に生まれ変わるため２周目では とにかく 徳を積まなければならない",
       "romaji": "raise mo ningen ni umarekawaru tame ni ni shuume de wa tonikaku toku wo tsumanakereba naranai.",
-      "chinese": "为了来世也能转生为人，在第二轮人生中必须不断积累德行。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "为了来世也能转生为人，在第二轮人生中必须不断积累德行。"
     },
     {
-      "id": 591,
-      "episode": 1,
       "japanese": "とはいえ それができるのは だいぶ先の話で今の私にできることは 育つことのみ",
       "romaji": "to wa ie sore ga dekiru no wa daibu saki no hanashi de ima no watashi ni dekiru koto wa sodatsu koto nomi",
-      "chinese": "话虽如此，那能做到的还是很遥远的事情，现在的我能做的只有成长",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "话虽如此，那能做到的还是很遥远的事情，现在的我能做的只有成长"
     },
     {
-      "id": 592,
-      "episode": 1,
       "japanese": "それにしても 記憶を持ったまま 過ごす乳児期は退屈だった",
       "romaji": "sore ni shitemo kioku o motta mama sugosu nyuujiki wa taikutsu datta",
-      "chinese": "即使如此，带着记忆度过婴儿期还是很无聊",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "即使如此，带着记忆度过婴儿期还是很无聊"
     },
     {
-      "id": 593,
-      "episode": 1,
       "japanese": "ひたすら寝かされ あやされるだけの毎日",
       "romaji": "hitasura nekasare ayasareru dake no mainichi",
-      "chinese": "每天只是不断被哄睡和逗弄",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "每天只是不断被哄睡和逗弄"
     },
     {
-      "id": 594,
-      "episode": 1,
       "japanese": "娯楽といえば リビングから聞こえてくるテレビの音くらい",
       "romaji": "goraku to ieba ribingu kara kikoete kuru terebi no oto kurai",
-      "chinese": "说到娱乐，大概也只有从客厅传来的电视声",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "说到娱乐，大概也只有从客厅传来的电视声"
     },
     {
-      "id": 595,
-      "episode": 1,
       "japanese": "正直 言葉は すぐにでも喋れたのだけどさすがに このタイミングで 喋ると引かれるので最初の数か月はおとなしくした",
       "romaji": "shoujiki kotoba wa sugu ni demo shabereta no dakedo sasuga ni kono timing de shaberu to hikareru node saisho no suukagetsu wa otonashiku shita",
-      "chinese": "老实说，我其实早就能说话了，但在这个时候说话会被吓到，所以最初几个月都很乖",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "老实说，我其实早就能说话了，但在这个时候说话会被吓到，所以最初几个月都很乖"
     },
     {
-      "id": 596,
-      "episode": 1,
       "japanese": "そして 生後５か月で ミルクから離乳食になり…",
       "romaji": "soshite seigo go kagetsu de miruku kara rinyuushoku ni nari…",
-      "chinese": "然后，五个月大时，从奶瓶转为吃辅食…",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "然后，五个月大时，从奶瓶转为吃辅食…"
     },
     {
-      "id": 597,
-      "episode": 1,
       "japanese": "うまっ 久しぶりのお米の味",
       "romaji": "uma! hisashiburi no okome no aji",
-      "chinese": "好吃，好久没尝到米饭的味道了",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "好吃，好久没尝到米饭的味道了"
     },
     {
-      "id": 598,
-      "episode": 1,
       "japanese": "生後10か月くらいから 会話や歩行を解禁し徐々に実力を見せ始めた",
       "romaji": "seigo juu kagetsu kurai kara kaiwa ya hokou o kaikin shi jojoni jitsuryoku o misehajimeta",
-      "chinese": "大约十个月大开始解锁说话和走路，渐渐展现实力",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "大约十个月大开始解锁说话和走路，渐渐展现实力"
     },
     {
-      "id": 599,
-      "episode": 1,
       "japanese": "そして 保育園に入園",
       "romaji": "soshite hoikuen ni nyūen",
-      "chinese": "然后进入托儿所",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "然后进入托儿所"
     },
     {
-      "id": 600,
-      "episode": 1,
       "japanese": "１周目の知識と経験を 小出しにして大人たちを驚かせた",
       "romaji": "isshūme no chishiki to keiken o kodashi ni shite otona-tachi o odorokaseta",
-      "chinese": "我慢慢地展示第一轮的知识和经验，让大人们惊讶",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "我慢慢地展示第一轮的知识和经验，让大人们惊讶"
     },
     {
-      "id": 601,
-      "episode": 1,
       "japanese": "(洋子) えっ！ 麻美ちゃん これ自分で書いたの？",
       "romaji": "(Youko) E! Asami-chan kore jibun de kaita no?",
-      "chinese": "（洋子）诶！麻美，这是你自己写的吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "（洋子）诶！麻美，这是你自己写的吗？"
     },
     {
-      "id": 602,
-      "episode": 1,
       "japanese": "うん 先生の名前も書けるよ｡",
       "romaji": "un sensei no namae mo kakeru yo.",
-      "chinese": "嗯，我还能写老师的名字哦。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "嗯，我还能写老师的名字哦。"
     },
     {
-      "id": 603,
-      "episode": 1,
       "japanese": "ホントに？書いてごらん",
       "romaji": "hontō ni? kaite goran",
-      "chinese": "真的吗？写给我看看。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "真的吗？写给我看看。"
     },
     {
-      "id": 604,
-      "episode": 1,
       "japanese": "すごいね～ 何か 大人っぽい字書くね｡",
       "romaji": "sugoi ne~ nanika otona-ppoi ji kaku ne.",
-      "chinese": "好厉害啊～你的字写得很像大人呢。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "好厉害啊～你的字写得很像大人呢。"
     },
     {
-      "id": 605,
-      "episode": 1,
       "japanese": "うん｡ 大人だからね",
       "romaji": "un. otona dakara ne",
-      "chinese": "嗯，因为我是大人嘛。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "嗯，因为我是大人嘛。"
     },
     {
-      "id": 606,
-      "episode": 1,
       "japanese": "麻美ちゃんは？",
       "romaji": "Asami-chan wa?",
-      "chinese": "麻美你呢？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "麻美你呢？"
     },
     {
-      "id": 607,
-      "episode": 1,
       "japanese": "じゃ 私 悪者やる｡",
       "romaji": "ja watashi warumono yaru.",
-      "chinese": "那我来当坏人。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "那我来当坏人。"
     },
     {
-      "id": 608,
-      "episode": 1,
       "japanese": "悪者？",
       "romaji": "warumono?",
-      "chinese": "坏人？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "坏人？"
     },
     {
-      "id": 609,
-      "episode": 1,
       "japanese": "うん 私は怪獣… ミタコング｡",
       "romaji": "un watashi wa kaijū… Mitakongu.",
-      "chinese": "嗯，我是怪兽……三田大金刚。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "嗯，我是怪兽……三田大金刚。"
     },
     {
-      "id": 610,
-      "episode": 1,
       "japanese": "ミタコングって何？",
       "romaji": "Mitakongu tte nani?",
-      "chinese": "三田大金刚是什么？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "三田大金刚是什么？"
     },
     {
-      "id": 611,
-      "episode": 1,
       "japanese": "ミタコングはひとの物を取る怪獣なの｡",
       "romaji": "Mitakongu wa hito no mono o toru kaijū na no.",
-      "chinese": "三田大金刚是一种会抢别人东西的怪兽。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "三田大金刚是一种会抢别人东西的怪兽。"
     },
     {
-      "id": 612,
-      "episode": 1,
       "japanese": "結果 ほぼ鬼ごっこ",
       "romaji": "kekka hobo onigokko",
-      "chinese": "结果几乎变成了捉迷藏游戏。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "结果几乎变成了捉迷藏游戏。"
     },
     {
-      "id": 613,
-      "episode": 1,
       "japanese": "１周目で よく吸っていたツツジの蜜は窃盗 もしくは器物損壊で 徳に影響しそうなので一応 控えた",
       "romaji": "isshūme de yoku sutte ita tsutsuji no mitsu wa settō moshikuwa kibutsu sonkai de toku ni eikyō shi sō na node ichiō hikaeta",
-      "chinese": "第一轮时经常吸的杜鹃花蜜可能涉及盗窃或毁坏物品，对积德有影响，所以有所克制。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "第一轮时经常吸的杜鹃花蜜可能涉及盗窃或毁坏物品，对积德有影响，所以有所克制。"
     },
     {
-      "id": 614,
-      "episode": 1,
       "japanese": "そんなある日 私はあることに気付いた",
       "romaji": "sonna aru hi watashi wa aru koto ni kizuita",
-      "chinese": "就在某一天，我察觉到一件事。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "就在某一天，我察觉到一件事。"
     },
     {
-      "id": 615,
-      "episode": 1,
       "japanese": "(洋子) おかえりなさい！",
       "romaji": "(Youko) Okaerinasai!",
-      "chinese": "（洋子）欢迎回来！",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "（洋子）欢迎回来！"
     },
     {
-      "id": 616,
-      "episode": 1,
       "japanese": "玲奈ちゃん パパ来たよ｡",
       "romaji": "Reina-chan papa kita yo.",
-      "chinese": "玲奈，爸爸来了哦。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "玲奈，爸爸来了哦。"
     },
     {
-      "id": 617,
-      "episode": 1,
       "japanese": "(洋子) 今日も元気にしてましたよ｡",
       "romaji": "(Youko) Kyou mo genki ni shite mashita yo.",
-      "chinese": "（洋子）今天她也很精神哦。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "（洋子）今天她也很精神哦。"
     },
     {
-      "id": 618,
-      "episode": 1,
       "japanese": "(玲奈の父) ありがとうございます｡",
       "romaji": "(Reina no chichi) Arigatou gozaimasu.",
-      "chinese": "（玲奈的父亲）谢谢您。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "（玲奈的父亲）谢谢您。"
     },
     {
-      "id": 619,
-      "episode": 1,
       "japanese": "玲奈ちゃんのパパと洋子先生が 最近 やけに親しげだということ",
       "romaji": "Reina-chan no papa to Youko sensei ga saikin yake ni shitashige da to iu koto",
-      "chinese": "玲奈的爸爸和洋子老师最近关系异常亲密。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "玲奈的爸爸和洋子老师最近关系异常亲密。"
     },
     {
-      "id": 620,
-      "episode": 1,
       "japanese": "１周目では 気付かなかったけど大人の目線で見ると 明らかにお互い意識している",
       "romaji": "isshūme de wa kizukanakatta kedo otona no mesen de miru to akiraka ni otagai ishiki shite iru",
-      "chinese": "虽然第一轮没注意到，但用大人的视角看，他们明显互相有意识。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "虽然第一轮没注意到，但用大人的视角看，他们明显互相有意识。"
     },
     {
-      "id": 621,
-      "episode": 1,
       "japanese": "思い出した そういえば １周目の今頃玲奈ちゃんの名字が突然変わり どこかへ引っ越した",
       "romaji": "omoidasu sou ieba isshūme no imagoro Reina-chan no myouji ga totsuzen kawari dokoka e hikkoshita",
-      "chinese": "我想起来了，第一轮这个时候玲奈突然改姓，搬到了别的地方。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "我想起来了，第一轮这个时候玲奈突然改姓，搬到了别的地方。"
     },
     {
-      "id": 622,
-      "episode": 1,
       "japanese": "しかも 同じタイミングで 先生もいなくなった",
       "romaji": "shikamo onaji timing de sensei mo inakunatta",
-      "chinese": "而且老师也在同一时间消失了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "而且老师也在同一时间消失了。"
     },
     {
-      "id": 623,
-      "episode": 1,
       "japanese": "つまり この後 ２人は不倫関係になりそれがバレて 玲奈ちゃんの両親は離婚",
       "romaji": "tsumari kono ato futari wa furin kankei ni nari sore ga barete Reina-chan no ryoushin wa rikon",
-      "chinese": "也就是说，他们之后发展成了婚外情，事情败露后玲奈的父母离婚了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "也就是说，他们之后发展成了婚外情，事情败露后玲奈的父母离婚了。"
     },
     {
-      "id": 624,
-      "episode": 1,
       "japanese": "玲奈ちゃんは ママと一緒に引っ越して洋子先生は保育園をクビになる",
       "romaji": "Reina-chan wa mama to issho ni hikkoshite Youko sensei wa hoikuen o kubi ni naru",
-      "chinese": "玲奈跟妈妈一起搬家，洋子老师被托儿所解雇了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "玲奈跟妈妈一起搬家，洋子老师被托儿所解雇了。"
     },
     {
-      "id": 625,
-      "episode": 1,
       "japanese": "うわ 最悪じゃん",
       "romaji": "uwa saiaku jan",
-      "chinese": "哇，真糟糕。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "哇，真糟糕。"
     },
     {
-      "id": 626,
-      "episode": 1,
       "japanese": "マジで あのオヤジ何なの",
       "romaji": "maji de ano oyaji nan nano",
-      "chinese": "说真的，那家伙到底是什么人啊？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "说真的，那家伙到底是什么人啊？"
     },
     {
-      "id": 627,
-      "episode": 1,
       "japanese": "(洋子) お仕事は 帰りとか遅いんですか？",
       "romaji": "(Youko) Oshigoto wa kaeri toka osoi n desu ka?",
-      "chinese": "（洋子）你的工作下班会很晚吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "（洋子）你的工作下班会很晚吗？"
     },
     {
-      "id": 628,
-      "episode": 1,
       "japanese": "どうやら まだ 親密な距離感ではないがこのまま放っておくと 間違いなく不倫に発展する",
       "romaji": "dou yara mada shinmitsu na kyori kan de wa nai ga kono mama houtte oku to machigainaku furin ni hatten suru",
-      "chinese": "看来他们还没那么亲密，但如果放任不管，肯定会发展成婚外情。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "看来他们还没那么亲密，但如果放任不管，肯定会发展成婚外情。"
     },
     {
-      "id": 629,
-      "episode": 1,
       "japanese": "(洋子) そうなんですか へぇ～！",
       "romaji": "(Youko) Sō nan desu ka? Hee~!",
-      "chinese": "（洋子）是这样吗？哎～！",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "（洋子）是这样吗？哎～！"
     },
     {
-      "id": 630,
-      "episode": 1,
       "japanese": "先生！",
       "romaji": "sensei!",
-      "chinese": "老师！",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "老师！"
     },
     {
-      "id": 631,
-      "episode": 1,
       "japanese": "今日ね 玲奈ちゃんたちと セーラームーンごっこやったよ｡",
       "romaji": "kyou ne reina-chan tachi to se-ra-mu-n gokko yatta yo.",
-      "chinese": "今天我和玲奈她们玩了美少女战士扮家家酒。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "今天我和玲奈她们玩了美少女战士扮家家酒。"
     },
     {
-      "id": 632,
-      "episode": 1,
       "japanese": "え～ 楽しそう！",
       "romaji": "ee~ tanoshisou!",
-      "chinese": "哇～听起来很有趣！",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "哇～听起来很有趣！"
     },
     {
-      "id": 633,
-      "episode": 1,
       "japanese": "うん 楽しかったよ！",
       "romaji": "un tanoshikatta yo!",
-      "chinese": "嗯，很好玩哦！",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "嗯，很好玩哦！"
     },
     {
-      "id": 634,
-      "episode": 1,
       "japanese": "じゃ 今度は先生も一緒に 遊ぼうかな～｡",
       "romaji": "ja kondo wa sensei mo issho ni asobou kana~.",
-      "chinese": "那下次老师也一起来玩吧～。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "那下次老师也一起来玩吧～。"
     },
     {
-      "id": 635,
-      "episode": 1,
       "japanese": "いいよ！",
       "romaji": "ii yo!",
-      "chinese": "好啊！",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "好啊！"
     },
     {
-      "id": 636,
-      "episode": 1,
       "japanese": "やった～ 先生は何やろうかな？ 玲奈 そろそろ帰ろうか｡",
       "romaji": "yatta~ sensei wa nani yarou kana? reina sorosoro kaerou ka.",
-      "chinese": "太好了～老师我该扮演什么呢？玲奈，我们差不多该回家了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "太好了～老师我该扮演什么呢？玲奈，我们差不多该回家了。"
     },
     {
-      "id": 637,
-      "episode": 1,
       "japanese": "じゃ また あした｡",
       "romaji": "ja mata ashita.",
-      "chinese": "那明天见。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "那明天见。"
     },
     {
-      "id": 638,
-      "episode": 1,
       "japanese": "(玲奈の父) あっ はい また｡",
       "romaji": "(reina no chichi) a, hai mata.",
-      "chinese": "（玲奈的爸爸）啊，是的，明天见。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "（玲奈的爸爸）啊，是的，明天见。"
     },
     {
-      "id": 639,
-      "episode": 1,
       "japanese": "じゃあね またね あしたね バイバ～イ！ バイバ～イ！",
       "romaji": "jaa ne mata ne ashita ne baibaa~i! baibaa~i!",
-      "chinese": "拜拜，明天见！拜拜！",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "拜拜，明天见！拜拜！"
     },
     {
-      "id": 640,
-      "episode": 1,
       "japanese": "(玲奈の父) 洋子先生 また｡",
       "romaji": "(reina no chichi) Youko sensei mata.",
-      "chinese": "（玲奈的爸爸）洋子老师，再见。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "（玲奈的爸爸）洋子老师，再见。"
     },
     {
-      "id": 641,
-      "episode": 1,
       "japanese": "(洋子) 気を付けてね！",
       "romaji": "(Youko) ki wo tsukete ne!",
-      "chinese": "（洋子）路上小心！",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "（洋子）路上小心！"
     },
     {
-      "id": 642,
-      "episode": 1,
       "japanese": "私は翌日も その次の日も玲奈パパと洋子先生が ２人きりになる時間をつくらせないようにした",
       "romaji": "watashi wa yokujitsu mo sono tsugi no hi mo reina papa to Youko sensei ga futari kiri ni naru jikan wo tsukurasenai you ni shita",
-      "chinese": "我接连两天都努力避免玲奈爸爸和洋子老师单独相处的时间。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "我接连两天都努力避免玲奈爸爸和洋子老师单独相处的时间。"
     },
     {
-      "id": 643,
-      "episode": 1,
       "japanese": "しかし その作戦もむなしく…",
       "romaji": "shikashi sono sakusen mo munashiku…",
-      "chinese": "但这计策最终徒劳无功……",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "但这计策最终徒劳无功……"
     },
     {
-      "id": 644,
-      "episode": 1,
       "japanese": "(玲奈の父) これ｡ 後で｡",
       "romaji": "(reina no chichi) kore. ato de.",
-      "chinese": "（玲奈的爸爸）这个，等会儿给你。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "（玲奈的爸爸）这个，等会儿给你。"
     },
     {
-      "id": 645,
-      "episode": 1,
       "japanese": "あれが携帯番号なら かなりマズい",
       "romaji": "are ga keitai bangou nara kanari mazui",
-      "chinese": "如果那是手机号码，就麻烦大了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "如果那是手机号码，就麻烦大了。"
     },
     {
-      "id": 646,
-      "episode": 1,
       "japanese": "あ～ やっぱり番号だ",
       "romaji": "aa yappari bangou da",
-      "chinese": "啊，果然是号码。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "啊，果然是号码。"
     },
     {
-      "id": 647,
-      "episode": 1,
       "japanese": "ただ これを捨てたところで洋子先生が玲奈パパに なくしたと言えばまた渡されちゃうだろうし…",
       "romaji": "tada kore wo sutetatokoro de Youko sensei ga Reina papa ni nakushita to ieba mata watasarechau darou shi…",
-      "chinese": "不过即使我扔掉这个，只要洋子老师跟玲奈爸爸说她弄丢了，应该还是会再给她吧……",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "不过即使我扔掉这个，只要洋子老师跟玲奈爸爸说她弄丢了，应该还是会再给她吧……"
     },
     {
-      "id": 648,
-      "episode": 1,
       "japanese": "取りあえず 洋子先生側は これでＯＫ",
       "romaji": "toriaezu Youko sensei gawa wa kore de OK",
-      "chinese": "总之洋子老师这边算解决了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "总之洋子老师这边算解决了。"
     },
     {
-      "id": 649,
-      "episode": 1,
       "japanese": "問題は玲奈パパ側",
       "romaji": "mondai wa Reina papa gawa",
-      "chinese": "问题在于玲奈爸爸那边。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "问题在于玲奈爸爸那边。"
     },
     {
-      "id": 650,
-      "episode": 1,
       "japanese": "何日経っても 連絡が来なかったらきっと何かしら アクションを起こすでしょ？",
       "romaji": "nan nichi tattemo renraku ga konakattara kitto nanika shira akushon wo okosu desho?",
-      "chinese": "要是过了几天都没联络，他肯定会采取点什么行动吧？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "要是过了几天都没联络，他肯定会采取点什么行动吧？"
     },
     {
-      "id": 651,
-      "episode": 1,
       "japanese": "そうなると 洋子先生は番号が書いていなかった ってことを伝えて玲奈パパは改めて番号を渡す",
       "romaji": "sou naru to Youko sensei wa bangou ga kaite inakatta tte koto wo tsutaete Reina papa wa aratamete bangou wo watasu",
-      "chinese": "那样的话，洋子老师会说纸条上没写号码，玲奈爸爸就会重新给号码。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "那样的话，洋子老师会说纸条上没写号码，玲奈爸爸就会重新给号码。"
     },
     {
-      "id": 652,
-      "episode": 1,
       "japanese": "ということは 玲奈パパがアクションを起こさないように 持っていかなければならない",
       "romaji": "to iu koto wa Reina papa ga akushon wo okosanai you ni motte ikanakereba naranai",
-      "chinese": "也就是说，必须阻止玲奈爸爸采取行动。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "也就是说，必须阻止玲奈爸爸采取行动。"
     },
     {
-      "id": 653,
-      "episode": 1,
       "japanese": "ただ そんな方法は思い付かない",
       "romaji": "tada sonna houhou wa omoitsukanai",
-      "chinese": "但我想不到办法。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "但我想不到办法。"
     },
     {
-      "id": 654,
-      "episode": 1,
       "japanese": "あ？",
       "romaji": "a?",
-      "chinese": "啊？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "啊？"
     },
     {
-      "id": 655,
-      "episode": 1,
       "japanese": "ちょっと待て",
       "romaji": "chotto mate",
-      "chinese": "等等！",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "等等！"
     },
     {
-      "id": 656,
-      "episode": 1,
       "japanese": "今って まだケータイもピッチも 普及してないよね？",
       "romaji": "ima tte mada keitai mo pitchi mo fukyuu shite nai yo ne?",
-      "chinese": "现在手机和PHS还没普及吧？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "现在手机和PHS还没普及吧？"
     },
     {
-      "id": 657,
-      "episode": 1,
       "japanese": "020って何？",
       "romaji": "zero ni zero tte nani?",
-      "chinese": "020是什么？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "020是什么？"
     },
     {
-      "id": 658,
-      "episode": 1,
       "japanese": "ポケベルって だいぶ上の世代だよね？",
       "romaji": "[pokeberu tte daibu ue no sedai da yo ne?]",
-      "chinese": "（呼叫器是我们上一辈的东西吧？）",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "（呼叫器是我们上一辈的东西吧？）"
     },
     {
-      "id": 659,
-      "episode": 1,
       "japanese": "うちらが保育園ぐらいの時じゃ なかった？",
       "romaji": "uchira ga hoikuen gurai no toki ja nakatta?",
-      "chinese": "应该是我们上托儿所的时候吧？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "应该是我们上托儿所的时候吧？"
     },
     {
-      "id": 660,
-      "episode": 1,
       "japanese": "ポケベルだ",
       "romaji": "pokeberu da",
-      "chinese": "是呼叫器。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "是呼叫器。"
     },
     {
-      "id": 661,
-      "episode": 1,
       "japanese": "だとしたら 使えるかも",
       "romaji": "da to shitara tsukaeru kamo",
-      "chinese": "如果是那样，可能能用得上。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "如果是那样，可能能用得上。"
     },
     {
-      "id": 662,
-      "episode": 1,
       "japanese": "例えば ｢ナツキ｣って送りたかったら最初に｢＊２＊２｣を押します｢５･１｣で｢ナ｣",
       "romaji": "tatoeba 'Natsuki' tte okuritakattara saisho ni '*2*2' wo oshimasu. '5-1' de 'Na'.",
-      "chinese": "比如想发送“ナツキ”（Natsuki），要先按“＊2＊2”，再按“5・1”出“ナ”。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "比如想发送“ナツキ”（Natsuki），要先按“＊2＊2”，再按“5・1”出“ナ”。"
     },
     {
-      "id": 663,
-      "episode": 1,
       "japanese": "麻美 もうそろそろ寝なさい｡",
       "romaji": "Asami mou sorosoro nenasai.",
-      "chinese": "麻美，该睡觉了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "麻美，该睡觉了。"
     },
     {
-      "id": 664,
-      "episode": 1,
       "japanese": "は～い｡",
       "romaji": "haa~i.",
-      "chinese": "好。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "好。"
     },
     {
-      "id": 665,
-      "episode": 1,
       "japanese": "よし",
       "romaji": "yoshi",
-      "chinese": "好。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "好。"
     },
     {
-      "id": 666,
-      "episode": 1,
       "japanese": "あ… ポケベルって 番号通知 出んのかな？",
       "romaji": "a… pokeberu tte bangou tsuuchi den no kana?",
-      "chinese": "啊…呼叫器会显示来电号码吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "啊…呼叫器会显示来电号码吗？"
     },
     {
-      "id": 667,
-      "episode": 1,
       "japanese": "あれ？ 麻美？",
       "romaji": "are? Asami?",
-      "chinese": "麻美？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "麻美？"
     },
     {
-      "id": 668,
-      "episode": 1,
       "japanese": "どうした？ おしっこ？",
       "romaji": "doushita? oshikko?",
-      "chinese": "怎么了？要尿尿吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "怎么了？要尿尿吗？"
     },
     {
-      "id": 669,
-      "episode": 1,
       "japanese": "うん でも もう済んだ｡",
       "romaji": "un demo mou sunda.",
-      "chinese": "嗯，不过我已经好了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "嗯，不过我已经好了。"
     },
     {
-      "id": 670,
-      "episode": 1,
       "japanese": "じゃ 寝なさい｡",
       "romaji": "ja nenasai.",
-      "chinese": "那去睡觉吧。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "那去睡觉吧。"
     },
     {
-      "id": 672,
-      "episode": 1,
       "japanese": "番号通知が 出る可能性がある以上家からは かけられないよなぁ",
       "romaji": "bangou tsuuchi ga deru kanousei ga aru ijou ie kara wa kakerarenai yo naa",
-      "chinese": "既然有可能显示来电号码，就不能在家里打电话了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "既然有可能显示来电号码，就不能在家里打电话了。"
     },
     {
-      "id": 673,
-      "episode": 1,
       "japanese": "公衆電話に行くしかない",
       "romaji": "koushuu denwa ni iku shika nai",
-      "chinese": "只能去公共电话亭了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "只能去公共电话亭了。"
     },
     {
-      "id": 674,
-      "episode": 1,
       "japanese": "公衆電話って どこにあんだろ？",
       "romaji": "koushuu denwa tte doko ni andarou?",
-      "chinese": "公共电话亭在哪里呢？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "公共电话亭在哪里呢？"
     },
     {
-      "id": 675,
-      "episode": 1,
       "japanese": "使ったことないから 分かんないなぁ",
       "romaji": "tsukatta koto nai kara wakannai naa",
-      "chinese": "没用过 所以不知道呢",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "没用过 所以不知道呢"
     },
     {
-      "id": 676,
-      "episode": 1,
       "japanese": "公衆電話？ 公衆電話～ 公衆電話…",
       "romaji": "koushuu denwa? koushuu denwa~ koushuu denwa...",
-      "chinese": "公共电话？公共电话～公共电话…",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "公共电话？公共电话～公共电话…"
     },
     {
-      "id": 677,
-      "episode": 1,
       "japanese": "あれ？ 公園の電話ボックス なくなってる",
       "romaji": "are? kouen no denwa bokkusu nakunatteru",
-      "chinese": "咦？公园里的电话亭不见了",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "咦？公园里的电话亭不见了"
     },
     {
-      "id": 678,
-      "episode": 1,
       "japanese": "(麻美)ん？ あんなとこに 電話ﾎﾞｯｸｽなんてあったっけ？",
       "romaji": "(Asami) n? anna toko ni denwa bokkusu nante atta kke?",
-      "chinese": "嗯？那里以前有电话亭吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "嗯？那里以前有电话亭吗？"
     },
     {
-      "id": 679,
-      "episode": 1,
       "japanese": "あったよ～",
       "romaji": "atta yo~",
-      "chinese": "有啊～",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "有啊～"
     },
     {
-      "id": 680,
-      "episode": 1,
       "japanese": "ナイス 遥！ まだ生まれてないけど",
       "romaji": "naisu Haruka! mada umarete nai kedo",
-      "chinese": "厉害，小遥！虽然你还没出生",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "厉害，小遥！虽然你还没出生"
     },
     {
-      "id": 681,
-      "episode": 1,
       "japanese": "あった！",
       "romaji": "atta!",
-      "chinese": "找到了！",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "找到了！"
     },
     {
-      "id": 682,
-      "episode": 1,
       "japanese": "ちょっと失礼しま～す",
       "romaji": "chotto shitsurei shima~su",
-      "chinese": "打扰一下～",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "打扰一下～"
     },
     {
-      "id": 683,
-      "episode": 1,
       "japanese": "あっ お金いるんだ～",
       "romaji": "a! okane irun da~",
-      "chinese": "啊，要投币啊～",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "啊，要投币啊～"
     },
     {
-      "id": 684,
-      "episode": 1,
       "japanese": "あぁ めんどくさ～い",
       "romaji": "aa, mendokusaa~i",
-      "chinese": "真麻烦～",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "真麻烦～"
     },
     {
-      "id": 685,
-      "episode": 1,
       "japanese": "小っちゃいから 段が高いんだよなぁ",
       "romaji": "chicchai kara dan ga takai n da yo naa",
-      "chinese": "身体小，台阶对我来说好高啊",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "身体小，台阶对我来说好高啊"
     },
     {
-      "id": 686,
-      "episode": 1,
       "japanese": "帰って来たのはいいけどお金がどこにあんのか 分かんない お金…",
       "romaji": "kaette kita no wa ii kedo okane ga doko ni ann no ka wakannai okane...",
-      "chinese": "回来了没错，但钱放哪儿了呢？钱……",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "回来了没错，但钱放哪儿了呢？钱……"
     },
     {
-      "id": 687,
-      "episode": 1,
       "japanese": "お金って どこにあるんだ？",
       "romaji": "okane tte doko ni arun da?",
-      "chinese": "钱到底放哪儿了？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "钱到底放哪儿了？"
     },
     {
-      "id": 688,
-      "episode": 1,
       "japanese": "お父さん へそくりしてんの？",
       "romaji": "otousan hesokuri shiten no?",
-      "chinese": "爸爸在偷偷存私房钱吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "爸爸在偷偷存私房钱吗？"
     },
     {
-      "id": 689,
-      "episode": 1,
       "japanese": "靴の中に コツコツ貯めてるらしいよ",
       "romaji": "kutsu no naka ni kotsukotsu tameteru rashii yo",
-      "chinese": "好像悄悄地存在鞋子里哦",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "好像悄悄地存在鞋子里哦"
     },
     {
-      "id": 690,
-      "episode": 1,
       "japanese": "ナイス 遥！ まだ生まれてないけど",
       "romaji": "naisu Haruka! mada umarete nai kedo",
-      "chinese": "厉害，小遥！虽然你还没出生",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "厉害，小遥！虽然你还没出生"
     },
     {
-      "id": 691,
-      "episode": 1,
       "japanese": "これ 徳下がるかな？",
       "romaji": "kore toku sagaru kana?",
-      "chinese": "这样会不会扣德行啊？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "这样会不会扣德行啊？"
     },
     {
-      "id": 692,
-      "episode": 1,
       "japanese": "でも 玲奈ちゃんのためだから 差し引いてもプラス… だよね？",
       "romaji": "demo Reina-chan no tame da kara sashihite mo purasu... dayo ne?",
-      "chinese": "不过是为了玲奈，算起来还是赚的吧？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "不过是为了玲奈，算起来还是赚的吧？"
     },
     {
-      "id": 693,
-      "episode": 1,
       "japanese": "歩幅が狭いから進むのが遅い",
       "romaji": "hohaba ga semai kara susumu no ga osoi",
-      "chinese": "步幅窄，走得慢",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "步幅窄，走得慢"
     },
     {
-      "id": 694,
-      "episode": 1,
       "japanese": "再び失礼します",
       "romaji": "futatabi shitsurei shimasu",
-      "chinese": "再次打扰了",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "再次打扰了"
     },
     {
-      "id": 695,
-      "episode": 1,
       "japanese": "こちらは 東京テレメッセージです｡",
       "romaji": "kochira wa Toukyou Teremessee desu.",
-      "chinese": "这里是东京电报中心。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "这里是东京电报中心。"
     },
     {
-      "id": 696,
-      "episode": 1,
       "japanese": "メッセージを入力して ♯を２回 押してください｡",
       "romaji": "messeji o nyuuryoku shite ♯ o nikai oshite kudasai.",
-      "chinese": "请输入信息，然后按两次井号键（#）。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "请输入信息，然后按两次井号键（#）。"
     },
     {
-      "id": 697,
-      "episode": 1,
       "japanese": "ありがとうございます｡",
       "romaji": "arigatou gozaimasu.",
-      "chinese": "谢谢您。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "谢谢您。"
     },
     {
-      "id": 698,
-      "episode": 1,
       "japanese": "よし 帰ろう",
       "romaji": "yoshi kaerou",
-      "chinese": "好了，回家吧。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "好了，回家吧。"
     },
     {
-      "id": 699,
-      "episode": 1,
       "japanese": "(警官) お嬢ちゃん！",
       "romaji": "(keikan) ojouchan!",
-      "chinese": "小姑娘！",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "小姑娘！"
     },
     {
-      "id": 700,
-      "episode": 1,
       "japanese": "お嬢ちゃん どうしたの こんな時間に｡",
       "romaji": "ojouchan doushita no konna jikan ni.",
-      "chinese": "小姑娘，这么晚了怎么了？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "小姑娘，这么晚了怎么了？"
     },
     {
-      "id": 701,
-      "episode": 1,
       "japanese": "(警官) お嬢ちゃん ちょちょ… お嬢ちゃん 待って｡",
       "romaji": "(keikan) ojouchan chocho... ojouchan matte.",
-      "chinese": "小姑娘，等等……小姑娘，等等！",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "小姑娘，等等……小姑娘，等等！"
     },
     {
-      "id": 702,
-      "episode": 1,
       "japanese": "あ～ 怖かった～",
       "romaji": "aa kowakatta~",
-      "chinese": "好害怕～",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "好害怕～"
     },
     {
-      "id": 703,
-      "episode": 1,
       "japanese": "まさか この年で 警察に追われる身になるとは",
       "romaji": "masaka kono toshi de keisatsu ni owareru mi ni naru to wa",
-      "chinese": "没想到这个年纪会被警察追赶",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "没想到这个年纪会被警察追赶"
     },
     {
-      "id": 704,
-      "episode": 1,
       "japanese": "これ あした 筋肉痛だな",
       "romaji": "kore ashita kinniku tsuu da na",
-      "chinese": "这下明天肯定肌肉痛了",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "这下明天肯定肌肉痛了"
     },
     {
-      "id": 705,
-      "episode": 1,
       "japanese": "ん？ 子供って筋肉痛になんのか？",
       "romaji": "n? kodomo tte kinniku tsuu ni nan no ka?",
-      "chinese": "嗯？小孩子会肌肉痛吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "嗯？小孩子会肌肉痛吗？"
     },
     {
-      "id": 706,
-      "episode": 1,
       "japanese": "眠い… この体で この時間はキツい",
       "romaji": "nemui... kono karada de kono jikan wa kitsui",
-      "chinese": "好困……这个身体撑到这么晚好辛苦",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "好困……这个身体撑到这么晚好辛苦"
     },
     {
-      "id": 707,
-      "episode": 1,
       "japanese": "まぁ できる限りのことは やった…",
       "romaji": "maa dekiru kagiri no koto wa yatta...",
-      "chinese": "算了，能做的我都做了……",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "算了，能做的我都做了……"
     },
     {
-      "id": 708,
-      "episode": 1,
       "japanese": "(洋子) おかえりなさ～い｡",
       "romaji": "(Youko) okaerinasai~",
-      "chinese": "欢迎回来～",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "欢迎回来～"
     },
     {
-      "id": 709,
-      "episode": 1,
       "japanese": "玲奈 帰るよ｡",
       "romaji": "Reina kaeru yo.",
-      "chinese": "玲奈，回家了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "玲奈，回家了。"
     },
     {
-      "id": 710,
-      "episode": 1,
       "japanese": "(玲奈) え～ もう帰るの～？",
       "romaji": "(Reina) ee~ mou kaeru no~?",
-      "chinese": "诶～已经要回家了吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "诶～已经要回家了吗？"
     },
     {
-      "id": 711,
-      "episode": 1,
       "japanese": "ほら 早く帰らないと ママが心配するから｡",
       "romaji": "hora hayaku kaeranai to mama ga shinpai suru kara.",
-      "chinese": "快点回去，不然妈妈会担心的。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "快点回去，不然妈妈会担心的。"
     },
     {
-      "id": 712,
-      "episode": 1,
       "japanese": "(玲奈) は～い！",
       "romaji": "(Reina) ha~i!",
-      "chinese": "好～",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "好～"
     },
     {
-      "id": 713,
-      "episode": 1,
       "japanese": "(玲奈の父) はい｡ 忘れ物ないようにね｡",
       "romaji": "(Reina no chichi) hai. wasuremono nai you ni ne.",
-      "chinese": "好了，别忘东西哦。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "好了，别忘东西哦。"
     },
     {
-      "id": 714,
-      "episode": 1,
       "japanese": "(玲奈) は～い｡ はい じゃあね バイバ～イ！",
       "romaji": "(Reina) ha~i. hai jaa ne baibaa~i!",
-      "chinese": "好啦，再见，拜拜～！",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "好啦，再见，拜拜～！"
     },
     {
-      "id": 715,
-      "episode": 1,
       "japanese": "玲奈ちゃんと洋子先生も いなくならずに済んだ",
       "romaji": "Reina-chan to Youko sensei mo inaku narazu ni sunda",
-      "chinese": "玲奈和洋子老师也都没离开",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "玲奈和洋子老师也都没离开"
     },
     {
-      "id": 716,
-      "episode": 1,
       "japanese": "ついでに 大量の徳も積むことができたはず…",
       "romaji": "tsuide ni tairyō no toku mo tsumu koto ga dekita hazu...",
-      "chinese": "顺便也积了不少德行……",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "顺便也积了不少德行……"
     },
     {
-      "id": 717,
-      "episode": 1,
       "japanese": "うわ 何 あの舌～｡",
       "romaji": "uwa nani ano shita~.",
-      "chinese": "哇，那舌头～",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "哇，那舌头～"
     },
     {
-      "id": 718,
-      "episode": 1,
       "japanese": "すっごいな｡",
       "romaji": "suggoi na.",
-      "chinese": "太厉害了。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "太厉害了。"
     },
     {
-      "id": 719,
-      "episode": 1,
       "japanese": "主食がアリって嫌ね｡",
       "romaji": "shushoku ga ari tte iya ne.",
-      "chinese": "主食是蚂蚁真恶心。",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "主食是蚂蚁真恶心。"
     },
     {
-      "id": 720,
-      "episode": 1,
       "japanese": "でも アリって小さいけど 主食になるのかな？",
       "romaji": "demo ari tte chiisai kedo shushoku ni naru no kana?",
-      "chinese": "不过蚂蚁那么小，可以当主食吗？",
-      "context": "对话场景",
-      "difficulty": ""
+      "chinese": "不过蚂蚁那么小，可以当主食吗？"
     }
   ]
 }

@@ -80,15 +80,7 @@ export default function TranslationCard({
   return (
     <View className="flex flex-col h-full bg-white rounded-xl shadow-lg overflow-hidden">
       {/* 难度标签和集数 */}
-      <View className="px-4 py-2 bg-gradient-to-r from-blue-500 to-indigo-600 text-white text-sm font-medium flex justify-between items-center">
-        <View>
-          <Text className="capitalize">{item.difficulty}</Text> 级别
-          {item.context && (
-            <Text className="ml-2 text-xs opacity-80">• {item.context}</Text>
-          )}
-        </View>
-        <View className="text-xs opacity-90">第 {item.episode} 集</View>
-      </View>
+      <View className="px-4 py-2 bg-gradient-to-r from-blue-500 to-indigo-600 text-white text-sm font-medium flex justify-between items-center"></View>
 
       {/* 原文区域 */}
       <View className="p-4">
