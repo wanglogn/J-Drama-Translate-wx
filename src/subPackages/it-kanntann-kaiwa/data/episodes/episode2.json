@@ -33,7 +33,7 @@
       "id": 4,
       "episode": 2,
       "japanese": "単体テストのカバレッジが80%を下回っています。テストケースを追加してください。",
-      "romaji": "Tantai tesuto no kabarejji ga 80% wo shimottekimasu. Tesuto keisu wo tsuika shitekudasai.",
+      "romaji": "Tantai tesuto no kabarejji ga 80% wo shitamawatteimasu. Tesuto keisu wo tsuika shitekudasai.",
       "chinese":"单体测试的覆盖率低于80%，请添加测试用例。",
       "context": "要求提高测试覆盖率",
       "difficulty": "advanced"
