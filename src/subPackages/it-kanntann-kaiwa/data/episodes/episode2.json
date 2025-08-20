@@ -39,24 +39,6 @@
       "difficulty": "advanced"
     },
     {
-      "id": 5,
-      "episode": 2,
-      "japanese": "おはようございます。今日のスクラムミーティングを始めましょう。",
-      "romaji": "Ohayou gozaimasu. Kyou no sukuramumitiingu wo hajimemashou.",
-      "chinese": "早上好，开始今天的站会吧。",
-      "context": "敏捷开发团队日常站会与任务分配",
-      "difficulty": "beginner"
-    },
-    {
-      "id": 6,
-      "episode": 2,
-      "japanese": "昨日はユーザー認証機能のデバッグをしましたが、まだ不具合が残っています。",
-      "romaji": "Kinou wa yuzaa ninsyou kinou no debaggu wo shimashita ga, mada fuguai ga nokotteimasu.",
-      "chinese": "昨天调试了用户认证功能，但还有bug没解决。",
-      "context": "敏捷开发团队日常站会与任务分配",
-      "difficulty": "intermediate"
-    },
-    {
       "id": 7,
       "episode": 2,
       "japanese": "今日はデータベースの最適化を行います。インデックスを再構築する予定です。",
@@ -82,24 +64,6 @@
       "chinese": "我今天负责API文档的编写，下午会上传到共享驱动器。",
       "context": "敏捷开发团队日常站会与任务分配",
       "difficulty": "intermediate"
-    },
-    {
-      "id": 10,
-      "episode": 2,
-      "japanese": "この関数の命名規則がPEP8に準拠していません。修正をお願いします。",
-      "romaji": "Kono kansuu no meimei kisoku ga PEP8 ni junkyo shiteimasen. Shuusei wo onegaishimasu.",
-      "chinese": "这个函数的命名不符合PEP8规范，请修改。",
-      "context": "编程实现与代码质量检查",
-      "difficulty": "intermediate"
-    },
-    {
-      "id": 11,
-      "episode": 2,
-      "japanese": "単体テストのカバレッジが80%を下回っています。テストケースを追加してください。",
-      "romaji": "Tantai tesuto no kabarejji ga 80% wo shimottekimasu. Tesuto keisu wo tsuika shitekudasai.",
-      "chinese": "单元测试覆盖率低于80%，请添加测试用例。",
-      "context": "编程实现与代码质量检查",
-      "difficulty": "advanced"
     },
     {
       "id": 12,
