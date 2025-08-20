@@ -56,10 +56,14 @@ export default function PracticePage() {
 
   useEffect(() => {
     if (translationItems.length > 0 && episode && showParam) {
-      Taro.setStorageSync(
-        `translationProgress_${showParam}_ep${episode}`,
-        currentIndex
-      );
+      if (currentIndex < translationItems.length - 1) {
+        Taro.setStorageSync(
+          `translationProgress_${showParam}_ep${episode}`,
+          currentIndex
+        );
+      } else {
+        Taro.removeStorageSync(`translationProgress_${showParam}_ep${episode}`);
+      }
     }
   }, [currentIndex, translationItems.length, episode]);
 
