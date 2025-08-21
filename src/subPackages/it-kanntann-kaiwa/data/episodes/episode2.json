@@ -169,7 +169,7 @@
       "episode": 2,
       "japanese": "ユーザビリティテストの結果、操作が直感的でないとのフィードバックをいただきました。",
       "romaji": "Yuuzabiriti tesuto no kekka, sousa ga chokkan-teki de nai to no fiidobakku wo itadakimashita.",
-      "chinese": "可用性测试结果显示，操作不够直观的反馈。",
+      "chinese": "在可用性测试的结果中，我们收到了“操作不够直观”的反馈。",
       "context": "与客户讨论功能需求与规格",
       "difficulty": "intermediate"
     },
