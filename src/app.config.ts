@@ -4,6 +4,7 @@ export default defineAppConfig({
     "pages/index/index", // 日剧翻译首页
     "pages/PracticePage/index", // 练习页面
     "pages/jpVerb/index", // 动词活用工具页面
+    "pages/disclaimer/index", // 使用声明
   ],
   subpackages: [
     {

@@ -83,13 +83,13 @@ export default function Home() {
       <View className="max-w-4xl mx-auto">
         {/* 返回按钮 */}
         <View className="text-left mb-6">
-          <Navigator
+          {/* <Navigator
             url="/pages/index/index"
             className="text-blue-600 hover:text-blue-800 transition-colors flex items-center w-fit"
           >
             <Image src={arrowLeft1} className="mr-1 h-[1.1rem] w-[1.1rem]" />
             返回剧集选择
-          </Navigator>
+          </Navigator> */}
         </View>
 
         {/* 剧集信息 */}

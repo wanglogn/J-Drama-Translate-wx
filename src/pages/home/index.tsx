@@ -4,7 +4,7 @@ import bookIcon from "@/assets/icons/a-007-book.png";
 
 export default function Home() {
   return (
-    <View className="min-h-screen bg-gradient-to-b from-blue-50 to-white p-4">
+    <View className="min-h-screen bg-gradient-to-b from-blue-50 to-white p-4 flex flex-col justify-between">
       <View className="max-w-4xl mx-auto">
         <View className="text-center py-12">
           <View className="text-4xl md:text-3xl font-bold text-gray-900 mb-4">
@@ -52,6 +52,11 @@ export default function Home() {
             </Navigator>
           </View>
         </View>
+      </View>
+      <View className="text-center">
+        <Navigator className="inline-block" url="/pages/disclaimer/index">
+          使用声明
+        </Navigator>
       </View>
     </View>
   );

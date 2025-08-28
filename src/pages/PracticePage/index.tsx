@@ -114,7 +114,7 @@ export default function PracticePage() {
           onPrevious={handlePrevious}
         />
 
-        <View
+        {/* <View
           className="mt-6 mb-6 flex justify-start text-[#4b5563]"
           onClick={() => {
             Taro.navigateTo({
@@ -124,7 +124,7 @@ export default function PracticePage() {
         >
           <Image src={arrowLeft} className="h-[1.2rem] w-[1.2rem] mr-1" />
           返回集数选择
-        </View>
+        </View> */}
       </View>
     </View>
   );

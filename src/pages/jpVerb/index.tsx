@@ -506,10 +506,8 @@ export default function Home() {
   return (
     <View className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 dark:from-gray-900 dark:to-gray-800">
       <View className="mx-auto bg-white dark:bg-gray-800 shadow-xl overflow-hidden">
-        <View className="bg-blue-600 text-white p-6">
-          <Text className="text-2xl sm:text-3xl font-bold text-center">
-            日本語動詞活用自動変換ツール
-          </Text>
+        <View className="bg-blue-600 text-white p-6 text-2xl sm:text-3xl font-bold text-center">
+          日本語動詞活用変換ツール
         </View>
 
         {/* 标签页导航 */}
