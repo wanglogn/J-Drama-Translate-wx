@@ -1,12 +1,22 @@
 import { useState, useEffect } from "react";
 import { View, Text, Image } from "@tarojs/components";
-import Taro, { useRouter } from "@tarojs/taro";
+import Taro, { useRouter, useShareAppMessage } from "@tarojs/taro";
 import TranslationCard from "@/components/TranslationCard";
 import { TranslationItem, EpisodeData } from "@/data/translationData";
 import { getShowById } from "@/data/shows";
 import arrowLeft from "@/assets/icons/arrow_left.png";
+import ti from "@/assets/ti.jpg";
 
 export default function PracticePage() {
+  // 分享给好友
+  useShareAppMessage(() => {
+    return {
+      title: "日语学习利器",
+      path: "/pages/home/index", // 必须是你 app.config.ts 里定义过的页面路径
+      imageUrl: ti, // 可选：自定义封面图
+    };
+  });
+
   const [translationItems, setTranslationItems] = useState<TranslationItem[]>(
     []
   );

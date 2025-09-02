@@ -1,9 +1,19 @@
 import { useRouter } from "@tarojs/taro";
+import { useShareAppMessage } from "@tarojs/taro";
 import { Navigator, View, Text, Image } from "@tarojs/components";
 import { shows } from "@/data/shows/index";
 import { cn } from "@/lib/utils";
+import ti from "@/assets/ti.jpg";
 
 export default function Home() {
+  // 分享给好友
+  useShareAppMessage(() => {
+    return {
+      title: "日语学习利器",
+      path: "/pages/home/index", // 必须是你 app.config.ts 里定义过的页面路径
+      imageUrl: ti, // 可选：自定义封面图
+    };
+  });
   // 首页/未选择 show
   return (
     <View className="min-h-screen bg-gradient-to-b from-blue-50 to-white p-4">

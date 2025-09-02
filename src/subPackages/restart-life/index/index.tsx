@@ -1,4 +1,4 @@
-import { useRouter } from "@tarojs/taro";
+import Taro, { useRouter, useShareAppMessage } from "@tarojs/taro";
 import { Navigator, View, Text, Image } from "@tarojs/components";
 import ep1 from "../data/episodes/episode1.json";
 import ep2 from "../data/episodes/episode2.json";
@@ -13,11 +13,20 @@ import ep10 from "../data/episodes/episode10.json";
 import { getEpisodesByShow, EpisodeData } from "@/data/translationData";
 import { getShowById } from "@/data/shows";
 import { useEffect, useState } from "react";
-import Taro from "@tarojs/taro";
+import ti from "@/assets/ti.jpg";
 
 import arrowLeft1 from "@/assets/icons/arrow_left_1.png";
 
 export default function Home() {
+  // 分享给好友
+  useShareAppMessage(() => {
+    return {
+      title: "日语学习利器",
+      path: "/pages/home/index", // 必须是你 app.config.ts 里定义过的页面路径
+      imageUrl: ti, // 可选：自定义封面图
+    };
+  });
+
   const router = useRouter();
   const { show, episodeCount } = router.params || {};
   const showId = show;

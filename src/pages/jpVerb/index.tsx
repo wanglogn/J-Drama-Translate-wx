@@ -1,8 +1,18 @@
 import { useState } from "react";
-import Taro from "@tarojs/taro";
+import Taro, { useShareAppMessage } from "@tarojs/taro";
 import { View, Text, Input, Button } from "@tarojs/components";
+import ti from "@/assets/ti.jpg";
 
 export default function Home() {
+  // 分享给好友
+  useShareAppMessage(() => {
+    return {
+      title: "日语学习利器",
+      path: "/pages/home/index", // 必须是你 app.config.ts 里定义过的页面路径
+      imageUrl: ti, // 可选：自定义封面图
+    };
+  });
+
   const [activeTab, setActiveTab] = useState("tab1");
   const [verbInput, setVerbInput] = useState("");
   const [practiceVerb, setPracticeVerb] = useState("");

@@ -1,8 +1,19 @@
 import { Navigator, View, Text, Image } from "@tarojs/components";
+import { useShareAppMessage } from "@tarojs/taro";
 import commentsIcon from "@/assets/icons/comments.png";
 import bookIcon from "@/assets/icons/a-007-book.png";
+import ti from "@/assets/ti.jpg";
 
 export default function Home() {
+  // 分享给好友
+  useShareAppMessage(() => {
+    return {
+      title: "日语学习利器",
+      path: "/pages/home/index", // 必须是你 app.config.ts 里定义过的页面路径
+      imageUrl: ti, // 可选：自定义封面图
+    };
+  });
+
   return (
     <View className="min-h-screen bg-gradient-to-b from-blue-50 to-white p-4 flex flex-col justify-between">
       <View className="max-w-4xl mx-auto">
