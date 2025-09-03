@@ -3,94 +3,449 @@
   "title": "日本IT职场会话练习3",
   "lines": [
     {
-      "id": 1,
-      "episode": 3,
       "japanese": "皆さん、お疲れ様です。今回のOracleアップグレードで、一部のAPIが働かなくなったとの報告がありましたね。",
       "romaji": "Minasan, otsukaresama desu. Konkai no Oracle appugureedo de, ichibu no API ga hataranakunatta to no houkoku ga arimashita ne.",
-      "chinese": "大家辛苦了。关于这次Oracle升级，有人报告说部分API无法正常工作。",
-      "context": "",
-      "difficulty": ""
+      "chinese": "大家辛苦了。关于这次Oracle升级，有人报告说部分API无法正常工作。"
     },
     {
-      "id": 2,
-      "episode": 3,
       "japanese": "はい、特に「取引履歴取得API」でエラーが頻発しています。SQL構文が新バージョンと互換性がないようです。",
       "romaji": "Hai, tokuni 'torihiki rireki shutoku API' de erā ga hinpatsu shiteimasu. SQL kōbun ga shin bājon to gokansei ga nai yō desu.",
-      "chinese": "是的，特别是“获取交易记录API〞频繁报错。看起来SQL语法与新版本不兼容。",
-      "context": "",
-      "difficulty": ""
+      "chinese": "是的，特别是“获取交易记录API〞频繁报错。看起来SQL语法与新版本不兼容。"
     },
     {
-      "id": 3,
-      "episode": 3,
       "japanese": "実は、旧バージョンでは暗黙的なJOINが許容されていましたが、今のバージョンでは明示的に書かないとエラーになります。",
-      "romaji": "",
-      "chinese": "其实，在旧版本中，隐式JOIN是允许的，但现在必须显式写出，否则就报错。",
-      "context": "",
-      "difficulty": ""
+      "romaji": "Jitsu wa, kyū bājon dewa anmokuteki na JOIN ga kyoyou sareteimashita ga, ima no bājon dewa meijiteki ni kakanai to erā ni narimasu.",
+      "chinese": "其实，在旧版本中，隐式JOIN是允许的，但现在必须显式写出，否则就报错。"
     },
     {
-      "id": 4,
-      "episode": 3,
       "japanese": "それでテストで大量にエラーが出ていたんですね。エラー内容を詳細にログに残すよう修正してもらえますか？",
-      "romaji": "",
-      "chinese": "这就是测试中出现大量错误的原因吧。能否请你们把错误记录得更详细些？",
-      "context": "",
-      "difficulty": ""
+      "romaji": "Sorede tesuto de tairyō ni erā ga deteitan desu ne. Erā naiyō o shōsai ni rogu ni nokosu yō shūsei shite moraemasu ka?",
+      "chinese": "这就是测试中出现大量错误的原因吧。能否请你们把错误记录得更详细些？"
     },
     {
-      "id": 5,
-      "episode": 3,
       "japanese": "承知しました。SQL文を修正しつつ、ログ出力も強化します。",
-      "romaji": "",
-      "chinese": "明白，我会修正SQL语句，并加强日志输出。",
-      "context": "",
-      "difficulty": ""
+      "romaji": "Shōchi shimashita. SQL bun o shūsei shitsutsu, rogu shutsuryoku mo kyōka shimasu.",
+      "chinese": "明白，我会修正SQL语句，并加强日志输出。"
     },
     {
-      "id": 6,
-      "episode": 3,
       "japanese": "今後、APIごとにSQLバージョンのチェック項目を追加しましょう。佐藤さん、影響範囲を整理してもらえますか？",
-      "romaji": "",
-      "chinese": "今后每个API都要加上SQL版本检查。佐藤，你能整理一下受影响的部分吗？",
-      "context": "",
-      "difficulty": ""
+      "romaji": "Kongo, API goto ni SQL bājon no chekku kōmoku o tsuika shimashou. Satō-san, eikyō han'i o seiri shite moraemasu ka?",
+      "chinese": "今后每个API都要加上SQL版本检查。佐藤，你能整理一下受影响的部分吗？"
     },
     {
-      "id": 7,
-      "episode": 3,
       "japanese": "はい、今日中に全APIの依存SQLを洗い出して一覧化します。",
-      "romaji": "",
-      "chinese": "好的，今天之内我会把所有API依赖的SQL都列出来。",
-      "context": "",
-      "difficulty": ""
+      "romaji": "Hai, kyōjū ni zen API no izon SQL o araidashite ichiranka shimasu.",
+      "chinese": "好的，今天之内我会把所有API依赖的SQL都列出来。"
     },
     {
-      "id": 7,
-      "episode": 3,
       "japanese": "助かります。明日の午後に再度状況を確認する会議を設定しましょう。",
-      "romaji": "",
-      "chinese": "太好了，我们明天下午再开会确认一下情况。",
-      "context": "",
-      "difficulty": ""
+      "romaji": "Tasukarimasu. Ashita no gogo ni saido jōkyō o kakunin suru kaigi o settei shimashou.",
+      "chinese": "太好了，我们明天下午再开会确认一下情况。"
     },
     {
-      "id": 7,
-      "episode": 3,
-      "japanese": "",
-      "romaji": "",
-      "chinese": "",
-      "context": "",
-      "difficulty": ""
+      "japanese": "てさ、今日は新しい会計管理システムの要件について確認したいと思います",
+      "romaji": "Tesa, kyō wa atarashii kaikei kanri shisutemu no yōken ni tsuite kakunin shitai to omoimasu.",
+      "chinese": "好了，今天想确认一下新财务管理系统的需求"
     },
     {
-      "id": 7,
-      "episode": 3,
-      "japanese": "",
-      "romaji": "",
-      "chinese": "",
-      "context": "",
-      "difficulty": ""
-    }
+      "japanese": "よろしくお願いします、まず、予算調整機能についてですが、どういった操作を想定していますか？",
+      "romaji": "Yoroshiku onegaishimasu, mazu, yosan chōsei kinō ni tsuite desu ga, dōitta sōsa o sōtei shiteimasu ka?",
+      "chinese": "好的，首先，关于预算调整功能，您希望实现怎么样的功能呢？"
+    },
+    {
+      "japanese": "現場の担当者が簡単に入力できるUIが必要です、また、部門ごとに細かく分類したいです。",
+      "romaji": "Genba no tantōsha ga kantan ni nyūryoku dekiru UI ga hitsuyō desu, mata, bumon goto ni komakaku bunrui shitai desu.",
+      "chinese": "需要有现场的担当能简单输入的界面，还有，希望按照每个部门进行细致分类"
+    },
+    {
+      "japanese": "部門ごとの分類ですね。現行のシステムではどの程度対応できていますか？",
+      "romaji": "Bumon goto no bunrui desu ne. Genkō no shisutemu dewa dono teido taiō dekiteimasu ka?",
+      "chinese": "部门分类，现有系统在这个方面支持到什么程度？"
+    },
+    {
+      "japanese": "現行システムでは手動で入力する必要があり、ミスが多いです",
+      "romaji": "Genkō shisutemu dewa shudō de nyūryoku suru hitsuyō ga ari, misu ga ōi desu.",
+      "chinese": "现在系统是需要手动输入的，出错率很高"
+    },
+    {
+      "japanese": "では、自動入力のテンプレート機能を追加すると良さようですね。次に、報票生成の要件ですが、どういった出力形式を想定されていますか？",
+      "romaji": "Dewa, jidō nyūryoku no tenpurēto kinō o tsuika suru to yosasō desu ne. Tsugi ni, hōhyō seisei no yōken desu ga, dōitta shutsuryoku keishiki o sōtei sareteimasu ka?",
+      "chinese": "那导入自动输入模版功能应该会更好。接下来，报表生成需求，您想支持哪种输出格式呢"
+    },
+    {
+      "japanese": "PDFとExcel両方が必要です。特に、Excel形式では細かいセル単位の編集ができるようにしたいです。",
+      "romaji": "PDF to Excel ryōhō ga hitsuyō desu. Tokuni, Excel keishiki dewa komakai seru tan'i no henshū ga dekiru yō ni shitai desu.",
+      "chinese": "PDF和Excel两个都需要，特别是excel形式要支持单元格的细致编辑"
+    },
+    {
+      "japanese": "了解しました、それに加えて、データの同期速度も考慮する必要がありそうです。",
+      "romaji": "Ryōkai shimashita, sore ni kuwaete, dēta no dōki sokudo mo kōryo suru hitsuyō ga arisō desu.",
+      "chinese": "明白了，此外，还需要考虑数据同步的速度。"
+    },
+    {
+      "japanese": "その場合、バックエンドでキャッシュ機能を導入して、レスポンスを向上させるのがいいかもしれません",
+      "romaji": "Sono baai, bakkuendo de kyasshu kinō o dōnyū shite, resuponsu o kōjō saseru no ga ii kamoshiremasen.",
+      "chinese": "这种情况下，可以在后台加入缓存功能，提升响应速度。"
+    },
+    {
+      "japanese": "それは助かります。では、この方向で設計を進めていただけますか？",
+      "romaji": "Sore wa tasukarimasu. Dewa, kono hōkō de sekkei o susumete itadakemasu ka?",
+      "chinese": "这样会很有帮助，那么，设计可以朝这个方向推进吗？"
+    },
+    {
+      "japanese": "もちろんです。次回の会議までにプロトタイプを作成し、共有します",
+      "romaji": "Mochiron desu. Jikai no kaigi made ni purototaipu o sakusei shi, kyōyū shimasu.",
+      "chinese": "当然可以，我们会在下次的会议前准备好原型并分享"
+    },
+    {
+      "japanese": "中村さん、このAPIのエンドポイントを変更しましたか？",
+      "romaji": "Nakamura-san, kono API no endopointo o henkou shimashita ka?",
+      "chinese": "中村，你改过这个 API 的端点了吗？"
+    },
+    {
+      "japanese": "はい、昨日の午後に変更しました。新しいエンドポイントはドキュメントに記載されています。",
+      "romaji": "Hai, kinou no gogo ni henkou shimashita. Atarashii endopointo wa dokyumento ni kisai sareteimasu.",
+      "chinese": "是的，昨天下午改过了。新的端点已经写在文档里。"
+    },
+    {
+      "japanese": "ありがとうございます。それと、データの形式は変わりましたか？",
+      "romaji": "Arigatou gozaimasu. Sore to, deeta no keishiki wa kawarimashita ka?",
+      "chinese": "谢谢。另外，数据的格式有变化吗？"
+    },
+    {
+      "japanese": "はい、JSON形式に統一しました。以前のXML形式は廃止しました。",
+      "romaji": "Hai, JSON keishiki ni touitsu shimashita. Izen no XML keishiki wa haishi shimashita.",
+      "chinese": "是的，已经统一为 JSON 格式，之前的 XML 格式废止了。"
+    },
+    {
+      "japanese": "了解しました。それでは、クライアント側の対応を始めます。",
+      "romaji": "Ryoukai shimashita. Soredewa, kuraianto-gawa no taiou o hajimemasu.",
+      "chinese": "明白了，那我这边就开始做客户端的适配。"
+    },
+    {
+    "japanese": "佐藤さん、このプロジェクトの進捗状況はどうですか？",
+    "romaji": "Satō-san, kono purojekuto no shinchoku jōkyō wa dō desu ka?",
+    "chinese": "佐藤，这个项目的进展情况怎么样？"
+  },
+  {
+    "japanese": "全体的に順調ですが、API（エーピーアイ）の部分で少し遅れています。",
+    "romaji": "Zentaiteki ni junchō desu ga, API no bubun de sukoshi okureteimasu.",
+    "chinese": "整体上进展顺利，但在API部分有些延迟。"
+  },
+  {
+    "japanese": "具合的にはどのくらいの遅れですか？",
+    "romaji": "Gutaiteki ni wa dono kurai no okure desu ka?",
+    "chinese": "具体来说，大概延迟了多少？"
+  },
+  {
+    "japanese": "約一週間です。サーバーの設定に問題がありました。",
+    "romaji": "Yaku isshūkan desu. Sābā no settei ni mondai ga arimashita.",
+    "chinese": "大约一周。服务器设置上出了问题。"
+  },
+  {
+    "japanese": "了解しました。必要ならリソースを増やしてサポートします",
+    "romaji": "Ryōkai shimashita. Hitsuyō nara risōsu o fuyashite sapōto shimasu.",
+    "chinese": "了解。如果需要的话会增加资源进行支持。"
+  },
+  {
+    "japanese": "山本さん、この新しいプロジェクトのスケジユールはどうなっていますか？",
+    "romaji": "Yamamoto-san, kono atarashii purojekuto no sukejūru wa dō natteimasu ka?",
+    "chinese": "山本，这个新项目的日程安排是怎样的？"
+  },
+  {
+    "japanese": "来週の月曜日から始まります。初日はキックオフミーティングがあります。",
+    "romaji": "Raishū no getsuyōbi kara hajimarimasu. Shonichi wa kikkuofu mītingu ga arimasu.",
+    "chinese": "将从下周一开始。第一天会有启动会议。"
+  },
+  {
+    "japanese": "そのミーティングには何を準備すればいいですか？",
+    "romaji": "Sono mītingu ni wa nani o junbi sureba ii desu ka?",
+    "chinese": "那次会议需要准备什么？"
+  },
+  {
+    "japanese": "各自の役割分担と初期設定について話し合いますので、その準備をお願いします。",
+    "romaji": "Kakuji no yakuwari buntan to shoki settei ni tsuite hanashiaimasu node, sono junbi o onegaishimasu.",
+    "chinese": "会讨论各自的分工和初始设置，请做好相关准备。"
+  },
+  {
+    "japanese": "了解しました、事前に資料を共有していただけますか？",
+    "romaji": "Ryōkai shimashita, jizen ni shiryō o kyōyū shite itadakemasu ka?",
+    "chinese": "了解，可以提前共享资料吗？"
+  },
+  {
+    "japanese": "はい、後で全員に送ります。",
+    "romaji": "Hai, ato de zen'in ni okurimasu.",
+    "chinese": "好的，稍后会发给所有人。"
+  },
+  {
+    "japanese": "山田さん、この新しいプロジェクトの進捗はどうですか？",
+    "romaji": "Yamada-san, kono atarashii purojekuto no shinchoku wa dō desu ka?",
+    "chinese": "山田，这个新项目的进展如何？"
+  },
+  {
+    "japanese": "今のところ順調です。バックエンドの部分はほぼ完了しました",
+    "romaji": "Ima no tokoro junchō desu. Bakkuendo no bubun wa hobo kanryō shimashita.",
+    "chinese": "目前进展顺利。后端部分几乎完成了。"
+  },
+  {
+    "japanese": "フロントエンドはどうですか？",
+    "romaji": "Furontoendo wa dō desu ka?",
+    "chinese": "前端呢？"
+  },
+  {
+    "japanese": "フロントエンドも進行中ですが、いくつかの機能にまだバグがあります",
+    "romaji": "Furontoendo mo shinkōchū desu ga, ikutsuka no kinō ni mada bagu ga arimasu.",
+    "chinese": "前端也在进行中，但有些功能还有bug。"
+  },
+  {
+    "japanese": "どの機能に問題がありますか？",
+    "romaji": "Dono kinō ni mondai ga arimasu ka?",
+    "chinese": "哪些功能有问题？"
+  },
+  {
+    "japanese": "ユーザープロフィールの更新機能です。今修正を進めています。",
+    "romaji": "Yūzā purofīru no kōshin kinō desu. Ima shūsei o susumeteimasu.",
+    "chinese": "是用户资料更新功能。目前正在修复。"
+  },
+    {
+    "japanese": "山本さん、この新しいAPIのドキュメントはどこにありますか？",
+    "romaji": "Yamamoto-san, kono atarashii API no dokyumento wa doko ni arimasu ka?",
+    "chinese": "山本先生，这个新的API文档在哪里？"
+  },
+  {
+    "japanese": "社内WIKIにアップロードしてあります。リンクを送りますね。",
+    "romaji": "Shanai WIKI ni appurōdo shite arimasu. Rinku o okurimasu ne.",
+    "chinese": "已经上传到公司内部的WIKI了。我把链接发给你。"
+  },
+  {
+    "japanese": "ありがとうございます。もう一つ質問ですが、APIキーの発行方法について教えていただけませんか？",
+    "romaji": "Arigatou gozaimasu. Mou hitotsu shitsumon desu ga, API kii no hakkou houhou ni tsuite oshiete itadakemasen ka?",
+    "chinese": "非常感谢。我还有一个问题，可以请您告诉我API密钥的发放方法吗？"
+  },
+  {
+    "japanese": "もちろんです。API管理画面からキーを生成することができます。手順をメールで送ります。",
+    "romaji": "Mochiron desu. API kanri gamen kara kii o seisei suru koto ga dekimasu. Tetsujun o mēru de okurimasu.",
+    "chinese": "当然。可以从API管理页面生成密钥。我会把步骤通过邮件发给你。"
+  },
+  {
+    "japanese": "助かります。すぐに確認します。",
+    "romaji": "Tasukarimasu. Sugu ni kakunin shimasu.",
+    "chinese": "太好了。我马上确认一下。"
+  },
+  {
+    "japanese": "佐藤さん、このAPIの仕様書を確認していただきますか？",
+    "romaji": "Satou-san, kono API no shiyousho o kakunin shite itadakemasu ka?",
+    "chinese": "佐藤先生，可以请您确认一下这个API的规格说明书吗？"
+  },
+  {
+    "japanese": "はい、山本さん。どの部分を重点的に見れば良いですか？",
+    "romaji": "Hai, Yamamoto-san. Dono bubun o juutenteki ni mireba ii desu ka?",
+    "chinese": "好的，山本先生。需要重点看哪一部分？"
+  },
+  {
+    "japanese": "認証部分に重点を置いていただけると助かります。",
+    "romaji": "Ninshou bubun ni juuten o oite itadakeru to tasukarimasu.",
+    "chinese": "如果能重点关注认证部分就太好了。"
+  },
+  {
+    "japanese": "了解です。APIキーの管理方法についても確認しますね。",
+    "romaji": "Ryoukai desu. API kii no kanri houhou ni tsuite mo kakunin shimasu ne.",
+    "chinese": "明白了。我也会确认一下API密钥的管理方法。"
+  },
+  {
+    "japanese": "ありがとうございます。それでは、午後にはフィードバックをいただけますか？",
+    "romaji": "Arigatou gozaimasu. Soredewa, gogo ni wa fiidobakku o itadakemasu ka?",
+    "chinese": "谢谢。那么，下午能收到您的反馈吗？"
+  },
+  {
+    "japanese": "もちろん、午後にフィードバックをお届けします。",
+    "romaji": "Mochiron, gogo ni fiidobakku o otodoke shimasu.",
+    "chinese": "当然，下午我会把反馈给你。"
+  },
+  {
+    "japanese": "中村さん、このコードレビューの結果はどうでしたか？",
+    "romaji": "Nakamura-san, kono kōdo rebyū no kekka wa dou deshita ka?",
+    "chinese": "中村先生，这次代码审查的结果怎么样？"
+  },
+  {
+    "japanese": "全体的には良かったですが、いくつかのバグが見つかりました。",
+    "romaji": "Zentaiteki ni wa yokatta desu ga, ikutsuka no bagu ga mitsukarimashita.",
+    "chinese": "整体来说还不错，但发现了一些bug。"
+  },
+  {
+    "japanese": "具体的にはどの部分ですか？",
+    "romaji": "Gutaiteki ni wa dono bubun desu ka?",
+    "chinese": "具体是哪个部分呢？"
+  },
+  {
+    "japanese": "データベース接続の部分です。特にクエリの最適化が必要です。",
+    "romaji": "Dētabēsu setsuzoku no bubun desu. Toku ni kueri no saiteki-ka ga hitsuyou desu.",
+    "chinese": "是数据库连接部分。特别是查询需要优化。"
+  },
+  {
+    "japanese": "ありがとうございました。すぐに修正します",
+    "romaji": "Arigatou gozaimashita. Sugu ni shūsei shimasu.",
+    "chinese": "非常感谢。我会马上修改。"
+  },
+  {
+    "japanese": "田中さん、このレポートの締切はいつでしたっけ？",
+    "romaji": "Tanaka-san, kono repōto no shimekiri wa itsu deshita kke?",
+    "chinese": "田中先生，这份报告的截止日期是什么时候？"
+  },
+  {
+    "japanese": "今週の金曜日です。何か手伝いましょうか？",
+    "romaji": "Konshū no kinyōbi desu. Nanika tetsudaimashou ka?",
+    "chinese": "是本周五。需要我帮忙吗？"
+  },
+  {
+    "japanese": "はい、もしお時間があれば、データ分析の部分を見ていただけないでしょうか？",
+    "romaji": "Hai, moshi ojikan ga areba, dēta bunseki no bubun o mite itadakenai deshou ka?",
+    "chinese": "好的，如果您有时间的话，可以帮我看一下数据分析的部分吗？"
+  },
+  {
+    "japanese": "もちろん、それなら大丈夫です。資料はどこにありますか？",
+    "romaji": "Mochiron, sore nara daijōbu desu. Shiryō wa doko ni arimasu ka?",
+    "chinese": "当然，这个没问题。资料在哪里？"
+  },
+  {
+    "japanese": "すべての資料は共有ドライブにアップロードしてあります。アクセスできますか？",
+    "romaji": "Subete no shiryō wa kyōyū doraibu ni appurōdo shite arimasu. Akusesu dekimasu ka?",
+    "chinese": "所有资料都已经上传到共享盘了。你能访问吗？"
+  },
+  {
+    "japanese": "木村さん、このシステムのバグを見つけました。どのように修正すればいいですか？",
+    "romaji": "Kimura-san, kono shisutemu no bagu o mitsukemashita. Doyou ni shūsei sureba ii desu ka?",
+    "chinese": "木村先生，我发现了这个系统的bug。应该怎么修复？"
+  },
+  {
+    "japanese": "どの部分にバグがありますか？",
+    "romaji": "Dono bubun ni bagu ga arimasu ka?",
+    "chinese": "bug出现在什么部分？"
+  },
+  {
+    "japanese": "ユーザーログイン機能です。特にセッション管理のところです。",
+    "romaji": "Yūzā roguin kinō desu. Toku ni sesshon kanri no tokoro desu.",
+    "chinese": "是在用户登录功能里，特别是会话管理部分。"
+  },
+  {
+    "japanese": "了解です。コードを見せてください",
+    "romaji": "Ryoukai desu. Kōdo o misete kudasai.",
+    "chinese": "明白了。请把代码给我看看。"
+  },
+  {
+    "japanese": "こちらです。修正案も考えてみました。",
+    "romaji": "Kochira desu. Shūseian mo kangaete mimashita.",
+    "chinese": "在这里。我还想了一些修改方案。"
+  },
+  {
+    "japanese": "一緒に確認しましょう",
+    "romaji": "Issho ni kakunin shimashou.",
+    "chinese": "我们一起确认一下吧。"
+  },
+  {
+    "japanese": "皆さん、この新しいUIデザインをご覧ください。どう思いますか？",
+    "romaji": "Minasan, kono atarashii UI dezain o goran kudasai. Dou omoimasu ka?",
+    "chinese": "各位，请看看这个新的UI设计。你们觉得怎么样？"
+  },
+  {
+    "japanese": "デザインはクリーンで使いやすそうですが、ユーザビリティテストはもう行いましたか？",
+    "romaji": "Dezain wa kurīn de tsukaiyasusou desu ga, yūzabiriti tesuto wa mou okonaimashita ka?",
+    "chinese": "设计看起来简洁又好用，不过做过可用性测试了吗？"
+  },
+  {
+    "japanese": "いいえ、まだです。テスト計画を立てる必要があります。",
+    "romaji": "Iie, mada desu. Tesuto keikaku o tateru hitsuyou ga arimasu.",
+    "chinese": "没有，还没有。需要制定测试计划。"
+  },
+  {
+    "japanese": "ボタンの配置をもう少し直感的にするといいかもしれませんね。",
+    "romaji": "Botan no haichi o mou sukoshi chokkan-teki ni suru to ii kamoshiremasen ne.",
+    "chinese": "按钮的布局如果再直观一些可能会更好。"
+  },
+  {
+    "japanese": "それに、レスポンシブデザインの確認も必要です。",
+    "romaji": "Sore ni, resuponsibu dezain no kakunin mo hitsuyou desu.",
+    "chinese": "另外，还需要确认一下响应式设计。"
+  },
+  {
+    "japanese": "ありがとうございます。皆さんの意見を参考に修正します。",
+    "romaji": "Arigatou gozaimasu. Minasan no意見 o参考 ni shūsei shimasu.",
+    "chinese": "谢谢。我会参考大家的意见进行修改。"
+  },
+  {
+    "japanese": "データベースのパフォーマンスに少し問題があります。",
+    "romaji": "Dētabēsu no pafōmansu ni sukoshi mondai ga arimasu.",
+    "chinese": "数据库的性能有点问题。"
+  },
+  {
+    "japanese": "そうですか。パフォーマンスの問題は具体的にどのような状況ですか？",
+    "romaji": "Sou desu ka. Pafōmansu no mondai wa gutaiteki ni dono youna jōkyou desu ka?",
+    "chinese": "是吗？性能问题具体表现在哪些情况？"
+  },
+  {
+    "japanese": "クエリの処理速度が遅くなっているようです。",
+    "romaji": "Kueri no shori sokudo ga osoku natte iru you desu.",
+    "chinese": "查询的处理速度变慢了。"
+  },
+  {
+    "japanese": "調査して改善しましょう",
+    "romaji": "Chōsa shite kaizen shimashou.",
+    "chinese": "我们调查一下并改善吧。"
+  },
+  {
+    "japanese": "鈴木さん、ちょっとお時間よろしいでしょうか？",
+    "romaji": "Suzuki-san, chotto ojikan yoroshii deshou ka?",
+    "chinese": "铃木先生，可以占用您一点时间吗？"
+  },
+  {
+    "japanese": "はい、どうしましたか？",
+    "romaji": "Hai, dou shimashita ka?",
+    "chinese": "好的，怎么了？"
+  },
+  {
+    "japanese": "すみません、今の作業中にお邪魔して、プロジェクトの進捗について少しお話したいのですが。",
+    "romaji": "Sumimasen, ima no sagyōchū ni ojama shite, purojekuto no shinchoku ni tsuite sukoshi ohanashi shitai no desu ga.",
+    "chinese": "不好意思，打扰您一下，我想聊一下项目的进度情况。"
+  },
+  {
+    "japanese": "大丈夫です、何か問題でもありますか？",
+    "romaji": "Daijoubu desu, nanika mondai demo arimasu ka?",
+    "chinese": "没关系，有什么问题吗？"
+  },
+  {
+    "japanese": "実は、クライアントから追加の要望がありまして、確認が必要です。",
+    "romaji": "Jitsu wa, kuraianto kara tsuika no youbou ga arimashite, kakunin ga hitsuyou desu.",
+    "chinese": "其实，客户提出了一些额外的需求，需要确认一下。"
+  },
+  {
+    "japanese": "渡辺さん、自己紹介をお願いしますか？",
+    "romaji": "Watanabe-san, jikoshoukai o onegaishimasu ka?",
+    "chinese": "渡边先生，可以请您做一下自我介绍吗？"
+  },
+  {
+    "japanese": "はい、私はweb開発を中心に、特にフロントエンドの分野で５年以上の経験があります。",
+    "romaji": "Hai, watashi wa web kaihatsu o chūshin ni, toku ni furonto endo no bun'ya de go-nen ijou no keiken ga arimasu.",
+    "chinese": "好的，我主要从事Web开发，尤其是前端领域有五年以上的经验。"
+  },
+  {
+    "japanese": "具体的には、どのような技術スタックを使用していますか？",
+    "romaji": "Gutaiteki ni wa, dono youna gijutsu sutakku o shiyou shiteimasu ka?",
+    "chinese": "具体来说，您使用过哪些技术栈？"
+  },
+  {
+    "japanese": "主にReactやVueを使用しており、TypeScriptにも習熟しています。",
+    "romaji": "Omo ni React ya Vue o shiyou shite ori, TypeScript ni mo shūjuku shiteimasu.",
+    "chinese": "主要使用React和Vue，也熟悉TypeScript。"
+  },
+  {
+    "japanese": "それは素晴らしいですね。我々プロジェクトでもその技術を活用していますが、最近はクラウド環境に対応するスキルが求められていますが、その点についてはいかがでしょうか？",
+    "romaji": "Sore wa subarashii desu ne. Wareware purojekuto demo sono gijutsu o katsuyou shiteimasu ga, saikin wa kuraudo kankyō ni taiou suru sukiru ga motomerareteimasu ga, sono ten ni tsuite wa ikaga deshou ka?",
+    "chinese": "那真是太棒了。我们项目中也在使用这些技术，不过最近也需要能够适应云环境的技能，您在这方面怎么样呢？"
+  },
+  {
+    "japanese": "AWSの基本的なサービスを扱った経験があり、インフラとしての利用も多少あります。",
+    "romaji": "AWS no kihonteki na sābisu o atsukatta keiken ga ari, infura to shite no riyou mo tashou arimasu.",
+    "chinese": "我有使用AWS基本服务的经验，也有一些作为基础设施的应用经验。"
+  }
   ]
 }
